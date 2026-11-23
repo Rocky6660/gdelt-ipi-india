@@ -214,3 +214,26 @@ timestamp,name,query,mode,status,note
 2026-11-23T23:43:17+00:00,prec_milk_202105,"(""milk price"" OR ""milk prices"") sourcecountry:india",artlist,429,try 4
 2026-11-23T23:44:28+00:00,prec_milk_202105,"(""milk price"" OR ""milk prices"") sourcecountry:india",artlist,429,try 5
 2026-11-23T23:45:56+00:00,prec_milk_202105,"(""milk price"" OR ""milk prices"") sourcecountry:india",artlist,429,try 6
+2026-11-23T23:47:42+00:00,prec_milk_202105,"(""milk price"" OR ""milk prices"") sourcecountry:india",artlist,200,try 7
+2026-11-23T23:47:53+00:00,prec_milk_202108,"(""milk price"" OR ""milk prices"") sourcecountry:india",artlist,429,try 1
+2026-11-23T23:48:25+00:00,prec_milk_202108,"(""milk price"" OR ""milk prices"") sourcecountry:india",artlist,200,try 2
+2026-11-23T23:48:38+00:00,prec_milk_202506,"(""milk price"" OR ""milk prices"") sourcecountry:india",artlist,429,try 1
+2026-11-23T23:49:08+00:00,prec_milk_202506,"(""milk price"" OR ""milk prices"") sourcecountry:india",artlist,200,try 2
+2026-11-23T23:49:23+00:00,prec_pulses_201705,"(""dal price"" OR ""dal prices"" OR ""pulses price"" OR ""pulses prices"" OR ""tur dal"") sourcecountry:india",artlist,200,try 1
+2026-11-23T23:49:35+00:00,prec_pulses_201810,"(""dal price"" OR ""dal prices"" OR ""pulses price"" OR ""pulses prices"" OR ""tur dal"") sourcecountry:india",artlist,429,try 1
+2026-11-23T23:50:02+00:00,prec_pulses_201810,"(""dal price"" OR ""dal prices"" OR ""pulses price"" OR ""pulses prices"" OR ""tur dal"") sourcecountry:india",artlist,429,try 2
+2026-11-23T23:50:44+00:00,prec_pulses_201810,"(""dal price"" OR ""dal prices"" OR ""pulses price"" OR ""pulses prices"" OR ""tur dal"") sourcecountry:india",artlist,429,try 3
+2026-11-23T23:51:51+00:00,prec_pulses_201810,"(""dal price"" OR ""dal prices"" OR ""pulses price"" OR ""pulses prices"" OR ""tur dal"") sourcecountry:india",artlist,200,try 4
+2026-11-23T23:52:05+00:00,prec_pulses_202301,"(""dal price"" OR ""dal prices"" OR ""pulses price"" OR ""pulses prices"" OR ""tur dal"") sourcecountry:india",artlist,200,try 1
+2026-11-23T23:52:17+00:00,prec_pulses_202512,"(""dal price"" OR ""dal prices"" OR ""pulses price"" OR ""pulses prices"" OR ""tur dal"") sourcecountry:india",artlist,429,try 1
+2026-11-23T23:52:44+00:00,prec_pulses_202512,"(""dal price"" OR ""dal prices"" OR ""pulses price"" OR ""pulses prices"" OR ""tur dal"") sourcecountry:india",artlist,429,try 2
+2026-11-23T23:53:33+00:00,prec_pulses_202512,"(""dal price"" OR ""dal prices"" OR ""pulses price"" OR ""pulses prices"" OR ""tur dal"") sourcecountry:india",artlist,200,try 3
+2026-11-23T23:53:45+00:00,prec_wheat_atta_201903,"(""wheat price"" OR ""wheat prices"" OR ""atta price"" OR ""flour price"") sourcecountry:india",artlist,429,try 1
+2026-11-23T23:54:16+00:00,prec_wheat_atta_201903,"(""wheat price"" OR ""wheat prices"" OR ""atta price"" OR ""flour price"") sourcecountry:india",artlist,200,try 2
+2026-11-23T23:54:57+00:00,prec_wheat_atta_202204,"(""wheat price"" OR ""wheat prices"" OR ""atta price"" OR ""flour price"") sourcecountry:india",artlist,200,try 1
+2026-11-23T23:55:08+00:00,prec_wheat_atta_202206,"(""wheat price"" OR ""wheat prices"" OR ""atta price"" OR ""flour price"") sourcecountry:india",artlist,429,try 1
+2026-11-23T23:55:39+00:00,prec_wheat_atta_202206,"(""wheat price"" OR ""wheat prices"" OR ""atta price"" OR ""flour price"") sourcecountry:india",artlist,200,try 2
+2026-11-23T23:55:52+00:00,prec_wheat_atta_202210,"(""wheat price"" OR ""wheat prices"" OR ""atta price"" OR ""flour price"") sourcecountry:india",artlist,429,try 1
+2026-11-23T23:56:18+00:00,prec_wheat_atta_202210,"(""wheat price"" OR ""wheat prices"" OR ""atta price"" OR ""flour price"") sourcecountry:india",artlist,429,try 2
+2026-11-23T23:56:59+00:00,prec_wheat_atta_202210,"(""wheat price"" OR ""wheat prices"" OR ""atta price"" OR ""flour price"") sourcecountry:india",artlist,429,try 3
+2026-11-23T23:58:00+00:00,prec_wheat_atta_202210,"(""wheat price"" OR ""wheat prices"" OR ""atta price"" OR ""flour price"") sourcecountry:india",artlist,200,try 4
