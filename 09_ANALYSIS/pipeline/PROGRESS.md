@@ -198,3 +198,17 @@
 
 ## 2026-11-23 15:53 UTC: Sonnet review adopted
 - 10_OUTPUTS/paper/review_sonnet_2026-11-23.md + TODO_REMAINING.md (B, C) will be applied in one paper rewrite after the D9/D17 switch (numbers depend on the final flag). Extra outputs needed then: index-vs-expectations figure, descriptive table, coefficient plot, Trends horse race in D19 spec, robustness rows with CIs, D22 vs AR1, sample flow.
+
+## 2026-11-23 16:16 UTC: A-section progress
+- Coding (large batches, short excerpts): A 923, B 840, slug 76; fetch 1098/1250 tried.
+- New scripts/analysis/paper_outputs.py (Sonnet review items: descriptives, sample flow, Trends horse race, magnitude, index-vs-expectations figure, coefficient plot). Baseline check: index alone 0.328 [0.015,0.641]; with Trends 0.396 [0.006,0.786] p_wild 0.072; Trends alone 0.104 [-0.073,0.280]. 1 SD of index = 0.52 pp article share. Final run after the switch.
+- Trends pull 2 scheduled after local midnight (D7 needs different days; pull 1 = 20261123).
+
+## 2026-11-23 16:33 UTC: Section A done (audit, Gate 2, D9/D17 switch, Phase 1 rerun)
+- Fetch finished: 1113/1250 retrieved (89.0%; 417 via Wayback); per stratum in outputs/audit/retrieval_by_stratum.csv (85-95%). 137 failures coded from URL slug (D16; separate, no gate).
+- Coding: pass A 1113 (all strata); pass B 1026 (all fetched gating strata). Large batches with short excerpts (200-300 chars) from 16:00 UTC to save tokens; noted as a limitation.
+- Gate 2 (outputs/audit/gate_report.md, --no-human): A-B relevance kappa 1.000 (n=1026; reliability only, same model); direction 0.967, cause 0.938. D15 FAIL: precision 0.164 [0.128,0.201], gating recall 0.302 [0.202,0.469]. Best F2 = flag_price_family (0.288 vs baseline 0.258). D25 FAIL (0.331). D29 FAIL (vern recall 0.881 vs eng 0.332).
+- D9/D17 switch (results/d9_switch.json): flag -> price_family; D17 fails for price_family and strict (1 of 4 episodes; Trends r passes) -> "audited, not externally validated"; H1/H5 exploratory. No tuning.
+- Phase 1 rerun with variant_price_family -> results_switched/: primary 0.251 [0.068,0.434], p_wild 0.058, N=56; D22 vs AR1+CPI+food RMSE ratio 0.996, CW p 0.100; vs AR1 1.124, CW p 0.036.
+- paper_outputs.py run on the switched flag (descriptives, sample flow 63->56, Trends horse race, figures). Extensions E2-E5 stay on the baseline flag (descriptive; stated in the paper).
+- Trends pull 2 pending (different calendar day needed). GB billed: 0.

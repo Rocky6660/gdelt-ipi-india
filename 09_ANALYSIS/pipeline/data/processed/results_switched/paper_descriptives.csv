@@ -1,0 +1,9 @@
+,count,mean,std,min,max
+"news index, window article share (%)",56.0,2.225,0.687,0.961,4.916
+"1-yr ahead expectation, median (%)",56.0,9.753,1.054,7.9,12.658
+"1-yr ahead expectation, mean (%)",56.0,9.701,0.846,8.116,11.6
+"current perceived inflation, median (%)",56.0,8.209,1.222,6.3,10.379
+real-time CPI y/y (%),56.0,4.753,1.642,0.712,7.593
+real-time food CPI y/y (%),56.0,4.664,3.982,-3.908,13.63
+change in repo rate (pp),56.0,-0.013,0.239,-0.75,0.9
+telephone survey (share),56.0,0.107,0.312,0.0,1.0

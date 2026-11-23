@@ -1,0 +1,42 @@
+{
+ "final_flag": "flag_price_family",
+ "window_column": "variant_price_family",
+ "monthly_column": "ipi_monthly_variant_price_family",
+ "flag_changed": true,
+ "label": "audited, not externally validated",
+ "h1_h5_status": "exploratory (D9: every variant failed D17)",
+ "trail": [
+  {
+   "step": "D15",
+   "status": "FAIL",
+   "precision": 0.16375367063530452,
+   "gating_recall": 0.3018893416436175,
+   "best_f2_variant": "flag_price_family",
+   "f2_by_variant": {
+    "flag_baseline": 0.25830954082323365,
+    "flag_price_family": 0.28797488948195465,
+    "flag_wb442": 0.24985509440410053,
+    "flag_strict": 0.24985509440410053
+   },
+   "action": "switch to best-F2 variant: flag_price_family"
+  },
+  {
+   "step": "D17",
+   "flag": "flag_price_family",
+   "series": "ipi_monthly_variant_price_family",
+   "trends_pass": true,
+   "episodes_peaking": 1,
+   "d17_pass": false,
+   "trends_provisional": true
+  },
+  {
+   "step": "D17",
+   "flag": "flag_strict",
+   "series": "ipi_monthly_variant_strict",
+   "trends_pass": true,
+   "episodes_peaking": 1,
+   "d17_pass": false,
+   "trends_provisional": true
+  }
+ ]
+}

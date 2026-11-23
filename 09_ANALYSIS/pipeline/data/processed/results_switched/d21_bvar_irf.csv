@@ -1,0 +1,15 @@
+h,resp_y1_to_ipi_shock,order,T
+0,0.08602861971155525,dln_brent>cpi_rt>ipi_primary>y1_median>repo,58
+1,0.03165566182757076,dln_brent>cpi_rt>ipi_primary>y1_median>repo,58
+2,0.05721862091691042,dln_brent>cpi_rt>ipi_primary>y1_median>repo,58
+3,0.043433098710768225,dln_brent>cpi_rt>ipi_primary>y1_median>repo,58
+4,0.011650383203033639,dln_brent>cpi_rt>ipi_primary>y1_median>repo,58
+5,-0.024341473454166568,dln_brent>cpi_rt>ipi_primary>y1_median>repo,58
+6,-0.05823841391457382,dln_brent>cpi_rt>ipi_primary>y1_median>repo,58
+0,0.0,dln_brent>cpi_rt>y1_median>ipi_primary>repo,58
+1,-0.025012980275836653,dln_brent>cpi_rt>y1_median>ipi_primary>repo,58
+2,0.020939026602719304,dln_brent>cpi_rt>y1_median>ipi_primary>repo,58
+3,0.020312916449914235,dln_brent>cpi_rt>y1_median>ipi_primary>repo,58
+4,-0.002614180968065535,dln_brent>cpi_rt>y1_median>ipi_primary>repo,58
+5,-0.03232838182950096,dln_brent>cpi_rt>y1_median>ipi_primary>repo,58
+6,-0.061614947433162266,dln_brent>cpi_rt>y1_median>ipi_primary>repo,58

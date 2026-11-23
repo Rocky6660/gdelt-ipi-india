@@ -1,0 +1,10 @@
+stratum,sampled,retrieved,via_wayback,rate
+econ_unflagged,300,266,133,0.887
+flagged,300,256,104,0.853
+hin_econ_unflagged,100,90,31,0.9
+hin_flagged,100,91,23,0.91
+nonecon_noslug,100,87,36,0.87
+nonecon_slug,150,142,57,0.947
+oth_econ_unflagged,100,90,19,0.9
+oth_flagged,100,91,14,0.91
+total,1250,1113,417,0.89
