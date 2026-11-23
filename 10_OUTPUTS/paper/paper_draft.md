@@ -156,8 +156,13 @@ None of the Indian papers uses vernacular press, GDELT, or the IESH as the depen
 - **E2 English vs vernacular:** monthly correlation 0.91, peaking at lag 0. In the D19 specification each version
   alone is about 0.26; the vernacular index controlling for English is 0.21 [−0.05, 0.46]. The national comparison has
   almost no power. [Recall gate PENDING]
-- **E1 city panel:** descriptive only. The edition-path table (D40) and the pre-outcome gates (D42) were not
-  completed in the time available, so no city-level inference is reported. [PENDING: descriptive exposure table]
+- **E1 city panel:** descriptive only. Local articles are assigned to 19 IESH cities by the outlet edition-path
+  rule (D40).
+  - **Gate D42(a) fails in every year.** The median number of flagged local articles per fieldwork window is 0–8.
+  - **Thresholds:** 10 of 209 city-years meet the descriptive threshold (Mumbai, Delhi, Chandigarh); none meet the
+    inferential one.
+  - **Flagged shares** of local articles are 0.1–0.9%.
+  - **No city-level estimate is reported.** [results/e1_summary.md, e1_exposure_table.csv]
 
 ## 8. Limitations
 - No human validation of the audit coding.

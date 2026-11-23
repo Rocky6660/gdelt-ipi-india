@@ -174,3 +174,27 @@
 - New scripts/analysis/d9_switch.py: D15 best-F2 rule, then D17 on the current flag, then best-F2, then strict; first D17 pass wins; else "audited, not externally validated" with H1/H5 exploratory. Writes results/d9_switch.json.
 - phase1.py: --ipi-col / --monthly-col / --out options. Check run with defaults into results_check/: d19_national_lp.csv identical to the original (True).
 - gh CLI present but not logged in; user asked to run `gh auth login`.
+
+## 2026-11-23 15:07 UTC: git + private GitHub repo
+- .gitignore at project root: excludes credentials patterns, all data/raw (article texts, raw API pages), bq_out and index cache, all *.parquet, console logs and bq_runner.log (they print the signed-in account), logs/dispatch, caches. Scan found no credential files; no committed file > 50 MB (largest 26 MB, cpi2012_state.csv).
+- Initial commit 4259fb2; private repo https://github.com/Rocky6660/gdelt-ipi-india created with gh and pushed (branch main).
+- Note: HANDOFF_FOR_CLAUDE_CODE.md (user's own file) contains the BigQuery account email; left as is in the private repo.
+
+## 2026-11-23 15:15 UTC: audit coding status, slug fallback, interim metrics (not a decision)
+- Coding: A 485, B 488 (both caught up with fetched texts, 495). Fetch: 539/750 general-gating tried; vernacular
+  block (400) and nonecon_noslug (100) not yet reached; ~140 articles/hour, so ~5 h to finish.
+- D16 slug fallback added to session_batch.py (coder S; articles whose live AND Wayback attempts all failed;
+  URL only; llm_codes_slug_A.csv, coding_basis=slug, one pass, reported separately, never in a gate). 60 coded.
+- Interim audit_metrics (outputs/audit_interim/, bootstrap 300; English ECON frame only, because the vernacular
+  cells have no coded articles yet, so every gating-frame estimate is NOT_EVALUABLE): A–B relevance kappa 1.000
+  (n=485); direction 0.92, cause 0.89 (n=45). English ECON-frame precision of the baseline flag 0.13
+  [0.09, 0.18], recall 0.40; price_family F2 0.34 vs baseline 0.28. Interim only, no switch decision taken.
+- E1 descriptive exposure table written (results/e1_summary.md, e1_exposure_table.csv); paper §7.2 updated.
+- Git: committed and pushed earlier (private repo); further commits at the end.
+- GB billed this step: 0.
+
+## 2026-11-23 15:44 UTC: token-saving mode (user instruction)
+- Small-batch coding paused to cut token use. Fetch keeps running unattended. Coding resumes only after the fetch finishes, in a few large batches with short excerpts. Status: A 613, B 610, slug 76 coded.
+
+## 2026-11-23 15:53 UTC: Sonnet review adopted
+- 10_OUTPUTS/paper/review_sonnet_2026-11-23.md + TODO_REMAINING.md (B, C) will be applied in one paper rewrite after the D9/D17 switch (numbers depend on the final flag). Extra outputs needed then: index-vs-expectations figure, descriptive table, coefficient plot, Trends horse race in D19 spec, robustness rows with CIs, D22 vs AR1, sample flow.

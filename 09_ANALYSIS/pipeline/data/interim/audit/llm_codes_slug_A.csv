@@ -1,0 +1,77 @@
+audit_id,coder,model,coding_basis,codebook_sha256,relevance,direction,cause_primary,cause_secondary,uncertain,rationale,parse_error,api_error,text_truncated,timestamp_utc
+A0533,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:15:16+00:00
+A0895,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:15:16+00:00
+A0163,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:15:16+00:00
+A0941,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:15:16+00:00
+A0696,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,Y,rising,other_none,,1,slug: tag 'inflation relief for employees',,,0,2026-11-23T15:15:16+00:00
+A0175,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:15:16+00:00
+A0357,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:15:16+00:00
+A1139,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:15:16+00:00
+A0019,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:15:16+00:00
+A1023,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:15:16+00:00
+A1036,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,1,"slug: global inflation outlook, foreign",,,0,2026-11-23T15:15:16+00:00
+A0025,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:15:16+00:00
+A0639,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:15:16+00:00
+A1212,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:15:16+00:00
+A0728,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:15:16+00:00
+A0931,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:15:16+00:00
+A0535,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:15:16+00:00
+A0220,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:15:16+00:00
+A0578,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:15:16+00:00
+A0560,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:15:16+00:00
+A1216,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:15:16+00:00
+A0116,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:15:16+00:00
+A0838,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:15:16+00:00
+A0143,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:15:16+00:00
+A0843,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:15:16+00:00
+A0059,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,Y,falling,other_none,,1,slug: retail inflation to stay well within RBI target,,,0,2026-11-23T15:15:16+00:00
+A0967,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:15:16+00:00
+A0452,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:15:16+00:00
+A1141,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,1,slug: global oil market,,,0,2026-11-23T15:15:16+00:00
+A0161,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:15:16+00:00
+A1203,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:15:16+00:00
+A0739,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,1,"slug numeric only, uninformative",,,0,2026-11-23T15:15:16+00:00
+A0961,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:15:16+00:00
+A1008,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:15:16+00:00
+A0574,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:15:16+00:00
+A0446,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,1,slug (Telugu): horoscope,,,0,2026-11-23T15:15:16+00:00
+A0888,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:15:16+00:00
+A0862,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:15:16+00:00
+A0858,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:15:16+00:00
+A0953,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:15:16+00:00
+A1213,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:15:16+00:00
+A0673,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,1,slug (Telugu) unclear,,,0,2026-11-23T15:15:16+00:00
+A0064,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:15:16+00:00
+A1086,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:15:16+00:00
+A0219,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:15:16+00:00
+A0834,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:15:16+00:00
+A0323,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:15:16+00:00
+A1116,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:15:16+00:00
+A0285,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:15:16+00:00
+A0572,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,Y,rising,domestic_food_supply,,1,"slug: higher wholesale prices, reservoir levels help farmers",,,0,2026-11-23T15:15:16+00:00
+A0290,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:15:16+00:00
+A0009,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:15:16+00:00
+A0620,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:15:16+00:00
+A0383,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:15:16+00:00
+A0293,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:15:16+00:00
+A0147,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:15:16+00:00
+A0061,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:15:16+00:00
+A0039,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,1,"slug: Saudi deflation, foreign",,,0,2026-11-23T15:15:16+00:00
+A0418,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:15:16+00:00
+A1024,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:15:16+00:00
+A0457,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:30:07+00:00
+A0820,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:30:07+00:00
+A0872,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:30:07+00:00
+A0734,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:30:07+00:00
+A0911,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:30:07+00:00
+A0075,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:30:07+00:00
+A0249,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:30:07+00:00
+A1147,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:30:07+00:00
+A0265,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:30:07+00:00
+A1051,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:30:07+00:00
+A0098,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:30:07+00:00
+A0630,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:30:07+00:00
+A0701,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:30:07+00:00
+A0672,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,0,slug: unrelated topic,,,0,2026-11-23T15:30:07+00:00
+A0825,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,Y,mixed,domestic_food_supply,,1,slug: wholesale inflation cools even as food prices heat up,,,0,2026-11-23T15:30:07+00:00
+A0305,A,"claude-opus-5-5 (in-session, Claude Code)",slug,ce3f7deb479e5692a8eb1533c4f54b0d21ea021e99566fca28bc071d82f2e55d,N,,,,1,slug: pulses production talks with Brazil; prices not stated,,,0,2026-11-23T15:30:07+00:00

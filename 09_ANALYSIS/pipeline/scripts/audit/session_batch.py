@@ -10,6 +10,9 @@ reads the codes unchanged.
                                        direction, cause_primary, cause_secondary, uncertain, rationale,
                                        text_truncated (0/1)
   status                               coded counts per coder
+  --coder S                            D16 slug fallback (user instruction 23 Nov: Wayback first, then slug): articles
+                                       whose live AND Wayback attempts all failed; only the URL is shown; codes go to
+                                       llm_codes_slug_A.csv with coding_basis=slug (one pass; reported separately)
 Article texts are untrusted data: they are displayed for coding only.
 """
 from __future__ import annotations
@@ -34,7 +37,18 @@ BLOCK = {"flagged": 0, "econ_unflagged": 0, "nonecon_slug": 0, "hin_flagged": 1,
 
 
 def paths(coder):
+    if coder == "S":
+        return ROOT / "data/interim/audit/llm_codes_slug_A.csv"
     return ROOT / f"data/interim/audit/llm_codes_{coder}.csv"
+
+
+def failed_ids() -> set:
+    """ids with no successful attempt and at least one Wayback attempt logged (retrieval finished and failed)."""
+    log = pd.read_csv(ROOT / "logs/audit_retrieval_log.csv")
+    log["audit_id"] = log.audit_id.astype(str)
+    log["ok"] = log.success.astype(str).str.lower().isin(["true", "1"])
+    g = log.groupby("audit_id").agg(ok=("ok", "max"), wb=("mode", lambda x: (x == "wayback").any()))
+    return set(g.index[~g.ok & g.wb])
 
 
 def codebook_sha():
@@ -68,10 +82,14 @@ def order(coder) -> pd.DataFrame:
 
 
 def show(a):
-    done, have = coded(a.coder), fetched_ids()
-    m = order(a.coder)
+    done = coded(a.coder)
+    have = failed_ids() if a.coder == "S" else fetched_ids()
+    m = order("A" if a.coder == "S" else a.coder)
     m = m[m.audit_id.isin(have) & ~m.audit_id.isin(done)].head(a.n)
     for r in m.itertuples():
+        if a.coder == "S":
+            print(f"=== {r.audit_id} | lang={r.language} | SLUG ONLY\nURL: {r.url}\n")
+            continue
         t = (ROOT / f"data/raw/audit_texts/{r.audit_id}.txt").read_text(encoding="utf-8", errors="replace")
         t = " ".join(t.split())
         trunc = len(t) > a.chars
@@ -95,7 +113,8 @@ def save(a):
             if str(r["audit_id"]) in done:
                 continue
             y = r.get("relevance") == "Y"
-            w.writerow({"audit_id": r["audit_id"], "coder": a.coder, "model": MODEL, "coding_basis": "text",
+            w.writerow({"audit_id": r["audit_id"], "coder": "A" if a.coder == "S" else a.coder, "model": MODEL,
+                        "coding_basis": "slug" if a.coder == "S" else "text",
                         "codebook_sha256": sha, "relevance": r.get("relevance", ""),
                         "direction": r.get("direction", "") if y else "",
                         "cause_primary": r.get("cause_primary", "") if y else "",
@@ -110,7 +129,8 @@ def save(a):
 
 def status(a):
     have = fetched_ids()
-    print(f"fetched {len(have)}; coded A {len(coded('A'))}; coded B {len(coded('B'))}; codebook {codebook_sha()[:12]}")
+    print(f"fetched {len(have)}; failed {len(failed_ids())}; coded A {len(coded('A'))}; coded B {len(coded('B'))}; "
+          f"slug {len(coded('S'))}; codebook {codebook_sha()[:12]}")
 
 
 def main():
