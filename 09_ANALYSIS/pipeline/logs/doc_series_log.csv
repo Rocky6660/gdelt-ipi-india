@@ -155,3 +155,62 @@ timestamp,name,query,mode,status,note
 2026-11-23T16:33:21+00:00,prec_petrol_201907,"(""petrol price"" OR ""petrol prices"") sourcecountry:india",artlist,429,try 2
 2026-11-23T16:34:08+00:00,prec_petrol_201907,"(""petrol price"" OR ""petrol prices"") sourcecountry:india",artlist,429,try 3
 2026-11-23T16:35:08+00:00,prec_petrol_201907,"(""petrol price"" OR ""petrol prices"") sourcecountry:india",artlist,429,try 4
+2026-11-23T16:36:20+00:00,prec_petrol_201907,"(""petrol price"" OR ""petrol prices"") sourcecountry:india",artlist,429,try 5
+2026-11-23T16:37:58+00:00,prec_petrol_201907,"(""petrol price"" OR ""petrol prices"") sourcecountry:india",artlist,200,try 6
+2026-11-23T16:38:10+00:00,prec_petrol_202105,"(""petrol price"" OR ""petrol prices"") sourcecountry:india",artlist,429,try 1
+2026-11-23T16:38:37+00:00,prec_petrol_202105,"(""petrol price"" OR ""petrol prices"") sourcecountry:india",artlist,429,try 2
+2026-11-23T16:39:19+00:00,prec_petrol_202105,"(""petrol price"" OR ""petrol prices"") sourcecountry:india",artlist,429,try 3
+2026-11-23T16:40:20+00:00,prec_petrol_202105,"(""petrol price"" OR ""petrol prices"") sourcecountry:india",artlist,429,try 4
+2026-11-23T16:41:39+00:00,prec_petrol_202105,"(""petrol price"" OR ""petrol prices"") sourcecountry:india",artlist,429,try 5
+2026-11-23T16:43:09+00:00,prec_petrol_202105,"(""petrol price"" OR ""petrol prices"") sourcecountry:india",artlist,429,try 6
+2026-11-23T16:44:52+00:00,prec_petrol_202105,"(""petrol price"" OR ""petrol prices"") sourcecountry:india",artlist,429,try 7
+2026-11-23T16:46:32+00:00,prec_petrol_202105,"(""petrol price"" OR ""petrol prices"") sourcecountry:india",artlist,error:ConnectionError,try 8
+2026-11-23T16:47:32+00:00,prec_petrol_202105,"(""petrol price"" OR ""petrol prices"") sourcecountry:india",artlist,GAVE_UP,8 tries
+2026-11-23T16:47:42+00:00,prec_petrol_202304,"(""petrol price"" OR ""petrol prices"") sourcecountry:india",artlist,error:SSLError,try 1
+2026-11-23T16:48:11+00:00,prec_petrol_202304,"(""petrol price"" OR ""petrol prices"") sourcecountry:india",artlist,200,try 2
+2026-11-23T16:48:23+00:00,prec_petrol_202504,"(""petrol price"" OR ""petrol prices"") sourcecountry:india",artlist,429,try 1
+2026-11-23T16:48:51+00:00,prec_petrol_202504,"(""petrol price"" OR ""petrol prices"") sourcecountry:india",artlist,429,try 2
+2026-11-23T16:49:34+00:00,prec_petrol_202504,"(""petrol price"" OR ""petrol prices"") sourcecountry:india",artlist,429,try 3
+2026-11-23T16:50:32+00:00,prec_petrol_202504,"(""petrol price"" OR ""petrol prices"") sourcecountry:india",artlist,429,try 4
+2026-11-23T16:51:44+00:00,prec_petrol_202504,"(""petrol price"" OR ""petrol prices"") sourcecountry:india",artlist,429,try 5
+2026-11-23T16:53:11+00:00,prec_petrol_202504,"(""petrol price"" OR ""petrol prices"") sourcecountry:india",artlist,429,try 6
+2026-11-23T16:54:53+00:00,prec_petrol_202504,"(""petrol price"" OR ""petrol prices"") sourcecountry:india",artlist,429,try 7
+2026-11-23T16:56:35+00:00,prec_petrol_202504,"(""petrol price"" OR ""petrol prices"") sourcecountry:india",artlist,429,try 8
+2026-11-23T16:58:05+00:00,prec_petrol_202504,"(""petrol price"" OR ""petrol prices"") sourcecountry:india",artlist,GAVE_UP,8 tries
+2026-11-23T16:58:16+00:00,prec_diesel_201707,"(""diesel price"" OR ""diesel prices"") sourcecountry:india",artlist,429,try 1
+2026-11-23T16:58:45+00:00,prec_diesel_201707,"(""diesel price"" OR ""diesel prices"") sourcecountry:india",artlist,200,try 2
+2026-11-23T16:59:06+00:00,prec_diesel_201711,"(""diesel price"" OR ""diesel prices"") sourcecountry:india",artlist,200,try 1
+2026-11-23T16:59:17+00:00,prec_diesel_202306,"(""diesel price"" OR ""diesel prices"") sourcecountry:india",artlist,429,try 1
+2026-11-23T16:59:44+00:00,prec_diesel_202306,"(""diesel price"" OR ""diesel prices"") sourcecountry:india",artlist,429,try 2
+2026-11-23T17:00:37+00:00,prec_diesel_202306,"(""diesel price"" OR ""diesel prices"") sourcecountry:india",artlist,429,try 3
+2026-11-23T17:01:53+00:00,prec_diesel_202306,"(""diesel price"" OR ""diesel prices"") sourcecountry:india",artlist,200,try 4
+2026-11-23T17:02:10+00:00,prec_diesel_202311,"(""diesel price"" OR ""diesel prices"") sourcecountry:india",artlist,429,try 1
+2026-11-23T17:02:40+00:00,prec_diesel_202311,"(""diesel price"" OR ""diesel prices"") sourcecountry:india",artlist,429,try 2
+2026-11-23T17:03:24+00:00,prec_diesel_202311,"(""diesel price"" OR ""diesel prices"") sourcecountry:india",artlist,429,try 3
+2026-11-23T17:04:23+00:00,prec_diesel_202311,"(""diesel price"" OR ""diesel prices"") sourcecountry:india",artlist,429,try 4
+2026-11-23T17:05:36+00:00,prec_diesel_202311,"(""diesel price"" OR ""diesel prices"") sourcecountry:india",artlist,429,try 5
+2026-11-23T17:07:05+00:00,prec_diesel_202311,"(""diesel price"" OR ""diesel prices"") sourcecountry:india",artlist,429,try 6
+2026-11-23T17:08:49+00:00,prec_diesel_202311,"(""diesel price"" OR ""diesel prices"") sourcecountry:india",artlist,429,try 7
+2026-11-23T17:10:32+00:00,prec_diesel_202311,"(""diesel price"" OR ""diesel prices"") sourcecountry:india",artlist,429,try 8
+2026-11-23T17:12:02+00:00,prec_diesel_202311,"(""diesel price"" OR ""diesel prices"") sourcecountry:india",artlist,GAVE_UP,8 tries
+2026-11-23T17:12:15+00:00,prec_lpg_202001,"(""LPG price"" OR ""cylinder price"" OR ""LPG cylinder price"") sourcecountry:india",artlist,429,try 1
+2026-11-23T17:12:45+00:00,prec_lpg_202001,"(""LPG price"" OR ""cylinder price"" OR ""LPG cylinder price"") sourcecountry:india",artlist,200,try 2
+2026-11-23T17:13:12+00:00,prec_lpg_202009,"(""LPG price"" OR ""cylinder price"" OR ""LPG cylinder price"") sourcecountry:india",artlist,200,try 1
+2026-11-23T17:13:24+00:00,prec_lpg_202010,"(""LPG price"" OR ""cylinder price"" OR ""LPG cylinder price"") sourcecountry:india",artlist,429,try 1
+2026-11-23T17:13:50+00:00,prec_lpg_202010,"(""LPG price"" OR ""cylinder price"" OR ""LPG cylinder price"") sourcecountry:india",artlist,429,try 2
+2026-11-23T17:14:32+00:00,prec_lpg_202010,"(""LPG price"" OR ""cylinder price"" OR ""LPG cylinder price"") sourcecountry:india",artlist,429,try 3
+2026-11-23T17:15:30+00:00,prec_lpg_202010,"(""LPG price"" OR ""cylinder price"" OR ""LPG cylinder price"") sourcecountry:india",artlist,429,try 4
+2026-11-23T17:16:42+00:00,prec_lpg_202010,"(""LPG price"" OR ""cylinder price"" OR ""LPG cylinder price"") sourcecountry:india",artlist,429,try 5
+2026-11-23T17:57:32+00:00,prec_lpg_202010,"(""LPG price"" OR ""cylinder price"" OR ""LPG cylinder price"") sourcecountry:india",artlist,error:SSLError,try 6
+2026-11-23T23:37:44+00:00,prec_lpg_202010,"(""LPG price"" OR ""cylinder price"" OR ""LPG cylinder price"") sourcecountry:india",artlist,error:ConnectionError,try 7
+2026-11-23T23:38:54+00:00,prec_lpg_202010,"(""LPG price"" OR ""cylinder price"" OR ""LPG cylinder price"") sourcecountry:india",artlist,error:SSLError,try 8
+2026-11-23T23:39:54+00:00,prec_lpg_202010,"(""LPG price"" OR ""cylinder price"" OR ""LPG cylinder price"") sourcecountry:india",artlist,GAVE_UP,8 tries
+2026-11-23T23:40:11+00:00,prec_lpg_202512,"(""LPG price"" OR ""cylinder price"" OR ""LPG cylinder price"") sourcecountry:india",artlist,200,try 1
+2026-11-23T23:40:25+00:00,prec_milk_201905,"(""milk price"" OR ""milk prices"") sourcecountry:india",artlist,429,try 1
+2026-11-23T23:40:59+00:00,prec_milk_201905,"(""milk price"" OR ""milk prices"") sourcecountry:india",artlist,200,try 2
+2026-11-23T23:41:15+00:00,prec_milk_202105,"(""milk price"" OR ""milk prices"") sourcecountry:india",artlist,429,try 1
+2026-11-23T23:41:41+00:00,prec_milk_202105,"(""milk price"" OR ""milk prices"") sourcecountry:india",artlist,429,try 2
+2026-11-23T23:42:22+00:00,prec_milk_202105,"(""milk price"" OR ""milk prices"") sourcecountry:india",artlist,429,try 3
+2026-11-23T23:43:17+00:00,prec_milk_202105,"(""milk price"" OR ""milk prices"") sourcecountry:india",artlist,429,try 4
+2026-11-23T23:44:28+00:00,prec_milk_202105,"(""milk price"" OR ""milk prices"") sourcecountry:india",artlist,429,try 5
+2026-11-23T23:45:56+00:00,prec_milk_202105,"(""milk price"" OR ""milk prices"") sourcecountry:india",artlist,429,try 6

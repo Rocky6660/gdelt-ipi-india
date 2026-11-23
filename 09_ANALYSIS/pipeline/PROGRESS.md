@@ -216,3 +216,9 @@
 ## 2026-11-23 16:36 UTC: Sections B and C done
 - Paper rewritten as short paper (10_OUTPUTS/paper/paper_draft.md): measurement framing, no pipeline jargon in main text, Table 1 descriptives, sample flow, Figure 1 index vs expectations, Figure 2 coefficient plot, Table 2 robustness (price family and baseline), Trends horse race, multiple-testing paragraph, D17 failure and switch stated, Carroll/Lamla-Lein/Larsen et al. added; E1 one sentence, E2-E5 appendix. All Sonnet-review points applied (spec dependence, drop-2020-21 incl. mode dummy, exact-fieldwork row, D22 vs AR1, units, binned median, Trends pull count, no 'pre-registered/audited' overclaim).
 - Unverifiable reference titles marked '[title to be checked]' (no invented titles).
+
+## 2026-11-23 23:47 UTC: Section D done (Gate 3, PDF, final push)
+- Gate 3 (scripts/checks/gate3_rerun.py): PASS. Index rebuilt from cache, Phase 1 (switched flag), D17 and audit_metrics re-run; all compared files byte-identical (data/processed/gate3/gate3_report.md). 0 GB billed.
+- Paper exported: 10_OUTPUTS/paper/paper.pdf and paper.html (scripts/checks/export_pdf.py, headless Chrome; no new packages).
+- Trends pull 2: tool call declined by the user at run time; not retried. Trends results remain 1 pull, provisional (stated in the paper).
+- Remaining for the user: read and approve the paper; check the reference titles marked "[title to be checked]".

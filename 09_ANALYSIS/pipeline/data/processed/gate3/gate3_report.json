@@ -1,0 +1,59 @@
+{
+ "steps": [
+  "build_index re-run from cache",
+  "phase1 re-run (variant_price_family, ipi_monthly_variant_price_family) vs data/processed/results_switched",
+  "d17 re-run",
+  "audit_metrics re-run"
+ ],
+ "files": {
+  "index/ipi_window.csv": {
+   "match": true,
+   "reason": "identical bytes"
+  },
+  "index/ipi_monthly.csv": {
+   "match": true,
+   "reason": "identical bytes"
+  },
+  "index/ipi_daily.csv": {
+   "match": true,
+   "reason": "identical bytes"
+  },
+  "index/panel_outlets.csv": {
+   "match": true,
+   "reason": "identical bytes"
+  },
+  "phase1/d19_national_lp.csv": {
+   "match": true,
+   "reason": "identical bytes"
+  },
+  "phase1/d20_regime.csv": {
+   "match": true,
+   "reason": "identical bytes"
+  },
+  "phase1/d22_forecast_eval.csv": {
+   "match": true,
+   "reason": "identical bytes"
+  },
+  "phase1/d23_monthly_lp.csv": {
+   "match": true,
+   "reason": "identical bytes"
+  },
+  "phase1/d19_persistence.csv": {
+   "match": true,
+   "reason": "identical bytes"
+  },
+  "d17/d17_validation.csv": {
+   "match": true,
+   "reason": "identical bytes"
+  },
+  "audit/gate_statuses": {
+   "match": true,
+   "reason": "{'D15_relevance_kappa': ('NOT_APPLICABLE (no human coding by ruling)', 'NOT_APPLICABLE (no human coding by ruling)'), 'D15_direction_kappa': ('PASS', 'PASS'), 'D15_cause_kappa': ('PASS', 'PASS'), 'D15_precision_recall': ('FAIL', 'FAIL'), 'D29_vernacular_recall': ('FAIL', 'FAIL'), 'D25_international_kappa': ('FAIL', 'FAIL')}"
+  },
+  "audit/metrics_prf.csv": {
+   "match": true,
+   "reason": "identical bytes"
+  }
+ },
+ "status": "PASS"
+}

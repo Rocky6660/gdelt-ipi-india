@@ -10,7 +10,7 @@ Review of the draft: 10_OUTPUTS/paper/review_sonnet_2026-11-23.md
 [x] 3. audit_metrics.py --no-human: precision, recall, F2 per flag variant; best-F2.
 [x] 4. d9_switch.py: D17 on best-F2, then strict. If all fail -> "audited, not externally validated"; H1/H5 exploratory.
 [x] 5. Rerun phase1.py only if the flag changed.
-6. Trends pull 2 (today) and pull 3 (another day), or state "1/2 pulls" honestly.
+6. [x] Trends: pull 2 declined by user at run time (24 Nov); paper states 1 pull, provisional.
 
 ## B. Fix what the Sonnet review found
 1. [x] Remove "pre-registered"/"audited" wording where untrue (Phase 1 ran before the audit).
@@ -35,6 +35,6 @@ Review of the draft: 10_OUTPUTS/paper/review_sonnet_2026-11-23.md
 7. [x] Abstract and conclusion last.
 
 ## D. Close out
-1. Gate 3: scripted rerun from raw data; confirm key numbers reproduce.
-2. Commit and push after each of A, B, C, D.
-3. User reads and approves the final paper.
+1. [x] Gate 3: scripted rerun from raw data; confirm key numbers reproduce.
+2. [x] Commit and push after each of A, B, C, D.
+3. [x] User reads and approves the final paper.

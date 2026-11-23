@@ -118,8 +118,9 @@ Each article was coded for relevance (does it discuss price levels or inflation 
 and stated cause, under a codebook fixed before coding. **There was no human coding.** By the author's ruling, coding
 was done twice, in separate passes, by the same large language model (Claude), and the first pass is treated as the
 truth. Agreement between passes was very high (relevance κ = 1.00 on 1,026 articles; direction 0.97; cause 0.94), but
-two passes of one model are not independent coders, so this is reliability, not validation. From about the
-550th article onward, for time and cost, the model coded from shorter excerpts (200–300 characters), which may
+two passes of one model are not independent coders, so this is reliability, not validation. After the
+first 613 articles of the first pass and 610 of the second, for time and cost, the model coded from shorter excerpts
+(200–300 characters, against 800–1,100 before), which may
 understate relevance for long articles.
 
 Weighted to the sampled population, the baseline tag has precision 0.16 (95% CI 0.13 to 0.20) and recall 0.30
