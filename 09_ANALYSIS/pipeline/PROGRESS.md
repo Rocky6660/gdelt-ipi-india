@@ -212,3 +212,7 @@
 - Phase 1 rerun with variant_price_family -> results_switched/: primary 0.251 [0.068,0.434], p_wild 0.058, N=56; D22 vs AR1+CPI+food RMSE ratio 0.996, CW p 0.100; vs AR1 1.124, CW p 0.036.
 - paper_outputs.py run on the switched flag (descriptives, sample flow 63->56, Trends horse race, figures). Extensions E2-E5 stay on the baseline flag (descriptive; stated in the paper).
 - Trends pull 2 pending (different calendar day needed). GB billed: 0.
+
+## 2026-11-23 16:36 UTC: Sections B and C done
+- Paper rewritten as short paper (10_OUTPUTS/paper/paper_draft.md): measurement framing, no pipeline jargon in main text, Table 1 descriptives, sample flow, Figure 1 index vs expectations, Figure 2 coefficient plot, Table 2 robustness (price family and baseline), Trends horse race, multiple-testing paragraph, D17 failure and switch stated, Carroll/Lamla-Lein/Larsen et al. added; E1 one sentence, E2-E5 appendix. All Sonnet-review points applied (spec dependence, drop-2020-21 incl. mode dummy, exact-fieldwork row, D22 vs AR1, units, binned median, Trends pull count, no 'pre-registered/audited' overclaim).
+- Unverifiable reference titles marked '[title to be checked]' (no invented titles).

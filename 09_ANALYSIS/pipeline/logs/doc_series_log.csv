@@ -153,3 +153,5 @@ timestamp,name,query,mode,status,note
 2026-11-23T16:32:40+00:00,prec_potato_202504,"(""potato price"" OR ""potato prices"") sourcecountry:india",artlist,200,try 6
 2026-11-23T16:32:53+00:00,prec_petrol_201907,"(""petrol price"" OR ""petrol prices"") sourcecountry:india",artlist,429,try 1
 2026-11-23T16:33:21+00:00,prec_petrol_201907,"(""petrol price"" OR ""petrol prices"") sourcecountry:india",artlist,429,try 2
+2026-11-23T16:34:08+00:00,prec_petrol_201907,"(""petrol price"" OR ""petrol prices"") sourcecountry:india",artlist,429,try 3
+2026-11-23T16:35:08+00:00,prec_petrol_201907,"(""petrol price"" OR ""petrol prices"") sourcecountry:india",artlist,429,try 4
