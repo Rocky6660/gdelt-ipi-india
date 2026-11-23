@@ -1,0 +1,75 @@
+timestamp,name,query,mode,status,note
+2026-11-22T21:25:38+00:00,den_india,sourcecountry:india,timelinevolraw,429,try 1
+2026-11-22T21:26:05+00:00,den_india,sourcecountry:india,timelinevolraw,429,try 2
+2026-11-22T21:26:56+00:00,den_india,sourcecountry:india,timelinevolraw,200,try 3
+2026-11-22T21:27:04+00:00,kw_inflation,"(inflation OR ""price rise"" OR ""price hike"" OR costlier OR dearness) sourcecountry:india",timelinevolraw,429,try 1
+2026-11-22T21:27:30+00:00,kw_inflation,"(inflation OR ""price rise"" OR ""price hike"" OR costlier OR dearness) sourcecountry:india",timelinevolraw,429,try 2
+2026-11-22T21:28:10+00:00,kw_inflation,"(inflation OR ""price rise"" OR ""price hike"" OR costlier OR dearness) sourcecountry:india",timelinevolraw,429,try 3
+2026-11-22T21:29:06+00:00,kw_inflation,"(inflation OR ""price rise"" OR ""price hike"" OR costlier OR dearness) sourcecountry:india",timelinevolraw,429,try 4
+2026-11-22T21:30:23+00:00,kw_inflation,"(inflation OR ""price rise"" OR ""price hike"" OR costlier OR dearness) sourcecountry:india",timelinevolraw,429,try 5
+2026-11-22T21:31:51+00:00,kw_inflation,"(inflation OR ""price rise"" OR ""price hike"" OR costlier OR dearness) sourcecountry:india",timelinevolraw,429,try 6
+2026-11-22T21:33:45+00:00,kw_inflation,"(inflation OR ""price rise"" OR ""price hike"" OR costlier OR dearness) sourcecountry:india",timelinevolraw,200,try 7
+2026-11-22T21:33:57+00:00,theme_inflation,theme:ECON_INFLATION sourcecountry:india,timelinevolraw,429,try 1
+2026-11-22T21:34:24+00:00,theme_inflation,theme:ECON_INFLATION sourcecountry:india,timelinevolraw,429,try 2
+2026-11-22T21:35:10+00:00,theme_inflation,theme:ECON_INFLATION sourcecountry:india,timelinevolraw,200,try 3
+2026-11-22T21:35:23+00:00,item_onion,"(""onion price"" OR ""onion prices"") sourcecountry:india",timelinevolraw,429,try 1
+2026-11-22T21:35:57+00:00,item_onion,"(""onion price"" OR ""onion prices"") sourcecountry:india",timelinevolraw,200,try 2
+2026-11-22T21:36:08+00:00,item_tomato,"(""tomato price"" OR ""tomato prices"") sourcecountry:india",timelinevolraw,429,try 1
+2026-11-22T21:36:35+00:00,item_tomato,"(""tomato price"" OR ""tomato prices"") sourcecountry:india",timelinevolraw,429,try 2
+2026-11-22T21:37:25+00:00,item_tomato,"(""tomato price"" OR ""tomato prices"") sourcecountry:india",timelinevolraw,200,try 3
+2026-11-22T21:37:38+00:00,item_potato,"(""potato price"" OR ""potato prices"") sourcecountry:india",timelinevolraw,429,try 1
+2026-11-22T21:38:04+00:00,item_potato,"(""potato price"" OR ""potato prices"") sourcecountry:india",timelinevolraw,429,try 2
+2026-11-22T21:38:45+00:00,item_potato,"(""potato price"" OR ""potato prices"") sourcecountry:india",timelinevolraw,429,try 3
+2026-11-22T21:39:41+00:00,item_potato,"(""potato price"" OR ""potato prices"") sourcecountry:india",timelinevolraw,429,try 4
+2026-11-22T21:40:55+00:00,item_potato,"(""potato price"" OR ""potato prices"") sourcecountry:india",timelinevolraw,429,try 5
+2026-11-22T21:42:27+00:00,item_potato,"(""potato price"" OR ""potato prices"") sourcecountry:india",timelinevolraw,200,try 6
+2026-11-22T21:42:39+00:00,item_petrol,"(""petrol price"" OR ""petrol prices"") sourcecountry:india",timelinevolraw,429,try 1
+2026-11-22T21:43:05+00:00,item_petrol,"(""petrol price"" OR ""petrol prices"") sourcecountry:india",timelinevolraw,429,try 2
+2026-11-22T21:43:45+00:00,item_petrol,"(""petrol price"" OR ""petrol prices"") sourcecountry:india",timelinevolraw,429,try 3
+2026-11-22T21:44:40+00:00,item_petrol,"(""petrol price"" OR ""petrol prices"") sourcecountry:india",timelinevolraw,429,try 4
+2026-11-22T21:45:53+00:00,item_petrol,"(""petrol price"" OR ""petrol prices"") sourcecountry:india",timelinevolraw,429,try 5
+2026-11-22T21:47:18+00:00,item_petrol,"(""petrol price"" OR ""petrol prices"") sourcecountry:india",timelinevolraw,error:SSLError,try 6
+2026-11-22T21:48:29+00:00,item_petrol,"(""petrol price"" OR ""petrol prices"") sourcecountry:india",timelinevolraw,429,try 7
+2026-11-22T21:50:09+00:00,item_petrol,"(""petrol price"" OR ""petrol prices"") sourcecountry:india",timelinevolraw,429,try 8
+2026-11-22T21:51:39+00:00,item_petrol,"(""petrol price"" OR ""petrol prices"") sourcecountry:india",timelinevolraw,GAVE_UP,8 tries
+2026-11-22T21:51:57+00:00,item_diesel,"(""diesel price"" OR ""diesel prices"") sourcecountry:india",timelinevolraw,200,try 1
+2026-11-22T21:52:09+00:00,item_lpg,"(""LPG price"" OR ""cylinder price"" OR ""LPG cylinder price"") sourcecountry:india",timelinevolraw,429,try 1
+2026-11-22T21:52:47+00:00,item_lpg,"(""LPG price"" OR ""cylinder price"" OR ""LPG cylinder price"") sourcecountry:india",timelinevolraw,200,try 2
+2026-11-22T21:52:58+00:00,item_milk,"(""milk price"" OR ""milk prices"") sourcecountry:india",timelinevolraw,429,try 1
+2026-11-22T21:53:24+00:00,item_milk,"(""milk price"" OR ""milk prices"") sourcecountry:india",timelinevolraw,429,try 2
+2026-11-22T21:54:08+00:00,item_milk,"(""milk price"" OR ""milk prices"") sourcecountry:india",timelinevolraw,200,try 3
+2026-11-22T21:54:18+00:00,item_pulses,"(""dal price"" OR ""dal prices"" OR ""pulses price"" OR ""pulses prices"" OR ""tur dal"") sourcecountry:india",timelinevolraw,429,try 1
+2026-11-22T21:54:42+00:00,item_pulses,"(""dal price"" OR ""dal prices"" OR ""pulses price"" OR ""pulses prices"" OR ""tur dal"") sourcecountry:india",timelinevolraw,429,try 2
+2026-11-22T21:55:24+00:00,item_pulses,"(""dal price"" OR ""dal prices"" OR ""pulses price"" OR ""pulses prices"" OR ""tur dal"") sourcecountry:india",timelinevolraw,429,try 3
+2026-11-22T21:56:34+00:00,item_pulses,"(""dal price"" OR ""dal prices"" OR ""pulses price"" OR ""pulses prices"" OR ""tur dal"") sourcecountry:india",timelinevolraw,200,try 4
+2026-11-22T21:56:42+00:00,item_wheat_atta,"(""wheat price"" OR ""wheat prices"" OR ""atta price"" OR ""flour price"") sourcecountry:india",timelinevolraw,429,try 1
+2026-11-22T21:57:07+00:00,item_wheat_atta,"(""wheat price"" OR ""wheat prices"" OR ""atta price"" OR ""flour price"") sourcecountry:india",timelinevolraw,429,try 2
+2026-11-22T21:57:48+00:00,item_wheat_atta,"(""wheat price"" OR ""wheat prices"" OR ""atta price"" OR ""flour price"") sourcecountry:india",timelinevolraw,429,try 3
+2026-11-22T21:58:51+00:00,item_wheat_atta,"(""wheat price"" OR ""wheat prices"" OR ""atta price"" OR ""flour price"") sourcecountry:india",timelinevolraw,200,try 4
+2026-11-22T21:58:59+00:00,item_rice,"(""rice price"" OR ""rice prices"") sourcecountry:india",timelinevolraw,429,try 1
+2026-11-22T21:59:22+00:00,item_rice,"(""rice price"" OR ""rice prices"") sourcecountry:india",timelinevolraw,429,try 2
+2026-11-22T22:00:01+00:00,item_rice,"(""rice price"" OR ""rice prices"") sourcecountry:india",timelinevolraw,429,try 3
+2026-11-22T22:01:05+00:00,item_rice,"(""rice price"" OR ""rice prices"") sourcecountry:india",timelinevolraw,429,try 4
+2026-11-22T22:02:20+00:00,item_rice,"(""rice price"" OR ""rice prices"") sourcecountry:india",timelinevolraw,429,try 5
+2026-11-23T02:57:22+00:00,item_rice,"(""rice price"" OR ""rice prices"") sourcecountry:india",timelinevolraw,error:ConnectionError,try 6
+2026-11-23T14:37:50+00:00,item_petrol,"(""petrol price"" OR ""petrol prices"") sourcecountry:india",timelinevolraw,error:SSLError,try 1
+2026-11-23T14:38:22+00:00,item_petrol,"(""petrol price"" OR ""petrol prices"") sourcecountry:india",timelinevolraw,200,try 2
+2026-11-23T14:38:34+00:00,item_rice,"(""rice price"" OR ""rice prices"") sourcecountry:india",timelinevolraw,429,try 1
+2026-11-23T14:39:01+00:00,item_rice,"(""rice price"" OR ""rice prices"") sourcecountry:india",timelinevolraw,429,try 2
+2026-11-23T14:39:43+00:00,item_rice,"(""rice price"" OR ""rice prices"") sourcecountry:india",timelinevolraw,429,try 3
+2026-11-23T14:40:41+00:00,item_rice,"(""rice price"" OR ""rice prices"") sourcecountry:india",timelinevolraw,429,try 4
+2026-11-23T14:42:03+00:00,item_rice,"(""rice price"" OR ""rice prices"") sourcecountry:india",timelinevolraw,200,try 5
+2026-11-23T14:42:16+00:00,item_edible_oil,"(""edible oil price"" OR ""edible oil prices"" OR ""cooking oil price"" OR ""mustard oil price"") sourcecountry:india",timelinevolraw,429,try 1
+2026-11-23T14:42:43+00:00,item_edible_oil,"(""edible oil price"" OR ""edible oil prices"" OR ""cooking oil price"" OR ""mustard oil price"") sourcecountry:india",timelinevolraw,429,try 2
+2026-11-23T14:43:24+00:00,item_edible_oil,"(""edible oil price"" OR ""edible oil prices"" OR ""cooking oil price"" OR ""mustard oil price"") sourcecountry:india",timelinevolraw,429,try 3
+2026-11-23T14:44:28+00:00,item_edible_oil,"(""edible oil price"" OR ""edible oil prices"" OR ""cooking oil price"" OR ""mustard oil price"") sourcecountry:india",timelinevolraw,200,try 4
+2026-11-23T14:44:41+00:00,item_vegetables,"(""vegetable prices"" OR ""vegetable price"") sourcecountry:india",timelinevolraw,429,try 1
+2026-11-23T14:45:07+00:00,item_vegetables,"(""vegetable prices"" OR ""vegetable price"") sourcecountry:india",timelinevolraw,429,try 2
+2026-11-23T14:45:50+00:00,item_vegetables,"(""vegetable prices"" OR ""vegetable price"") sourcecountry:india",timelinevolraw,429,try 3
+2026-11-23T14:46:47+00:00,item_vegetables,"(""vegetable prices"" OR ""vegetable price"") sourcecountry:india",timelinevolraw,429,try 4
+2026-11-23T14:47:58+00:00,item_vegetables,"(""vegetable prices"" OR ""vegetable price"") sourcecountry:india",timelinevolraw,429,try 5
+2026-11-23T14:49:27+00:00,item_vegetables,"(""vegetable prices"" OR ""vegetable price"") sourcecountry:india",timelinevolraw,429,try 6
+2026-11-23T14:51:13+00:00,item_vegetables,"(""vegetable prices"" OR ""vegetable price"") sourcecountry:india",timelinevolraw,429,try 7
+2026-11-23T14:52:54+00:00,item_vegetables,"(""vegetable prices"" OR ""vegetable price"") sourcecountry:india",timelinevolraw,429,try 8
+2026-11-23T15:07:15+00:00,item_vegetables,"(""vegetable prices"" OR ""vegetable price"") sourcecountry:india",timelinevolraw,GAVE_UP,8 tries
+2026-11-23T15:07:15+00:00,prec_onion_201905,"(""onion price"" OR ""onion prices"") sourcecountry:india",artlist,error:ConnectionError,try 1

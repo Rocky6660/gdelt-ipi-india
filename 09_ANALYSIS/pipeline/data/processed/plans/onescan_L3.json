@@ -1,0 +1,7 @@
+{
+ "q2_dry_run_bytes": 444928772004,
+ "sum_column_bytes": 447591384732,
+ "rel_diff": 0.00594875777064893,
+ "ok": true,
+ "tolerance": 0.01
+}

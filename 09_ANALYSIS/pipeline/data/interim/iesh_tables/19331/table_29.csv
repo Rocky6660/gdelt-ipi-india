@@ -1,0 +1,193 @@
+c0,c1
+AEs,Advanced Economies
+AIC,Akaike Information Criteria
+AIFIs,All India Financial Institutions
+BAI,Business Assessment Index
+BE,Budget Estimates
+BEI,Business Expectations Index
+BK,Baxter-King
+BoJ,Bank of Japan
+Bps,Basis Points
+BRICS,"Brazil, Russia, India, China and South Africa"
+BS-IV,Bharat Stage - IV
+BSE,Bombay Stock Exchange
+CAD,Current Account Deficit
+CAG,Comptroller and Auditor General of India
+CD,Certificate of Deposit
+CDS,Credit Default Swap
+CF,Christiano-Fitzgerald
+CGA,Controller General of Accounts
+CGST,Central Goods and Service Tax
+CiC,Currency in Circulation
+CI,Confidence Interval
+CII,Confederation of Indian Industry
+CLI,Composite Leading Indicator
+CMB,Cash Management Bill
+CMIE,Centre for Monitoring Indian Economy
+CP,Commercial Paper
+CPC,Central Pay Commission
+CPI,Consumer Price Index
+CPI-C,Consumer Price Index - Combined
+CPI-AL,Consumer Price Index for Agricultural Labourers
+CPI-IW,Consumer Price Index for Industrial Workers
+CPI-RL,Consumer Price Index for Rural Labourers
+CRR,Cash Reserve Ratio
+CU,Capacity Utilisation
+CU (SA),Capacity Utilisation (Seasonally Adjusted)
+DEA,Digestive enzymes and antacids
+DGCA,Directorate General of Civil Aviation
+DGCI&S,Directorate General of Commercial Intelligence and Statistics
+DM,Dynamic Multiplier
+ECB,European Central Bank
+ECRI,Economic Cycle Research Institute
+ECM,Error Correction Model
+ECT,Error Correction Term
+EMs,Emerging Markets
+EMEs,Emerging Market Economies
+EU,European Union
+FAE,First Advance Estimates
+FAO,Food and Agriculture Organisation
+FBIL,Financial Benchmarks India Pvt. Ltd
+FCCBs,Foreign Currency Convertible Bonds
+FDI,Foreign Direct Investment
+FIs,Financial Institutions
+FICCI,Federation of Indian Chambers of Commerce and Industry
+FMCG,Fast-Moving Consumer Goods
+FPI,Foreign Portfolio Investment
+FRE,First Revised Estimates
+FX,Foreign Exchange
+FY,Financial Year
+GARCH,Generalized Autoregressive Conditional Heteroskedasticity
+GDP,Gross Domestic Product
+GFCE,Government Final Consumption Expenditure
+GFCF,Gross Fixed Capital Formation
+GFD,Gross Fiscal Deficit
+GIC,General Insurance Corporation
+GIC HFL,GIC Housing Finance Limited
+GNDI,Gross National Disposable Income
+GOI,Government of India
+G-Secs,Government Securities
+GST,Goods and Services Tax
+GSTN,Goods and Services Tax Network
+GVA,Gross Value Added
+H1,First Half of the Year
+H2,Second Half of the Year
+HDFC,Housing Development Finance Corporation
+HFC,Housing Finance Company
+HP,Hodrick-Prescott
+HRA,House Rent Allowance
+ICR,Interest Coverage Ratio
+IEA,International Energy Agency
+IGST,Integrated Goods and Service Tax
+IIP,Index of Industrial Production
+IL&FS,Infrastructure Leasing and Financial Services Limited
+IMD,India Meteorological Department
+IMF,International Monetary Fund
+IMO,International Maritime Organisation
+INR,Indian Rupee
+IOCL,Indian Oil Corporation Limited
+IOS,Industrial Outlook Survey
+IRF,Impulse Response Function
+ISMA,Indian Sugar Mills Association
+IT,Information Technology
+LAF,Liquidity Adjustment Facility
+LCR,Liquidity Coverage Ratio
+LIBOR,London Inter- bank Offered Rate
+LIC,Life Insurance Corporation of India
+LIC HFL,LIC Housing Finance Limited
+LOP,Law of One Price
+LPA,Long Period Average
+LPG,Liquefied Petroleum Gas
+MA,Moving Average
+Mb/d,million barrels per day
+MEIS,Merchandise Export from India Scheme
+MCLR,Marginal Cost of Funds Based Lending Rate
+MFs,Mutual Funds
+MIBOR,Mumbai Interbank outright Rate
+m-o-m,Month-on-Month
+MPC,Monetary Policy Committee
+MPR,Monetary Policy Report
+MSCI,Morgan Stanley Capital International
+MSF,Marginal Standing Facility
+MSMEs,"Micro, Small and Medium Enterprises"
+MSP,Minimum Support Price
+MVKF,Multivariate Kalman Filter
+NAFED,National Agricultural Cooperative Marketing Federation of India
+NBER,National Bureau of Economic Research
+NBFCs,Non-Banking Financial Companies
+NCAER,National Council of Applied Economic Research
+NDSI,Non-Deposit Systemically Important
+NDS-OM,Negotiated Dealing System-Order Matching
+NDTL,Net Demand and Time Liabilities
+NEER,Nominal Effective Exchange Rate
+NFC,Non-Food Credit
+NHB,National Housing Bank
+NIIP,Net International Investment Position
+NPA,Non-Performing Asset
+NSC,National Savings Certificate
+NSDL,National Securities Depository Limited
+NSE,National Stock Exchange
+NSO,National Statistical Office
+OBICUS,"Order Books, Inventories and Capacity Utilisation Survey"
+OD,Over Draft
+OECD,Organisation for Economic Co-operation and Development
+OG,Output Gap
+OIS,Overnight Indexed Swap
+OMCs,Oil Marketing Companies
+OMOs,Open Market Operations
+OPEC,Organisation of the Petroleum Exporting Countries
+PADO,"Public Administration, Defence and Other Services"
+PBOC,People’s Bank of China
+PCE,Personal Consumption Expenditure
+PD,Primary Dealer
+PE,Provisional Estimates
+PFCE,Private Final Consumption Expenditure
+PMI,Purchasing Managers’ Index
+POL,"Petroleum, Oil, and Lubricants"
+PMUY,Pradhan Mantri Ujjwala Yojana
+PRN,Production Weighted Rainfall Index
+PSBs,Public Sector Banks
+PSU,Public Sector Undertaking
+Q1,First Quarter
+Q2,Second Quarter
+Q3,Third Quarter
+Q4,Fourth Quarter
+q-o-q,Quarter-on-Quarter
+RBI,Reserve Bank of India
+RD,Revenue Deficit
+RE,Revenue Expenditure/Revised Estimate
+REER,Real Effective Exchange Rate
+RHS,Right Hand Side
+RMB,Renminbi
+RMSE,Root Mean Squared Error
+SAAR,Seasonally Adjusted Annualised Rate
+SAE,Second Advance Estimates
+SCBs,Scheduled Commercial Banks
+SDLs,State Development Loans
+SEBI,Securities and Exchange Board of India
+SGST,State Goods and Service Tax
+SIAM,Society of Indian Automobile Manufacturers
+SLR,Statutory Liquidity Ratio
+SVAR,Structural Vector Autoregression
+T-Bill,Treasury Bill
+TLTRO,Targeted Longer-term Refinancing Operations
+TVP-VAR,Time-Varying Parameter Vector Autoregression
+UK,United Kingdom
+US,United States
+US$/USD,US Dollar
+VAR,Vector Autoregression
+VARX,Vector Auto Regression with Exogenous Variables
+VECM,Vector Error Correction Model
+VIX,S&P 500 Volatility Index
+VRR,Voluntary Retention Route
+WACR,Weighted Average Call Money Rate
+WADR,Weighted Average Discount Rate
+WADTDR,Weighted Average Domestic Term Deposit Rate
+WALR,Weighted Average Lending Rate
+WMA,Ways and Means Advances
+WPI,Wholesale Price Index
+WTI,West Texas Intermediate
+WTO,World Trade Organisation
+WTOI,World Trade Outlook Indicator
+y-o-y,Year-on-Year
+YTM,Yield to Maturity

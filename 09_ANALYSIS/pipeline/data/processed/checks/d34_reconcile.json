@@ -1,0 +1,61 @@
+{
+ "a_chunks": 216,
+ "a_manifest_mismatches": [],
+ "b_a_infl_vs_n_infl": {
+  "keys": 605142,
+  "keys_mismatched": 0,
+  "total_a": 345058,
+  "total_agg": 345058,
+  "rel_diff": 0.0
+ },
+ "b_a_econ_vs_n_econ": {
+  "keys": 605142,
+  "keys_mismatched": 0,
+  "total_a": 6811176,
+  "total_agg": 6811176,
+  "rel_diff": 0.0
+ },
+ "c_recount": {
+  "days": 147,
+  "keys": 53335,
+  "keys_mismatched": 0,
+  "total_recount": 2483814,
+  "total_q2": 2483814,
+  "rel_diff_total": 0.0,
+  "days_over_1pct": 0,
+  "max_day_rel_diff": 0.0,
+  "worst_days": [
+   {
+    "pdate": "2016-02-19",
+    "n_articles_recount": 26959,
+    "n_articles_q2": 26959,
+    "rel": 0.0
+   },
+   {
+    "pdate": "2016-02-25",
+    "n_articles_recount": 30237,
+    "n_articles_q2": 30237,
+    "rel": 0.0
+   },
+   {
+    "pdate": "2016-05-19",
+    "n_articles_recount": 28888,
+    "n_articles_q2": 28888,
+    "rel": 0.0
+   },
+   {
+    "pdate": "2016-05-25",
+    "n_articles_recount": 30961,
+    "n_articles_q2": 30961,
+    "rel": 0.0
+   },
+   {
+    "pdate": "2016-05-31",
+    "n_articles_recount": 33563,
+    "n_articles_q2": 33563,
+    "rel": 0.0
+   }
+  ]
+ },
+ "c_pass_1pct": true
+}

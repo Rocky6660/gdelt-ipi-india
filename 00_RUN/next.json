@@ -1,0 +1,50 @@
+{
+ "id": "14_stageB",
+ "commands": [
+  [
+   "{PY312}",
+   "scripts/bq_runner.py",
+   "plan",
+   "--rung",
+   "L3",
+   "--stage",
+   "B"
+  ],
+  [
+   "{PY312}",
+   "scripts/bq_runner.py",
+   "run-chunk",
+   "--rung",
+   "L3",
+   "--stage",
+   "B",
+   "--label",
+   "q2_B_L3_2016-01",
+   "--allow-rerun"
+  ],
+  [
+   "{PY312}",
+   "scripts/check_chunk.py",
+   "data/processed/bq_out/q2_B_L3_2016-01"
+  ],
+  [
+   "{PY312}",
+   "scripts/bq_runner.py",
+   "mark-checked",
+   "--rung",
+   "L3",
+   "--stage",
+   "B",
+   "--by",
+   "check_chunk.py PASS after other-days SQL fix (2026-11-21)"
+  ],
+  [
+   "{PY312}",
+   "scripts/run_stage.py",
+   "--stage",
+   "B",
+   "--rest"
+  ]
+ ],
+ "stop_on_error": true
+}

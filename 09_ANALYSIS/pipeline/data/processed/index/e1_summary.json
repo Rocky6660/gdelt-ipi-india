@@ -1,0 +1,151 @@
+{
+ "rule": "E1 descriptive: city news exposure from edition paths (design D5, D40, D42(a)); no IESH outcomes are used.\n\nMechanical edition-path rule (23 Nov 2026; the agent-verified pattern table of D40 was not built in the time\navailable): a window-day aggregate row (outlet x day x URL section) counts as local to IESH city c if any\nsegment of its URL section equals one of c's fixed aliases (optionally prefixed 'my-' or suffixed\n'-news'/'-city'/'-ncr'/'capital'). State-level pages and single-state outlets' home-state attribution (D5) are\nNOT included (the panel has no home-state field). Panel sources only; valid days only (D13).",
+ "cities_with_any_local": 19,
+ "sections_matched": 155612,
+ "gate_a_by_year": [
+  {
+   "year": "2016",
+   "cities_ok_inferential": 0,
+   "cities_ok_descriptive": 1,
+   "gate_a_pass": false
+  },
+  {
+   "year": "2017",
+   "cities_ok_inferential": 0,
+   "cities_ok_descriptive": 0,
+   "gate_a_pass": false
+  },
+  {
+   "year": "2018",
+   "cities_ok_inferential": 0,
+   "cities_ok_descriptive": 1,
+   "gate_a_pass": false
+  },
+  {
+   "year": "2019",
+   "cities_ok_inferential": 0,
+   "cities_ok_descriptive": 0,
+   "gate_a_pass": false
+  },
+  {
+   "year": "2020",
+   "cities_ok_inferential": 0,
+   "cities_ok_descriptive": 0,
+   "gate_a_pass": false
+  },
+  {
+   "year": "2021",
+   "cities_ok_inferential": 0,
+   "cities_ok_descriptive": 0,
+   "gate_a_pass": false
+  },
+  {
+   "year": "2022",
+   "cities_ok_inferential": 0,
+   "cities_ok_descriptive": 2,
+   "gate_a_pass": false
+  },
+  {
+   "year": "2023",
+   "cities_ok_inferential": 0,
+   "cities_ok_descriptive": 2,
+   "gate_a_pass": false
+  },
+  {
+   "year": "2024",
+   "cities_ok_inferential": 0,
+   "cities_ok_descriptive": 3,
+   "gate_a_pass": false
+  },
+  {
+   "year": "2025",
+   "cities_ok_inferential": 0,
+   "cities_ok_descriptive": 0,
+   "gate_a_pass": false
+  },
+  {
+   "year": "2026",
+   "cities_ok_inferential": 0,
+   "cities_ok_descriptive": 1,
+   "gate_a_pass": false
+  }
+ ],
+ "overall_city_medians": {
+  "Ahmedabad": {
+   "n_distinct_urls": 253.5,
+   "n_infl_distinct": 1.0
+  },
+  "Bengaluru": {
+   "n_distinct_urls": 539.5,
+   "n_infl_distinct": 1.0
+  },
+  "Bhopal": {
+   "n_distinct_urls": 314.5,
+   "n_infl_distinct": 1.0
+  },
+  "Bhubaneswar": {
+   "n_distinct_urls": 197.5,
+   "n_infl_distinct": 0.0
+  },
+  "Chandigarh": {
+   "n_distinct_urls": 652.0,
+   "n_infl_distinct": 2.0
+  },
+  "Chennai": {
+   "n_distinct_urls": 317.0,
+   "n_infl_distinct": 0.0
+  },
+  "Delhi": {
+   "n_distinct_urls": 1781.0,
+   "n_infl_distinct": 7.0
+  },
+  "Guwahati": {
+   "n_distinct_urls": 124.5,
+   "n_infl_distinct": 0.0
+  },
+  "Hyderabad": {
+   "n_distinct_urls": 323.5,
+   "n_infl_distinct": 0.0
+  },
+  "Jaipur": {
+   "n_distinct_urls": 225.5,
+   "n_infl_distinct": 1.0
+  },
+  "Jammu": {
+   "n_distinct_urls": 123.0,
+   "n_infl_distinct": 0.0
+  },
+  "Kolkata": {
+   "n_distinct_urls": 518.0,
+   "n_infl_distinct": 0.0
+  },
+  "Lucknow": {
+   "n_distinct_urls": 460.5,
+   "n_infl_distinct": 3.5
+  },
+  "Mumbai": {
+   "n_distinct_urls": 1871.0,
+   "n_infl_distinct": 8.0
+  },
+  "Nagpur": {
+   "n_distinct_urls": 185.0,
+   "n_infl_distinct": 1.0
+  },
+  "Patna": {
+   "n_distinct_urls": 341.0,
+   "n_infl_distinct": 2.0
+  },
+  "Raipur": {
+   "n_distinct_urls": 46.5,
+   "n_infl_distinct": 0.0
+  },
+  "Ranchi": {
+   "n_distinct_urls": 292.5,
+   "n_infl_distinct": 1.0
+  },
+  "Thiruvananthapuram": {
+   "n_distinct_urls": 62.0,
+   "n_infl_distinct": 0.0
+  }
+ }
+}

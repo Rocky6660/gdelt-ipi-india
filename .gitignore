@@ -1,0 +1,31 @@
+# --- credentials and local settings (never commit) ---
+.env
+.env.*
+*.pem
+*.key
+*credentials*.json
+*client_secret*
+application_default_credentials.json
+.claude/settings.local.json
+.config/
+
+# --- raw downloads: article texts (copyright), BigQuery output, raw API pages ---
+09_ANALYSIS/pipeline/data/raw/
+09_ANALYSIS/pipeline/data/processed/bq_out/
+09_ANALYSIS/pipeline/data/processed/index/cache/
+09_ANALYSIS/pipeline/data/interim/audit/population.parquet
+*.parquet
+
+# --- logs that print the signed-in account, and bulky console logs ---
+09_ANALYSIS/pipeline/logs/*_console.log
+09_ANALYSIS/pipeline/logs/bq_runner.log
+09_ANALYSIS/pipeline/logs/.runner.lock
+
+# --- scratch and caches ---
+__pycache__/
+*.pyc
+.pytest_cache/
+09_ANALYSIS/pipeline/data/processed/results_check/
+Thumbs.db
+desktop.ini
+logs/dispatch/

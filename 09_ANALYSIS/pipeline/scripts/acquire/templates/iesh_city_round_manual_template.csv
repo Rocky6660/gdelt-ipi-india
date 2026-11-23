@@ -1,0 +1,3 @@
+round,geography,geo_type,group_section,measure,stat,estimate,se,page_id,table,source,col_label
+EXAMPLE-DELETE-THIS-ROW-YYYY-MM,Mumbai,city,City-wise,exp_1y,median,0.0,0.0,NNNNN,table2_pdf_pX,manual,"One Year ahead Expectation / Median / Estimate"
+EXAMPLE-DELETE-THIS-ROW-YYYY-MM,India,national,,perception,mean,0.0,0.0,NNNNN,table2_pdf_pX,manual,"Current Perception / Mean / Estimate"

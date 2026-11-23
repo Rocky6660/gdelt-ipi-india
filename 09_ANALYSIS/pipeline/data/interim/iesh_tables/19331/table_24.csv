@@ -1,0 +1,11 @@
+c0,c1,c2
+Table IV.1.1: Description of Variables,Table IV.1.1: Description of Variables,Table IV.1.1: Description of Variables
+Variable,Measured by,Expected impact 6
+Lagged spread,First lag of spread (where spread is defined as weighted average call money market rate minus repo rate),increase
+Within period expectation,14 day Mumbai Inter-Bank Outright Rate (MIBOR) rate minus repo rate,increase
+Liquidity conditions,Net LAF position/ average daily cash reserve requirement,increase
+Interest rate uncertainty,"Uncertainty about interest rate at 2 week horizon: GARCH(1,1) conditional volatility of 14 day MIBOR rate",increase
+Liquidity uncertainty,"GARCH(1,1) conditional volatility of reserve fulfilment",increase
+Liquidity distribution,Ratio of the volume in call money to total volume in overnight market,increase
+Corridor width dummy,Corridor width as a dummy variable – it takes the value of 1 (if corridor width < 100 bps) or 0 (if corridor width > 100 bps),increase
+Quarterly dummy,Quarter-end phenomenon – value 1 for quarter-end and 0 otherwise,increase

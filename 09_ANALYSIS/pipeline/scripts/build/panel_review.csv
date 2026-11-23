@@ -1,0 +1,82 @@
+domain,lookup_country,decision,confidence,reason
+andhrajyothy.com,United States,keep,high,Andhra Jyothy: Telugu daily (Hyderabad); lookup country reflects hosting
+utharadesam.com,El Salvador,keep,medium,"Utharadesam: Malayalam daily (Kasaragod, Kerala); lookup country wrong"
+prnewswire.com,United States,drop,high,US press-release wire; not Indian press
+einnews.com,United States,drop,high,US news aggregator
+blogspot.com,United States,drop,high,blog platform; not an outlet
+livenewscentral.com,United States,drop,low,unidentified; not shown to be Indian
+sylhettimes.com,United States,drop,high,Sylhet (Bangladesh) news site
+mlmnewsblog.com,United States,drop,high,not a news outlet
+namnaadumedia.com,United States,drop,low,unidentified; not shown to be Indian (0 window-day articles)
+slideshare.net,United States,drop,high,document platform
+dw.com,Germany,drop,high,Deutsche Welle (German public broadcaster)
+dw.de,Germany,drop,high,Deutsche Welle
+bbc.com,United Kingdom,drop,high,BBC (UK) incl. language services; not Indian press
+bbc.co.uk,United Kingdom,drop,high,BBC (UK)
+sputniknews.com,Russia,drop,high,Russian state outlet
+urdu.ruvr.ru,Russia,drop,high,Voice of Russia Urdu service
+marxist.com,Russia,drop,high,International political site
+azizulhind.com,Russia,drop,low,possibly Delhi Urdu daily Aziz-ul-Hind but not verified (0 window-day articles)
+aawsat.com,Syria,drop,high,Asharq Al-Awsat (Saudi-owned pan-Arab daily)
+okaz.com.sa,Saudi Arabia,drop,high,Okaz (Saudi daily)
+cedarnews.net,Lebanon,drop,high,Lebanese news site
+worldnewsarabia.com,Israel,drop,high,Middle East aggregator
+irna.ir,Iran,drop,high,Iranian state agency
+sbs.com.au,Australia,drop,high,SBS (Australian broadcaster) language services
+ici.radio-canada.ca,Canada,drop,high,Radio-Canada
+punjabipost.ca,Canada,drop,high,Canadian Punjabi diaspora paper
+punjabpost.ca,Canada,drop,high,Canadian Punjabi diaspora paper
+tamilmurasu.com.sg,Singapore,drop,high,Tamil Murasu (Singapore)
+hindi.cri.cn,China,drop,high,China Radio International Hindi service
+skyscrapercity.com,Thailand,drop,high,forum
+timesofindia.indiatimes.com,UNLISTED,keep,high,Times of India (top-20 sibling host)
+economictimes.indiatimes.com,UNLISTED,keep,high,Economic Times (Times group)
+navbharattimes.indiatimes.com,UNLISTED,keep,high,Navbharat Times (Hindi; Times group)
+vijaykarnataka.com,UNLISTED,keep,high,Vijay Karnataka (Kannada; Times group)
+eisamay.com,UNLISTED,keep,high,Ei Samay (Bengali; Kolkata; Times group)
+abplive.com,UNLISTED,keep,high,ABP Live (ABP group)
+abpganga.com,UNLISTED,keep,high,ABP Ganga (Hindi; Uttar Pradesh)
+timesnowhindi.com,UNLISTED,keep,high,Times Now Hindi
+tv9bharatvarsh.com,UNLISTED,keep,high,TV9 Bharatvarsh (Hindi)
+newsnationtv.com,UNLISTED,keep,high,News Nation (Hindi TV)
+naidunia.com,UNLISTED,keep,high,Naidunia (Hindi; Madhya Pradesh; Jagran group)
+punjabijagran.com,UNLISTED,keep,high,Punjabi Jagran (Jagran group)
+inextlive.com,UNLISTED,keep,high,inext (Hindi; Jagran group)
+pudhari.news,UNLISTED,keep,high,Pudhari (Marathi; Kolhapur)
+esakal.com,UNLISTED,keep,high,Sakal (Marathi; Pune)
+mymahanagar.com,UNLISTED,keep,high,My Mahanagar (Marathi; Mumbai)
+deshonnati.com,UNLISTED,keep,high,Deshonnati (Marathi; Akola)
+dailykesari.com,UNLISTED,keep,medium,Kesari (Marathi; Pune)
+dinakaran.com,UNLISTED,keep,high,Dinakaran (Tamil; Chennai)
+tehelkahindi.com,UNLISTED,keep,high,Tehelka Hindi
+thelucknowtribune.com,UNLISTED,keep,medium,Lucknow Tribune (Uttar Pradesh)
+lalluram.com,UNLISTED,keep,medium,Lalluram (Hindi; Chhattisgarh)
+citypostlive.com,UNLISTED,keep,medium,City Post Live (Hindi; Bihar/Jharkhand)
+news11.live,UNLISTED,keep,medium,News11 Bharat (Hindi; Jharkhand)
+himachalabhiabhi.com,UNLISTED,keep,medium,Himachal Abhi Abhi (Hindi; Himachal Pradesh)
+hindkhabar.com,UNLISTED,keep,medium,Hind Khabar (Hindi TV; Delhi)
+dainiksandhyaprakash.com,UNLISTED,keep,medium,Sandhya Prakash (Hindi; Bhopal)
+mahanagartimes.com,UNLISTED,keep,medium,Mahanagar Times (Hindi; Jaipur)
+janamsakshi.org,UNLISTED,keep,medium,Janam Sakshi (Telugu daily; Telangana)
+kohraam.com,UNLISTED,keep,medium,Kohraam (Hindi news portal; India)
+sportskeeda.com,UNLISTED,keep,high,Sportskeeda (Indian sports site; Bengaluru); sports outlet
+cricketnmore.com,UNLISTED,keep,medium,Cricketnmore (Indian cricket site); sports outlet
+bollywoodshaadis.com,UNLISTED,keep,medium,Bollywood Shaadis (Indian entertainment site); entertainment outlet
+1newsbd.net,UNLISTED,drop,high,Bangladeshi portal
+itvbd.com,UNLISTED,drop,high,Bangladeshi TV
+sorboshes.com,UNLISTED,drop,medium,Bangladeshi Bengali portal
+deshebideshe.com,UNLISTED,drop,low,Bengali diaspora/Bangladeshi site; not shown to be Indian
+aanchalpk.com,UNLISTED,drop,high,Pakistani site
+urdu.geo.tv,UNLISTED,drop,high,Geo News Urdu (Pakistan)
+urdughar.com,UNLISTED,drop,low,Urdu site; not shown to be Indian
+dainiknepal.com,UNLISTED,drop,high,Nepali portal
+malaysiaindru.my,UNLISTED,drop,high,Malaysian Tamil site
+a2znewschannel.com,UNLISTED,drop,low,unidentified; not shown to be Indian
+indiantimes.info,UNLISTED,drop,low,unidentified aggregator; not shown to be Indian
+khabarnwi.com,UNLISTED,drop,low,unidentified; not shown to be Indian
+moralnews24.com,UNLISTED,drop,low,unidentified; not shown to be Indian
+newsghat.com,UNLISTED,drop,low,unidentified; not shown to be Indian
+newstrend.news,UNLISTED,drop,low,unidentified; not shown to be Indian
+onlyhindinewstoday.com,UNLISTED,drop,low,unidentified aggregator; not shown to be Indian
+wahcricket.com,UNLISTED,drop,low,unidentified cricket site; not shown to be Indian
+news24online.com,UNLISTED,keep,high,News24 (Hindi TV; BAG Network; Noida)

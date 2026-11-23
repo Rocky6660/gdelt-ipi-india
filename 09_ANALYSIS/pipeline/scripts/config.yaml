@@ -1,0 +1,92 @@
+# All extraction parameters (D36). Paths are relative to the repo root (parent of scripts/).
+project: [project removed]
+location: US
+source_table: gdelt-bq.gdeltv2.gkg_partitioned
+table_first_partition: "2015-02-18"   # GDELT 2.0 GKG start [UNVERIFIED; partition list is clipped to it]
+sample_end: "2026-10-31"
+
+paths:
+  ledger: logs/budget_ledger.csv
+  iesh_rounds: data/raw/iesh_rounds.csv       # columns: round,fieldwork_start,fieldwork_end
+  top20_seed: scripts/seeds/top20_indian_outlets.csv
+  domain_country_lookup: data/raw/gdelt_domain_country_lookup.tsv   # GDELT domain->country file, downloaded by the human; first two cols domain, country
+  q1_result: data/processed/bq_out/q1_outlets   # directory of part-*.parquet written by `run --job q1` (or a .parquet/.csv file)
+  source_superset: data/processed/source_superset.csv
+  plan_dir: data/processed/plans
+  out_dir: data/processed/bq_out
+  sql_dir: scripts/sql
+
+# Budget (decimal bytes: 1 GB = 1e9, deliberately below GiB/TiB so caps are conservative vs the 1 TiB sandbox quota)
+gb: 1000000000
+caps:
+  hard_project_gb: 670        # estimated + actual, all jobs, this month
+  stage_gb:                   # per ledger stage (label prefix before the first '_')
+    q2: 650
+  per_job_scan_gb:            # chunk rule D4.5
+    q2: 60
+  default_per_job_scan_gb: 60
+  output_gb_per_job: 3        # D4.5; advisory, checked on the finished table
+  cap_multiplier: 1.05        # maximum_bytes_billed = ceil(dry_run * 1.05)
+# If INFORMATION_SCHEMA is unreachable, the human sets the quota already used this month (bytes) here, else runs are refused.
+quota_used_override_bytes: null
+
+# Sampling (D4 ladder). Steps never multiples of 7.
+seed: 20260101
+grid_epoch: "2015-02-18"      # fixed epoch for systematic sampling so offsets are the same for all outlets
+rungs:
+  L0: {window_days: 30, step: 1, start: "2015-02-18"}
+  L1: {window_days: 30, step: 2, start: "2015-02-18"}
+  L2: {window_days: 21, step: 3, start: "2015-02-18"}
+  L3: {window_days: 14, step: 4, start: "2016-01-01"}
+  L4: {window_days: 14, step: 6, start: "2017-01-01"}
+rung: L3                      # Gate 0b: ladder.json recommendation
+stage_a_start: "2022-01-01"   # Stage A = window days from this date; Stage B = everything else on the rung
+always_sampled:               # D17 placebo dates, each +/- always_sampled_halfwidth days (reduced set)
+  - "2019-05-23"
+  - "2024-06-04"
+  - "2023-11-19"
+always_sampled_halfwidth: 3
+
+# Probe / Q1 / theme lookup
+probe_day: "2023-03-15"       # not on the always-sampled list; any ordinary weekday
+q1_step: 6
+q1_min_articles: 5
+indian_langs: [hin, ben, tam, tel, mar, guj, kan, mal, pan, urd, ori, ory, asm, nep, hi, bn, ta, te, mr, gu, kn, ml, pa, ur, or, as, ne]  # [UNVERIFIED] GDELT srclc code set; Q1 output shows the codes actually present
+theme_lookup_dates:           # one partition per sample year
+  - "2015-06-10"
+  - "2016-06-08"
+  - "2017-06-07"
+  - "2018-06-06"
+  - "2019-06-12"
+  - "2020-06-10"
+  - "2021-06-09"
+  - "2022-06-08"
+  - "2023-06-07"
+  - "2024-06-12"
+  - "2025-06-11"
+  - "2026-06-10"
+theme_candidate_regex: "^(ECON_.*(INFLAT|PRICE|CPI|COST).*|.*INFLATION.*|.*PRICE.*|.*CPI.*)$"
+# Price-family alternation for the Q2 flags. PLACEHOLDER: replace after theme_lookup (Gate 1a).
+price_alt: "ECON_INFLATION|WB_442_INFLATION|ECON_COST_OF_LIVING|ECON_PRICECONTROL|WB_2107_PRICE_CONTROLS|ECON_PRICEGOUGE|ECON_PRICEMANIPULATION|FUELPRICES|ECON_OILPRICE|ECON_GASOLINEPRICE|ECON_DIESELPRICE|ECON_ELECTRICALPRICE|ECON_NATGASPRICE|ECON_TRANSPORT_COST|WB_1623_PRICE_SUBSIDIES"
+price_alt_confirmed: true    # Gate 1a 2026-11-17: consumer-price themes present every year 2015-2026; excluded TAX_ECON_PRICE, housing/gold, HEATINGOILPRICE, WB_200
+trim_themes: false            # D4.6: true if Stage A article output projects above 5 GB
+inline_partitions: false      # true if `_PARTITIONTIME IN UNNEST(@param)` does not prune (see dry run)
+
+# Window lengths for the reliability variants (D3), reported only
+nested_window_lengths: [7, 14, 21, 30]
+
+# Index construction (scripts/build/build_index.py; D11, D13; rewritten 23 Nov 2026)
+index:
+  siblings_pooled: true          # probe: *.indiatimes.com siblings pooled in SourceCommonName -> window outlet key = URL host
+  core_presence_share: 0.80      # D11 balanced core
+  min_window_articles: 10        # host present in a window if >= 10 distinct articles on valid days
+  min_day_articles: 5            # monthly: outlet-day enters the daily mean if >= 5 articles
+  min_month_articles: 10         # monthly: outlet present in a month if >= 10 articles on valid grid days
+  valid_window_share: 0.60       # D13
+  global_rule: 0.50              # D13: global count < 50% of 28-day median -> day invalid
+  core_rule: 0.30                # D13: panel volume < 30% of 28-day median -> day invalid
+  outlet_rule: 0.30              # D13: outlet-day volume < 30% of own 28-day median -> outlet-day dropped
+  median_halfwidth_days: 14
+  min_median_obs: 3
+  usable_month_days: 5           # D4/D23
+  core2018_start: "2018-01-01"   # D11 second core incl. vernacular

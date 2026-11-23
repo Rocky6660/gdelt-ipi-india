@@ -1,0 +1,9 @@
+# Acquisition scripts (Python >= 3.10)
+requests>=2.31
+urllib3>=2.0
+beautifulsoup4>=4.12
+lxml>=5.0
+pandas>=2.1
+openpyxl>=3.1      # IESH / DBIE Excel files
+xlrd>=2.0          # legacy .xls (DBIE, PPAC) if present
+pytrends==4.9.2    # unofficial; reported archived Apr 2025 -- manual CSV fallback in trends.py

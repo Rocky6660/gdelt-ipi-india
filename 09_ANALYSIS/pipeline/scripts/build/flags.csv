@@ -1,0 +1,40 @@
+flag,family,regex,note
+infl_baseline,inflation,^ECON_INFLATION$,D9 baseline flag
+infl_wb442,inflation,^WB_442_INFLATION$,D9 variant: World Bank inflation/price-stability theme
+infl_costofliving,inflation,^ECON_COST_OF_LIVING$,inflation family (used by the strict variant)
+price_family,inflation,^(ECON_INFLATION|WB_442_INFLATION|ECON_COST_OF_LIVING|ECON_PRICECONTROL|WB_2107_PRICE_CONTROLS|ECON_PRICEGOUGE|ECON_PRICEMANIPULATION|FUELPRICES|ECON_OILPRICE|ECON_GASOLINEPRICE|ECON_DIESELPRICE|ECON_ELECTRICALPRICE|ECON_NATGASPRICE|ECON_TRANSPORT_COST|WB_1623_PRICE_SUBSIDIES)$,Gate 1a frozen price family (15 codes)
+mon_policy,monetary,^(EPU_CATS_MONETARY_POLICY|EPU_POLICY_MONETARY_POLICY|WB_444_MONETARY_POLICY)$,monetary policy
+central_bank,monetary,^(ECON_CENTRALBANK|WB_1235_CENTRAL_BANKS|EPU_POLICY_CENTRAL_BANK)$,central bank (any; foreign CB separately below)
+interest_rates,monetary,^(ECON_INTEREST_RATES|EPU_POLICY_INTEREST_RATES|EPU_POLICY_INTEREST_RATE)$,interest rates
+fuel_prices,fuel_energy,^(FUELPRICES|ECON_GASOLINEPRICE|ECON_DIESELPRICE)$,retail fuel prices
+env_oil,fuel_energy,^ENV_OIL$,oil (environment/energy taxonomy)
+natural_gas,fuel_energy,^(ENV_NATURALGAS|ECON_NATGASPRICE)$,natural gas
+electricity,fuel_energy,^(ECON_ELECTRICALPRICE|ECON_ELECTRICALGENERATION)$,electricity
+energy_wb,fuel_energy,^(WB_507_ENERGY_AND_EXTRACTIVES|WB_539_OIL_AND_GAS_POLICY_STRATEGY_AND_INSTITUTIONS)$,energy sector (World Bank taxonomy)
+agriculture,food_agri,^(AGRICULTURE|WB_435_AGRICULTURE_AND_FOOD_SECURITY|WB_1967_AGRICULTURAL_RISK_AND_SECURITY)$,agriculture
+food_staples,food_agri,^TAX_FOODSTAPLES(_.+)?$,food staples (incl. rice/milk/etc. sub-codes)
+food_security,food_agri,^(FOOD_SECURITY|UNGP_AFFORDABLE_NUTRITIOUS_FOOD)$,food security / affordable food
+monsoon,food_agri,^NATURAL_DISASTER_MONSOON$,monsoon
+shortage,food_agri,^SHORTAGE$,shortage
+fertilizers,food_agri,^WB_175_FERTILIZERS$,fertilizers
+intl_oil_price,international,^ECON_OILPRICE$,E4 international: oil price
+intl_commodities,international,^WB_1079_COMMODITIES_AND_RESOURCES$,E4 international: global commodities
+intl_exchange_rate,international,^(ECON_CURRENCY_EXCHANGE_RATE|ECON_CURRENCY_RESERVES)$,E4 international: exchange rate / reserves
+intl_foreign_currency,international,^ECON_WORLDCURRENCIES_(?!.*RUPEE).+$,E4 international: named foreign currencies (rupee excluded)
+intl_foreign_cb,international,^EPU_POLICY_FEDERAL_RESERVE$,E4 international: foreign central bank (US Fed)
+intl_imf,international,^ECON_DEVELOPMENTORGS_INTERNATIONAL_MONETARY_FUND$,E4 international: IMF
+trade,trade,^(WB_698_TRADE|EPU_CATS_TRADE_POLICY|WB_775_TRADE_POLICY_AND_INTEGRATION|ECON_FREETRADE|ECON_TRADE_DISPUTE)$,trade (not in the E4 international family)
+taxation,domestic,^(ECON_TAXATION|EPU_POLICY_TAX|EPU_CATS_TAXES|WB_1121_TAXATION)$,taxation (GST has no own theme code)
+budget,domestic,^(EPU_POLICY_BUDGET|ECON_BUDGET_DEFICIT)$,union/state budget
+subsidies,domestic,^(ECON_SUBSIDIES|WB_1948_SUBSIDIES|WB_1623_PRICE_SUBSIDIES)$,subsidies
+food_distribution,domestic,^(WB_1618_FOOD_DISTRIBUTION|WB_1609_FOOD_AND_IN_KIND_TRANSFERS)$,public food distribution (PDS)
+wages,domestic,^WB_856_WAGES$,wages
+housing_price,domestic,^ECON_HOUSING_PRICES$,housing prices
+gold_price,domestic,^ECON_GOLDPRICE$,gold price
+gouging,domestic,^(ECON_PRICEGOUGE|ECON_PRICEMANIPULATION)$,price gouging / manipulation (hoarding proxy)
+poverty,domestic,^POVERTY$,poverty
+price_control,administered,^(ECON_PRICECONTROL|WB_2107_PRICE_CONTROLS)$,administered / controlled prices
+transport_cost,administered,^(ECON_TRANSPORT_COST|PUBLIC_TRANSPORT)$,transport fares / costs
+any_econ,econ,^ECON_.+$,any ECON theme
+stock_market,econ,^ECON_STOCKMARKET$,stock market
+election,placebo,^ELECTION$,placebo co-occurrence: elections

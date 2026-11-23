@@ -1,0 +1,2 @@
+round,fieldwork_start,fieldwork_end,mode,n,n_cities,cities,release_date,page_id,url,fieldwork_snippet,n_snippet,source,flags
+EXAMPLE-DELETE-THIS-ROW-YYYY-MM,YYYY-MM-DD,YYYY-MM-DD,in_person|telephone|not_stated,0000,19,Ahmedabad;Bengaluru;...,YYYY-MM-DD,,https://www.rbi.org.in/Scripts/PublicationsView.aspx?id=NNNNN,"copy the sentence with the dates here","copy the sentence with N here",manual,

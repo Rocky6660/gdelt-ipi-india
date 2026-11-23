@@ -1,0 +1,20 @@
+iesh_city,state_ut,candidate_doca_centre,alt_spellings_to_try,centre_status,notes
+Ahmedabad,Gujarat,Ahmedabad,Ahmadabad,UNVERIFIED-candidate,"state capital is Gandhinagar; check that the DoCA centre is Ahmedabad itself"
+Bengaluru,Karnataka,Bengaluru,Bangalore,UNVERIFIED-candidate,
+Bhopal,Madhya Pradesh,Bhopal,,UNVERIFIED-candidate,
+Bhubaneswar,Odisha,Bhubaneswar,Bhubaneshwar,UNVERIFIED-candidate,
+Chandigarh,Chandigarh (UT),Chandigarh,,UNVERIFIED-candidate,"UT; also capital of Punjab and Haryana: state-level fallback ambiguous"
+Chennai,Tamil Nadu,Chennai,Madras,UNVERIFIED-candidate,
+Delhi,Delhi (NCT),Delhi,New Delhi,UNVERIFIED-candidate,
+Guwahati,Assam,Guwahati,Gauhati,UNVERIFIED-candidate,"D5 lists Guwahati as a candidate to lack edition paths"
+Hyderabad,Telangana,Hyderabad,,UNVERIFIED-candidate,"pre-2014 data may be under Andhra Pradesh"
+Jaipur,Rajasthan,Jaipur,,UNVERIFIED-candidate,
+Jammu,Jammu and Kashmir,Jammu,,UNVERIFIED-candidate,"J&K became a UT in Oct 2019; state label may change in the data"
+Kolkata,West Bengal,Kolkata,Calcutta,UNVERIFIED-candidate,
+Lucknow,Uttar Pradesh,Lucknow,,UNVERIFIED-candidate,
+Mumbai,Maharashtra,Mumbai,Bombay,UNVERIFIED-candidate,
+Nagpur,Maharashtra,Nagpur,,UNVERIFIED-candidate,"second Maharashtra city: state-level fallback shared with Mumbai"
+Patna,Bihar,Patna,,UNVERIFIED-candidate,
+Raipur,Chhattisgarh,Raipur,,UNVERIFIED-candidate,
+Ranchi,Jharkhand,Ranchi,,UNVERIFIED-candidate,
+Thiruvananthapuram,Kerala,Thiruvananthapuram,Trivandrum;Thiruvanthapuram,UNVERIFIED-candidate,"spelling varies across sources"

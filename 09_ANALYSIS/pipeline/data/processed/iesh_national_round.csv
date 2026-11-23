@@ -1,0 +1,323 @@
+round,geography,geo_type,group_section,measure,stat,estimate,se,page_id,table,source,col_label
+2015-12,India,national,,perception,mean,9.1,,16827,table13,scrape,Table 6 : Various Group-wise Inflation Expectations for March 2016 Survey Round- 16 cities / Current / Mean / Gender-wise
+2015-12,India,national,,perception,median,8.4,,16827,table13,scrape,Table 6 : Various Group-wise Inflation Expectations for March 2016 Survey Round- 16 cities / Current / Median / Gender-wise
+2015-12,India,national,,perception,mean,10.4,,16827,table19,scrape,b) September 2015 / Current / Mean / Gender-wise
+2015-12,India,national,,perception,median,9.8,,16827,table19,scrape,b) September 2015 / Current / Median / Gender-wise
+2015-12,India,national,,perception,mean,9.9,,16827,table20,scrape,c) June 2015 / Current / Mean / Gender-wise
+2015-12,India,national,,perception,median,9.5,,16827,table20,scrape,c) June 2015 / Current / Median / Gender-wise
+2015-12,India,national,,perception,mean,9.1,,16827,table21,scrape,d) March 2015 / Current / Mean / Gender-wise
+2015-12,India,national,,perception,median,9.0,,16827,table21,scrape,d) March 2015 / Current / Median / Gender-wise
+2017-06,India,national,,perception,mean,9.1,,18444,table6(T3),later_release_T3,"Table 4: Household Inflation Expectations – Current, Three Months and One Year Ahead / Inflation rate in Per cent / Current / Mean"
+2017-06,India,national,,perception,median,8.6,,18444,table6(T3),later_release_T3,"Table 4: Household Inflation Expectations – Current, Three Months and One Year Ahead / Inflation rate in Per cent / Current / Median"
+2017-12,India,national,,perception,mean,8.9,,18444,table6(T3),later_release_T3,"Table 4: Household Inflation Expectations – Current, Three Months and One Year Ahead / Inflation rate in Per cent / Current / Mean"
+2017-12,India,national,,perception,median,8.5,,18444,table6(T3),later_release_T3,"Table 4: Household Inflation Expectations – Current, Three Months and One Year Ahead / Inflation rate in Per cent / Current / Median"
+2018-03,India,national,,perception,mean,8.9,,18943,table6(T3),later_release_T3,"Table 3: Household Inflation Expectations – Current Perception, Three Months and One Year Ahead Expectations / Current Perception / Mean / Estimate"
+2018-03,India,national,,perception,median,8.6,,18943,table6(T3),later_release_T3,"Table 3: Household Inflation Expectations – Current Perception, Three Months and One Year Ahead Expectations / Current Perception / Median / Estimate"
+2018-03,India,national,,perception,mean,8.9,,18444,table6(T3),later_release_T3,"Table 4: Household Inflation Expectations – Current, Three Months and One Year Ahead / Inflation rate in Per cent / Current / Mean"
+2018-03,India,national,,perception,median,8.6,,18444,table6(T3),later_release_T3,"Table 4: Household Inflation Expectations – Current, Three Months and One Year Ahead / Inflation rate in Per cent / Current / Median"
+2018-05,India,national,,perception,mean,9.7,,18444,table6(T3),later_release_T3,"Table 4: Household Inflation Expectations – Current, Three Months and One Year Ahead / Inflation rate in Per cent / Current / Mean"
+2018-05,India,national,,perception,median,9.9,,18444,table6(T3),later_release_T3,"Table 4: Household Inflation Expectations – Current, Three Months and One Year Ahead / Inflation rate in Per cent / Current / Median"
+2018-06,India,national,,perception,mean,9.8,,18973,table6(T3),later_release_T3,"Table 3: Household Inflation Expectations – Current Perception, Three Months and One Year Ahead Expectations / Current Perception / Mean / Estimate"
+2018-06,India,national,,perception,median,10.1,,18973,table6(T3),later_release_T3,"Table 3: Household Inflation Expectations – Current Perception, Three Months and One Year Ahead Expectations / Current Perception / Median / Estimate"
+2018-09,India,national,,perception,mean,9.2,0.12,18711,table5,scrape,Table 2: Inflation Expectations of various Groups: September 2018 / Current / Mean / Estimate
+2018-09,India,national,,perception,median,8.4,0.19,18711,table5,scrape,Table 2: Inflation Expectations of various Groups: September 2018 / Current / Median / Estimate
+2018-09,India,national,,exp_3m,mean,9.9,0.12,18711,table5,scrape,Table 2: Inflation Expectations of various Groups: September 2018 / Three months ahead / Mean / Estimate
+2018-09,India,national,,exp_3m,median,9.4,0.27,18711,table5,scrape,Table 2: Inflation Expectations of various Groups: September 2018 / Three months ahead / Median / Estimate
+2018-09,India,national,,exp_1y,mean,9.6,0.14,18711,table5,scrape,Table 2: Inflation Expectations of various Groups: September 2018 / One year ahead / Mean / Estimate
+2018-09,India,national,,exp_1y,median,9.8,0.23,18711,table5,scrape,Table 2: Inflation Expectations of various Groups: September 2018 / One year ahead / Median / Estimate
+2018-11,India,national,,perception,mean,9.1,0.11,19353,table6(T3),later_release_T3,Current Perception / Mean / Estimate
+2018-11,India,national,,perception,median,8.2,0.18,19353,table6(T3),later_release_T3,Current Perception / Median / Estimate
+2018-11,India,national,,exp_3m,mean,9.7,0.12,19353,table6(T3),later_release_T3,Three Months ahead Expectation / Mean / Estimate
+2018-11,India,national,,exp_3m,median,9.0,0.22,19353,table6(T3),later_release_T3,Three Months ahead Expectation / Median / Estimate
+2018-11,India,national,,exp_1y,mean,9.6,0.12,19353,table6(T3),later_release_T3,One Year ahead Expectation / Mean / Estimate
+2018-11,India,national,,exp_1y,median,9.8,0.25,19353,table6(T3),later_release_T3,One Year ahead Expectation / Median / Estimate
+2018-11,India,national,,perception,mean,9.6,0.12,18943,table6(T3),later_release_T3,"Table 3: Household Inflation Expectations – Current Perception, Three Months and One Year Ahead Expectations / Current Perception / Mean / Estimate"
+2018-11,India,national,,perception,median,9.8,0.25,18943,table6(T3),later_release_T3,"Table 3: Household Inflation Expectations – Current Perception, Three Months and One Year Ahead Expectations / Current Perception / Median / Estimate"
+2018-12,India,national,,perception,mean,8.3,0.11,18777,table5,scrape,Table 2: Inflation Expectations of Various Groups: December 2018 / Current / Mean / Estimate
+2018-12,India,national,,perception,median,7.1,0.18,18777,table5,scrape,Table 2: Inflation Expectations of Various Groups: December 2018 / Current / Median / Estimate
+2018-12,India,national,,exp_3m,mean,9.1,0.11,18777,table5,scrape,Table 2: Inflation Expectations of Various Groups: December 2018 / Three months ahead / Mean / Estimate
+2018-12,India,national,,exp_3m,median,8.2,0.15,18777,table5,scrape,Table 2: Inflation Expectations of Various Groups: December 2018 / Three months ahead / Median / Estimate
+2018-12,India,national,,exp_1y,mean,8.6,0.13,18777,table5,scrape,Table 2: Inflation Expectations of Various Groups: December 2018 / One year ahead / Mean / Estimate
+2018-12,India,national,,exp_1y,median,8.5,0.17,18777,table5,scrape,Table 2: Inflation Expectations of Various Groups: December 2018 / One year ahead / Median / Estimate
+2019-03,India,national,,perception,mean,8.0,0.09,18943,table5,scrape,Table 2: Inflation Expectations of Various Groups: March 2019 / Current Perception / Mean / Estimate
+2019-03,India,national,,perception,median,6.9,0.14,18943,table5,scrape,Table 2: Inflation Expectations of Various Groups: March 2019 / Current Perception / Median / Estimate
+2019-03,India,national,,exp_3m,mean,8.7,0.1,18943,table5,scrape,Table 2: Inflation Expectations of Various Groups: March 2019 / Three Months ahead Expectation / Mean / Estimate
+2019-03,India,national,,exp_3m,median,7.8,0.12,18943,table5,scrape,Table 2: Inflation Expectations of Various Groups: March 2019 / Three Months ahead Expectation / Median / Estimate
+2019-03,India,national,,exp_1y,mean,8.3,0.12,18943,table5,scrape,Table 2: Inflation Expectations of Various Groups: March 2019 / One Year ahead Expectation / Mean / Estimate
+2019-03,India,national,,exp_1y,median,8.1,0.17,18943,table5,scrape,Table 2: Inflation Expectations of Various Groups: March 2019 / One Year ahead Expectation / Median / Estimate
+2019-05,India,national,,perception,mean,8.4,0.12,19456,table6(T3),later_release_T3,"Table 3: Household Inflation Expectations – Current Perception, Three Months and One Year Ahead Expectations / Current Perception / Mean / Estimate"
+2019-05,India,national,,perception,median,8.1,0.16,19456,table6(T3),later_release_T3,"Table 3: Household Inflation Expectations – Current Perception, Three Months and One Year Ahead Expectations / Current Perception / Median / Estimate"
+2019-05,India,national,,perception,mean,7.8,0.1,19353,table6(T3),later_release_T3,Current Perception / Mean / Estimate
+2019-05,India,national,,perception,median,6.6,0.15,19353,table6(T3),later_release_T3,Current Perception / Median / Estimate
+2019-05,India,national,,exp_3m,mean,8.6,0.1,19353,table6(T3),later_release_T3,Three Months ahead Expectation / Mean / Estimate
+2019-05,India,national,,exp_3m,median,7.6,0.12,19353,table6(T3),later_release_T3,Three Months ahead Expectation / Median / Estimate
+2019-05,India,national,,exp_1y,mean,8.4,0.12,19353,table6(T3),later_release_T3,One Year ahead Expectation / Mean / Estimate
+2019-05,India,national,,exp_1y,median,8.1,0.16,19353,table6(T3),later_release_T3,One Year ahead Expectation / Median / Estimate
+2019-05,India,national,,perception,mean,8.4,0.12,19333,table6(T3),later_release_T3,"Table 3: Household Inflation Expectations – Current Perception, Three Months and One Year Ahead Expectations / Current Perception / Mean / Estimate"
+2019-05,India,national,,perception,median,8.1,0.16,19333,table6(T3),later_release_T3,"Table 3: Household Inflation Expectations – Current Perception, Three Months and One Year Ahead Expectations / Current Perception / Median / Estimate"
+2019-05,India,national,,perception,mean,8.4,0.12,18973,table6(T3),later_release_T3,"Table 3: Household Inflation Expectations – Current Perception, Three Months and One Year Ahead Expectations / Current Perception / Mean / Estimate"
+2019-05,India,national,,perception,median,8.1,0.16,18973,table6(T3),later_release_T3,"Table 3: Household Inflation Expectations – Current Perception, Three Months and One Year Ahead Expectations / Current Perception / Median / Estimate"
+2019-07,India,national,,perception,mean,7.9,0.1,18973,table5,scrape,Table 2: Inflation Expectations of Various Groups: July 2019 / Current Perception / Mean / Estimate
+2019-07,India,national,,perception,median,6.6,0.15,18973,table5,scrape,Table 2: Inflation Expectations of Various Groups: July 2019 / Current Perception / Median / Estimate
+2019-07,India,national,,exp_3m,mean,8.6,0.1,18973,table5,scrape,Table 2: Inflation Expectations of Various Groups: July 2019 / Three Months ahead Expectation / Mean / Estimate
+2019-07,India,national,,exp_3m,median,7.6,0.12,18973,table5,scrape,Table 2: Inflation Expectations of Various Groups: July 2019 / Three Months ahead Expectation / Median / Estimate
+2019-07,India,national,,exp_1y,mean,8.3,0.13,18973,table5,scrape,Table 2: Inflation Expectations of Various Groups: July 2019 / One Year ahead Expectation / Mean / Estimate
+2019-07,India,national,,exp_1y,median,7.9,0.18,18973,table5,scrape,Table 2: Inflation Expectations of Various Groups: July 2019 / One Year ahead Expectation / Median / Estimate
+2019-09,India,national,,perception,mean,8.2,0.12,19333,table5,scrape,Table 2: Inflation Expectations of Various Groups: September 2019 / Current Perception / Mean / Estimate
+2019-09,India,national,,perception,median,7.1,0.18,19333,table5,scrape,Table 2: Inflation Expectations of Various Groups: September 2019 / Current Perception / Median / Estimate
+2019-09,India,national,,exp_3m,mean,8.9,0.12,19333,table5,scrape,Table 2: Inflation Expectations of Various Groups: September 2019 / Three Months ahead Expectation / Mean / Estimate
+2019-09,India,national,,exp_3m,median,8.0,0.15,19333,table5,scrape,Table 2: Inflation Expectations of Various Groups: September 2019 / Three Months ahead Expectation / Median / Estimate
+2019-09,India,national,,exp_1y,mean,8.6,0.13,19333,table5,scrape,Table 2: Inflation Expectations of Various Groups: September 2019 / One Year ahead Expectation / Mean / Estimate
+2019-09,India,national,,exp_1y,median,8.1,0.19,19333,table5,scrape,Table 2: Inflation Expectations of Various Groups: September 2019 / One Year ahead Expectation / Median / Estimate
+2019-11,India,national,,perception,mean,9.1,0.1,19353,table5,scrape,Table 2: Inflation Expectations of Various Groups: November 2019 / Current Perception / Mean / Estimate
+2019-11,India,national,,perception,median,8.2,0.17,19353,table5,scrape,Table 2: Inflation Expectations of Various Groups: November 2019 / Current Perception / Median / Estimate
+2019-11,India,national,,exp_3m,mean,9.8,0.11,19353,table5,scrape,Table 2: Inflation Expectations of Various Groups: November 2019 / Three Months ahead Expectation / Mean / Estimate
+2019-11,India,national,,exp_3m,median,9.2,0.23,19353,table5,scrape,Table 2: Inflation Expectations of Various Groups: November 2019 / Three Months ahead Expectation / Median / Estimate
+2019-11,India,national,,exp_1y,mean,9.7,0.12,19353,table5,scrape,Table 2: Inflation Expectations of Various Groups: November 2019 / One Year ahead Expectation / Mean / Estimate
+2019-11,India,national,,exp_1y,median,9.9,0.19,19353,table5,scrape,Table 2: Inflation Expectations of Various Groups: November 2019 / One Year ahead Expectation / Median / Estimate
+2020-01,India,national,,perception,mean,8.7,0.11,19413,table5,scrape,Table 2: Inflation Expectations of Various Groups: January 2020 / Current Perception / Mean / Estimate
+2020-01,India,national,,perception,median,7.6,0.19,19413,table5,scrape,Table 2: Inflation Expectations of Various Groups: January 2020 / Current Perception / Median / Estimate
+2020-01,India,national,,exp_3m,mean,9.5,0.11,19413,table5,scrape,Table 2: Inflation Expectations of Various Groups: January 2020 / Three Months ahead Expectation / Mean / Estimate
+2020-01,India,national,,exp_3m,median,8.6,0.16,19413,table5,scrape,Table 2: Inflation Expectations of Various Groups: January 2020 / Three Months ahead Expectation / Median / Estimate
+2020-01,India,national,,exp_1y,mean,9.3,0.13,19413,table5,scrape,Table 2: Inflation Expectations of Various Groups: January 2020 / One Year ahead Expectation / Mean / Estimate
+2020-01,India,national,,exp_1y,median,9.2,0.25,19413,table5,scrape,Table 2: Inflation Expectations of Various Groups: January 2020 / One Year ahead Expectation / Median / Estimate
+2020-03,India,national,,perception,mean,8.4,0.09,19435,table5,scrape,Table 2: Inflation Expectations of Various Groups: March 2020 / Current Perception / Mean / Estimate
+2020-03,India,national,,perception,median,7.6,0.12,19435,table5,scrape,Table 2: Inflation Expectations of Various Groups: March 2020 / Current Perception / Median / Estimate
+2020-03,India,national,,exp_3m,mean,9.2,0.1,19435,table5,scrape,Table 2: Inflation Expectations of Various Groups: March 2020 / Three Months ahead Expectation / Mean / Estimate
+2020-03,India,national,,exp_3m,median,8.5,0.11,19435,table5,scrape,Table 2: Inflation Expectations of Various Groups: March 2020 / Three Months ahead Expectation / Median / Estimate
+2020-03,India,national,,exp_1y,mean,9.1,0.11,19435,table5,scrape,Table 2: Inflation Expectations of Various Groups: March 2020 / One Year ahead Expectation / Mean / Estimate
+2020-03,India,national,,exp_1y,median,9.0,0.18,19435,table5,scrape,Table 2: Inflation Expectations of Various Groups: March 2020 / One Year ahead Expectation / Median / Estimate
+2020-05,India,national,,perception,mean,9.6,0.09,19456,table5,scrape,Table 2: Inflation Expectations of Various Groups: May 2020 / Current Perception / Mean / Estimate
+2020-05,India,national,,perception,median,9.3,0.28,19456,table5,scrape,Table 2: Inflation Expectations of Various Groups: May 2020 / Current Perception / Median / Estimate
+2020-05,India,national,,exp_3m,mean,10.6,0.09,19456,table5,scrape,Table 2: Inflation Expectations of Various Groups: May 2020 / Three Months ahead Expectation / Mean / Estimate
+2020-05,India,national,,exp_3m,median,10.4,0.06,19456,table5,scrape,Table 2: Inflation Expectations of Various Groups: May 2020 / Three Months ahead Expectation / Median / Estimate
+2020-05,India,national,,exp_1y,mean,9.7,0.12,19456,table5,scrape,Table 2: Inflation Expectations of Various Groups: May 2020 / One Year ahead Expectation / Mean / Estimate
+2020-05,India,national,,exp_1y,median,10.2,0.07,19456,table5,scrape,Table 2: Inflation Expectations of Various Groups: May 2020 / One Year ahead Expectation / Median / Estimate
+2020-07,India,national,,perception,mean,9.8,0.14,20382,table6(T3),later_release_T3,"Table 3: Household Inflation Expectations – Current Perception, Three Months and One Year Ahead Expectations / Current Perception / Mean / Estimate"
+2020-07,India,national,,perception,median,10.3,0.08,20382,table6(T3),later_release_T3,"Table 3: Household Inflation Expectations – Current Perception, Three Months and One Year Ahead Expectations / Current Perception / Median / Estimate"
+2020-07,India,national,,perception,mean,9.8,0.14,20321,table6(T3),later_release_T3,"Table 3: Household Inflation Expectations – Current Perception, Three Months and One Year Ahead Expectations / Current Perception / Mean / Estimate"
+2020-07,India,national,,perception,median,10.3,0.08,20321,table6(T3),later_release_T3,"Table 3: Household Inflation Expectations – Current Perception, Three Months and One Year Ahead Expectations / Current Perception / Median / Estimate"
+2020-09,India,national,,perception,mean,9.9,0.12,20649,table6(T3),later_release_T3,"Table 3: Household Inflation Expectations – Current Perception, Three Months and One Year Ahead Expectations / Current Perception / Mean / Estimate"
+2020-09,India,national,,perception,median,10.3,0.08,20649,table6(T3),later_release_T3,"Table 3: Household Inflation Expectations – Current Perception, Three Months and One Year Ahead Expectations / Current Perception / Median / Estimate"
+2020-09,India,national,,perception,mean,9.9,0.12,20352,table6(T3),later_release_T3,"Table 3: Household Inflation Expectations – Current Perception, Three Months and One Year Ahead Expectations / Current Perception / Mean / Estimate"
+2020-09,India,national,,perception,median,10.3,0.08,20352,table6(T3),later_release_T3,"Table 3: Household Inflation Expectations – Current Perception, Three Months and One Year Ahead Expectations / Current Perception / Median / Estimate"
+2020-09,India,national,,perception,mean,9.9,0.12,20321,table6(T3),later_release_T3,"Table 3: Household Inflation Expectations – Current Perception, Three Months and One Year Ahead Expectations / Current Perception / Mean / Estimate"
+2020-09,India,national,,perception,median,10.3,0.08,20321,table6(T3),later_release_T3,"Table 3: Household Inflation Expectations – Current Perception, Three Months and One Year Ahead Expectations / Current Perception / Median / Estimate"
+2020-11,India,national,,perception,mean,9.8,0.13,20930,table7(T3),later_release_T3,"Table 3(a): Households’ Current Perception, Three Months and One Year Ahead Expectations / Current Perception / Mean / Estimate"
+2020-11,India,national,,perception,median,10.1,0.11,20930,table7(T3),later_release_T3,"Table 3(a): Households’ Current Perception, Three Months and One Year Ahead Expectations / Current Perception / Median / Estimate"
+2020-11,India,national,,perception,mean,9.8,0.13,20374,table6(T3),later_release_T3,"Table 3: Household Inflation Expectations – Current Perception, Three Months and One Year Ahead Expectations / Current Perception / Mean / Estimate"
+2020-11,India,national,,perception,median,10.1,0.11,20374,table6(T3),later_release_T3,"Table 3: Household Inflation Expectations – Current Perception, Three Months and One Year Ahead Expectations / Current Perception / Median / Estimate"
+2020-11,India,national,,perception,mean,9.8,0.13,20352,table6(T3),later_release_T3,"Table 3: Household Inflation Expectations – Current Perception, Three Months and One Year Ahead Expectations / Current Perception / Mean / Estimate"
+2020-11,India,national,,perception,median,10.1,0.11,20352,table6(T3),later_release_T3,"Table 3: Household Inflation Expectations – Current Perception, Three Months and One Year Ahead Expectations / Current Perception / Median / Estimate"
+2020-11,India,national,,perception,mean,9.8,0.13,20321,table6(T3),later_release_T3,"Table 3: Household Inflation Expectations – Current Perception, Three Months and One Year Ahead Expectations / Current Perception / Mean / Estimate"
+2020-11,India,national,,perception,median,10.1,0.11,20321,table6(T3),later_release_T3,"Table 3: Household Inflation Expectations – Current Perception, Three Months and One Year Ahead Expectations / Current Perception / Median / Estimate"
+2021-01,India,national,,perception,mean,9.1,0.12,20321,table5,scrape,Table 2: Inflation Expectations of Various Groups: January 2021 / Current Perception / Mean / Estimate
+2021-01,India,national,,perception,median,8.2,0.17,20321,table5,scrape,Table 2: Inflation Expectations of Various Groups: January 2021 / Current Perception / Median / Estimate
+2021-01,India,national,,exp_3m,mean,10.0,0.12,20321,table5,scrape,Table 2: Inflation Expectations of Various Groups: January 2021 / Three Months ahead Expectation / Mean / Estimate
+2021-01,India,national,,exp_3m,median,9.3,0.29,20321,table5,scrape,Table 2: Inflation Expectations of Various Groups: January 2021 / Three Months ahead Expectation / Median / Estimate
+2021-01,India,national,,exp_1y,mean,9.7,0.13,20321,table5,scrape,Table 2: Inflation Expectations of Various Groups: January 2021 / One Year ahead Expectation / Mean / Estimate
+2021-01,India,national,,exp_1y,median,10.1,0.15,20321,table5,scrape,Table 2: Inflation Expectations of Various Groups: January 2021 / One Year ahead Expectation / Median / Estimate
+2021-03,India,national,,perception,mean,9.4,0.11,20352,table5,scrape,Table 2: Inflation Expectations of Various Groups: March 2021 / Current Perception / Mean / Estimate
+2021-03,India,national,,perception,median,8.7,0.16,20352,table5,scrape,Table 2: Inflation Expectations of Various Groups: March 2021 / Current Perception / Median / Estimate
+2021-03,India,national,,exp_3m,mean,10.4,0.11,20352,table5,scrape,Table 2: Inflation Expectations of Various Groups: March 2021 / Three Months ahead Expectation / Mean / Estimate
+2021-03,India,national,,exp_3m,median,10.1,0.11,20352,table5,scrape,Table 2: Inflation Expectations of Various Groups: March 2021 / Three Months ahead Expectation / Median / Estimate
+2021-03,India,national,,exp_1y,mean,10.0,0.12,20352,table5,scrape,Table 2: Inflation Expectations of Various Groups: March 2021 / One Year ahead Expectation / Mean / Estimate
+2021-03,India,national,,exp_1y,median,10.2,0.09,20352,table5,scrape,Table 2: Inflation Expectations of Various Groups: March 2021 / One Year ahead Expectation / Median / Estimate
+2021-05,India,national,,perception,mean,10.4,0.09,20374,table5,scrape,Table 2: Inflation Expectations of Various Groups: May 2021 / Current Perception / Mean / Estimate
+2021-05,India,national,,perception,median,10.2,0.04,20374,table5,scrape,Table 2: Inflation Expectations of Various Groups: May 2021 / Current Perception / Median / Estimate
+2021-05,India,national,,exp_3m,mean,11.4,0.09,20374,table5,scrape,Table 2: Inflation Expectations of Various Groups: May 2021 / Three Months ahead Expectation / Mean / Estimate
+2021-05,India,national,,exp_3m,median,10.8,0.07,20374,table5,scrape,Table 2: Inflation Expectations of Various Groups: May 2021 / Three Months ahead Expectation / Median / Estimate
+2021-05,India,national,,exp_1y,mean,10.7,0.11,20374,table5,scrape,Table 2: Inflation Expectations of Various Groups: May 2021 / One Year ahead Expectation / Mean / Estimate
+2021-05,India,national,,exp_1y,median,10.9,0.12,20374,table5,scrape,Table 2: Inflation Expectations of Various Groups: May 2021 / One Year ahead Expectation / Median / Estimate
+2021-07,India,national,,perception,mean,10.5,0.11,20382,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jul-21 / Current Perception / Mean / Estimate
+2021-07,India,national,,perception,median,10.3,0.06,20382,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jul-21 / Current Perception / Median / Estimate
+2021-07,India,national,,exp_3m,mean,11.7,0.11,20382,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jul-21 / Three Months ahead Expectation / Mean / Estimate
+2021-07,India,national,,exp_3m,median,11.3,0.42,20382,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jul-21 / Three Months ahead Expectation / Median / Estimate
+2021-07,India,national,,exp_1y,mean,11.0,0.13,20382,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jul-21 / One Year ahead Expectation / Mean / Estimate
+2021-07,India,national,,exp_1y,median,11.5,0.49,20382,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jul-21 / One Year ahead Expectation / Median / Estimate
+2021-09,India,national,,perception,mean,10.4,0.11,20649,table5,scrape,Table 2: Inflation Expectations of Various Groups: Sep-21 / Current Perception / Mean / Estimate
+2021-09,India,national,,perception,median,10.2,0.06,20649,table5,scrape,Table 2: Inflation Expectations of Various Groups: Sep-21 / Current Perception / Median / Estimate
+2021-09,India,national,,exp_3m,mean,11.4,0.11,20649,table5,scrape,Table 2: Inflation Expectations of Various Groups: Sep-21 / Three Months ahead Expectation / Mean / Estimate
+2021-09,India,national,,exp_3m,median,10.8,0.1,20649,table5,scrape,Table 2: Inflation Expectations of Various Groups: Sep-21 / Three Months ahead Expectation / Median / Estimate
+2021-09,India,national,,exp_1y,mean,10.8,0.13,20649,table5,scrape,Table 2: Inflation Expectations of Various Groups: Sep-21 / One Year ahead Expectation / Mean / Estimate
+2021-09,India,national,,exp_1y,median,10.9,0.16,20649,table5,scrape,Table 2: Inflation Expectations of Various Groups: Sep-21 / One Year ahead Expectation / Median / Estimate
+2021-11,India,national,,perception,mean,10.7,0.11,20930,table6,scrape,Table 2: Inflation Expectations of Various Groups: November 2021 / Current Perception / Mean / Estimate
+2021-11,India,national,,perception,median,10.4,0.05,20930,table6,scrape,Table 2: Inflation Expectations of Various Groups: November 2021 / Current Perception / Median / Estimate
+2021-11,India,national,,exp_3m,mean,11.9,0.11,20930,table6,scrape,Table 2: Inflation Expectations of Various Groups: November 2021 / Three Months ahead Expectation / Mean / Estimate
+2021-11,India,national,,exp_3m,median,12.3,0.28,20930,table6,scrape,Table 2: Inflation Expectations of Various Groups: November 2021 / Three Months ahead Expectation / Median / Estimate
+2021-11,India,national,,exp_1y,mean,11.5,0.12,20930,table6,scrape,Table 2: Inflation Expectations of Various Groups: November 2021 / One Year ahead Expectation / Mean / Estimate
+2021-11,India,national,,exp_1y,median,12.6,0.29,20930,table6,scrape,Table 2: Inflation Expectations of Various Groups: November 2021 / One Year ahead Expectation / Median / Estimate
+2022-01,India,national,,perception,mean,9.9,0.1,20999,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jan-22 / Current Perception / Mean / Estimate
+2022-01,India,national,,perception,median,9.7,0.29,20999,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jan-22 / Current Perception / Median / Estimate
+2022-01,India,national,,exp_3m,mean,11.1,0.1,20999,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jan-22 / Three Months ahead Expectation / Mean / Estimate
+2022-01,India,national,,exp_3m,median,10.6,0.08,20999,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jan-22 / Three Months ahead Expectation / Median / Estimate
+2022-01,India,national,,exp_1y,mean,10.7,0.11,20999,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jan-22 / One Year ahead Expectation / Mean / Estimate
+2022-01,India,national,,exp_1y,median,10.7,0.1,20999,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jan-22 / One Year ahead Expectation / Median / Estimate
+2022-03,India,national,,perception,mean,9.8,0.12,21025,table5,scrape,Table 2: Inflation Expectations of Various Groups: Mar-22 / Current Perception / Mean / Estimate
+2022-03,India,national,,perception,median,9.7,0.31,21025,table5,scrape,Table 2: Inflation Expectations of Various Groups: Mar-22 / Current Perception / Median / Estimate
+2022-03,India,national,,exp_3m,mean,11.1,0.12,21025,table5,scrape,Table 2: Inflation Expectations of Various Groups: Mar-22 / Three Months ahead Expectation / Mean / Estimate
+2022-03,India,national,,exp_3m,median,10.7,0.09,21025,table5,scrape,Table 2: Inflation Expectations of Various Groups: Mar-22 / Three Months ahead Expectation / Median / Estimate
+2022-03,India,national,,exp_1y,mean,10.9,0.13,21025,table5,scrape,Table 2: Inflation Expectations of Various Groups: Mar-22 / One Year ahead Expectation / Mean / Estimate
+2022-03,India,national,,exp_1y,median,10.8,0.11,21025,table5,scrape,Table 2: Inflation Expectations of Various Groups: Mar-22 / One Year ahead Expectation / Median / Estimate
+2022-05,India,national,,perception,mean,10.3,0.11,21064,table6,scrape,Table 2: Inflation Expectations of Various Groups: May-22 / Current Perception / Mean / Estimate
+2022-05,India,national,,perception,median,10.1,0.08,21064,table6,scrape,Table 2: Inflation Expectations of Various Groups: May-22 / Current Perception / Median / Estimate
+2022-05,India,national,,exp_3m,mean,11.4,0.11,21064,table6,scrape,Table 2: Inflation Expectations of Various Groups: May-22 / Three Months ahead Expectation / Mean / Estimate
+2022-05,India,national,,exp_3m,median,10.8,0.11,21064,table6,scrape,Table 2: Inflation Expectations of Various Groups: May-22 / Three Months ahead Expectation / Median / Estimate
+2022-05,India,national,,exp_1y,mean,11.1,0.12,21064,table6,scrape,Table 2: Inflation Expectations of Various Groups: May-22 / One Year ahead Expectation / Mean / Estimate
+2022-05,India,national,,exp_1y,median,11.1,0.27,21064,table6,scrape,Table 2: Inflation Expectations of Various Groups: May-22 / One Year ahead Expectation / Median / Estimate
+2022-07,India,national,,perception,mean,9.8,0.1,21074,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jul-22 / Current Perception / Mean / Estimate
+2022-07,India,national,,perception,median,9.3,0.24,21074,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jul-22 / Current Perception / Median / Estimate
+2022-07,India,national,,exp_3m,mean,10.7,0.11,21074,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jul-22 / Three Months ahead Expectation / Mean / Estimate
+2022-07,India,national,,exp_3m,median,10.3,0.08,21074,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jul-22 / Three Months ahead Expectation / Median / Estimate
+2022-07,India,national,,exp_1y,mean,10.3,0.13,21074,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jul-22 / One Year ahead Expectation / Mean / Estimate
+2022-07,India,national,,exp_1y,median,10.5,0.08,21074,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jul-22 / One Year ahead Expectation / Median / Estimate
+2022-09,India,national,,perception,mean,10.4,0.1,21344,table5,scrape,Table 2: Inflation Expectations of Various Groups: Sep-22 / Current Perception / Mean / Estimate
+2022-09,India,national,,perception,median,10.2,0.05,21344,table5,scrape,Table 2: Inflation Expectations of Various Groups: Sep-22 / Current Perception / Median / Estimate
+2022-09,India,national,,exp_3m,mean,11.3,0.1,21344,table5,scrape,Table 2: Inflation Expectations of Various Groups: Sep-22 / Three Months ahead Expectation / Mean / Estimate
+2022-09,India,national,,exp_3m,median,10.8,0.09,21344,table5,scrape,Table 2: Inflation Expectations of Various Groups: Sep-22 / Three Months ahead Expectation / Median / Estimate
+2022-09,India,national,,exp_1y,mean,11.1,0.12,21344,table5,scrape,Table 2: Inflation Expectations of Various Groups: Sep-22 / One Year ahead Expectation / Mean / Estimate
+2022-09,India,national,,exp_1y,median,11.0,0.23,21344,table5,scrape,Table 2: Inflation Expectations of Various Groups: Sep-22 / One Year ahead Expectation / Median / Estimate
+2022-11,India,national,,perception,mean,10.0,0.1,21570,table5,scrape,Table 2: Inflation Expectations of Various Groups: Nov-22 / Current Perception / Mean / Estimate
+2022-11,India,national,,perception,median,9.8,0.23,21570,table5,scrape,Table 2: Inflation Expectations of Various Groups: Nov-22 / Current Perception / Median / Estimate
+2022-11,India,national,,exp_3m,mean,10.9,0.1,21570,table5,scrape,Table 2: Inflation Expectations of Various Groups: Nov-22 / Three Months ahead Expectation / Mean / Estimate
+2022-11,India,national,,exp_3m,median,10.4,0.07,21570,table5,scrape,Table 2: Inflation Expectations of Various Groups: Nov-22 / Three Months ahead Expectation / Median / Estimate
+2022-11,India,national,,exp_1y,mean,10.8,0.11,21570,table5,scrape,Table 2: Inflation Expectations of Various Groups: Nov-22 / One Year ahead Expectation / Mean / Estimate
+2022-11,India,national,,exp_1y,median,10.8,0.08,21570,table5,scrape,Table 2: Inflation Expectations of Various Groups: Nov-22 / One Year ahead Expectation / Median / Estimate
+2023-01,India,national,,perception,mean,9.7,0.09,21732,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jan-23 / Current Perception / Mean / Estimate
+2023-01,India,national,,perception,median,9.6,0.3,21732,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jan-23 / Current Perception / Median / Estimate
+2023-01,India,national,,exp_3m,mean,10.8,0.1,21732,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jan-23 / Three Months ahead Expectation / Mean / Estimate
+2023-01,India,national,,exp_3m,median,10.5,0.08,21732,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jan-23 / Three Months ahead Expectation / Median / Estimate
+2023-01,India,national,,exp_1y,mean,10.8,0.11,21732,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jan-23 / One Year ahead Expectation / Mean / Estimate
+2023-01,India,national,,exp_1y,median,10.8,0.09,21732,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jan-23 / One Year ahead Expectation / Median / Estimate
+2023-03,India,national,,perception,mean,9.5,0.1,21755,table5,scrape,Table 2: Inflation Expectations of Various Groups: Mar-23 / Current Perception / Mean / Estimate
+2023-03,India,national,,perception,median,8.9,0.17,21755,table5,scrape,Table 2: Inflation Expectations of Various Groups: Mar-23 / Current Perception / Median / Estimate
+2023-03,India,national,,exp_3m,mean,10.5,0.1,21755,table5,scrape,Table 2: Inflation Expectations of Various Groups: Mar-23 / Three Months ahead Expectation / Mean / Estimate
+2023-03,India,national,,exp_3m,median,10.2,0.08,21755,table5,scrape,Table 2: Inflation Expectations of Various Groups: Mar-23 / Three Months ahead Expectation / Median / Estimate
+2023-03,India,national,,exp_1y,mean,10.4,0.11,21755,table5,scrape,Table 2: Inflation Expectations of Various Groups: Mar-23 / One Year ahead Expectation / Mean / Estimate
+2023-03,India,national,,exp_1y,median,10.5,0.07,21755,table5,scrape,Table 2: Inflation Expectations of Various Groups: Mar-23 / One Year ahead Expectation / Median / Estimate
+2023-05,India,national,,perception,mean,9.3,0.09,21776,table5,scrape,Table 2: Inflation Expectations of Various Groups: May-23 / Current Perception / Mean / Estimate
+2023-05,India,national,,perception,median,8.8,0.13,21776,table5,scrape,Table 2: Inflation Expectations of Various Groups: May-23 / Current Perception / Median / Estimate
+2023-05,India,national,,exp_3m,mean,10.3,0.1,21776,table5,scrape,Table 2: Inflation Expectations of Various Groups: May-23 / Three Months ahead Expectation / Mean / Estimate
+2023-05,India,national,,exp_3m,median,10.1,0.08,21776,table5,scrape,Table 2: Inflation Expectations of Various Groups: May-23 / Three Months ahead Expectation / Median / Estimate
+2023-05,India,national,,exp_1y,mean,10.2,0.11,21776,table5,scrape,Table 2: Inflation Expectations of Various Groups: May-23 / One Year ahead Expectation / Mean / Estimate
+2023-05,India,national,,exp_1y,median,10.4,0.08,21776,table5,scrape,Table 2: Inflation Expectations of Various Groups: May-23 / One Year ahead Expectation / Median / Estimate
+2023-07,India,national,,perception,mean,9.3,0.09,21795,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jul-23 / Current Perception / Mean / Estimate
+2023-07,India,national,,perception,median,8.9,0.14,21795,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jul-23 / Current Perception / Median / Estimate
+2023-07,India,national,,exp_3m,mean,10.2,0.09,21795,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jul-23 / Three Months ahead Expectation / Mean / Estimate
+2023-07,India,national,,exp_3m,median,10.0,0.15,21795,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jul-23 / Three Months ahead Expectation / Median / Estimate
+2023-07,India,national,,exp_1y,mean,10.0,0.11,21795,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jul-23 / One Year ahead Expectation / Mean / Estimate
+2023-07,India,national,,exp_1y,median,10.3,0.07,21795,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jul-23 / One Year ahead Expectation / Median / Estimate
+2023-09,India,national,,perception,mean,9.0,0.09,22052,table5,scrape,Table 2: Inflation Expectations of Various Groups: Sep-23 / Current Perception / Mean / Estimate
+2023-09,India,national,,perception,median,8.4,0.11,22052,table5,scrape,Table 2: Inflation Expectations of Various Groups: Sep-23 / Current Perception / Median / Estimate
+2023-09,India,national,,exp_3m,mean,9.7,0.09,22052,table5,scrape,Table 2: Inflation Expectations of Various Groups: Sep-23 / Three Months ahead Expectation / Mean / Estimate
+2023-09,India,national,,exp_3m,median,9.1,0.17,22052,table5,scrape,Table 2: Inflation Expectations of Various Groups: Sep-23 / Three Months ahead Expectation / Median / Estimate
+2023-09,India,national,,exp_1y,mean,9.3,0.11,22052,table5,scrape,Table 2: Inflation Expectations of Various Groups: Sep-23 / One Year ahead Expectation / Mean / Estimate
+2023-09,India,national,,exp_1y,median,9.9,0.17,22052,table5,scrape,Table 2: Inflation Expectations of Various Groups: Sep-23 / One Year ahead Expectation / Median / Estimate
+2023-11,India,national,,perception,mean,8.9,0.09,22241,table5,scrape,Table 2: Inflation Expectations of Various Groups: Nov-23 / Current Perception / Mean / Estimate
+2023-11,India,national,,perception,median,8.2,0.12,22241,table5,scrape,Table 2: Inflation Expectations of Various Groups: Nov-23 / Current Perception / Median / Estimate
+2023-11,India,national,,exp_3m,mean,9.7,0.09,22241,table5,scrape,Table 2: Inflation Expectations of Various Groups: Nov-23 / Three Months ahead Expectation / Mean / Estimate
+2023-11,India,national,,exp_3m,median,9.1,0.18,22241,table5,scrape,Table 2: Inflation Expectations of Various Groups: Nov-23 / Three Months ahead Expectation / Median / Estimate
+2023-11,India,national,,exp_1y,mean,9.6,0.1,22241,table5,scrape,Table 2: Inflation Expectations of Various Groups: Nov-23 / One Year ahead Expectation / Mean / Estimate
+2023-11,India,national,,exp_1y,median,10.1,0.1,22241,table5,scrape,Table 2: Inflation Expectations of Various Groups: Nov-23 / One Year ahead Expectation / Median / Estimate
+2024-01,India,national,,perception,mean,8.8,0.09,22422,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jan-24 / Current Perception / Mean / Estimate
+2024-01,India,national,,perception,median,8.1,0.12,22422,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jan-24 / Current Perception / Median / Estimate
+2024-01,India,national,,exp_3m,mean,9.7,0.09,22422,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jan-24 / Three Months ahead Expectation / Mean / Estimate
+2024-01,India,national,,exp_3m,median,9.2,0.17,22422,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jan-24 / Three Months ahead Expectation / Median / Estimate
+2024-01,India,national,,exp_1y,mean,9.6,0.1,22422,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jan-24 / One Year ahead Expectation / Mean / Estimate
+2024-01,India,national,,exp_1y,median,10.0,0.13,22422,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jan-24 / One Year ahead Expectation / Median / Estimate
+2024-03,India,national,,perception,mean,8.7,0.09,22437,table5,scrape,Table 2: Inflation Expectations of Various Groups: Mar-24 / Current Perception / Mean / Estimate
+2024-03,India,national,,perception,median,8.1,0.13,22437,table5,scrape,Table 2: Inflation Expectations of Various Groups: Mar-24 / Current Perception / Median / Estimate
+2024-03,India,national,,exp_3m,mean,9.6,0.09,22437,table5,scrape,Table 2: Inflation Expectations of Various Groups: Mar-24 / Three Months ahead Expectation / Mean / Estimate
+2024-03,India,national,,exp_3m,median,9.0,0.16,22437,table5,scrape,Table 2: Inflation Expectations of Various Groups: Mar-24 / Three Months ahead Expectation / Median / Estimate
+2024-03,India,national,,exp_1y,mean,9.5,0.1,22437,table5,scrape,Table 2: Inflation Expectations of Various Groups: Mar-24 / One Year ahead Expectation / Mean / Estimate
+2024-03,India,national,,exp_1y,median,9.8,0.19,22437,table5,scrape,Table 2: Inflation Expectations of Various Groups: Mar-24 / One Year ahead Expectation / Median / Estimate
+2024-05,India,national,,perception,mean,8.7,0.1,22449,table5,scrape,Table 2: Inflation Expectations of Various Groups: May-24 / Current Perception / Mean / Estimate
+2024-05,India,national,,perception,median,8.0,0.13,22449,table5,scrape,Table 2: Inflation Expectations of Various Groups: May-24 / Current Perception / Median / Estimate
+2024-05,India,national,,exp_3m,mean,9.8,0.1,22449,table5,scrape,Table 2: Inflation Expectations of Various Groups: May-24 / Three Months ahead Expectation / Mean / Estimate
+2024-05,India,national,,exp_3m,median,9.2,0.19,22449,table5,scrape,Table 2: Inflation Expectations of Various Groups: May-24 / Three Months ahead Expectation / Median / Estimate
+2024-05,India,national,,exp_1y,mean,9.6,0.12,22449,table5,scrape,Table 2: Inflation Expectations of Various Groups: May-24 / One Year ahead Expectation / Mean / Estimate
+2024-05,India,national,,exp_1y,median,9.9,0.19,22449,table5,scrape,Table 2: Inflation Expectations of Various Groups: May-24 / One Year ahead Expectation / Median / Estimate
+2024-07,India,national,,perception,mean,8.9,0.09,22466,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jul-24 / Current Perception / Mean / Estimate
+2024-07,India,national,,perception,median,8.2,0.12,22466,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jul-24 / Current Perception / Median / Estimate
+2024-07,India,national,,exp_3m,mean,9.8,0.1,22466,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jul-24 / Three Months ahead Expectation / Mean / Estimate
+2024-07,India,national,,exp_3m,median,9.4,0.24,22466,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jul-24 / Three Months ahead Expectation / Median / Estimate
+2024-07,India,national,,exp_1y,mean,9.8,0.11,22466,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jul-24 / One Year ahead Expectation / Mean / Estimate
+2024-07,India,national,,exp_1y,median,10.1,0.09,22466,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jul-24 / One Year ahead Expectation / Median / Estimate
+2024-09,India,national,,perception,mean,8.6,0.09,22728,table5,scrape,Table 2: Inflation Expectations of Various Groups: Sep-24 / Current Perception / Mean / Estimate
+2024-09,India,national,,perception,median,8.1,0.13,22728,table5,scrape,Table 2: Inflation Expectations of Various Groups: Sep-24 / Current Perception / Median / Estimate
+2024-09,India,national,,exp_3m,mean,9.6,0.1,22728,table5,scrape,Table 2: Inflation Expectations of Various Groups: Sep-24 / Three Months ahead Expectation / Mean / Estimate
+2024-09,India,national,,exp_3m,median,9.2,0.23,22728,table5,scrape,Table 2: Inflation Expectations of Various Groups: Sep-24 / Three Months ahead Expectation / Median / Estimate
+2024-09,India,national,,exp_1y,mean,9.6,0.12,22728,table5,scrape,Table 2: Inflation Expectations of Various Groups: Sep-24 / One Year ahead Expectation / Mean / Estimate
+2024-09,India,national,,exp_1y,median,10.0,0.14,22728,table5,scrape,Table 2: Inflation Expectations of Various Groups: Sep-24 / One Year ahead Expectation / Median / Estimate
+2024-11,India,national,,perception,mean,8.9,0.09,22785,table5,scrape,Table 2: Inflation Expectations of Various Groups: Nov-24 / Current Perception / Mean / Estimate
+2024-11,India,national,,perception,median,8.4,0.13,22785,table5,scrape,Table 2: Inflation Expectations of Various Groups: Nov-24 / Current Perception / Median / Estimate
+2024-11,India,national,,exp_3m,mean,9.7,0.1,22785,table5,scrape,Table 2: Inflation Expectations of Various Groups: Nov-24 / Three Months ahead Expectation / Mean / Estimate
+2024-11,India,national,,exp_3m,median,9.1,0.2,22785,table5,scrape,Table 2: Inflation Expectations of Various Groups: Nov-24 / Three Months ahead Expectation / Median / Estimate
+2024-11,India,national,,exp_1y,mean,9.7,0.12,22785,table5,scrape,Table 2: Inflation Expectations of Various Groups: Nov-24 / One Year ahead Expectation / Mean / Estimate
+2024-11,India,national,,exp_1y,median,10.1,0.11,22785,table5,scrape,Table 2: Inflation Expectations of Various Groups: Nov-24 / One Year ahead Expectation / Median / Estimate
+2025-01,India,national,,perception,mean,8.8,0.08,23130,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jan-25 / Current Perception / Mean / Estimate
+2025-01,India,national,,perception,median,8.3,0.11,23130,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jan-25 / Current Perception / Median / Estimate
+2025-01,India,national,,exp_3m,mean,9.8,0.09,23130,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jan-25 / Three Months ahead Expectation / Mean / Estimate
+2025-01,India,national,,exp_3m,median,9.3,0.23,23130,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jan-25 / Three Months ahead Expectation / Median / Estimate
+2025-01,India,national,,exp_1y,mean,9.9,0.11,23130,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jan-25 / One Year ahead Expectation / Mean / Estimate
+2025-01,India,national,,exp_1y,median,10.2,0.07,23130,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jan-25 / One Year ahead Expectation / Median / Estimate
+2025-03,India,national,,perception,mean,8.5,0.08,23147,table5,scrape,Table 2: Inflation Expectations of Various Groups: Mar-25 / Current Perception / Mean / Estimate
+2025-03,India,national,,perception,median,7.8,0.11,23147,table5,scrape,Table 2: Inflation Expectations of Various Groups: Mar-25 / Current Perception / Median / Estimate
+2025-03,India,national,,exp_3m,mean,9.5,0.08,23147,table5,scrape,Table 2: Inflation Expectations of Various Groups: Mar-25 / Three Months ahead Expectation / Mean / Estimate
+2025-03,India,national,,exp_3m,median,8.9,0.13,23147,table5,scrape,Table 2: Inflation Expectations of Various Groups: Mar-25 / Three Months ahead Expectation / Median / Estimate
+2025-03,India,national,,exp_1y,mean,9.4,0.11,23147,table5,scrape,Table 2: Inflation Expectations of Various Groups: Mar-25 / One Year ahead Expectation / Mean / Estimate
+2025-03,India,national,,exp_1y,median,9.7,0.23,23147,table5,scrape,Table 2: Inflation Expectations of Various Groups: Mar-25 / One Year ahead Expectation / Median / Estimate
+2025-05,India,national,,perception,mean,8.4,0.08,23157,table5,scrape,Table 2: Inflation Expectations of Various Groups: May-25 / Current Perception / Mean / Estimate
+2025-05,India,national,,perception,median,7.7,0.12,23157,table5,scrape,Table 2: Inflation Expectations of Various Groups: May-25 / Current Perception / Median / Estimate
+2025-05,India,national,,exp_3m,mean,9.5,0.09,23157,table5,scrape,Table 2: Inflation Expectations of Various Groups: May-25 / Three Months ahead Expectation / Mean / Estimate
+2025-05,India,national,,exp_3m,median,8.9,0.12,23157,table5,scrape,Table 2: Inflation Expectations of Various Groups: May-25 / Three Months ahead Expectation / Median / Estimate
+2025-05,India,national,,exp_1y,mean,9.4,0.11,23157,table5,scrape,Table 2: Inflation Expectations of Various Groups: May-25 / One Year ahead Expectation / Mean / Estimate
+2025-05,India,national,,exp_1y,median,9.5,0.25,23157,table5,scrape,Table 2: Inflation Expectations of Various Groups: May-25 / One Year ahead Expectation / Median / Estimate
+2025-07,India,national,,perception,mean,8.1,0.12,23164,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jul-25 / Current Perception / Mean / Estimate
+2025-07,India,national,,perception,median,7.2,0.26,23164,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jul-25 / Current Perception / Median / Estimate
+2025-07,India,national,,exp_3m,mean,8.9,0.13,23164,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jul-25 / Three Months ahead Expectation / Mean / Estimate
+2025-07,India,national,,exp_3m,median,8.3,0.26,23164,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jul-25 / Three Months ahead Expectation / Median / Estimate
+2025-07,India,national,,exp_1y,mean,8.7,0.17,23164,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jul-25 / One Year ahead Expectation / Mean / Estimate
+2025-07,India,national,,exp_1y,median,9.0,0.39,23164,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jul-25 / One Year ahead Expectation / Median / Estimate
+2025-09,India,national,,perception,mean,8.4,0.08,23431,table5,scrape,Table 2: Inflation Expectations of Various Groups: Sep-25 / Current Perception / Mean / Estimate
+2025-09,India,national,,perception,median,7.4,0.13,23431,table5,scrape,Table 2: Inflation Expectations of Various Groups: Sep-25 / Current Perception / Median / Estimate
+2025-09,India,national,,exp_3m,mean,9.1,0.08,23431,table5,scrape,Table 2: Inflation Expectations of Various Groups: Sep-25 / Three Months ahead Expectation / Mean / Estimate
+2025-09,India,national,,exp_3m,median,8.1,0.11,23431,table5,scrape,Table 2: Inflation Expectations of Various Groups: Sep-25 / Three Months ahead Expectation / Median / Estimate
+2025-09,India,national,,exp_1y,mean,8.8,0.11,23431,table5,scrape,Table 2: Inflation Expectations of Various Groups: Sep-25 / One Year ahead Expectation / Mean / Estimate
+2025-09,India,national,,exp_1y,median,8.7,0.16,23431,table5,scrape,Table 2: Inflation Expectations of Various Groups: Sep-25 / One Year ahead Expectation / Median / Estimate
+2025-11,India,national,,perception,mean,7.7,0.08,23443,table5,scrape,Table 2: Inflation Expectations of Various Groups: Nov-25 / Current Perception / Mean / Estimate
+2025-11,India,national,,perception,median,6.6,0.14,23443,table5,scrape,Table 2: Inflation Expectations of Various Groups: Nov-25 / Current Perception / Median / Estimate
+2025-11,India,national,,exp_3m,mean,8.4,0.08,23443,table5,scrape,Table 2: Inflation Expectations of Various Groups: Nov-25 / Three Months ahead Expectation / Mean / Estimate
+2025-11,India,national,,exp_3m,median,7.6,0.1,23443,table5,scrape,Table 2: Inflation Expectations of Various Groups: Nov-25 / Three Months ahead Expectation / Median / Estimate
+2025-11,India,national,,exp_1y,mean,8.1,0.1,23443,table5,scrape,Table 2: Inflation Expectations of Various Groups: Nov-25 / One Year ahead Expectation / Mean / Estimate
+2025-11,India,national,,exp_1y,median,8.0,0.15,23443,table5,scrape,Table 2: Inflation Expectations of Various Groups: Nov-25 / One Year ahead Expectation / Median / Estimate
+2026-01,India,national,,perception,mean,7.8,0.08,23787,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jan-26 / Current Perception / Mean / Estimate
+2026-01,India,national,,perception,median,6.9,0.16,23787,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jan-26 / Current Perception / Median / Estimate
+2026-01,India,national,,exp_3m,mean,8.9,0.09,23787,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jan-26 / Three Months ahead Expectation / Mean / Estimate
+2026-01,India,national,,exp_3m,median,7.9,0.12,23787,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jan-26 / Three Months ahead Expectation / Median / Estimate
+2026-01,India,national,,exp_1y,mean,8.9,0.11,23787,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jan-26 / One Year ahead Expectation / Mean / Estimate
+2026-01,India,national,,exp_1y,median,8.6,0.15,23787,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jan-26 / One Year ahead Expectation / Median / Estimate
+2026-03,India,national,,perception,mean,8.2,0.09,23805,table5,scrape,Table 2: Inflation Expectations of Various Groups: Mar-26 / Current Perception / Mean / Estimate
+2026-03,India,national,,perception,median,7.2,0.13,23805,table5,scrape,Table 2: Inflation Expectations of Various Groups: Mar-26 / Current Perception / Median / Estimate
+2026-03,India,national,,exp_3m,mean,9.3,0.09,23805,table5,scrape,Table 2: Inflation Expectations of Various Groups: Mar-26 / Three Months ahead Expectation / Mean / Estimate
+2026-03,India,national,,exp_3m,median,8.5,0.13,23805,table5,scrape,Table 2: Inflation Expectations of Various Groups: Mar-26 / Three Months ahead Expectation / Median / Estimate
+2026-03,India,national,,exp_1y,mean,9.1,0.11,23805,table5,scrape,Table 2: Inflation Expectations of Various Groups: Mar-26 / One Year ahead Expectation / Mean / Estimate
+2026-03,India,national,,exp_1y,median,8.8,0.15,23805,table5,scrape,Table 2: Inflation Expectations of Various Groups: Mar-26 / One Year ahead Expectation / Median / Estimate
+2026-05,India,national,,perception,mean,8.5,0.09,23815,table5,scrape,Table 2: Inflation Expectations of Various Groups: May-26 / Current Perception / Mean / Estimate
+2026-05,India,national,,perception,median,7.8,0.13,23815,table5,scrape,Table 2: Inflation Expectations of Various Groups: May-26 / Current Perception / Median / Estimate
+2026-05,India,national,,exp_3m,mean,9.7,0.09,23815,table5,scrape,Table 2: Inflation Expectations of Various Groups: May-26 / Three Months ahead Expectation / Mean / Estimate
+2026-05,India,national,,exp_3m,median,9.3,0.27,23815,table5,scrape,Table 2: Inflation Expectations of Various Groups: May-26 / Three Months ahead Expectation / Median / Estimate
+2026-05,India,national,,exp_1y,mean,9.2,0.11,23815,table5,scrape,Table 2: Inflation Expectations of Various Groups: May-26 / One Year ahead Expectation / Mean / Estimate
+2026-05,India,national,,exp_1y,median,9.3,0.27,23815,table5,scrape,Table 2: Inflation Expectations of Various Groups: May-26 / One Year ahead Expectation / Median / Estimate
+2026-07,India,national,,perception,mean,8.6,0.09,24077,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jul-26 / Current Perception / Mean / Estimate
+2026-07,India,national,,perception,median,7.8,0.14,24077,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jul-26 / Current Perception / Median / Estimate
+2026-07,India,national,,exp_3m,mean,9.7,0.1,24077,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jul-26 / Three Months ahead Expectation / Mean / Estimate
+2026-07,India,national,,exp_3m,median,9.2,0.24,24077,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jul-26 / Three Months ahead Expectation / Median / Estimate
+2026-07,India,national,,exp_1y,mean,9.3,0.12,24077,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jul-26 / One Year ahead Expectation / Mean / Estimate
+2026-07,India,national,,exp_1y,median,9.4,0.27,24077,table5,scrape,Table 2: Inflation Expectations of Various Groups: Jul-26 / One Year ahead Expectation / Median / Estimate
+2026-09,India,national,,perception,mean,9.1,0.11,24089,table5,scrape,Table 2: Inflation Expectations of Various Groups: Sep-26 / Current Perception / Mean / Estimate
+2026-09,India,national,,perception,median,8.4,0.14,24089,table5,scrape,Table 2: Inflation Expectations of Various Groups: Sep-26 / Current Perception / Median / Estimate
+2026-09,India,national,,exp_3m,mean,10.1,0.1,24089,table5,scrape,Table 2: Inflation Expectations of Various Groups: Sep-26 / Three Months ahead Expectation / Mean / Estimate
+2026-09,India,national,,exp_3m,median,9.9,0.21,24089,table5,scrape,Table 2: Inflation Expectations of Various Groups: Sep-26 / Three Months ahead Expectation / Median / Estimate
+2026-09,India,national,,exp_1y,mean,9.7,0.12,24089,table5,scrape,Table 2: Inflation Expectations of Various Groups: Sep-26 / One Year ahead Expectation / Mean / Estimate
+2026-09,India,national,,exp_1y,median,10.0,0.14,24089,table5,scrape,Table 2: Inflation Expectations of Various Groups: Sep-26 / One Year ahead Expectation / Median / Estimate

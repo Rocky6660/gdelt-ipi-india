@@ -1,0 +1,12 @@
+{
+ "trends_pulls": [
+  "20261123"
+ ],
+ "trends_n_pulls_min": 1,
+ "provisional": true,
+ "episodes_peaking": 1,
+ "episodes_pass_3_of_4": false,
+ "placebos_with_peak": 1,
+ "trends_pass_any_headline_term": true,
+ "trends_pass_inflation_term": true
+}

@@ -1,0 +1,2 @@
+announcement_date,meeting_start_date,meeting_end_date,body,repo_rate_after,change_bp,decision,source_url,notes
+YYYY-MM-DD,YYYY-MM-DD,YYYY-MM-DD,MPC|pre-MPC policy review|off-cycle,0.00,0,cut|hike|hold,https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=NNNNN,"copy from the RBI resolution press release; one row per meeting; do not type from memory"

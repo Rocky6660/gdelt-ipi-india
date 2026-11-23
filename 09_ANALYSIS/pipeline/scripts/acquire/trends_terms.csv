@@ -1,0 +1,16 @@
+term,group,language,pull_states,notes
+inflation,headline,en,Y,D17 validation series
+mehngai,headline,hi-Latn,Y,D17 validation series (romanised Hindi)
+महंगाई,headline,hi,Y,D17 validation series (Devanagari)
+onion price,item,en,N,D26 item attention (vegetables)
+tomato price,item,en,N,D26 item attention (vegetables)
+potato price,item,en,N,D26 item attention (vegetables)
+petrol price,item,en,N,D26 item attention (fuel)
+diesel price,item,en,N,D26 item attention (fuel)
+gas cylinder price,item,en,N,D26 item attention (LPG)
+milk price,item,en,N,D26 item attention (milk)
+dal price,item,en,N,D26 item attention (pulses)
+atta price,item,en,N,D26 item attention (cereals)
+rice price,item,en,N,D26 item attention (cereals)
+edible oil price,item,en,N,D26 item attention (oils)
+gold price,item,en,N,D26 item attention (gold; CPI misc.)

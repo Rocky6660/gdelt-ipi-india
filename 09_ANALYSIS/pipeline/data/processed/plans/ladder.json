@@ -1,0 +1,37 @@
+{
+ "quota_pre_project": 0,
+ "limit": 650000000000,
+ "recommended": "L3",
+ "rungs": [
+  {
+   "rung": "L0",
+   "window_days": 1991,
+   "other_days": 2283,
+   "dry_run_bytes": 1150104579968
+  },
+  {
+   "rung": "L1",
+   "window_days": 1991,
+   "other_days": 1149,
+   "dry_run_bytes": 891870991789
+  },
+  {
+   "rung": "L2",
+   "window_days": 1397,
+   "other_days": 971,
+   "dry_run_bytes": 658508598328
+  },
+  {
+   "rung": "L3",
+   "window_days": 882,
+   "other_days": 788,
+   "dry_run_bytes": 444928772004
+  },
+  {
+   "rung": "L4",
+   "window_days": 812,
+   "other_days": 482,
+   "dry_run_bytes": 331346417865
+  }
+ ]
+}

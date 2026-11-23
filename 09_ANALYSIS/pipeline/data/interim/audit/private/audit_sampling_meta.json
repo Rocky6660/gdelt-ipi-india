@@ -1,0 +1,136 @@
+{
+  "seed": 20261116,
+  "mode": "A",
+  "oversample_effective": 1.5,
+  "other_vernacular": "mar",
+  "n_input_after_dedup": 2955446,
+  "strata": {
+    "flagged": {
+      "N": 92747,
+      "n": 300,
+      "shortfall": 0,
+      "take": {
+        "y2015_18": 123,
+        "later": 177
+      },
+      "N_sub": {
+        "y2015_18": 29431,
+        "later": 63316
+      },
+      "target": 300
+    },
+    "econ_unflagged": {
+      "N": 1173026,
+      "n": 300,
+      "shortfall": 0,
+      "take": {
+        "y2015_18": 157,
+        "later": 143
+      },
+      "N_sub": {
+        "y2015_18": 495314,
+        "later": 677712
+      },
+      "target": 300
+    },
+    "nonecon_slug": {
+      "N": 1097,
+      "n": 150,
+      "shortfall": 0,
+      "take": {
+        "y2015_18": 70,
+        "later": 80
+      },
+      "N_sub": {
+        "y2015_18": 406,
+        "later": 691
+      },
+      "target": 150
+    },
+    "nonecon_noslug": {
+      "N": 146876,
+      "n": 100,
+      "shortfall": 0,
+      "take": {
+        "y2015_18": 59,
+        "later": 41
+      },
+      "N_sub": {
+        "y2015_18": 71241,
+        "later": 75635
+      },
+      "target": 100
+    },
+    "hin_flagged": {
+      "N": 21810,
+      "n": 100,
+      "shortfall": 0,
+      "take": {
+        "y2015_18": 32,
+        "later": 68
+      },
+      "N_sub": {
+        "y2015_18": 5244,
+        "later": 16566
+      },
+      "target": 100
+    },
+    "hin_econ_unflagged": {
+      "N": 1442275,
+      "n": 100,
+      "shortfall": 0,
+      "take": {
+        "y2015_18": 46,
+        "later": 54
+      },
+      "N_sub": {
+        "y2015_18": 519886,
+        "later": 922389
+      },
+      "target": 100
+    },
+    "oth_flagged": {
+      "N": 4717,
+      "n": 100,
+      "shortfall": 0,
+      "take": {
+        "y2015_18": 34,
+        "later": 66
+      },
+      "N_sub": {
+        "y2015_18": 1214,
+        "later": 3503
+      },
+      "target": 100
+    },
+    "oth_econ_unflagged": {
+      "N": 48079,
+      "n": 100,
+      "shortfall": 0,
+      "take": {
+        "y2015_18": 38,
+        "later": 62
+      },
+      "N_sub": {
+        "y2015_18": 13982,
+        "later": 34097
+      },
+      "target": 100
+    }
+  },
+  "human_shortfalls": {},
+  "human_n": 150,
+  "human_hindi_n": 40,
+  "modeb": null,
+  "keywords_n": 32,
+  "baseline_col": "flag_baseline",
+  "econ_col": "flag_econ",
+  "human_pool_conditional_on_retrieval": false,
+  "human_languages": [
+    "en",
+    "hin"
+  ],
+  "tranche": null,
+  "doc_stratum": false,
+  "keywords_sha256": "a0be85571df86de96a1d6a967f3a8771b06f167475cababcba57a7c9c4e57340"
+}

@@ -1,0 +1,37 @@
+outlet_key,domain,language,outlet_type,single_state,home_state,readership_rank,status
+toi,timesofindia.indiatimes.com,English,general daily,N,,,hand-keyed; SourceCommonName may pool to indiatimes.com [UNVERIFIED until probe]
+thehindu,thehindu.com,English,general daily,N,,,hand-keyed; Chennai-based with multi-state editions
+hindustantimes,hindustantimes.com,English,general daily,N,,,hand-keyed
+indianexpress,indianexpress.com,English,general daily,N,,,hand-keyed
+ndtv,ndtv.com,English,TV news portal,N,,,hand-keyed; Hindi at hindi.ndtv.com and business at profit.ndtv.com may be separate hosts [UNVERIFIED]
+livemint,livemint.com,English,business daily,N,,,hand-keyed
+economictimes,economictimes.indiatimes.com,English,business daily,N,,,hand-keyed; likely pooled with other indiatimes.com hosts [UNVERIFIED until probe]
+businessstandard,business-standard.com,English,business daily,N,,,hand-keyed
+moneycontrol,moneycontrol.com,English,business portal,N,,,hand-keyed
+news18,news18.com,English,TV news portal,N,,,hand-keyed; Hindi/regional editions on subdomains [UNVERIFIED]
+indiatoday,indiatoday.in,English,news magazine/TV portal,N,,,hand-keyed
+deccanherald,deccanherald.com,English,general daily,Y,Karnataka,,hand-keyed; single_state and home_state [UNVERIFIED]
+tribune,tribuneindia.com,English,general daily,N,,,hand-keyed; Chandigarh-based serving Punjab/Haryana/HP so treated as multi-state [UNVERIFIED]
+bhaskar,bhaskar.com,Hindi,general daily,N,,,hand-keyed; Dainik Bhaskar; multi-state; geography via edition paths (D40)
+jagran,jagran.com,Hindi,general daily,N,,,hand-keyed; Dainik Jagran; multi-state
+amarujala,amarujala.com,Hindi,general daily,N,,,hand-keyed; multi-state (UP, Uttarakhand and others) [UNVERIFIED]
+livehindustan,livehindustan.com,Hindi,general daily,N,,,hand-keyed; Hindustan (HT Media)
+navbharattimes,navbharattimes.indiatimes.com,Hindi,general daily,N,,,hand-keyed; likely pooled in indiatimes.com [UNVERIFIED until probe]
+lokmat,lokmat.com,Marathi,general daily,Y,Maharashtra,,hand-keyed; also has Goa edition [UNVERIFIED]
+anandabazar,anandabazar.com,Bengali,general daily,Y,West Bengal,,hand-keyed
+mathrubhumi,mathrubhumi.com,Malayalam,general daily,Y,Kerala,,hand-keyed
+dinamalar,dinamalar.com,Tamil,general daily,Y,Tamil Nadu,,hand-keyed
+eenadu,eenadu.net,Telugu,general daily,N,,,hand-keyed; serves Andhra Pradesh and Telangana so treated as multi-state [UNVERIFIED]
+manorama,manoramaonline.com,Malayalam,general daily,Y,Kerala,,hand-keyed; Malayala Manorama; added after verification [UNVERIFIED domain spelling in GDELT]
+dailythanthi,dailythanthi.com,Tamil,general daily,Y,Tamil Nadu,,hand-keyed; also Puducherry/Karnataka editions [UNVERIFIED]
+patrika,patrika.com,Hindi,general daily,N,,,hand-keyed; Rajasthan Patrika; Rajasthan plus MP/Chhattisgarh editions [UNVERIFIED]
+dinakaran,dinakaran.com,Tamil,general daily,Y,Tamil Nadu,,hand-keyed [UNVERIFIED]
+sakshi,sakshi.com,Telugu,general daily,N,,,hand-keyed; Andhra Pradesh and Telangana so treated as multi-state [UNVERIFIED]
+prabhatkhabar,prabhatkhabar.com,Hindi,general daily,N,,,hand-keyed; Jharkhand/Bihar/West Bengal [UNVERIFIED]
+gujaratsamachar,gujaratsamachar.com,Gujarati,general daily,Y,Gujarat,,hand-keyed [UNVERIFIED]
+divyabhaskar,divyabhaskar.co.in,Gujarati,general daily,Y,Gujarat,,hand-keyed; Dainik Bhaskar group; may also appear under bhaskar.com [UNVERIFIED]
+sakal,esakal.com,Marathi,general daily,Y,Maharashtra,,hand-keyed [UNVERIFIED]
+punjabkesari,punjabkesari.in,Hindi,general daily,N,,,hand-keyed; Punjab/Haryana/Delhi/HP editions [UNVERIFIED]
+telegraph,telegraphindia.com,English,general daily,Y,West Bengal,,hand-keyed; Kolkata-based; single-state label [UNVERIFIED]
+deccanchronicle,deccanchronicle.com,English,general daily,N,,,hand-keyed; Hyderabad/Chennai/Bengaluru editions [UNVERIFIED]
+financialexpress,financialexpress.com,English,business daily,N,,,hand-keyed

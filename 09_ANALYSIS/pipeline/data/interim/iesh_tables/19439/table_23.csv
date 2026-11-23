@@ -1,0 +1,15 @@
+c0,c1
+Table IV.1.2: Determinants of Term Premium,Table IV.1.2: Determinants of Term Premium
+Variable,Coefficient
+Term_Premium (-1),0.83 *** (9.60)
+ΔAverage_Turnover,-5.35*** (-5.57)
+Δ(Crude_Oil_Price),0.02***(6.65)
+Δ(INR/USD),0.08*** (3.33)
+Δ(Systemic_Liquidity),-0.89**(-2.14)
+Δ (Global_ Uncertainty)(-1),0.003(0.77)
+Δ(Policy_Uncertainty),0.001(0.81)
+c,0.29* (1.76)
+R-bar 2,0.82
+Durbin Watson,1.64
+LB-Q (p-value),0.59
+"***, **, * represent significance at 1%, 5% and 10% levels, respectively Note: Figures in parentheses are t-statistics based on heteroscedasticity and autocorrelation consistent (HAC)-corrected standard errors; LB-Q is p-value of Box-Pierce-Ljung Q-statistic for the null hypothesis of no correlation up to 4 lags; and Δ is the difference operator. Average_Turnover = Daily average turnover (% of GDP), Crude_Oil_Price = Price of Brent Crude Oil in USD/barrel, INR/USD= Spot Rupee-US Dollar exchange rate, Systemic_Liquidity = Outstanding LAF balance (% of GDP), Global_ Uncertainty = Global Economic Policy Uncertainty Index (GEPU), Policy_Uncertainty = Economic Policy Uncertainty (EPU) for India. Source: RBI staff estimates.","***, **, * represent significance at 1%, 5% and 10% levels, respectively Note: Figures in parentheses are t-statistics based on heteroscedasticity and autocorrelation consistent (HAC)-corrected standard errors; LB-Q is p-value of Box-Pierce-Ljung Q-statistic for the null hypothesis of no correlation up to 4 lags; and Δ is the difference operator. Average_Turnover = Daily average turnover (% of GDP), Crude_Oil_Price = Price of Brent Crude Oil in USD/barrel, INR/USD= Spot Rupee-US Dollar exchange rate, Systemic_Liquidity = Outstanding LAF balance (% of GDP), Global_ Uncertainty = Global Economic Policy Uncertainty Index (GEPU), Policy_Uncertainty = Economic Policy Uncertainty (EPU) for India. Source: RBI staff estimates."

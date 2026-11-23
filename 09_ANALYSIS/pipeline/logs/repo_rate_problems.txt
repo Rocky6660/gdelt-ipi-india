@@ -1,0 +1,43 @@
+# 2026-11-22T19:47:56+00:00
+## problems
+prid 34614 2015-08-04: 2 distinct values [7.11, 7.25]; using first sentence (7.25) | Third Bi-monthly Monetary Policy Statement, 2015-16
+    > policy repo rate under the liquidity adjustment facility (LAF) unchanged at 7.25 per cent
+    > policy repo rate in June the weighted average call rate eased from 7.47 per cent in May to 7.11 per cent
+## skipped notices (no decision text, no repo value)
+prid 35570 2015-11-27: no repo-rate sentence | RBI to announce Fifth Bi-monthly Monetary Policy Review, 2015-16 on Tuesday, December 01, 2015
+prid 34834 2015-08-28: no repo-rate sentence | Fourth Bi-monthly Monetary Policy Review, 2015-16 on Tuesday, September 29, 2015
+prid 34588 2015-07-31: no repo-rate sentence | Third Bi-monthly Monetary Policy Review, 2015-16 on Tuesday, August 4, 2015
+prid 34052 2015-05-29: no repo-rate sentence | Second Bi-monthly Monetary Policy Review, 2015-16 on Tuesday, June 2, 2015
+prid 33390 2015-03-05: no repo-rate sentence | First Bi-monthly Monetary Policy Statement, 2015-16 on April 7, 2015
+prid 33123 2015-01-30: no repo-rate sentence | Sixth Bi-monthly Monetary Policy Review, 2014-15 on February 03, 2015
+prid 38765 2016-12-02: no repo-rate sentence | Fifth Bi-monthly Monetary Policy Statement 2016-17 on at 2.30 pm on December 07, 2016
+prid 38184 2016-09-30: no repo-rate sentence | Fourth Bi-monthly Monetary Policy Statement, 2016-17 at 2.30 pm on October 4, 2016
+prid 37713 2016-08-05: no repo-rate sentence | Third Bi-monthly Monetary Policy Statement, 2016-17 on Tuesday, August 9, 2016
+prid 37154 2016-06-07: no repo-rate sentence | Second Bi-monthly Monetary Policy, 2016-17:  Governor’s Opening Remarks at the Press Conference
+prid 37126 2016-06-03: no repo-rate sentence | Second Bi-monthly Monetary Policy Statement, 2016-17 on June 07, 2016
+prid 36440 2016-03-09: no repo-rate sentence | First Bi-monthly Monetary Policy Statement 2016-17 on April 5, 2016
+prid 36095 2016-01-29: no repo-rate sentence | RBI to announce Sixth Bi-monthly Monetary Policy Review, 2015-16 on Tuesday, February 02, 2016
+prid 42418 2017-11-30: no repo-rate sentence | Fifth Bi-monthly Monetary Policy Statement, 2017-18
+prid 41811 2017-09-29: no repo-rate sentence | Fourth Bi-monthly Monetary Policy Statement, 2017-18
+prid 41200 2017-07-28: no repo-rate sentence | Third Bi-monthly Monetary Policy Statement, 2017-18
+prid 40644 2017-06-02: no repo-rate sentence | Second Bi-monthly Monetary Policy Statement, 2017-18 on at 2.30 pm on June 07, 2017
+prid 40030 2017-04-03: no repo-rate sentence | First Bi-monthly Monetary Policy Statement, 2017-18 at 2.30 pm on April 06, 2017
+prid 39494 2017-02-07: no repo-rate sentence (has decision wording) | Fixed rate LAF Repo window on Monetary Policy Statement dates
+prid 39455 2017-02-03: no repo-rate sentence | Sixth Bi-monthly Monetary Policy Statement 2016-17 at 2.30 pm on February 08, 2017
+prid 45659 2018-12-05: no repo-rate sentence (has decision wording) | Meeting of the Monetary Policy Committee for the Sixth Bi-monthly Monetary Policy Statement, 2018-19
+prid 45607 2018-11-30: no repo-rate sentence | Fifth Bi-monthly Monetary Policy Statement, 2018-19
+prid 45154 2018-10-05: no repo-rate sentence (has decision wording) | Meeting of the Monetary Policy Committee for the Fifth Bi-monthly Monetary Policy Statement, 2018-19
+prid 45110 2018-10-01: no repo-rate sentence | Fourth Bi-monthly Monetary Policy Statement, 2018-19
+prid 44638 2018-08-01: no repo-rate sentence (has decision wording) | Meeting of the Monetary Policy Committee for the Fourth Bi-monthly Monetary Policy Statement, 2018-19
+prid 44601 2018-07-27: no repo-rate sentence | Third Bi-monthly Monetary Policy Statement, 2018-19
+prid 44453 2018-07-10: no repo-rate sentence (has decision wording) | Meeting of the Monetary Policy Committee for the Third Bi-monthly Monetary Policy Statement, 2018-19
+prid 44047 2018-05-29: no repo-rate sentence | Second Bi-Monthly Monetary Policy Statement, 2018-19
+prid 43534 2018-04-02: no repo-rate sentence | First Bi-Monthly Monetary Policy Statement, 2018-19
+prid 43036 2018-02-02: no repo-rate sentence | Sixth Bi-monthly Monetary Policy Statement, 2017-18
+prid 48774 2019-12-02: no repo-rate sentence | Fifth Bi-monthly Monetary Policy Statement, 2019-20
+prid 48272 2019-09-30: no repo-rate sentence | Fourth Bi-monthly Monetary Policy Statement, 2019-20
+prid 47782 2019-08-02: no repo-rate sentence | Third Bi-monthly Monetary Policy Statement, 2019-20
+prid 47197 2019-06-03: no repo-rate sentence | Second Bi-monthly Monetary Policy Statement, 2019-20
+prid 46694 2019-04-01: no repo-rate sentence | First Bi-monthly Monetary Policy Statement, 2019-20
+prid 46187 2019-02-04: no repo-rate sentence | Sixth Bi-monthly Monetary Policy Statement, 2018-19
+prid 49314 2020-02-03: no repo-rate sentence | Sixth Bi-monthly Monetary Policy Statement, 2019-20

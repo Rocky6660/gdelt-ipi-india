@@ -1,0 +1,31 @@
+{
+ "n_population": 2955775,
+ "n_econ": 2782975,
+ "n_nonecon": 172800,
+ "nonecon_days": [
+  "2016-08-20",
+  "2017-02-20",
+  "2017-04-23",
+  "2017-05-23",
+  "2018-02-24",
+  "2018-04-26",
+  "2018-05-26",
+  "2020-10-26",
+  "2020-12-24",
+  "2021-06-14",
+  "2022-04-19",
+  "2022-10-25",
+  "2023-01-01",
+  "2023-04-19",
+  "2024-02-27",
+  "2024-02-29",
+  "2025-02-26",
+  "2026-02-17",
+  "2026-09-01"
+ ],
+ "nonecon_days_with_rows": 19,
+ "nonecon_articles_all_window_days_raw": 7599943.0,
+ "nonecon_articles_19_days_raw": 172800.0,
+ "nonecon_weight_factor_R": 43.98115162037037,
+ "note": "R uses raw (non-deduplicated) S-row counts; sample_audit deduplicates by URL, so R is the ratio of populations under the same counting rule only approximately (cross-day dup rate 0.3%)."
+}

@@ -1,0 +1,5 @@
+round,horizon,bin,count,page_id,table,source
+EXAMPLE-DELETE-THIS-ROW-YYYY-MM,exp_1y,<1,0,NNNNN,table5b,manual
+EXAMPLE-DELETE-THIS-ROW-YYYY-MM,exp_1y,1-2,0,NNNNN,table5b,manual
+EXAMPLE-DELETE-THIS-ROW-YYYY-MM,exp_1y,>=16,0,NNNNN,table5b,manual
+EXAMPLE-DELETE-THIS-ROW-YYYY-MM,exp_1y,No idea,0,NNNNN,table5b,manual

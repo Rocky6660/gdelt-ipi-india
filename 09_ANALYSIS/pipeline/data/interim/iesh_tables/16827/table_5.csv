@@ -1,0 +1,46 @@
+c0,c1,c2,c3,c4,c5,c6,c7,c8,c9,c10
+b) For 16 cities,b) For 16 cities,b) For 16 cities,b) For 16 cities,b) For 16 cities,b) For 16 cities,b) For 16 cities,b) For 16 cities,b) For 16 cities,b) For 16 cities,b) For 16 cities
+Round No./survey period,39,40,41,42,43,39,40,41,42,43
+(Round ended) →,Mar-15,Jun-15,Sep-15,Dec-15,Mar-16,Mar-15,Jun-15,Sep-15,Dec-15,Mar-16
+Options: General,Three-month Ahead,Three-month Ahead,Three-month Ahead,Three-month Ahead,Three-month Ahead,One-year Ahead,One-year Ahead,One-year Ahead,One-year Ahead,One-year Ahead
+Prices will increase,73.6,81.0,81.1,85.4,78.2,82.2,90.9,89.0,90.0,88.5
+Price increase more than current rate,28.3,34.4,32.1,31.5,28.7,32.9,41.7,38.8,36.2,34.7
+Price increase similar to current rate,24.0,24.3,22.1,31.3,27.3,28.8,28.8,24.8,30.0,32.4
+Price increase less than current rate,21.2,22.3,26.9,22.6,22.2,20.6,20.4,25.4,23.8,21.4
+No change in prices,15.4,13.9,12.8,9.8,17.7,10.0,5.8,5.8,5.9,8.0
+Decline in price,11.1,5.2,6.1,4.8,4.1,7.8,3.3,5.2,4.0,3.5
+Options: Food Product,Three-month Ahead,Three-month Ahead,Three-month Ahead,Three-month Ahead,Three-month Ahead,One-year Ahead,One-year Ahead,One-year Ahead,One-year Ahead,One-year Ahead
+Prices will increase,74.4,83.1,82.0,84.6,80.3,82.4,91.9,87.6,89.8,87.2
+Price increase more than current rate,27.9,35.1,33.7,31.5,28.9,32.0,39.1,38.2,36.8,32.8
+Price increase similar to current rate,25.2,25.7,24.2,31.7,29.8,29.2,30.5,25.3,30.4,33.5
+Price increase less than current rate,21.3,22.3,24.1,21.4,21.6,21.1,22.3,24.0,22.6,21.0
+No change in prices,15.0,11.7,11.2,9.3,14.9,9.9,5.2,6.6,5.9,9.2
+Decline in price,10.6,5.3,6.9,6.0,4.8,7.7,3.0,5.8,4.3,3.6
+Options: Non-Food Product,Three-month Ahead,Three-month Ahead,Three-month Ahead,Three-month Ahead,Three-month Ahead,One-year Ahead,One-year Ahead,One-year Ahead,One-year Ahead,One-year Ahead
+Prices will increase,64.2,76.0,71.3,72.7,70.0,76.0,85.6,80.4,80.7,80.3
+Price increase more than current rate,21.7,27.7,24.7,21.9,23.2,25.8,31.7,29.0,26.1,26.7
+Price increase similar to current rate,24.0,26.3,22.7,29.2,25.8,28.4,30.3,23.6,29.8,31.0
+Price increase less than current rate,18.5,21.9,23.9,21.7,21.0,21.7,23.6,27.7,24.8,22.7
+No change in prices,24.6,20.6,22.4,21.8,24.9,16.3,11.2,13.8,15.0,15.5
+Decline in price,11.2,3.4,6.3,5.5,5.2,7.7,3.1,5.8,4.4,4.2
+Options: Household Durables,Three-month Ahead,Three-month Ahead,Three-month Ahead,Three-month Ahead,Three-month Ahead,One-year Ahead,One-year Ahead,One-year Ahead,One-year Ahead,One-year Ahead
+Prices will increase,68.2,69.1,63.3,67.9,70.2,77.6,82.2,75.5,77.0,79.2
+Price increase more than current rate,25.4,25.9,22.1,20.6,22.1,29.2,31.8,28.6,26.1,28.6
+Price increase similar to current rate,24.4,24.2,18.9,26.9,26.8,29.2,28.7,22.1,29.2,29.5
+Price increase less than current rate,18.4,19.0,22.3,20.4,21.4,19.2,21.7,24.8,21.6,21.1
+No change in prices,21.6,23.5,26.3,22.6,20.7,15.5,12.7,15.9,15.2,14.0
+Decline in price,10.2,7.4,10.5,9.5,9.0,6.9,5.2,8.6,7.8,6.8
+Options: Housing Prices,Three-month Ahead,Three-month Ahead,Three-month Ahead,Three-month Ahead,Three-month Ahead,One-year Ahead,One-year Ahead,One-year Ahead,One-year Ahead,One-year Ahead
+Prices will increase,83.2,81.4,77.8,79.6,77.5,90.3,90.1,87.3,87.7,85.3
+Price increase more than current rate,46.7,43.1,38.7,38.6,39.1,53.1,50.3,48.7,45.4,45.8
+Price increase similar to current rate,21.5,23.7,20.8,26.1,23.1,23.0,24.3,19.4,25.8,24.9
+Price increase less than current rate,14.9,14.5,18.3,14.9,15.4,14.2,15.5,19.2,16.5,14.6
+No change in prices,11.8,13.8,14.9,13.2,15.3,5.4,6.5,7.0,7.0,8.2
+Decline in price,5.0,4.8,7.3,7.2,7.2,4.4,3.4,5.8,5.3,6.5
+Options: Cost of Services,Three-month Ahead,Three-month Ahead,Three-month Ahead,Three-month Ahead,Three-month Ahead,One-year Ahead,One-year Ahead,One-year Ahead,One-year Ahead,One-year Ahead
+Prices will increase,78.5,79.9,72.0,80.2,75.2,86.9,89.7,84.9,89.8,86.3
+Price increase more than current rate,32.7,34.2,28.4,33.2,28.1,37.6,39.5,36.9,38.1,35.3
+Price increase similar to current rate,25.7,26.7,20.7,28.3,27.0,29.5,29.7,22.1,29.8,30.0
+Price increase less than current rate,20.0,19.1,22.9,18.8,20.1,19.9,20.5,25.8,21.9,21.0
+No change in prices,17.9,18.0,23.4,16.3,20.6,9.7,8.2,10.6,7.2,10.3
+Decline in price,3.6,2.1,4.7,3.5,4.2,3.3,2.1,4.5,3.0,3.5

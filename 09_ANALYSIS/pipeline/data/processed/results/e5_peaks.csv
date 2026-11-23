@@ -1,0 +1,4 @@
+peak_month,peak_value,baseline_prior12,rise_months_to_peak,half_life_months,note
+2022-06,0.031239930923423365,0.009831813862774855,4,9.0,coarse: grid days only under L3
+2025-03,0.016354989210346796,0.013100221604562113,5,2.0,coarse: grid days only under L3
+2026-04,0.027627095277839523,0.01057294301175203,3,,coarse: grid days only under L3

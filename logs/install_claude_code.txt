@@ -1,0 +1,24 @@
+Installing Claude Code... 
+Setting up Claude Code...
+
+Checking installation…
+Installing Claude Code native build latest…
+Setting up launcher and shell integration…
+√ Claude Code successfully installed!
+
+  Version: 2.1.330
+
+  Location: C:\Users\ragha\.local\bin\claude.exe
+
+
+  Next: Run claude --help to get started
+
+‼ Setup notes:
+  ● Native installation exists but C:\Users\ragha\.local\bin is not in your PATH. Add it by opening: System Properties → Environment Variables → Edit User PATH → New → Add the path above. Then restart your terminal.
+
+
+? Installation complete!
+
+PATH updated
+CLAUDE_EXE_FOUND 
+DONE 

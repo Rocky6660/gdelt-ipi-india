@@ -1,0 +1,48 @@
+c0,c1,c2,c3,c4,c5,c6,c7,c8,c9,c10,c11,c12
+Table 2: Inflation Expectations of Various Groups: Jan-25,Table 2: Inflation Expectations of Various Groups: Jan-25,Table 2: Inflation Expectations of Various Groups: Jan-25,Table 2: Inflation Expectations of Various Groups: Jan-25,Table 2: Inflation Expectations of Various Groups: Jan-25,Table 2: Inflation Expectations of Various Groups: Jan-25,Table 2: Inflation Expectations of Various Groups: Jan-25,Table 2: Inflation Expectations of Various Groups: Jan-25,Table 2: Inflation Expectations of Various Groups: Jan-25,Table 2: Inflation Expectations of Various Groups: Jan-25,Table 2: Inflation Expectations of Various Groups: Jan-25,Table 2: Inflation Expectations of Various Groups: Jan-25,Table 2: Inflation Expectations of Various Groups: Jan-25
+,Current Perception,Current Perception,Current Perception,Current Perception,Three Months ahead Expectation,Three Months ahead Expectation,Three Months ahead Expectation,Three Months ahead Expectation,One Year ahead Expectation,One Year ahead Expectation,One Year ahead Expectation,One Year ahead Expectation
+,Mean,Mean,Median,Median,Mean,Mean,Median,Median,Mean,Mean,Median,Median
+,Estimate,SE,Estimate,SE,Estimate,SE,Estimate,SE,Estimate,SE,Estimate,SE
+Overall,8.8,0.08,8.3,0.11,9.8,0.09,9.3,0.23,9.9,0.11,10.2,0.07
+Gender-wise,,,,,,,,,,,,
+Male,9.0,0.13,8.4,0.17,9.8,0.14,9.4,0.31,9.9,0.16,10.1,0.15
+Female,8.8,0.11,8.2,0.13,9.8,0.12,9.5,0.28,9.9,0.14,10.2,0.09
+Category-wise,,,,,,,,,,,,
+Financial Sector Employees,9.1,0.41,9.1,1.01,10.0,0.45,10.0,0.52,10.3,0.53,10.2,0.52
+Other Employees,9.0,0.19,8.4,0.22,10.0,0.19,9.5,0.38,10.0,0.22,10.2,0.16
+Self Employed,8.8,0.20,8.1,0.25,9.4,0.21,8.6,0.27,9.7,0.23,9.8,0.32
+Homemaker,8.8,0.13,8.2,0.16,9.8,0.14,9.4,0.32,9.8,0.17,10.2,0.12
+Retired Persons,9.3,0.35,8.6,0.57,9.9,0.38,9.0,0.69,9.4,0.48,8.7,0.64
+Daily Workers,9.0,0.25,8.5,0.35,10.0,0.29,9.9,0.42,10.2,0.34,10.4,0.24
+Other category,8.4,0.21,7.9,0.23,9.6,0.23,9.0,0.31,9.8,0.26,10.2,0.23
+Age Group-wise,,,,,,,,,,,,
+Up to 25 years,8.3,0.16,7.7,0.19,9.3,0.17,8.6,0.20,9.7,0.21,9.8,0.28
+25 to 30 years,8.6,0.17,8.1,0.19,9.7,0.19,9.6,0.36,9.9,0.23,10.2,0.21
+30 to 35 years,8.9,0.19,8.3,0.28,9.9,0.20,9.7,0.40,10.1,0.23,10.3,0.18
+35 to 40 years,8.9,0.18,8.4,0.21,9.9,0.20,9.8,0.31,9.9,0.24,10.3,0.14
+40 to 45 years,9.0,0.21,8.5,0.28,9.9,0.22,9.6,0.43,10.0,0.26,10.2,0.23
+45 to 50 years,9.0,0.23,8.5,0.34,10.0,0.24,9.8,0.52,10.1,0.28,10.4,0.19
+50 to 55 years,8.9,0.25,8.2,0.45,9.7,0.28,9.1,0.53,9.6,0.34,9.8,0.55
+55 to 60 years,9.2,0.28,8.9,0.47,9.8,0.30,9.1,0.50,9.4,0.34,9.7,0.48
+60 years and above,9.2,0.27,8.6,0.58,10.0,0.30,9.3,0.69,9.8,0.34,9.8,0.64
+City-wise,,,,,,,,,,,,
+Ahmedabad,7.5,0.27,6.8,0.33,8.6,0.31,7.8,0.38,8.5,0.37,8.1,0.39
+Bengaluru,6.4,0.21,5.6,0.11,7.9,0.25,7.1,0.28,8.4,0.27,7.9,0.28
+Bhopal,9.6,0.49,9.6,0.94,10.6,0.43,10.4,0.35,9.9,0.54,10.4,0.34
+Bhubaneswar,8.5,0.62,8.4,1.35,10.2,0.69,9.7,1.38,10.8,0.86,10.5,1.21
+Chennai,8.7,0.27,9.2,0.70,9.5,0.42,9.7,0.74,10.4,0.53,10.9,0.50
+Delhi,10.1,0.21,10.1,0.17,10.3,0.23,10.2,0.26,10.3,0.24,10.5,0.19
+Guwahati,9.3,0.75,9.7,0.86,9.9,0.69,9.9,0.97,10.5,0.83,10.4,1.15
+Hyderabad,8.2,0.20,7.1,0.42,10.0,0.25,9.3,0.52,10.5,0.34,10.6,0.51
+Jaipur,7.6,0.46,7.3,0.62,7.8,0.38,7.6,0.58,7.1,0.56,6.8,0.74
+Jammu,10.4,0.54,10.2,0.55,8.8,0.61,8.9,0.79,9.2,0.85,9.8,1.36
+Kolkata,11.1,0.30,10.6,0.16,11.6,0.32,11.4,0.70,11.3,0.34,11.6,0.84
+Lucknow,8.4,0.42,8.0,0.27,9.2,0.41,8.5,0.25,8.7,0.64,9.1,0.41
+Mumbai,8.7,0.20,8.0,0.17,10.2,0.21,10.2,0.16,10.3,0.29,10.6,0.17
+Nagpur,9.1,0.39,8.6,0.46,10.4,0.40,9.7,0.54,10.4,0.76,11.1,0.84
+Patna,7.8,0.45,7.3,0.36,8.0,0.43,7.8,0.33,8.3,0.52,8.3,0.60
+Thiruvananthapuram,7.8,0.74,6.0,1.03,9.1,0.71,7.5,1.12,10.2,0.70,9.4,1.31
+Chandigarh,10.6,0.69,10.1,0.52,10.2,0.55,10.1,0.71,10.7,0.68,10.6,0.84
+Ranchi,9.0,0.49,8.3,0.37,9.2,0.48,8.5,0.36,9.3,0.76,9.0,0.65
+Raipur,9.7,0.91,10.4,0.92,10.0,1.10,10.3,2.21,8.7,1.04,9.9,2.57
+Note: The table provides estimates and standard errors (SE) for quantitative responses.,Note: The table provides estimates and standard errors (SE) for quantitative responses.,Note: The table provides estimates and standard errors (SE) for quantitative responses.,Note: The table provides estimates and standard errors (SE) for quantitative responses.,Note: The table provides estimates and standard errors (SE) for quantitative responses.,Note: The table provides estimates and standard errors (SE) for quantitative responses.,Note: The table provides estimates and standard errors (SE) for quantitative responses.,Note: The table provides estimates and standard errors (SE) for quantitative responses.,Note: The table provides estimates and standard errors (SE) for quantitative responses.,Note: The table provides estimates and standard errors (SE) for quantitative responses.,Note: The table provides estimates and standard errors (SE) for quantitative responses.,Note: The table provides estimates and standard errors (SE) for quantitative responses.,Note: The table provides estimates and standard errors (SE) for quantitative responses.

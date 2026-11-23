@@ -1,0 +1,97 @@
+{
+  "tested_at": "2026-11-22T21:18:35+00:00",
+  "overall_pass": false,
+  "hindi_query_pass": false,
+  "pause_between_queries_s": 6.0,
+  "rate_limit": {
+    "back_to_back": [
+      {
+        "try": 0,
+        "status": "error:RetryError"
+      },
+      {
+        "try": 1,
+        "status": "error:RetryError"
+      }
+    ],
+    "throttled_without_pause": false
+  },
+  "decision": "FAIL: use named fallbacks (Trends for validation; Trends + GKG item themes for E3 weights; E3 direction cut). No Phase-1 element depends on DOC.",
+  "queries": [
+    {
+      "key": "i_inflation_india",
+      "query": "inflation sourcecountry:india",
+      "params": {
+        "query": "inflation sourcecountry:india",
+        "mode": "timelinevolraw",
+        "format": "json",
+        "startdatetime": "20170101000000",
+        "enddatetime": "20261031235959"
+      },
+      "requested_at": "2026-11-22T21:16:41+00:00",
+      "status": 200,
+      "latency_s": 27.08,
+      "bytes": 211308,
+      "headers": {
+        "Date": "Sun, 22 Nov 2026 21:17:00 GMT",
+        "Server": "GDELT Server",
+        "Content-Type": "application/json; charset=utf-8"
+      },
+      "n_points": 3546,
+      "first_date": "2017-01-01",
+      "last_date": "2026-10-27",
+      "median_step_days": 1.0,
+      "resolution": "daily",
+      "share_nonzero": 0.999,
+      "norm_field_present": true,
+      "depth_ok": true,
+      "resolution_ok": true,
+      "passed": true
+    },
+    {
+      "key": "ii_domain_thehindu",
+      "query": "domain:thehindu.com",
+      "params": {
+        "query": "domain:thehindu.com",
+        "mode": "timelinevolraw",
+        "format": "json",
+        "startdatetime": "20170101000000",
+        "enddatetime": "20261031235959"
+      },
+      "requested_at": "2026-11-22T21:17:14+00:00",
+      "status": "error:ConnectionError",
+      "error": "HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=domain%3Athehindu.com&mode=timelinevolraw&format=json&startdatetime=20170101000000&enddatetime=20261031235959 (Caused by ProtocolError('Connection aborted.', RemoteDisconnected('Remote en",
+      "passed": false
+    },
+    {
+      "key": "iii_theme_inflation_thehindu",
+      "query": "theme:ECON_INFLATION domain:thehindu.com",
+      "params": {
+        "query": "theme:ECON_INFLATION domain:thehindu.com",
+        "mode": "timelinevolraw",
+        "format": "json",
+        "startdatetime": "20170101000000",
+        "enddatetime": "20261031235959"
+      },
+      "requested_at": "2026-11-22T21:17:33+00:00",
+      "status": "error:RetryError",
+      "error": "HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=theme%3AECON_INFLATION+domain%3Athehindu.com&mode=timelinevolraw&format=json&startdatetime=20170101000000&enddatetime=20261031235959 (Caused by ResponseError('too many 429 error responses",
+      "passed": false
+    },
+    {
+      "key": "iv_hindi_keywords",
+      "query": "(inflation OR \"price rise\" OR costlier OR dearness) sourcelang:hindi",
+      "params": {
+        "query": "(inflation OR \"price rise\" OR costlier OR dearness) sourcelang:hindi",
+        "mode": "timelinevolraw",
+        "format": "json",
+        "startdatetime": "20170101000000",
+        "enddatetime": "20261031235959"
+      },
+      "requested_at": "2026-11-22T21:17:57+00:00",
+      "status": "error:ConnectionError",
+      "error": "HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28inflation+OR+%22price+rise%22+OR+costlier+OR+dearness%29+sourcelang%3Ahindi&mode=timelinevolraw&format=json&startdatetime=20170101000000&enddatetime=20261031235959 (Caused by ProtocolE",
+      "passed": false
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+panel: 714 of 936 superset domains
+  loaded 25/216 chunks
+  loaded 50/216 chunks
+  loaded 75/216 chunks
+  loaded 100/216 chunks
+  loaded 125/216 chunks
+  loaded 150/216 chunks
+  loaded 175/216 chunks
+  loaded 200/216 chunks
+loaded 216 chunks: 6,824,197 article rows, 2,517,496 aggregate rows
+# build_index report
+
+Built 2026-11-22T21:34:49+00:00 (rung L3); partial: False
+Panel: 714 of 936 domains; article share in panel 0.700
+Days: 1654 sampled, 9 invalid (core rule 1, global rule 8; global counts available for 1219 days)
+
+## Window series
+{
+ "rounds_with_window_days": 63,
+ "valid_windows": 62,
+ "core_size": 104,
+ "core2018_size": 99,
+ "core_language_counts": {
+  "native": 50,
+  "hin": 23,
+  "tam": 9,
+  "mal": 6,
+  "tel": 4,
+  "mar": 3,
+  "pan": 3,
+  "kan": 3,
+  "guj": 2,
+  "ben": 1
+ },
+ "core2018_language_counts": {
+  "native": 47,
+  "hin": 21,
+  "tam": 9,
+  "mal": 7,
+  "tel": 4,
+  "mar": 3,
+  "pan": 3,
+  "kan": 3,
+  "guj": 2
+ },
+ "outlet_days_excluded_share": 0.028039202959693643,
+ "days_excluded": 20,
+ "corr_dedup_vs_nodedup": 0.9716288214828152,
+ "mean_share_dedup": 0.011385779578893045,
+ "mean_share_nodedup": 0.01076995403881668,
+ "corr_window_vs_monthly_definition": 0.9514216201891899
+}

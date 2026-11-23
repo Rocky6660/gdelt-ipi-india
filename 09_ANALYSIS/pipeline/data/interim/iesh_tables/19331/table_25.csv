@@ -1,0 +1,31 @@
+c0,c1
+Table IV.1.2: Logit Model – Results,Table IV.1.2: Logit Model – Results
+Variables,Odds Ratio
+1,2
+Lagged spread,1.002
+,(0.587)
+Within period expectation,1.001*
+,(0.093)
+Liquidity uncertainty,1.01
+,(0.856)
+Liquidity distribution,1.05***
+,(0.000)
+Interest rate uncertainty,1.01***
+,(0.005)
+Liquidity conditions,1.001**
+,(0.042)
+Quarterly dummy,3.25**
+,(0.022)
+Post taper tantrum dummy,5.10**
+,(0.050)
+Corridor width dummy,4.39***
+,(0.000)
+Demonetization dummy,0.301
+,(0.109)
+Constant,0.01***
+,(0.000)
+Diagnostic Checks,Diagnostic Checks
+LR chi 2 test,112.3 (0.00)
+McFadden’s R 2,0.140
+No. of Observations,1960
+"*** p<0.01, ** p<0.05, * p<0.1. Note : p-values are in parentheses.","*** p<0.01, ** p<0.05, * p<0.1. Note : p-values are in parentheses."
