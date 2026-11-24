@@ -2,7 +2,7 @@
 
 Deadline: 25 Nov 2026. Research design: 09_ANALYSIS/pipeline/docs/design/design_final.md (+ ledger.md for all user rulings).
 Code: 09_ANALYSIS/pipeline/scripts. Python env: %LOCALAPPDATA%\gdelt_ipi_py312\Scripts\python.exe (Python 3.12, all packages).
-Run everything from 09_ANALYSIS/pipeline. BigQuery auth is cached ([email removed], project [project removed]).
+Run everything from 09_ANALYSIS/pipeline. BigQuery auth is cached (your Google account / your GCP project).
 
 ## User rulings to respect (see docs/design/ledger.md)
 - Opus only; no subagents/reviewer agents. No causal claims. No fabricated data. Report blockers.

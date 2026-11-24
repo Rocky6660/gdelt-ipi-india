@@ -1,1 +1,0 @@
-query_id,date_created,date_start,date_end,table_name,purpose,dry_run_bytes,maximum_bytes_billed,actual_bytes_processed,rows_returned,status,notes
