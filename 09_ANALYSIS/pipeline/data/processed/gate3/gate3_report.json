@@ -3,6 +3,7 @@
   "build_index re-run from cache",
   "phase1 re-run (variant_price_family, ipi_monthly_variant_price_family) vs data/processed/results_switched",
   "d17 re-run",
+  "d9_switch and switched-flag extensions re-run",
   "audit_metrics re-run"
  ],
  "files": {
@@ -43,6 +44,30 @@
    "reason": "identical bytes"
   },
   "d17/d17_validation.csv": {
+   "match": true,
+   "reason": "identical bytes"
+  },
+  "switch/d9_switch.json": {
+   "match": true,
+   "reason": "final flag unchanged"
+  },
+  "extensions/e2_d19.csv": {
+   "match": true,
+   "reason": "identical bytes"
+  },
+  "extensions/e4_d19.csv": {
+   "match": true,
+   "reason": "identical bytes"
+  },
+  "extensions/e5_excess_attention.csv": {
+   "match": true,
+   "reason": "identical bytes"
+  },
+  "extensions/e5_peaks.csv": {
+   "match": true,
+   "reason": "identical bytes"
+  },
+  "extensions/e2_leadlag_monthly.csv": {
    "match": true,
    "reason": "identical bytes"
   },

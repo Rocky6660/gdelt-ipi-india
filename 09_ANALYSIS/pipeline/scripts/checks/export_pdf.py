@@ -15,8 +15,23 @@ CHROME = [r"C:\Program Files\Google\Chrome\Application\chrome.exe",
           r"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"]
 
 
+GREEK = {"\\Delta": "Δ", "\\alpha": "α", "\\beta": "β", "\\gamma": "γ", "\\delta": "δ",
+         "\\varepsilon": "ε", "\\equiv": "≡", "\\ge": "≥", "\\,": " "}
+
+
+def math(t: str) -> str:
+    for a, b in GREEK.items():
+        t = re.sub(re.escape(a) + r"(?![A-Za-z])", lambda m, b=b: b, t)
+    t = re.sub(r"_\{([^}]*)\}", r"<sub>\1</sub>", t)
+    t = re.sub(r"_([A-Za-z0-9])", r"<sub>\1</sub>", t)
+    t = re.sub(r"\^\{([^}]*)\}", r"<sup>\1</sup>", t)
+    t = re.sub(r"\^([A-Za-z0-9])", r"<sup>\1</sup>", t)
+    return "<i>" + t.replace("'", "′") + "</i>"
+
+
 def inline(t: str) -> str:
     t = html.escape(t, quote=False)
+    t = re.sub(r"\$([^$]+)\$", lambda m: math(m.group(1)), t)
     t = re.sub(r"`([^`]+)`", r"<code>\1</code>", t)
     t = re.sub(r"\*\*([^*]+)\*\*", r"<b>\1</b>", t)
     t = re.sub(r"(?<![*\w])\*([^*\n]+)\*(?!\*)", r"<i>\1</i>", t)
@@ -32,7 +47,7 @@ def convert(md: str, base: Path) -> str:
             if k.strip() == "title": title = v.strip().strip('"')
             if k.strip() == "date": date = v.strip().strip('"')
         md = md[m.end():]
-    out, para, lst, tbl = [], [], None, []
+    out, para, lst, tbl, toc = [], [], None, [], []
 
     def flush():
         nonlocal para, lst, tbl
@@ -49,8 +64,12 @@ def convert(md: str, base: Path) -> str:
         s = line.rstrip()
         if not s.strip():
             flush(); continue
+        if s.startswith("$$") and s.endswith("$$") and len(s) > 4:
+            flush(); out.append("<p class='eq'>" + math(html.escape(s[2:-2], quote=False)) + "</p>"); continue
         if s.startswith("#"):
-            flush(); n = len(s) - len(s.lstrip("#")); out.append(f"<h{n + 1}>{inline(s[n:].strip())}</h{n + 1}>"); continue
+            flush(); n = len(s) - len(s.lstrip("#")); txt = s[n:].strip(); aid = f"s{len(toc)}"
+            if n <= 3: toc.append((n, txt, aid))
+            out.append(f"<h{n + 1} id='{aid}'>{inline(txt)}</h{n + 1}>"); continue
         im = re.match(r"!\[(.*?)\]\((.*?)\)", s.strip())
         if im:
             flush(); src = (base / im.group(2)).resolve().as_uri()
@@ -73,14 +92,27 @@ def convert(md: str, base: Path) -> str:
            ".date{text-align:center;color:#555}table{border-collapse:collapse;font-size:9.5pt;margin:0.8em 0}"
            "th,td{border-top:1px solid #999;border-bottom:1px solid #999;padding:3px 6px;text-align:left}"
            "figure{margin:1em 0;text-align:center}img{max-width:100%}figcaption{font-size:9.5pt;color:#333}"
-           "code{font-size:9pt}@page{size:A4;margin:22mm}")
+           "code{font-size:9pt}@page{size:A4;margin:22mm}.eq{text-align:center;font-size:11.5pt}"
+           ".toc{page-break-after:always}.toc p{margin:2px 0}.toc .l4{margin-left:1.5em;font-size:10pt}.toc .l3{font-weight:bold;margin-top:4px}.toc a{color:inherit;text-decoration:none}"
+           "h2{page-break-after:avoid}table,figure{page-break-inside:avoid}")
     head = f"<h1>{inline(title)}</h1><p class='date'>{inline(date)}</p>" if title else ""
+    if WITH_TOC and toc:
+        items = "".join(f"<p class='l{n + 1}'><a href='#{a}'>{inline(t)}</a></p>" for n, t, a in toc if n >= 2)
+        abstract_end = next((i for i, o in enumerate(out) if o.startswith("<h2") and "Abstract" not in o and i > 0), 0)
+        out.insert(abstract_end, f"<div class='toc'><h2>Contents</h2>{items}</div>")
     return f"<!doctype html><html><head><meta charset='utf-8'><title>{html.escape(title)}</title><style>{css}</style></head><body>{head}{''.join(out)}</body></html>"
 
 
+WITH_TOC = False
+
+
 def main() -> int:
+    global SRC, WITH_TOC
+    if len(sys.argv) > 1:
+        SRC = SRC.with_name(sys.argv[1]); WITH_TOC = "--toc" in sys.argv
     page = convert(SRC.read_text(encoding="utf-8"), SRC.parent)
-    out_html = SRC.with_name("paper.html"); out_pdf = SRC.with_name("paper.pdf")
+    stem = "paper" if SRC.name == "paper_draft.md" else SRC.stem
+    out_html = SRC.with_name(stem + ".html"); out_pdf = SRC.with_name(stem + ".pdf")
     out_html.write_text(page, encoding="utf-8")
     exe = next((c for c in CHROME if Path(c).exists()), None)
     if not exe:

@@ -1,6 +1,6 @@
 # build_index report
 
-Built 2026-11-23T16:36:28+00:00 (rung L3); partial: False
+Built 2026-11-24T00:01:58+00:00 (rung L3); partial: False
 Panel: 714 of 936 domains; article share in panel 0.700
 Days: 1654 sampled, 9 invalid (core rule 1, global rule 8; global counts available for 1219 days)
 

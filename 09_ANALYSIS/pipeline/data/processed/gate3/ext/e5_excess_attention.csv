@@ -1,0 +1,3 @@
+model,outcome,focus,N,beta,se_ewc,dof_B,ci_lo,ci_hi,t,p_wild,partial_r2,r2,controls
+E5 ExcessAttention (disinflation) in D19 spec,y1_median_h0,excess_attention,56,0.2914193805889652,0.13029975896756496,6,-0.027412643830103667,0.6102514050080341,2.2365304655821134,0.1845,0.058525031041850806,0.46795436617764563,ipi_z;y1_median_lag;d_y1_median_lag;cpi_rt;food_rt;d_repo;mode_phone
+E5 IPI with ExcessAttention control,y1_median_h0,ipi_z,56,0.15395360101813138,0.04670043215091777,6,0.039681760134458705,0.2682254419018041,3.2966204792412364,0.056,0.03655732817759161,0.46795436617764574,excess_attention;y1_median_lag;d_y1_median_lag;cpi_rt;food_rt;d_repo;mode_phone
