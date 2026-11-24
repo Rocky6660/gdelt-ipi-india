@@ -252,3 +252,43 @@ timestamp,name,query,mode,status,note
 2026-11-24T00:07:03+00:00,prec_rice_202312,"(""rice price"" OR ""rice prices"") sourcecountry:india",artlist,429,try 2
 2026-11-24T00:07:46+00:00,prec_rice_202312,"(""rice price"" OR ""rice prices"") sourcecountry:india",artlist,429,try 3
 2026-11-24T00:08:44+00:00,prec_rice_202312,"(""rice price"" OR ""rice prices"") sourcecountry:india",artlist,429,try 4
+2026-11-24T00:09:52+00:00,prec_rice_202312,"(""rice price"" OR ""rice prices"") sourcecountry:india",artlist,error:SSLError,try 5
+2026-11-24T00:10:54+00:00,prec_rice_202312,"(""rice price"" OR ""rice prices"") sourcecountry:india",artlist,429,try 6
+2026-11-24T00:12:37+00:00,prec_rice_202312,"(""rice price"" OR ""rice prices"") sourcecountry:india",artlist,429,try 7
+2026-11-24T00:14:19+00:00,prec_rice_202312,"(""rice price"" OR ""rice prices"") sourcecountry:india",artlist,429,try 8
+2026-11-24T00:15:49+00:00,prec_rice_202312,"(""rice price"" OR ""rice prices"") sourcecountry:india",artlist,GAVE_UP,8 tries
+2026-11-24T00:16:04+00:00,prec_edible_oil_201712,"(""edible oil price"" OR ""edible oil prices"" OR ""cooking oil price"" OR ""mustard oil price"") sourcecountry:india",artlist,200,try 1
+2026-11-24T00:16:18+00:00,prec_edible_oil_202001,"(""edible oil price"" OR ""edible oil prices"" OR ""cooking oil price"" OR ""mustard oil price"") sourcecountry:india",artlist,429,try 1
+2026-11-24T00:16:45+00:00,prec_edible_oil_202001,"(""edible oil price"" OR ""edible oil prices"" OR ""cooking oil price"" OR ""mustard oil price"") sourcecountry:india",artlist,429,try 2
+2026-11-24T00:17:30+00:00,prec_edible_oil_202001,"(""edible oil price"" OR ""edible oil prices"" OR ""cooking oil price"" OR ""mustard oil price"") sourcecountry:india",artlist,200,try 3
+2026-11-24T00:17:43+00:00,prec_edible_oil_202207,"(""edible oil price"" OR ""edible oil prices"" OR ""cooking oil price"" OR ""mustard oil price"") sourcecountry:india",artlist,429,try 1
+2026-11-24T00:18:13+00:00,prec_edible_oil_202207,"(""edible oil price"" OR ""edible oil prices"" OR ""cooking oil price"" OR ""mustard oil price"") sourcecountry:india",artlist,429,try 2
+2026-11-24T00:18:55+00:00,prec_edible_oil_202207,"(""edible oil price"" OR ""edible oil prices"" OR ""cooking oil price"" OR ""mustard oil price"") sourcecountry:india",artlist,429,try 3
+2026-11-24T00:19:52+00:00,prec_edible_oil_202207,"(""edible oil price"" OR ""edible oil prices"" OR ""cooking oil price"" OR ""mustard oil price"") sourcecountry:india",artlist,429,try 4
+2026-11-24T00:21:10+00:00,prec_edible_oil_202207,"(""edible oil price"" OR ""edible oil prices"" OR ""cooking oil price"" OR ""mustard oil price"") sourcecountry:india",artlist,200,try 5
+2026-11-24T00:21:22+00:00,prec_edible_oil_202503,"(""edible oil price"" OR ""edible oil prices"" OR ""cooking oil price"" OR ""mustard oil price"") sourcecountry:india",artlist,429,try 1
+2026-11-24T00:21:49+00:00,prec_edible_oil_202503,"(""edible oil price"" OR ""edible oil prices"" OR ""cooking oil price"" OR ""mustard oil price"") sourcecountry:india",artlist,429,try 2
+2026-11-24T00:22:31+00:00,prec_edible_oil_202503,"(""edible oil price"" OR ""edible oil prices"" OR ""cooking oil price"" OR ""mustard oil price"") sourcecountry:india",artlist,429,try 3
+2026-11-24T00:23:29+00:00,prec_edible_oil_202503,"(""edible oil price"" OR ""edible oil prices"" OR ""cooking oil price"" OR ""mustard oil price"") sourcecountry:india",artlist,429,try 4
+2026-11-24T00:24:42+00:00,prec_edible_oil_202503,"(""edible oil price"" OR ""edible oil prices"" OR ""cooking oil price"" OR ""mustard oil price"") sourcecountry:india",artlist,429,try 5
+2026-11-24T00:26:09+00:00,prec_edible_oil_202503,"(""edible oil price"" OR ""edible oil prices"" OR ""cooking oil price"" OR ""mustard oil price"") sourcecountry:india",artlist,429,try 6
+2026-11-24T00:27:50+00:00,prec_edible_oil_202503,"(""edible oil price"" OR ""edible oil prices"" OR ""cooking oil price"" OR ""mustard oil price"") sourcecountry:india",artlist,429,try 7
+2026-11-24T00:29:36+00:00,prec_edible_oil_202503,"(""edible oil price"" OR ""edible oil prices"" OR ""cooking oil price"" OR ""mustard oil price"") sourcecountry:india",artlist,200,try 8
+2026-11-24T00:29:48+00:00,prec_vegetables_201810,"(""vegetable prices"" OR ""vegetable price"") sourcecountry:india",artlist,429,try 1
+2026-11-24T00:30:22+00:00,prec_vegetables_201810,"(""vegetable prices"" OR ""vegetable price"") sourcecountry:india",artlist,429,try 2
+2026-11-24T00:31:20+00:00,prec_vegetables_201810,"(""vegetable prices"" OR ""vegetable price"") sourcecountry:india",artlist,200,try 3
+2026-11-24T00:31:36+00:00,prec_vegetables_202101,"(""vegetable prices"" OR ""vegetable price"") sourcecountry:india",artlist,429,try 1
+2026-11-24T00:32:13+00:00,prec_vegetables_202101,"(""vegetable prices"" OR ""vegetable price"") sourcecountry:india",artlist,200,try 2
+2026-11-24T00:32:27+00:00,prec_vegetables_202212,"(""vegetable prices"" OR ""vegetable price"") sourcecountry:india",artlist,429,try 1
+2026-11-24T00:32:54+00:00,prec_vegetables_202212,"(""vegetable prices"" OR ""vegetable price"") sourcecountry:india",artlist,429,try 2
+2026-11-24T00:33:38+00:00,prec_vegetables_202212,"(""vegetable prices"" OR ""vegetable price"") sourcecountry:india",artlist,429,try 3
+2026-11-24T00:34:36+00:00,prec_vegetables_202212,"(""vegetable prices"" OR ""vegetable price"") sourcecountry:india",artlist,429,try 4
+2026-11-24T00:35:48+00:00,prec_vegetables_202212,"(""vegetable prices"" OR ""vegetable price"") sourcecountry:india",artlist,429,try 5
+2026-11-24T00:37:14+00:00,prec_vegetables_202212,"(""vegetable prices"" OR ""vegetable price"") sourcecountry:india",artlist,429,try 6
+2026-11-24T00:38:57+00:00,prec_vegetables_202212,"(""vegetable prices"" OR ""vegetable price"") sourcecountry:india",artlist,429,try 7
+2026-11-24T00:40:37+00:00,prec_vegetables_202212,"(""vegetable prices"" OR ""vegetable price"") sourcecountry:india",artlist,error:SSLError,try 8
+2026-11-24T01:13:03+00:00,prec_vegetables_202212,"(""vegetable prices"" OR ""vegetable price"") sourcecountry:india",artlist,GAVE_UP,8 tries
+2026-11-24T01:13:04+00:00,prec_vegetables_202308,"(""vegetable prices"" OR ""vegetable price"") sourcecountry:india",artlist,error:ConnectionError,try 1
+2026-11-24T04:45:58+00:00,prec_vegetables_202308,"(""vegetable prices"" OR ""vegetable price"") sourcecountry:india",artlist,error:ConnectionError,try 2
+2026-11-24T04:46:28+00:00,prec_vegetables_202308,"(""vegetable prices"" OR ""vegetable price"") sourcecountry:india",artlist,error:SSLError,try 3
+2026-11-24T04:47:17+00:00,prec_vegetables_202308,"(""vegetable prices"" OR ""vegetable price"") sourcecountry:india",artlist,200,try 4
