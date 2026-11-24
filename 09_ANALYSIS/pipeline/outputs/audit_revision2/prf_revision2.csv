@@ -1,0 +1,769 @@
+case,variant,frame,group,metric,estimate,ci_lo,ci_hi,n_coded,n_flagged,n_relevant
+reference (missing at random),flag_baseline,econ,all,precision,0.16375367063530452,0.12758152819675034,0.20113547309206048,884,438,96
+reference (missing at random),flag_baseline,econ,all,recall,0.3414986783428286,0.21997678885016742,0.5674082174936476,884,438,96
+reference (missing at random),flag_baseline,econ,all,f2,0.2805866147451,0.20143497159050314,0.3860777399976423,884,438,96
+reference (missing at random),flag_price_family,econ,all,precision,0.12088783549853532,0.07778408075179005,0.1868762881913465,884,459,96
+reference (missing at random),flag_price_family,econ,all,recall,0.4470391799802202,0.276226487914638,0.7115075960889623,884,459,96
+reference (missing at random),flag_price_family,econ,all,f2,0.2903618593503033,0.19210475868702603,0.41543986713960024,884,459,96
+reference (missing at random),flag_baseline,econ,en,precision,0.13564355059419544,0.09375064922925044,0.17903488048966,453,231,36
+reference (missing at random),flag_baseline,econ,en,recall,0.3324596062965032,0.1861497399993239,0.6950446639960749,453,231,36
+reference (missing at random),flag_baseline,econ,en,f2,0.257681480305201,0.16266114049633365,0.39511609305958334,453,231,36
+reference (missing at random),flag_price_family,econ,en,precision,0.1084088308165366,0.05621121325044802,0.18838002436124826,453,246,36
+reference (missing at random),flag_price_family,econ,en,recall,0.4828096783144882,0.25584305755371284,0.827928436390813,453,246,36
+reference (missing at random),flag_price_family,econ,en,f2,0.2855645054679069,0.1623413636671202,0.43886266730571305,453,246,36
+reference (missing at random),flag_baseline,econ,hin,precision,0.24001692942545766,0.1538461538461538,0.3310633795365569,181,91,22
+reference (missing at random),flag_baseline,econ,hin,recall,1.0,1.0,1.0,181,91,22
+reference (missing at random),flag_baseline,econ,hin,f2,0.6122669315396825,0.47619047619047605,0.7121929190422515,181,91,22
+reference (missing at random),flag_price_family,econ,hin,precision,0.13121018429223716,0.056932562483547285,0.3009308009734419,181,92,22
+reference (missing at random),flag_price_family,econ,hin,recall,1.0,1.0,1.0,181,92,22
+reference (missing at random),flag_price_family,econ,hin,f2,0.43024225774504404,0.2318608751363601,0.6827779586455519,181,92,22
+reference (missing at random),flag_baseline,econ,oth,precision,0.3114854617504606,0.22313726129710854,0.4029049591493941,181,91,31
+reference (missing at random),flag_baseline,econ,oth,recall,0.61959737167538,0.3788771602040795,1.0,181,91,31
+reference (missing at random),flag_baseline,econ,oth,f2,0.517264851586778,0.3521623167479087,0.7327625309969218,181,91,31
+reference (missing at random),flag_price_family,econ,oth,precision,0.35001891993812856,0.19767136067871235,0.4936897544741369,181,95,31
+reference (missing at random),flag_price_family,econ,oth,recall,1.0,1.0,1.0,181,95,31
+reference (missing at random),flag_price_family,econ,oth,f2,0.7291830897061985,0.5519431777168531,0.8297978710289766,181,95,31
+reference (missing at random),flag_baseline,econ,vernacular_focal,precision,0.2527253799467016,0.18401492238676992,0.3271197415695475,362,182,53
+reference (missing at random),flag_baseline,econ,vernacular_focal,recall,0.8814026569860606,0.7319673718674932,1.0,362,182,53
+reference (missing at random),flag_baseline,econ,vernacular_focal,f2,0.5885756214751817,0.4773066702926694,0.6780957717652294,362,182,53
+reference (missing at random),flag_price_family,econ,vernacular_focal,precision,0.1629731137427664,0.07990918563883971,0.3276693777121067,362,187,53
+reference (missing at random),flag_price_family,econ,vernacular_focal,recall,1.0,1.0,1.0,362,187,53
+reference (missing at random),flag_price_family,econ,vernacular_focal,f2,0.4932921427552044,0.30276962976138466,0.7090330240480212,362,187,53
+reference (missing at random),flag_baseline,econ,mode=live,precision,0.16197682437561542,0.12034439823503079,0.2101113742717104,560,297,63
+reference (missing at random),flag_baseline,econ,mode=live,recall,0.432653274041126,0.24869533797091553,0.9217704972607714,560,297,63
+reference (missing at random),flag_baseline,econ,mode=live,f2,0.3242752198740003,0.21519528504708435,0.47931927140347225,560,297,63
+reference (missing at random),flag_price_family,econ,mode=live,precision,0.12137992779215039,0.08308983207154089,0.1689789604948876,560,307,63
+reference (missing at random),flag_price_family,econ,mode=live,recall,0.4640421481540289,0.26881722128463154,1.0,560,307,63
+reference (missing at random),flag_price_family,econ,mode=live,f2,0.29658627230262846,0.20375987003871648,0.42506621513702186,560,307,63
+reference (missing at random),flag_baseline,econ,mode=wayback,precision,0.16696209758595087,0.10636549364364027,0.23270522947925149,324,141,33
+reference (missing at random),flag_baseline,econ,mode=wayback,recall,0.24943733252326591,0.1286074543081313,0.600244457082064,324,141,33
+reference (missing at random),flag_baseline,econ,mode=wayback,f2,0.22700985754012498,0.12915499408399253,0.3991031864952207,324,141,33
+reference (missing at random),flag_price_family,econ,mode=wayback,precision,0.12035586329986796,0.04649396239216663,0.25075514473354094,324,152,33
+reference (missing at random),flag_price_family,econ,mode=wayback,recall,0.4298670766867244,0.17460452902432597,0.8221523867551946,324,152,33
+reference (missing at random),flag_price_family,econ,mode=wayback,f2,0.28386678793470116,0.12303568812048306,0.507256505060162,324,152,33
+reference (missing at random),flag_baseline,econ,mode=unretrieved,precision,,,,0,0,0
+reference (missing at random),flag_baseline,econ,mode=unretrieved,recall,,,,0,0,0
+reference (missing at random),flag_baseline,econ,mode=unretrieved,f2,,,,0,0,0
+reference (missing at random),flag_price_family,econ,mode=unretrieved,precision,,,,0,0,0
+reference (missing at random),flag_price_family,econ,mode=unretrieved,recall,,,,0,0,0
+reference (missing at random),flag_price_family,econ,mode=unretrieved,f2,,,,0,0,0
+reference (missing at random),flag_baseline,econ,stratum=econ_unflagged,precision,,,,266,0,8
+reference (missing at random),flag_baseline,econ,stratum=econ_unflagged,recall,0.0,0.0,0.0,266,0,8
+reference (missing at random),flag_baseline,econ,stratum=econ_unflagged,f2,,,,266,0,8
+reference (missing at random),flag_price_family,econ,stratum=econ_unflagged,precision,0.0712267158556644,0.0,0.2293767176218916,266,16,8
+reference (missing at random),flag_price_family,econ,stratum=econ_unflagged,recall,0.13966751464935895,0.0,0.4504598476321311,266,16,8
+reference (missing at random),flag_price_family,econ,stratum=econ_unflagged,f2,0.11715330568663448,0.0,0.344018676042567,266,16,8
+reference (missing at random),flag_baseline,econ,stratum=flagged,precision,0.13830645904998715,0.096915996532534,0.18188925179140503,256,256,35
+reference (missing at random),flag_baseline,econ,stratum=flagged,recall,1.0,1.0,1.0,256,256,35
+reference (missing at random),flag_baseline,econ,stratum=flagged,f2,0.44522327605740003,0.3492054850778692,0.5264348020168218,256,256,35
+reference (missing at random),flag_price_family,econ,stratum=flagged,precision,0.13830645904998715,0.096915996532534,0.18188925179140503,256,256,35
+reference (missing at random),flag_price_family,econ,stratum=flagged,recall,1.0,1.0,1.0,256,256,35
+reference (missing at random),flag_price_family,econ,stratum=flagged,f2,0.44522327605740003,0.3492054850778692,0.5264348020168218,256,256,35
+reference (missing at random),flag_baseline,econ,stratum=hin_econ_unflagged,precision,,,,90,0,0
+reference (missing at random),flag_baseline,econ,stratum=hin_econ_unflagged,recall,,,,90,0,0
+reference (missing at random),flag_baseline,econ,stratum=hin_econ_unflagged,f2,,,,90,0,0
+reference (missing at random),flag_price_family,econ,stratum=hin_econ_unflagged,precision,0.0,0.0,0.0,90,1,0
+reference (missing at random),flag_price_family,econ,stratum=hin_econ_unflagged,recall,,,,90,1,0
+reference (missing at random),flag_price_family,econ,stratum=hin_econ_unflagged,f2,,,,90,1,0
+reference (missing at random),flag_baseline,econ,stratum=hin_flagged,precision,0.24001692942545766,0.1538461538461538,0.3310633795365569,91,91,22
+reference (missing at random),flag_baseline,econ,stratum=hin_flagged,recall,1.0,1.0,1.0,91,91,22
+reference (missing at random),flag_baseline,econ,stratum=hin_flagged,f2,0.6122669315396825,0.47619047619047605,0.7121929190422515,91,91,22
+reference (missing at random),flag_price_family,econ,stratum=hin_flagged,precision,0.24001692942545766,0.1538461538461538,0.3310633795365569,91,91,22
+reference (missing at random),flag_price_family,econ,stratum=hin_flagged,recall,1.0,1.0,1.0,91,91,22
+reference (missing at random),flag_price_family,econ,stratum=hin_flagged,f2,0.6122669315396825,0.47619047619047605,0.7121929190422515,91,91,22
+reference (missing at random),flag_baseline,econ,stratum=nonecon_noslug,precision,,,,0,0,0
+reference (missing at random),flag_baseline,econ,stratum=nonecon_noslug,recall,,,,0,0,0
+reference (missing at random),flag_baseline,econ,stratum=nonecon_noslug,f2,,,,0,0,0
+reference (missing at random),flag_price_family,econ,stratum=nonecon_noslug,precision,,,,0,0,0
+reference (missing at random),flag_price_family,econ,stratum=nonecon_noslug,recall,,,,0,0,0
+reference (missing at random),flag_price_family,econ,stratum=nonecon_noslug,f2,,,,0,0,0
+reference (missing at random),flag_baseline,econ,stratum=nonecon_slug,precision,,,,0,0,0
+reference (missing at random),flag_baseline,econ,stratum=nonecon_slug,recall,,,,0,0,0
+reference (missing at random),flag_baseline,econ,stratum=nonecon_slug,f2,,,,0,0,0
+reference (missing at random),flag_price_family,econ,stratum=nonecon_slug,precision,,,,0,0,0
+reference (missing at random),flag_price_family,econ,stratum=nonecon_slug,recall,,,,0,0,0
+reference (missing at random),flag_price_family,econ,stratum=nonecon_slug,f2,,,,0,0,0
+reference (missing at random),flag_baseline,econ,stratum=oth_econ_unflagged,precision,,,,90,0,2
+reference (missing at random),flag_baseline,econ,stratum=oth_econ_unflagged,recall,0.0,0.0,0.0,90,0,2
+reference (missing at random),flag_baseline,econ,stratum=oth_econ_unflagged,f2,,,,90,0,2
+reference (missing at random),flag_price_family,econ,stratum=oth_econ_unflagged,precision,0.43834330971415225,0.0,1.0,90,4,2
+reference (missing at random),flag_price_family,econ,stratum=oth_econ_unflagged,recall,1.0,1.0,1.0,90,4,2
+reference (missing at random),flag_price_family,econ,stratum=oth_econ_unflagged,f2,0.7960114225127406,0.4938141093713449,1.0,90,4,2
+reference (missing at random),flag_baseline,econ,stratum=oth_flagged,precision,0.3114854617504606,0.22313726129710854,0.4029049591493941,91,91,29
+reference (missing at random),flag_baseline,econ,stratum=oth_flagged,recall,1.0,1.0,1.0,91,91,29
+reference (missing at random),flag_baseline,econ,stratum=oth_flagged,f2,0.6934406208385793,0.5895151353261008,0.7713698327682879,91,91,29
+reference (missing at random),flag_price_family,econ,stratum=oth_flagged,precision,0.3114854617504606,0.22313726129710854,0.4029049591493941,91,91,29
+reference (missing at random),flag_price_family,econ,stratum=oth_flagged,recall,1.0,1.0,1.0,91,91,29
+reference (missing at random),flag_price_family,econ,stratum=oth_flagged,f2,0.6934406208385793,0.5895151353261008,0.7713698327682879,91,91,29
+reference (missing at random),flag_baseline,gating,all,precision,0.16375367063530452,0.12758152819675034,0.20113547309206048,1026,438,118
+reference (missing at random),flag_baseline,gating,all,recall,0.3018893416436175,0.20195046946046077,0.46893140800576505,1026,438,118
+reference (missing at random),flag_baseline,gating,all,f2,0.25830954082323365,0.18760042310177696,0.34880860069986275,1026,438,118
+reference (missing at random),flag_price_family,gating,all,precision,0.12753512329084996,0.08405892693925779,0.19440537725801513,1026,464,118
+reference (missing at random),flag_price_family,gating,all,recall,0.4200953581393,0.2701459869715225,0.6364010634242858,1026,464,118
+reference (missing at random),flag_price_family,gating,all,f2,0.28797488948195465,0.19415841785574042,0.4050799310085023,1026,464,118
+reference (missing at random),flag_baseline,gating,en,precision,0.13564355059419544,0.09375064922925044,0.17903488048966,566,231,51
+reference (missing at random),flag_baseline,gating,en,recall,0.2912310071110634,0.1673325386436442,0.5434753869080503,566,231,51
+reference (missing at random),flag_baseline,gating,en,f2,0.23688750920573304,0.15162975556358949,0.3574755131739721,566,231,51
+reference (missing at random),flag_price_family,gating,en,precision,0.11389146975671907,0.061381570330676,0.1950867257906069,566,249,51
+reference (missing at random),flag_price_family,gating,en,recall,0.44707467651143035,0.24851539023324917,0.7416322201364375,566,249,51
+reference (missing at random),flag_price_family,gating,en,f2,0.28205021193918456,0.16563643540459344,0.42454462317902825,566,249,51
+reference (missing at random),flag_baseline,gating,hin,precision,0.24001692942545766,0.1538461538461538,0.3310633795365569,181,91,22
+reference (missing at random),flag_baseline,gating,hin,recall,1.0,1.0,1.0,181,91,22
+reference (missing at random),flag_baseline,gating,hin,f2,0.6122669315396825,0.47619047619047605,0.7121929190422515,181,91,22
+reference (missing at random),flag_price_family,gating,hin,precision,0.13121018429223716,0.056932562483547285,0.3009308009734419,181,92,22
+reference (missing at random),flag_price_family,gating,hin,recall,1.0,1.0,1.0,181,92,22
+reference (missing at random),flag_price_family,gating,hin,f2,0.43024225774504404,0.2318608751363601,0.6827779586455519,181,92,22
+reference (missing at random),flag_baseline,gating,oth,precision,0.3114854617504606,0.22313726129710854,0.4029049591493941,181,91,31
+reference (missing at random),flag_baseline,gating,oth,recall,0.61959737167538,0.3788771602040795,1.0,181,91,31
+reference (missing at random),flag_baseline,gating,oth,f2,0.517264851586778,0.3521623167479087,0.7327625309969218,181,91,31
+reference (missing at random),flag_price_family,gating,oth,precision,0.35001891993812856,0.19767136067871235,0.4936897544741369,181,95,31
+reference (missing at random),flag_price_family,gating,oth,recall,1.0,1.0,1.0,181,95,31
+reference (missing at random),flag_price_family,gating,oth,f2,0.7291830897061985,0.5519431777168531,0.8297978710289766,181,95,31
+reference (missing at random),flag_baseline,gating,vernacular_focal,precision,0.2527253799467016,0.18401492238676992,0.3271197415695475,362,182,53
+reference (missing at random),flag_baseline,gating,vernacular_focal,recall,0.8814026569860606,0.7319673718674932,1.0,362,182,53
+reference (missing at random),flag_baseline,gating,vernacular_focal,f2,0.5885756214751817,0.4773066702926694,0.6780957717652294,362,182,53
+reference (missing at random),flag_price_family,gating,vernacular_focal,precision,0.1629731137427664,0.07990918563883971,0.3276693777121067,362,187,53
+reference (missing at random),flag_price_family,gating,vernacular_focal,recall,1.0,1.0,1.0,362,187,53
+reference (missing at random),flag_price_family,gating,vernacular_focal,f2,0.4932921427552044,0.30276962976138466,0.7090330240480212,362,187,53
+reference (missing at random),flag_baseline,gating,mode=live,precision,0.16197682437561542,0.12034439823503079,0.2101113742717104,645,297,77
+reference (missing at random),flag_baseline,gating,mode=live,recall,0.36906288081735455,0.2225251542779151,0.6811414775393735,645,297,77
+reference (missing at random),flag_baseline,gating,mode=live,f2,0.293910454328543,0.1981881970022394,0.4238170212970747,645,297,77
+reference (missing at random),flag_price_family,gating,mode=live,precision,0.12456619321551873,0.08536807466715718,0.17365620811307442,645,308,77
+reference (missing at random),flag_price_family,gating,mode=live,recall,0.40770771147575524,0.2462639650246118,0.744784169009372,645,308,77
+reference (missing at random),flag_price_family,gating,mode=live,f2,0.280287748475416,0.19185002611856136,0.3945026100848974,645,308,77
+reference (missing at random),flag_baseline,gating,mode=wayback,precision,0.16696209758595087,0.10636549364364027,0.23270522947925149,381,141,41
+reference (missing at random),flag_baseline,gating,mode=wayback,recall,0.22890490586692785,0.12171657411540103,0.4896632483971191,381,141,41
+reference (missing at random),flag_baseline,gating,mode=wayback,f2,0.21309340814664715,0.1229069992554963,0.3673946699241955,381,141,41
+reference (missing at random),flag_price_family,gating,mode=wayback,precision,0.13071839438723978,0.05559473437222566,0.25987862393613875,381,156,41
+reference (missing at random),flag_price_family,gating,mode=wayback,recall,0.433554607323736,0.1943537297094474,0.7889850643939066,381,156,41
+reference (missing at random),flag_price_family,gating,mode=wayback,f2,0.296277143673325,0.13725518042206378,0.5022265014095635,381,156,41
+reference (missing at random),flag_baseline,gating,mode=unretrieved,precision,,,,0,0,0
+reference (missing at random),flag_baseline,gating,mode=unretrieved,recall,,,,0,0,0
+reference (missing at random),flag_baseline,gating,mode=unretrieved,f2,,,,0,0,0
+reference (missing at random),flag_price_family,gating,mode=unretrieved,precision,,,,0,0,0
+reference (missing at random),flag_price_family,gating,mode=unretrieved,recall,,,,0,0,0
+reference (missing at random),flag_price_family,gating,mode=unretrieved,f2,,,,0,0,0
+reference (missing at random),flag_baseline,gating,stratum=econ_unflagged,precision,,,,266,0,8
+reference (missing at random),flag_baseline,gating,stratum=econ_unflagged,recall,0.0,0.0,0.0,266,0,8
+reference (missing at random),flag_baseline,gating,stratum=econ_unflagged,f2,,,,266,0,8
+reference (missing at random),flag_price_family,gating,stratum=econ_unflagged,precision,0.0712267158556644,0.0,0.2293767176218916,266,16,8
+reference (missing at random),flag_price_family,gating,stratum=econ_unflagged,recall,0.13966751464935895,0.0,0.4504598476321311,266,16,8
+reference (missing at random),flag_price_family,gating,stratum=econ_unflagged,f2,0.11715330568663448,0.0,0.344018676042567,266,16,8
+reference (missing at random),flag_baseline,gating,stratum=flagged,precision,0.13830645904998715,0.096915996532534,0.18188925179140503,256,256,35
+reference (missing at random),flag_baseline,gating,stratum=flagged,recall,1.0,1.0,1.0,256,256,35
+reference (missing at random),flag_baseline,gating,stratum=flagged,f2,0.44522327605740003,0.3492054850778692,0.5264348020168218,256,256,35
+reference (missing at random),flag_price_family,gating,stratum=flagged,precision,0.13830645904998715,0.096915996532534,0.18188925179140503,256,256,35
+reference (missing at random),flag_price_family,gating,stratum=flagged,recall,1.0,1.0,1.0,256,256,35
+reference (missing at random),flag_price_family,gating,stratum=flagged,f2,0.44522327605740003,0.3492054850778692,0.5264348020168218,256,256,35
+reference (missing at random),flag_baseline,gating,stratum=hin_econ_unflagged,precision,,,,90,0,0
+reference (missing at random),flag_baseline,gating,stratum=hin_econ_unflagged,recall,,,,90,0,0
+reference (missing at random),flag_baseline,gating,stratum=hin_econ_unflagged,f2,,,,90,0,0
+reference (missing at random),flag_price_family,gating,stratum=hin_econ_unflagged,precision,0.0,0.0,0.0,90,1,0
+reference (missing at random),flag_price_family,gating,stratum=hin_econ_unflagged,recall,,,,90,1,0
+reference (missing at random),flag_price_family,gating,stratum=hin_econ_unflagged,f2,,,,90,1,0
+reference (missing at random),flag_baseline,gating,stratum=hin_flagged,precision,0.24001692942545766,0.1538461538461538,0.3310633795365569,91,91,22
+reference (missing at random),flag_baseline,gating,stratum=hin_flagged,recall,1.0,1.0,1.0,91,91,22
+reference (missing at random),flag_baseline,gating,stratum=hin_flagged,f2,0.6122669315396825,0.47619047619047605,0.7121929190422515,91,91,22
+reference (missing at random),flag_price_family,gating,stratum=hin_flagged,precision,0.24001692942545766,0.1538461538461538,0.3310633795365569,91,91,22
+reference (missing at random),flag_price_family,gating,stratum=hin_flagged,recall,1.0,1.0,1.0,91,91,22
+reference (missing at random),flag_price_family,gating,stratum=hin_flagged,f2,0.6122669315396825,0.47619047619047605,0.7121929190422515,91,91,22
+reference (missing at random),flag_baseline,gating,stratum=nonecon_noslug,precision,,,,0,0,0
+reference (missing at random),flag_baseline,gating,stratum=nonecon_noslug,recall,,,,0,0,0
+reference (missing at random),flag_baseline,gating,stratum=nonecon_noslug,f2,,,,0,0,0
+reference (missing at random),flag_price_family,gating,stratum=nonecon_noslug,precision,,,,0,0,0
+reference (missing at random),flag_price_family,gating,stratum=nonecon_noslug,recall,,,,0,0,0
+reference (missing at random),flag_price_family,gating,stratum=nonecon_noslug,f2,,,,0,0,0
+reference (missing at random),flag_baseline,gating,stratum=nonecon_slug,precision,,,,142,0,22
+reference (missing at random),flag_baseline,gating,stratum=nonecon_slug,recall,0.0,0.0,0.0,142,0,22
+reference (missing at random),flag_baseline,gating,stratum=nonecon_slug,f2,,,,142,0,22
+reference (missing at random),flag_price_family,gating,stratum=nonecon_slug,precision,1.0,1.0,1.0,142,5,22
+reference (missing at random),flag_price_family,gating,stratum=nonecon_slug,recall,0.21473840660316498,0.05149368596321689,0.3912514710604679,142,5,22
+reference (missing at random),flag_price_family,gating,stratum=nonecon_slug,f2,0.25474701616918577,0.07044427283624491,0.4457146993042272,142,5,22
+reference (missing at random),flag_baseline,gating,stratum=oth_econ_unflagged,precision,,,,90,0,2
+reference (missing at random),flag_baseline,gating,stratum=oth_econ_unflagged,recall,0.0,0.0,0.0,90,0,2
+reference (missing at random),flag_baseline,gating,stratum=oth_econ_unflagged,f2,,,,90,0,2
+reference (missing at random),flag_price_family,gating,stratum=oth_econ_unflagged,precision,0.43834330971415225,0.0,1.0,90,4,2
+reference (missing at random),flag_price_family,gating,stratum=oth_econ_unflagged,recall,1.0,1.0,1.0,90,4,2
+reference (missing at random),flag_price_family,gating,stratum=oth_econ_unflagged,f2,0.7960114225127406,0.4938141093713449,1.0,90,4,2
+reference (missing at random),flag_baseline,gating,stratum=oth_flagged,precision,0.3114854617504606,0.22313726129710854,0.4029049591493941,91,91,29
+reference (missing at random),flag_baseline,gating,stratum=oth_flagged,recall,1.0,1.0,1.0,91,91,29
+reference (missing at random),flag_baseline,gating,stratum=oth_flagged,f2,0.6934406208385793,0.5895151353261008,0.7713698327682879,91,91,29
+reference (missing at random),flag_price_family,gating,stratum=oth_flagged,precision,0.3114854617504606,0.22313726129710854,0.4029049591493941,91,91,29
+reference (missing at random),flag_price_family,gating,stratum=oth_flagged,recall,1.0,1.0,1.0,91,91,29
+reference (missing at random),flag_price_family,gating,stratum=oth_flagged,f2,0.6934406208385793,0.5895151353261008,0.7713698327682879,91,91,29
+unretrieved all relevant,flag_baseline,econ,all,precision,0.2637017441685103,0.22237301260136574,0.3075012754276927,1000,500,212
+unretrieved all relevant,flag_baseline,econ,all,recall,0.09688937459805762,0.07061106606973919,0.1330159796178503,1000,500,212
+unretrieved all relevant,flag_baseline,econ,all,f2,0.11092288798468006,0.08268538378539704,0.14848776582788317,1000,500,212
+unretrieved all relevant,flag_price_family,econ,all,precision,0.251816961943543,0.17502880910939736,0.3445275841312491,1000,526,212
+unretrieved all relevant,flag_price_family,econ,all,recall,0.17210905883169306,0.10909407040861478,0.2555630896918892,1000,526,212
+unretrieved all relevant,flag_price_family,econ,all,f2,0.18374100796448442,0.12055153844334895,0.26337115419089097,1000,526,212
+unretrieved all relevant,flag_baseline,econ,en,precision,0.24616802747699218,0.1935861757123425,0.29873770948729056,522,270,105
+unretrieved all relevant,flag_baseline,econ,en,recall,0.13412119220746968,0.09995371667492484,0.19060297689425837,522,270,105
+unretrieved all relevant,flag_baseline,econ,en,f2,0.14755339197216913,0.1122684540487106,0.20057336062817607,522,270,105
+unretrieved all relevant,flag_price_family,econ,en,precision,0.2553796270689422,0.16251099147173645,0.3614463866405477,522,289,105
+unretrieved all relevant,flag_price_family,econ,en,recall,0.2681640398777516,0.16289474025403208,0.4033513705787911,522,289,105
+unretrieved all relevant,flag_price_family,econ,en,f2,0.2655057734763153,0.16622216575485527,0.382945358869884,522,289,105
+unretrieved all relevant,flag_baseline,econ,hin,precision,0.29873877336354066,0.21343254409741888,0.39263638846184956,200,100,41
+unretrieved all relevant,flag_baseline,econ,hin,recall,0.04760267249808689,0.026357265978875125,0.1000597644676873,200,100,41
+unretrieved all relevant,flag_baseline,econ,hin,f2,0.05722375402002567,0.03208918677832518,0.11615666022917377,200,100,41
+unretrieved all relevant,flag_price_family,econ,hin,precision,0.16753094830897353,0.07915445546401374,0.37347378428675454,200,101,41
+unretrieved all relevant,flag_price_family,econ,hin,recall,0.04760267249808689,0.026357265978875125,0.1000597644676873,200,101,41
+unretrieved all relevant,flag_price_family,econ,hin,f2,0.05555682593848939,0.030909721143176864,0.11098120361457572,200,101,41
+unretrieved all relevant,flag_baseline,econ,oth,precision,0.35024621755345403,0.26022497229084157,0.4404671614825125,200,100,50
+unretrieved all relevant,flag_baseline,econ,oth,recall,0.24980921843290935,0.16361554006058054,0.4007774062707734,200,100,50
+unretrieved all relevant,flag_baseline,econ,oth,f2,0.2650080178619879,0.18018206455339786,0.3926613629001166,200,100,50
+unretrieved all relevant,flag_price_family,econ,oth,precision,0.3644254192870838,0.22901735137164855,0.5163665740885401,200,104,50
+unretrieved all relevant,flag_price_family,econ,oth,recall,0.36108094511370653,0.2180064621422401,0.5955175957002867,200,104,50
+unretrieved all relevant,flag_price_family,econ,oth,f2,0.3617449199508586,0.22455236128560657,0.5453108232601884,200,104,50
+unretrieved all relevant,flag_baseline,econ,vernacular_focal,precision,0.3078977666248904,0.23607119372439087,0.389379359354512,400,200,91
+unretrieved all relevant,flag_baseline,econ,vernacular_focal,recall,0.05692269234960167,0.03275712345757283,0.1122456174358032,400,200,91
+unretrieved all relevant,flag_baseline,econ,vernacular_focal,f2,0.06801002210629002,0.03970362101476454,0.1309253246815255,400,200,91
+unretrieved all relevant,flag_price_family,econ,vernacular_focal,precision,0.19592210089070325,0.10443567663868646,0.3804599404014511,400,205,91
+unretrieved all relevant,flag_price_family,econ,vernacular_focal,recall,0.06205138240650827,0.0352609446560536,0.1214349193904608,400,205,91
+unretrieved all relevant,flag_price_family,econ,vernacular_focal,f2,0.07187339064533804,0.04258777629135478,0.13311765051316113,400,205,91
+unretrieved all relevant,flag_baseline,econ,mode=live,precision,0.16311223330945956,0.11886889048954488,0.21587610070599536,560,297,63
+unretrieved all relevant,flag_baseline,econ,mode=live,recall,0.4305376174095303,0.23830777455072574,0.9358691348187439,560,297,63
+unretrieved all relevant,flag_baseline,econ,mode=live,f2,0.3242235661071862,0.2076954478689272,0.4848817424007606,560,297,63
+unretrieved all relevant,flag_price_family,econ,mode=live,precision,0.12160760095007324,0.08549670355049742,0.17107267768209306,560,307,63
+unretrieved all relevant,flag_price_family,econ,mode=live,recall,0.45856187627710615,0.2565756977237406,1.0,560,307,63
+unretrieved all relevant,flag_price_family,econ,mode=live,f2,0.29505325512635827,0.20107073361622693,0.43366171667985076,560,307,63
+unretrieved all relevant,flag_baseline,econ,mode=wayback,precision,0.1708812710246525,0.10610236672523886,0.24468663051783796,324,141,33
+unretrieved all relevant,flag_baseline,econ,mode=wayback,recall,0.24493410295001125,0.11972365598974018,0.5934210518760898,324,141,33
+unretrieved all relevant,flag_baseline,econ,mode=wayback,f2,0.22539844191982333,0.12221898075658225,0.4213482117140985,324,141,33
+unretrieved all relevant,flag_price_family,econ,mode=wayback,precision,0.12106008923992355,0.04373821191945612,0.26000956323200214,324,152,33
+unretrieved all relevant,flag_price_family,econ,mode=wayback,recall,0.43383899785218616,0.1790157577259497,0.8283405757256824,324,152,33
+unretrieved all relevant,flag_price_family,econ,mode=wayback,f2,0.28603512060515957,0.11975814847966629,0.49467989066110846,324,152,33
+unretrieved all relevant,flag_baseline,econ,mode=unretrieved,precision,1.0,1.0,1.0,116,62,116
+unretrieved all relevant,flag_baseline,econ,mode=unretrieved,recall,0.05123817459579842,0.03428572545020597,0.07484230176585248,116,62,116
+unretrieved all relevant,flag_baseline,econ,mode=unretrieved,f2,0.06323767251836604,0.042492931566102524,0.09183459900426778,116,62,116
+unretrieved all relevant,flag_price_family,econ,mode=unretrieved,precision,1.0,1.0,1.0,116,67,116
+unretrieved all relevant,flag_price_family,econ,mode=unretrieved,recall,0.12055611150013981,0.06346962585160625,0.1986025769575323,116,67,116
+unretrieved all relevant,flag_price_family,econ,mode=unretrieved,f2,0.14628621506169692,0.07809782136925271,0.23651023235339383,116,67,116
+unretrieved all relevant,flag_baseline,econ,stratum=econ_unflagged,precision,,,,300,0,42
+unretrieved all relevant,flag_baseline,econ,stratum=econ_unflagged,recall,0.0,0.0,0.0,300,0,42
+unretrieved all relevant,flag_baseline,econ,stratum=econ_unflagged,f2,,,,300,0,42
+unretrieved all relevant,flag_price_family,econ,stratum=econ_unflagged,precision,0.28300947180262814,0.10511639376244955,0.4849728631104694,300,21,42
+unretrieved all relevant,flag_price_family,econ,stratum=econ_unflagged,recall,0.1500263992280186,0.045040841512371456,0.2805729494755043,300,21,42
+unretrieved all relevant,flag_price_family,econ,stratum=econ_unflagged,f2,0.16558799917872707,0.05112839706584232,0.29814440112770124,300,21,42
+unretrieved all relevant,flag_baseline,econ,stratum=flagged,precision,0.25106103462857465,0.20217103770897565,0.3025812534513103,300,300,79
+unretrieved all relevant,flag_baseline,econ,stratum=flagged,recall,1.0,1.0,1.0,300,300,79
+unretrieved all relevant,flag_baseline,econ,stratum=flagged,f2,0.6263234847593981,0.5588898358402848,0.6844723096410013,300,300,79
+unretrieved all relevant,flag_price_family,econ,stratum=flagged,precision,0.25106103462857465,0.20217103770897565,0.3025812534513103,300,300,79
+unretrieved all relevant,flag_price_family,econ,stratum=flagged,recall,1.0,1.0,1.0,300,300,79
+unretrieved all relevant,flag_price_family,econ,stratum=flagged,f2,0.6263234847593981,0.5588898358402848,0.6844723096410013,300,300,79
+unretrieved all relevant,flag_baseline,econ,stratum=hin_econ_unflagged,precision,,,,100,0,10
+unretrieved all relevant,flag_baseline,econ,stratum=hin_econ_unflagged,recall,0.0,0.0,0.0,100,0,10
+unretrieved all relevant,flag_baseline,econ,stratum=hin_econ_unflagged,f2,,,,100,0,10
+unretrieved all relevant,flag_price_family,econ,stratum=hin_econ_unflagged,precision,0.0,0.0,0.0,100,1,10
+unretrieved all relevant,flag_price_family,econ,stratum=hin_econ_unflagged,recall,0.0,0.0,0.0,100,1,10
+unretrieved all relevant,flag_price_family,econ,stratum=hin_econ_unflagged,f2,0.0,0.0,0.0,100,1,10
+unretrieved all relevant,flag_baseline,econ,stratum=hin_flagged,precision,0.29873877336354066,0.21343254409741888,0.39263638846184956,100,100,31
+unretrieved all relevant,flag_baseline,econ,stratum=hin_flagged,recall,1.0,1.0,1.0,100,100,31
+unretrieved all relevant,flag_baseline,econ,stratum=hin_flagged,f2,0.6805122670947692,0.5756839524596452,0.7637216368519307,100,100,31
+unretrieved all relevant,flag_price_family,econ,stratum=hin_flagged,precision,0.29873877336354066,0.21343254409741888,0.39263638846184956,100,100,31
+unretrieved all relevant,flag_price_family,econ,stratum=hin_flagged,recall,1.0,1.0,1.0,100,100,31
+unretrieved all relevant,flag_price_family,econ,stratum=hin_flagged,f2,0.6805122670947692,0.5756839524596452,0.7637216368519307,100,100,31
+unretrieved all relevant,flag_baseline,econ,stratum=nonecon_noslug,precision,,,,0,0,0
+unretrieved all relevant,flag_baseline,econ,stratum=nonecon_noslug,recall,,,,0,0,0
+unretrieved all relevant,flag_baseline,econ,stratum=nonecon_noslug,f2,,,,0,0,0
+unretrieved all relevant,flag_price_family,econ,stratum=nonecon_noslug,precision,,,,0,0,0
+unretrieved all relevant,flag_price_family,econ,stratum=nonecon_noslug,recall,,,,0,0,0
+unretrieved all relevant,flag_price_family,econ,stratum=nonecon_noslug,f2,,,,0,0,0
+unretrieved all relevant,flag_baseline,econ,stratum=nonecon_slug,precision,,,,0,0,0
+unretrieved all relevant,flag_baseline,econ,stratum=nonecon_slug,recall,,,,0,0,0
+unretrieved all relevant,flag_baseline,econ,stratum=nonecon_slug,f2,,,,0,0,0
+unretrieved all relevant,flag_price_family,econ,stratum=nonecon_slug,precision,,,,0,0,0
+unretrieved all relevant,flag_price_family,econ,stratum=nonecon_slug,recall,,,,0,0,0
+unretrieved all relevant,flag_price_family,econ,stratum=nonecon_slug,f2,,,,0,0,0
+unretrieved all relevant,flag_baseline,econ,stratum=oth_econ_unflagged,precision,,,,100,0,12
+unretrieved all relevant,flag_baseline,econ,stratum=oth_econ_unflagged,recall,0.0,0.0,0.0,100,0,12
+unretrieved all relevant,flag_baseline,econ,stratum=oth_econ_unflagged,f2,,,,100,0,12
+unretrieved all relevant,flag_price_family,econ,stratum=oth_econ_unflagged,precision,0.40085823811483573,0.0,1.0,100,4,12
+unretrieved all relevant,flag_price_family,econ,stratum=oth_econ_unflagged,recall,0.1483245721153213,0.0,0.38530607067113093,100,4,12
+unretrieved all relevant,flag_price_family,econ,stratum=oth_econ_unflagged,f2,0.16970706793944296,0.0,0.411302824270264,100,4,12
+unretrieved all relevant,flag_baseline,econ,stratum=oth_flagged,precision,0.35024621755345403,0.26022497229084157,0.4404671614825125,100,100,38
+unretrieved all relevant,flag_baseline,econ,stratum=oth_flagged,recall,1.0,1.0,1.0,100,100,38
+unretrieved all relevant,flag_baseline,econ,stratum=oth_flagged,f2,0.7293803095107871,0.6375250758016424,0.7974078747944704,100,100,38
+unretrieved all relevant,flag_price_family,econ,stratum=oth_flagged,precision,0.35024621755345403,0.26022497229084157,0.4404671614825125,100,100,38
+unretrieved all relevant,flag_price_family,econ,stratum=oth_flagged,recall,1.0,1.0,1.0,100,100,38
+unretrieved all relevant,flag_price_family,econ,stratum=oth_flagged,f2,0.7293803095107871,0.6375250758016424,0.7974078747944704,100,100,38
+unretrieved all relevant,flag_baseline,gating,all,precision,0.2637017441685103,0.22237301260136574,0.3075012754276927,1150,500,242
+unretrieved all relevant,flag_baseline,gating,all,recall,0.09409248374219194,0.06884472876768319,0.1283010162713455,1150,500,242
+unretrieved all relevant,flag_baseline,gating,all,f2,0.10798313051245573,0.08071805324493192,0.14419994055693916,1150,500,242
+unretrieved all relevant,flag_price_family,gating,all,precision,0.2577720661572032,0.18228311677022607,0.3482766719957125,1150,532,242
+unretrieved all relevant,flag_price_family,gating,all,recall,0.1724661804891655,0.1126525037433223,0.2535932048117876,1150,532,242
+unretrieved all relevant,flag_price_family,gating,all,f2,0.18469028911515267,0.12229606596709877,0.26181650669952194,1150,532,242
+unretrieved all relevant,flag_baseline,gating,en,precision,0.24616802747699218,0.1935861757123425,0.29873770948729056,643,270,128
+unretrieved all relevant,flag_baseline,gating,en,recall,0.12816648034314493,0.09628062211188293,0.17964584906428704,643,270,128
+unretrieved all relevant,flag_baseline,gating,en,f2,0.14175680970778187,0.10810276052234462,0.19233016568754716,643,270,128
+unretrieved all relevant,flag_price_family,gating,en,precision,0.2606448044392976,0.1691715342070428,0.36749096577657026,643,293,128
+unretrieved all relevant,flag_price_family,gating,en,recall,0.26340390048160683,0.162317118662114,0.3903592605413537,643,293,128
+unretrieved all relevant,flag_price_family,gating,en,f2,0.26284741805147577,0.16816786413225135,0.3764141775554928,643,293,128
+unretrieved all relevant,flag_baseline,gating,hin,precision,0.29873877336354066,0.21343254409741888,0.39263638846184956,200,100,41
+unretrieved all relevant,flag_baseline,gating,hin,recall,0.04760267249808689,0.026357265978875125,0.1000597644676873,200,100,41
+unretrieved all relevant,flag_baseline,gating,hin,f2,0.05722375402002567,0.03208918677832518,0.11615666022917377,200,100,41
+unretrieved all relevant,flag_price_family,gating,hin,precision,0.16753094830897353,0.07915445546401374,0.37347378428675454,200,101,41
+unretrieved all relevant,flag_price_family,gating,hin,recall,0.04760267249808689,0.026357265978875125,0.1000597644676873,200,101,41
+unretrieved all relevant,flag_price_family,gating,hin,f2,0.05555682593848939,0.030909721143176864,0.11098120361457572,200,101,41
+unretrieved all relevant,flag_baseline,gating,oth,precision,0.35024621755345403,0.26022497229084157,0.4404671614825125,200,100,50
+unretrieved all relevant,flag_baseline,gating,oth,recall,0.24980921843290935,0.16361554006058054,0.4007774062707734,200,100,50
+unretrieved all relevant,flag_baseline,gating,oth,f2,0.2650080178619879,0.18018206455339786,0.3926613629001166,200,100,50
+unretrieved all relevant,flag_price_family,gating,oth,precision,0.3644254192870838,0.22901735137164855,0.5163665740885401,200,104,50
+unretrieved all relevant,flag_price_family,gating,oth,recall,0.36108094511370653,0.2180064621422401,0.5955175957002867,200,104,50
+unretrieved all relevant,flag_price_family,gating,oth,f2,0.3617449199508586,0.22455236128560657,0.5453108232601884,200,104,50
+unretrieved all relevant,flag_baseline,gating,vernacular_focal,precision,0.3078977666248904,0.23607119372439087,0.389379359354512,400,200,91
+unretrieved all relevant,flag_baseline,gating,vernacular_focal,recall,0.05692269234960167,0.03275712345757283,0.1122456174358032,400,200,91
+unretrieved all relevant,flag_baseline,gating,vernacular_focal,f2,0.06801002210629002,0.03970362101476454,0.1309253246815255,400,200,91
+unretrieved all relevant,flag_price_family,gating,vernacular_focal,precision,0.19592210089070325,0.10443567663868646,0.3804599404014511,400,205,91
+unretrieved all relevant,flag_price_family,gating,vernacular_focal,recall,0.06205138240650827,0.0352609446560536,0.1214349193904608,400,205,91
+unretrieved all relevant,flag_price_family,gating,vernacular_focal,f2,0.07187339064533804,0.04258777629135478,0.13311765051316113,400,205,91
+unretrieved all relevant,flag_baseline,gating,mode=live,precision,0.16311223330945956,0.11886889048954488,0.21587610070599536,645,297,77
+unretrieved all relevant,flag_baseline,gating,mode=live,recall,0.3652421604346272,0.21292333663697124,0.6790882060576254,645,297,77
+unretrieved all relevant,flag_baseline,gating,mode=live,f2,0.29269915428009924,0.19074928648821918,0.43329539758355323,645,297,77
+unretrieved all relevant,flag_price_family,gating,mode=live,precision,0.12496467913090988,0.08699287038518917,0.17500705686345547,645,308,77
+unretrieved all relevant,flag_price_family,gating,mode=live,recall,0.40128903077402084,0.2350678625490546,0.7394135013210311,645,308,77
+unretrieved all relevant,flag_price_family,gating,mode=live,f2,0.27823936263397864,0.189823819046751,0.40182942399210203,645,308,77
+unretrieved all relevant,flag_baseline,gating,mode=wayback,precision,0.1708812710246525,0.10610236672523886,0.24468663051783796,381,141,41
+unretrieved all relevant,flag_baseline,gating,mode=wayback,recall,0.22342584232043333,0.11264399928074408,0.5071183343053635,381,141,41
+unretrieved all relevant,flag_baseline,gating,mode=wayback,f2,0.21048157515100802,0.11466430906246255,0.3916312398314378,381,141,41
+unretrieved all relevant,flag_price_family,gating,mode=wayback,precision,0.1321144796219286,0.053045571014465914,0.2709692661792182,381,156,41
+unretrieved all relevant,flag_price_family,gating,mode=wayback,recall,0.4373799855732568,0.19995161632839858,0.796822357539397,381,156,41
+unretrieved all relevant,flag_price_family,gating,mode=wayback,f2,0.29914040931763675,0.13654961623955073,0.4974893292449498,381,156,41
+unretrieved all relevant,flag_baseline,gating,mode=unretrieved,precision,1.0,1.0,1.0,124,62,124
+unretrieved all relevant,flag_baseline,gating,mode=unretrieved,recall,0.05076634053309996,0.03397421814539409,0.07404528361739095,124,62,124
+unretrieved all relevant,flag_baseline,gating,mode=unretrieved,f2,0.06266263746827085,0.042110108006982006,0.09087439933156896,124,62,124
+unretrieved all relevant,flag_price_family,gating,mode=unretrieved,precision,1.0,1.0,1.0,124,68,124
+unretrieved all relevant,flag_price_family,gating,mode=unretrieved,recall,0.1203708040314937,0.06413962537654913,0.19893756298857168,124,68,124
+unretrieved all relevant,flag_price_family,gating,mode=unretrieved,f2,0.14606792659743065,0.07890922953923017,0.23689035588306387,124,68,124
+unretrieved all relevant,flag_baseline,gating,stratum=econ_unflagged,precision,,,,300,0,42
+unretrieved all relevant,flag_baseline,gating,stratum=econ_unflagged,recall,0.0,0.0,0.0,300,0,42
+unretrieved all relevant,flag_baseline,gating,stratum=econ_unflagged,f2,,,,300,0,42
+unretrieved all relevant,flag_price_family,gating,stratum=econ_unflagged,precision,0.28300947180262814,0.10511639376244955,0.4849728631104694,300,21,42
+unretrieved all relevant,flag_price_family,gating,stratum=econ_unflagged,recall,0.1500263992280186,0.045040841512371456,0.2805729494755043,300,21,42
+unretrieved all relevant,flag_price_family,gating,stratum=econ_unflagged,f2,0.16558799917872707,0.05112839706584232,0.29814440112770124,300,21,42
+unretrieved all relevant,flag_baseline,gating,stratum=flagged,precision,0.25106103462857465,0.20217103770897565,0.3025812534513103,300,300,79
+unretrieved all relevant,flag_baseline,gating,stratum=flagged,recall,1.0,1.0,1.0,300,300,79
+unretrieved all relevant,flag_baseline,gating,stratum=flagged,f2,0.6263234847593981,0.5588898358402848,0.6844723096410013,300,300,79
+unretrieved all relevant,flag_price_family,gating,stratum=flagged,precision,0.25106103462857465,0.20217103770897565,0.3025812534513103,300,300,79
+unretrieved all relevant,flag_price_family,gating,stratum=flagged,recall,1.0,1.0,1.0,300,300,79
+unretrieved all relevant,flag_price_family,gating,stratum=flagged,f2,0.6263234847593981,0.5588898358402848,0.6844723096410013,300,300,79
+unretrieved all relevant,flag_baseline,gating,stratum=hin_econ_unflagged,precision,,,,100,0,10
+unretrieved all relevant,flag_baseline,gating,stratum=hin_econ_unflagged,recall,0.0,0.0,0.0,100,0,10
+unretrieved all relevant,flag_baseline,gating,stratum=hin_econ_unflagged,f2,,,,100,0,10
+unretrieved all relevant,flag_price_family,gating,stratum=hin_econ_unflagged,precision,0.0,0.0,0.0,100,1,10
+unretrieved all relevant,flag_price_family,gating,stratum=hin_econ_unflagged,recall,0.0,0.0,0.0,100,1,10
+unretrieved all relevant,flag_price_family,gating,stratum=hin_econ_unflagged,f2,0.0,0.0,0.0,100,1,10
+unretrieved all relevant,flag_baseline,gating,stratum=hin_flagged,precision,0.29873877336354066,0.21343254409741888,0.39263638846184956,100,100,31
+unretrieved all relevant,flag_baseline,gating,stratum=hin_flagged,recall,1.0,1.0,1.0,100,100,31
+unretrieved all relevant,flag_baseline,gating,stratum=hin_flagged,f2,0.6805122670947692,0.5756839524596452,0.7637216368519307,100,100,31
+unretrieved all relevant,flag_price_family,gating,stratum=hin_flagged,precision,0.29873877336354066,0.21343254409741888,0.39263638846184956,100,100,31
+unretrieved all relevant,flag_price_family,gating,stratum=hin_flagged,recall,1.0,1.0,1.0,100,100,31
+unretrieved all relevant,flag_price_family,gating,stratum=hin_flagged,f2,0.6805122670947692,0.5756839524596452,0.7637216368519307,100,100,31
+unretrieved all relevant,flag_baseline,gating,stratum=nonecon_noslug,precision,,,,0,0,0
+unretrieved all relevant,flag_baseline,gating,stratum=nonecon_noslug,recall,,,,0,0,0
+unretrieved all relevant,flag_baseline,gating,stratum=nonecon_noslug,f2,,,,0,0,0
+unretrieved all relevant,flag_price_family,gating,stratum=nonecon_noslug,precision,,,,0,0,0
+unretrieved all relevant,flag_price_family,gating,stratum=nonecon_noslug,recall,,,,0,0,0
+unretrieved all relevant,flag_price_family,gating,stratum=nonecon_noslug,f2,,,,0,0,0
+unretrieved all relevant,flag_baseline,gating,stratum=nonecon_slug,precision,,,,150,0,30
+unretrieved all relevant,flag_baseline,gating,stratum=nonecon_slug,recall,0.0,0.0,0.0,150,0,30
+unretrieved all relevant,flag_baseline,gating,stratum=nonecon_slug,f2,,,,150,0,30
+unretrieved all relevant,flag_price_family,gating,stratum=nonecon_slug,precision,1.0,1.0,1.0,150,6,30
+unretrieved all relevant,flag_price_family,gating,stratum=nonecon_slug,recall,0.18448040109389224,0.059064654647167085,0.33717963476024276,150,6,30
+unretrieved all relevant,flag_price_family,gating,stratum=nonecon_slug,f2,0.22043406039811542,0.07488717280132078,0.38871389062398876,150,6,30
+unretrieved all relevant,flag_baseline,gating,stratum=oth_econ_unflagged,precision,,,,100,0,12
+unretrieved all relevant,flag_baseline,gating,stratum=oth_econ_unflagged,recall,0.0,0.0,0.0,100,0,12
+unretrieved all relevant,flag_baseline,gating,stratum=oth_econ_unflagged,f2,,,,100,0,12
+unretrieved all relevant,flag_price_family,gating,stratum=oth_econ_unflagged,precision,0.40085823811483573,0.0,1.0,100,4,12
+unretrieved all relevant,flag_price_family,gating,stratum=oth_econ_unflagged,recall,0.1483245721153213,0.0,0.38530607067113093,100,4,12
+unretrieved all relevant,flag_price_family,gating,stratum=oth_econ_unflagged,f2,0.16970706793944296,0.0,0.411302824270264,100,4,12
+unretrieved all relevant,flag_baseline,gating,stratum=oth_flagged,precision,0.35024621755345403,0.26022497229084157,0.4404671614825125,100,100,38
+unretrieved all relevant,flag_baseline,gating,stratum=oth_flagged,recall,1.0,1.0,1.0,100,100,38
+unretrieved all relevant,flag_baseline,gating,stratum=oth_flagged,f2,0.7293803095107871,0.6375250758016424,0.7974078747944704,100,100,38
+unretrieved all relevant,flag_price_family,gating,stratum=oth_flagged,precision,0.35024621755345403,0.26022497229084157,0.4404671614825125,100,100,38
+unretrieved all relevant,flag_price_family,gating,stratum=oth_flagged,recall,1.0,1.0,1.0,100,100,38
+unretrieved all relevant,flag_price_family,gating,stratum=oth_flagged,f2,0.7293803095107871,0.6375250758016424,0.7974078747944704,100,100,38
+unretrieved none relevant,flag_baseline,econ,all,precision,0.14630582003145984,0.11249948530702747,0.1827712490777474,1000,500,96
+unretrieved none relevant,flag_baseline,econ,all,recall,0.339852634381093,0.21829360884219548,0.5566569635826775,1000,500,96
+unretrieved none relevant,flag_baseline,econ,all,f2,0.26874777292996477,0.18951654793840395,0.3741380185730201,1000,500,96
+unretrieved none relevant,flag_price_family,econ,all,precision,0.1033283997949161,0.06558682183630403,0.1597502275781829,1000,526,96
+unretrieved none relevant,flag_price_family,econ,all,recall,0.4464823969800318,0.27420589966179426,0.7072059636232979,1000,526,96
+unretrieved none relevant,flag_price_family,econ,all,f2,0.26828638318046033,0.17900871369855964,0.3787043199199599,1000,526,96
+unretrieved none relevant,flag_baseline,econ,en,precision,0.12013017036978353,0.08129174135733944,0.16308385245428772,522,270,36
+unretrieved none relevant,flag_baseline,econ,en,recall,0.3280861006890596,0.18470383834523102,0.665690625584043,522,270,36
+unretrieved none relevant,flag_baseline,econ,en,f2,0.24370955105059086,0.1504754072938516,0.37924308305959575,522,270,36
+unretrieved none relevant,flag_price_family,econ,en,precision,0.09180248419251447,0.046806000522695713,0.1609225287057902,522,289,36
+unretrieved none relevant,flag_price_family,econ,en,recall,0.4832131050143639,0.2584726722022128,0.841014221688727,522,289,36
+unretrieved none relevant,flag_price_family,econ,en,f2,0.26081233253991526,0.14209533786002948,0.40632216847767144,522,289,36
+unretrieved none relevant,flag_baseline,econ,hin,precision,0.22014624969657734,0.14532486447123552,0.31336374302128,200,100,22
+unretrieved none relevant,flag_baseline,econ,hin,recall,1.0,1.0,1.0,200,100,22
+unretrieved none relevant,flag_baseline,econ,hin,f2,0.5853132132784616,0.45950940666900414,0.6952962160395971,200,100,22
+unretrieved none relevant,flag_price_family,econ,hin,precision,0.12345672295256477,0.05571818529338618,0.29467999029047653,200,101,22
+unretrieved none relevant,flag_price_family,econ,hin,recall,1.0,1.0,1.0,200,101,22
+unretrieved none relevant,flag_price_family,econ,hin,f2,0.4132229899910177,0.22781677594865882,0.6762686245673456,200,101,22
+unretrieved none relevant,flag_baseline,econ,oth,precision,0.2784372677126046,0.19578082008527575,0.36505763183720863,200,100,31
+unretrieved none relevant,flag_baseline,econ,oth,recall,0.6409014182877314,0.3942538652185752,1.0,200,100,31
+unretrieved none relevant,flag_baseline,econ,oth,f2,0.5085082211125151,0.3454135530294526,0.7013290332661384,200,100,31
+unretrieved none relevant,flag_price_family,econ,oth,precision,0.31273409318027673,0.1819854195713192,0.4627706373775697,200,104,31
+unretrieved none relevant,flag_price_family,econ,oth,recall,1.0,1.0,1.0,200,104,31
+unretrieved none relevant,flag_price_family,econ,oth,f2,0.6946755514066785,0.5265952654885591,0.8115699990600588,200,104,31
+unretrieved none relevant,flag_baseline,econ,vernacular_focal,precision,0.23051149009246083,0.16398848548987896,0.3083621719171943,400,200,53
+unretrieved none relevant,flag_baseline,econ,vernacular_focal,recall,0.8925806657048916,0.7417899622075059,1.0,400,200,53
+unretrieved none relevant,flag_baseline,econ,vernacular_focal,f2,0.5669213058016748,0.45388067185332887,0.6658755047791721,400,200,53
+unretrieved none relevant,flag_price_family,econ,vernacular_focal,precision,0.15074952945804027,0.07704359977645293,0.30611709035886364,400,205,53
+unretrieved none relevant,flag_price_family,econ,vernacular_focal,recall,1.0,1.0,1.0,400,205,53
+unretrieved none relevant,flag_price_family,econ,vernacular_focal,f2,0.47021118671651563,0.2944697495401652,0.6880661574045417,400,205,53
+unretrieved none relevant,flag_baseline,econ,mode=live,precision,0.16311223330945956,0.11886889048954488,0.21587610070599536,560,297,63
+unretrieved none relevant,flag_baseline,econ,mode=live,recall,0.4305376174095303,0.23830777455072574,0.9358691348187439,560,297,63
+unretrieved none relevant,flag_baseline,econ,mode=live,f2,0.3242235661071862,0.2076954478689272,0.4848817424007606,560,297,63
+unretrieved none relevant,flag_price_family,econ,mode=live,precision,0.12160760095007324,0.08549670355049742,0.17107267768209306,560,307,63
+unretrieved none relevant,flag_price_family,econ,mode=live,recall,0.45856187627710615,0.2565756977237406,1.0,560,307,63
+unretrieved none relevant,flag_price_family,econ,mode=live,f2,0.29505325512635827,0.20107073361622693,0.43366171667985076,560,307,63
+unretrieved none relevant,flag_baseline,econ,mode=wayback,precision,0.1708812710246525,0.10610236672523886,0.24468663051783796,324,141,33
+unretrieved none relevant,flag_baseline,econ,mode=wayback,recall,0.24493410295001125,0.11972365598974018,0.5934210518760898,324,141,33
+unretrieved none relevant,flag_baseline,econ,mode=wayback,f2,0.22539844191982333,0.12221898075658225,0.4213482117140985,324,141,33
+unretrieved none relevant,flag_price_family,econ,mode=wayback,precision,0.12106008923992355,0.04373821191945612,0.26000956323200214,324,152,33
+unretrieved none relevant,flag_price_family,econ,mode=wayback,recall,0.43383899785218616,0.1790157577259497,0.8283405757256824,324,152,33
+unretrieved none relevant,flag_price_family,econ,mode=wayback,f2,0.28603512060515957,0.11975814847966629,0.49467989066110846,324,152,33
+unretrieved none relevant,flag_baseline,econ,mode=unretrieved,precision,0.0,0.0,0.0,116,62,0
+unretrieved none relevant,flag_baseline,econ,mode=unretrieved,recall,,,,116,62,0
+unretrieved none relevant,flag_baseline,econ,mode=unretrieved,f2,,,,116,62,0
+unretrieved none relevant,flag_price_family,econ,mode=unretrieved,precision,0.0,0.0,0.0,116,67,0
+unretrieved none relevant,flag_price_family,econ,mode=unretrieved,recall,,,,116,67,0
+unretrieved none relevant,flag_price_family,econ,mode=unretrieved,f2,,,,116,67,0
+unretrieved none relevant,flag_baseline,econ,stratum=econ_unflagged,precision,,,,300,0,8
+unretrieved none relevant,flag_baseline,econ,stratum=econ_unflagged,recall,0.0,0.0,0.0,300,0,8
+unretrieved none relevant,flag_baseline,econ,stratum=econ_unflagged,f2,,,,300,0,8
+unretrieved none relevant,flag_price_family,econ,stratum=econ_unflagged,precision,0.05663509399123941,0.0,0.18191483525485702,300,21,8
+unretrieved none relevant,flag_price_family,econ,stratum=econ_unflagged,recall,0.14291698449007267,0.0,0.45006595744145056,300,21,8
+unretrieved none relevant,flag_price_family,econ,stratum=econ_unflagged,f2,0.10954060895648297,0.0,0.310563325751368,300,21,8
+unretrieved none relevant,flag_baseline,econ,stratum=flagged,precision,0.12222176545602155,0.08362677714063628,0.16209443334445142,300,300,35
+unretrieved none relevant,flag_baseline,econ,stratum=flagged,recall,1.0,1.0,1.0,300,300,35
+unretrieved none relevant,flag_baseline,econ,stratum=flagged,f2,0.410446730950444,0.31332458480013,0.4916786669654329,300,300,35
+unretrieved none relevant,flag_price_family,econ,stratum=flagged,precision,0.12222176545602155,0.08362677714063628,0.16209443334445142,300,300,35
+unretrieved none relevant,flag_price_family,econ,stratum=flagged,recall,1.0,1.0,1.0,300,300,35
+unretrieved none relevant,flag_price_family,econ,stratum=flagged,f2,0.410446730950444,0.31332458480013,0.4916786669654329,300,300,35
+unretrieved none relevant,flag_baseline,econ,stratum=hin_econ_unflagged,precision,,,,100,0,0
+unretrieved none relevant,flag_baseline,econ,stratum=hin_econ_unflagged,recall,,,,100,0,0
+unretrieved none relevant,flag_baseline,econ,stratum=hin_econ_unflagged,f2,,,,100,0,0
+unretrieved none relevant,flag_price_family,econ,stratum=hin_econ_unflagged,precision,0.0,0.0,0.0,100,1,0
+unretrieved none relevant,flag_price_family,econ,stratum=hin_econ_unflagged,recall,,,,100,1,0
+unretrieved none relevant,flag_price_family,econ,stratum=hin_econ_unflagged,f2,,,,100,1,0
+unretrieved none relevant,flag_baseline,econ,stratum=hin_flagged,precision,0.22014624969657734,0.14532486447123552,0.31336374302128,100,100,22
+unretrieved none relevant,flag_baseline,econ,stratum=hin_flagged,recall,1.0,1.0,1.0,100,100,22
+unretrieved none relevant,flag_baseline,econ,stratum=hin_flagged,f2,0.5853132132784616,0.45950940666900414,0.6952962160395971,100,100,22
+unretrieved none relevant,flag_price_family,econ,stratum=hin_flagged,precision,0.22014624969657734,0.14532486447123552,0.31336374302128,100,100,22
+unretrieved none relevant,flag_price_family,econ,stratum=hin_flagged,recall,1.0,1.0,1.0,100,100,22
+unretrieved none relevant,flag_price_family,econ,stratum=hin_flagged,f2,0.5853132132784616,0.45950940666900414,0.6952962160395971,100,100,22
+unretrieved none relevant,flag_baseline,econ,stratum=nonecon_noslug,precision,,,,0,0,0
+unretrieved none relevant,flag_baseline,econ,stratum=nonecon_noslug,recall,,,,0,0,0
+unretrieved none relevant,flag_baseline,econ,stratum=nonecon_noslug,f2,,,,0,0,0
+unretrieved none relevant,flag_price_family,econ,stratum=nonecon_noslug,precision,,,,0,0,0
+unretrieved none relevant,flag_price_family,econ,stratum=nonecon_noslug,recall,,,,0,0,0
+unretrieved none relevant,flag_price_family,econ,stratum=nonecon_noslug,f2,,,,0,0,0
+unretrieved none relevant,flag_baseline,econ,stratum=nonecon_slug,precision,,,,0,0,0
+unretrieved none relevant,flag_baseline,econ,stratum=nonecon_slug,recall,,,,0,0,0
+unretrieved none relevant,flag_baseline,econ,stratum=nonecon_slug,f2,,,,0,0,0
+unretrieved none relevant,flag_price_family,econ,stratum=nonecon_slug,precision,,,,0,0,0
+unretrieved none relevant,flag_price_family,econ,stratum=nonecon_slug,recall,,,,0,0,0
+unretrieved none relevant,flag_price_family,econ,stratum=nonecon_slug,f2,,,,0,0,0
+unretrieved none relevant,flag_baseline,econ,stratum=oth_econ_unflagged,precision,,,,100,0,2
+unretrieved none relevant,flag_baseline,econ,stratum=oth_econ_unflagged,recall,0.0,0.0,0.0,100,0,2
+unretrieved none relevant,flag_baseline,econ,stratum=oth_econ_unflagged,f2,,,,100,0,2
+unretrieved none relevant,flag_price_family,econ,stratum=oth_econ_unflagged,precision,0.40085823811483573,0.0,1.0,100,4,2
+unretrieved none relevant,flag_price_family,econ,stratum=oth_econ_unflagged,recall,1.0,1.0,1.0,100,4,2
+unretrieved none relevant,flag_price_family,econ,stratum=oth_econ_unflagged,f2,0.7698647236837104,0.45543189126508704,1.0,100,4,2
+unretrieved none relevant,flag_baseline,econ,stratum=oth_flagged,precision,0.2784372677126046,0.19578082008527575,0.36505763183720863,100,100,29
+unretrieved none relevant,flag_baseline,econ,stratum=oth_flagged,recall,1.0,1.0,1.0,100,100,29
+unretrieved none relevant,flag_baseline,econ,stratum=oth_flagged,f2,0.6586336844623231,0.5489828464379689,0.7419171823739137,100,100,29
+unretrieved none relevant,flag_price_family,econ,stratum=oth_flagged,precision,0.2784372677126046,0.19578082008527575,0.36505763183720863,100,100,29
+unretrieved none relevant,flag_price_family,econ,stratum=oth_flagged,recall,1.0,1.0,1.0,100,100,29
+unretrieved none relevant,flag_price_family,econ,stratum=oth_flagged,f2,0.6586336844623231,0.5489828464379689,0.7419171823739137,100,100,29
+unretrieved none relevant,flag_baseline,gating,all,precision,0.14630582003145984,0.11249948530702747,0.1827712490777474,1150,500,118
+unretrieved none relevant,flag_baseline,gating,all,recall,0.29851950624126394,0.19902825118774098,0.47332258461770355,1150,500,118
+unretrieved none relevant,flag_baseline,gating,all,f2,0.24710323993452174,0.17582643138997123,0.34134793814895265,1150,500,118
+unretrieved none relevant,flag_price_family,gating,all,precision,0.10932481523597137,0.07182814052415835,0.16511261259825794,1150,532,118
+unretrieved none relevant,flag_price_family,gating,all,recall,0.41826933549917006,0.2672022590463674,0.6336171052545598,1150,532,118
+unretrieved none relevant,flag_price_family,gating,all,f2,0.2672329139500083,0.1829568989521712,0.3720066428943788,1150,532,118
+unretrieved none relevant,flag_baseline,gating,en,precision,0.12013017036978353,0.08129174135733944,0.16308385245428772,643,270,51
+unretrieved none relevant,flag_baseline,gating,en,recall,0.2853529464465896,0.16509362826645066,0.5109249611027109,643,270,51
+unretrieved none relevant,flag_baseline,gating,en,f2,0.22379343551096287,0.14060478834160572,0.3405917708797523,643,270,51
+unretrieved none relevant,flag_price_family,gating,en,precision,0.09664921304877377,0.050685134660080254,0.16553446781063405,643,293,51
+unretrieved none relevant,flag_price_family,gating,en,recall,0.44561408283216863,0.24423187183052078,0.7384130142172107,643,293,51
+unretrieved none relevant,flag_price_family,gating,en,f2,0.25875801804844856,0.13977879805337964,0.40181522308538953,643,293,51
+unretrieved none relevant,flag_baseline,gating,hin,precision,0.22014624969657734,0.14532486447123552,0.31336374302128,200,100,22
+unretrieved none relevant,flag_baseline,gating,hin,recall,1.0,1.0,1.0,200,100,22
+unretrieved none relevant,flag_baseline,gating,hin,f2,0.5853132132784616,0.45950940666900414,0.6952962160395971,200,100,22
+unretrieved none relevant,flag_price_family,gating,hin,precision,0.12345672295256477,0.05571818529338618,0.29467999029047653,200,101,22
+unretrieved none relevant,flag_price_family,gating,hin,recall,1.0,1.0,1.0,200,101,22
+unretrieved none relevant,flag_price_family,gating,hin,f2,0.4132229899910177,0.22781677594865882,0.6762686245673456,200,101,22
+unretrieved none relevant,flag_baseline,gating,oth,precision,0.2784372677126046,0.19578082008527575,0.36505763183720863,200,100,31
+unretrieved none relevant,flag_baseline,gating,oth,recall,0.6409014182877314,0.3942538652185752,1.0,200,100,31
+unretrieved none relevant,flag_baseline,gating,oth,f2,0.5085082211125151,0.3454135530294526,0.7013290332661384,200,100,31
+unretrieved none relevant,flag_price_family,gating,oth,precision,0.31273409318027673,0.1819854195713192,0.4627706373775697,200,104,31
+unretrieved none relevant,flag_price_family,gating,oth,recall,1.0,1.0,1.0,200,104,31
+unretrieved none relevant,flag_price_family,gating,oth,f2,0.6946755514066785,0.5265952654885591,0.8115699990600588,200,104,31
+unretrieved none relevant,flag_baseline,gating,vernacular_focal,precision,0.23051149009246083,0.16398848548987896,0.3083621719171943,400,200,53
+unretrieved none relevant,flag_baseline,gating,vernacular_focal,recall,0.8925806657048916,0.7417899622075059,1.0,400,200,53
+unretrieved none relevant,flag_baseline,gating,vernacular_focal,f2,0.5669213058016748,0.45388067185332887,0.6658755047791721,400,200,53
+unretrieved none relevant,flag_price_family,gating,vernacular_focal,precision,0.15074952945804027,0.07704359977645293,0.30611709035886364,400,205,53
+unretrieved none relevant,flag_price_family,gating,vernacular_focal,recall,1.0,1.0,1.0,400,205,53
+unretrieved none relevant,flag_price_family,gating,vernacular_focal,f2,0.47021118671651563,0.2944697495401652,0.6880661574045417,400,205,53
+unretrieved none relevant,flag_baseline,gating,mode=live,precision,0.16311223330945956,0.11886889048954488,0.21587610070599536,645,297,77
+unretrieved none relevant,flag_baseline,gating,mode=live,recall,0.3652421604346272,0.21292333663697124,0.6790882060576254,645,297,77
+unretrieved none relevant,flag_baseline,gating,mode=live,f2,0.29269915428009924,0.19074928648821918,0.43329539758355323,645,297,77
+unretrieved none relevant,flag_price_family,gating,mode=live,precision,0.12496467913090988,0.08699287038518917,0.17500705686345547,645,308,77
+unretrieved none relevant,flag_price_family,gating,mode=live,recall,0.40128903077402084,0.2350678625490546,0.7394135013210311,645,308,77
+unretrieved none relevant,flag_price_family,gating,mode=live,f2,0.27823936263397864,0.189823819046751,0.40182942399210203,645,308,77
+unretrieved none relevant,flag_baseline,gating,mode=wayback,precision,0.1708812710246525,0.10610236672523886,0.24468663051783796,381,141,41
+unretrieved none relevant,flag_baseline,gating,mode=wayback,recall,0.22342584232043333,0.11264399928074408,0.5071183343053635,381,141,41
+unretrieved none relevant,flag_baseline,gating,mode=wayback,f2,0.21048157515100802,0.11466430906246255,0.3916312398314378,381,141,41
+unretrieved none relevant,flag_price_family,gating,mode=wayback,precision,0.1321144796219286,0.053045571014465914,0.2709692661792182,381,156,41
+unretrieved none relevant,flag_price_family,gating,mode=wayback,recall,0.4373799855732568,0.19995161632839858,0.796822357539397,381,156,41
+unretrieved none relevant,flag_price_family,gating,mode=wayback,f2,0.29914040931763675,0.13654961623955073,0.4974893292449498,381,156,41
+unretrieved none relevant,flag_baseline,gating,mode=unretrieved,precision,0.0,0.0,0.0,124,62,0
+unretrieved none relevant,flag_baseline,gating,mode=unretrieved,recall,,,,124,62,0
+unretrieved none relevant,flag_baseline,gating,mode=unretrieved,f2,,,,124,62,0
+unretrieved none relevant,flag_price_family,gating,mode=unretrieved,precision,0.0,0.0,0.0,124,68,0
+unretrieved none relevant,flag_price_family,gating,mode=unretrieved,recall,,,,124,68,0
+unretrieved none relevant,flag_price_family,gating,mode=unretrieved,f2,,,,124,68,0
+unretrieved none relevant,flag_baseline,gating,stratum=econ_unflagged,precision,,,,300,0,8
+unretrieved none relevant,flag_baseline,gating,stratum=econ_unflagged,recall,0.0,0.0,0.0,300,0,8
+unretrieved none relevant,flag_baseline,gating,stratum=econ_unflagged,f2,,,,300,0,8
+unretrieved none relevant,flag_price_family,gating,stratum=econ_unflagged,precision,0.05663509399123941,0.0,0.18191483525485702,300,21,8
+unretrieved none relevant,flag_price_family,gating,stratum=econ_unflagged,recall,0.14291698449007267,0.0,0.45006595744145056,300,21,8
+unretrieved none relevant,flag_price_family,gating,stratum=econ_unflagged,f2,0.10954060895648297,0.0,0.310563325751368,300,21,8
+unretrieved none relevant,flag_baseline,gating,stratum=flagged,precision,0.12222176545602155,0.08362677714063628,0.16209443334445142,300,300,35
+unretrieved none relevant,flag_baseline,gating,stratum=flagged,recall,1.0,1.0,1.0,300,300,35
+unretrieved none relevant,flag_baseline,gating,stratum=flagged,f2,0.410446730950444,0.31332458480013,0.4916786669654329,300,300,35
+unretrieved none relevant,flag_price_family,gating,stratum=flagged,precision,0.12222176545602155,0.08362677714063628,0.16209443334445142,300,300,35
+unretrieved none relevant,flag_price_family,gating,stratum=flagged,recall,1.0,1.0,1.0,300,300,35
+unretrieved none relevant,flag_price_family,gating,stratum=flagged,f2,0.410446730950444,0.31332458480013,0.4916786669654329,300,300,35
+unretrieved none relevant,flag_baseline,gating,stratum=hin_econ_unflagged,precision,,,,100,0,0
+unretrieved none relevant,flag_baseline,gating,stratum=hin_econ_unflagged,recall,,,,100,0,0
+unretrieved none relevant,flag_baseline,gating,stratum=hin_econ_unflagged,f2,,,,100,0,0
+unretrieved none relevant,flag_price_family,gating,stratum=hin_econ_unflagged,precision,0.0,0.0,0.0,100,1,0
+unretrieved none relevant,flag_price_family,gating,stratum=hin_econ_unflagged,recall,,,,100,1,0
+unretrieved none relevant,flag_price_family,gating,stratum=hin_econ_unflagged,f2,,,,100,1,0
+unretrieved none relevant,flag_baseline,gating,stratum=hin_flagged,precision,0.22014624969657734,0.14532486447123552,0.31336374302128,100,100,22
+unretrieved none relevant,flag_baseline,gating,stratum=hin_flagged,recall,1.0,1.0,1.0,100,100,22
+unretrieved none relevant,flag_baseline,gating,stratum=hin_flagged,f2,0.5853132132784616,0.45950940666900414,0.6952962160395971,100,100,22
+unretrieved none relevant,flag_price_family,gating,stratum=hin_flagged,precision,0.22014624969657734,0.14532486447123552,0.31336374302128,100,100,22
+unretrieved none relevant,flag_price_family,gating,stratum=hin_flagged,recall,1.0,1.0,1.0,100,100,22
+unretrieved none relevant,flag_price_family,gating,stratum=hin_flagged,f2,0.5853132132784616,0.45950940666900414,0.6952962160395971,100,100,22
+unretrieved none relevant,flag_baseline,gating,stratum=nonecon_noslug,precision,,,,0,0,0
+unretrieved none relevant,flag_baseline,gating,stratum=nonecon_noslug,recall,,,,0,0,0
+unretrieved none relevant,flag_baseline,gating,stratum=nonecon_noslug,f2,,,,0,0,0
+unretrieved none relevant,flag_price_family,gating,stratum=nonecon_noslug,precision,,,,0,0,0
+unretrieved none relevant,flag_price_family,gating,stratum=nonecon_noslug,recall,,,,0,0,0
+unretrieved none relevant,flag_price_family,gating,stratum=nonecon_noslug,f2,,,,0,0,0
+unretrieved none relevant,flag_baseline,gating,stratum=nonecon_slug,precision,,,,150,0,22
+unretrieved none relevant,flag_baseline,gating,stratum=nonecon_slug,recall,0.0,0.0,0.0,150,0,22
+unretrieved none relevant,flag_baseline,gating,stratum=nonecon_slug,f2,,,,150,0,22
+unretrieved none relevant,flag_price_family,gating,stratum=nonecon_slug,precision,0.8567016676961089,0.4981975486661867,1.0,150,6,22
+unretrieved none relevant,flag_price_family,gating,stratum=nonecon_slug,recall,0.21450665017012058,0.0552800575745811,0.4036587855887079,150,6,22
+unretrieved none relevant,flag_price_family,gating,stratum=nonecon_slug,f2,0.25233780882727497,0.070169443641435,0.45487360840480273,150,6,22
+unretrieved none relevant,flag_baseline,gating,stratum=oth_econ_unflagged,precision,,,,100,0,2
+unretrieved none relevant,flag_baseline,gating,stratum=oth_econ_unflagged,recall,0.0,0.0,0.0,100,0,2
+unretrieved none relevant,flag_baseline,gating,stratum=oth_econ_unflagged,f2,,,,100,0,2
+unretrieved none relevant,flag_price_family,gating,stratum=oth_econ_unflagged,precision,0.40085823811483573,0.0,1.0,100,4,2
+unretrieved none relevant,flag_price_family,gating,stratum=oth_econ_unflagged,recall,1.0,1.0,1.0,100,4,2
+unretrieved none relevant,flag_price_family,gating,stratum=oth_econ_unflagged,f2,0.7698647236837104,0.45543189126508704,1.0,100,4,2
+unretrieved none relevant,flag_baseline,gating,stratum=oth_flagged,precision,0.2784372677126046,0.19578082008527575,0.36505763183720863,100,100,29
+unretrieved none relevant,flag_baseline,gating,stratum=oth_flagged,recall,1.0,1.0,1.0,100,100,29
+unretrieved none relevant,flag_baseline,gating,stratum=oth_flagged,f2,0.6586336844623231,0.5489828464379689,0.7419171823739137,100,100,29
+unretrieved none relevant,flag_price_family,gating,stratum=oth_flagged,precision,0.2784372677126046,0.19578082008527575,0.36505763183720863,100,100,29
+unretrieved none relevant,flag_price_family,gating,stratum=oth_flagged,recall,1.0,1.0,1.0,100,100,29
+unretrieved none relevant,flag_price_family,gating,stratum=oth_flagged,f2,0.6586336844623231,0.5489828464379689,0.7419171823739137,100,100,29
+slug labels imputed,flag_baseline,econ,all,precision,0.1600801947603819,0.12579021096425538,0.19622753474406446,1000,500,105
+slug labels imputed,flag_baseline,econ,all,recall,0.3603200802155981,0.23225334531556965,0.5838742147756965,1000,500,105
+slug labels imputed,flag_baseline,econ,all,f2,0.2882158372975645,0.2073613490583995,0.3943656784239053,1000,500,105
+slug labels imputed,flag_price_family,econ,all,precision,0.11073325028850274,0.07205375690433079,0.165146725060006,1000,526,105
+slug labels imputed,flag_price_family,econ,all,recall,0.46364385538808733,0.29027806432102776,0.7229390322183081,1000,526,105
+slug labels imputed,flag_price_family,econ,all,f2,0.28315741083023865,0.19664155965322816,0.39142713331579465,1000,526,105
+slug labels imputed,flag_baseline,econ,en,precision,0.1301529742604411,0.08931337121115246,0.17243386439365785,522,270,39
+slug labels imputed,flag_baseline,econ,en,recall,0.3459884645715398,0.19644439257801724,0.6840893991556423,522,270,39
+slug labels imputed,flag_baseline,econ,en,f2,0.25981657588947066,0.16472717891844488,0.3970564943553316,522,270,39
+slug labels imputed,flag_price_family,econ,en,precision,0.09700293151080325,0.05029883458874823,0.16675790484234176,522,289,39
+slug labels imputed,flag_price_family,econ,en,recall,0.49698229040138714,0.2720635060616055,0.849168274332661,522,289,39
+slug labels imputed,flag_price_family,econ,en,f2,0.27236759900119456,0.1527582944299139,0.4178654566045494,522,289,39
+slug labels imputed,flag_baseline,econ,hin,precision,0.2538575127437494,0.1716087466623513,0.35439252265555454,200,100,26
+slug labels imputed,flag_baseline,econ,hin,recall,1.0,1.0,1.0,200,100,26
+slug labels imputed,flag_baseline,econ,hin,f2,0.6297849747277054,0.5087914684553068,0.732951907691694,200,100,26
+slug labels imputed,flag_price_family,econ,hin,precision,0.1423618011364175,0.0657825804594006,0.3320474957520834,200,101,26
+slug labels imputed,flag_price_family,econ,hin,recall,1.0,1.0,1.0,200,101,26
+slug labels imputed,flag_price_family,econ,hin,f2,0.4535412236999364,0.2603950641570209,0.713102234300986,200,101,26
+slug labels imputed,flag_baseline,econ,oth,precision,0.29357650127331736,0.21072035497954264,0.380406805021621,200,100,33
+slug labels imputed,flag_baseline,econ,oth,recall,0.6529936155601661,0.41148534028622924,1.0,200,100,33
+slug labels imputed,flag_baseline,econ,oth,f2,0.5245543173193861,0.35914874153164017,0.7157226134880399,200,100,33
+slug labels imputed,flag_price_family,econ,oth,precision,0.32363199742102017,0.18694866139922373,0.4816184957561986,200,104,33
+slug labels imputed,flag_price_family,econ,oth,recall,1.0,1.0,1.0,200,104,33
+slug labels imputed,flag_price_family,econ,oth,f2,0.7052256474447693,0.5348130007892402,0.8228648169927584,200,104,33
+slug labels imputed,flag_baseline,econ,vernacular_focal,precision,0.26092029665802446,0.19026885620422251,0.34310442944420044,400,200,59
+slug labels imputed,flag_baseline,econ,vernacular_focal,recall,0.9038966608122924,0.7663920369962235,1.0,400,200,59
+slug labels imputed,flag_baseline,econ,vernacular_focal,f2,0.6054828185605433,0.4958918874547099,0.6959749696329016,400,200,59
+slug labels imputed,flag_price_family,econ,vernacular_focal,precision,0.16850001505207596,0.08663297306428815,0.3362122266759919,400,205,59
+slug labels imputed,flag_price_family,econ,vernacular_focal,recall,1.0,1.0,1.0,400,205,59
+slug labels imputed,flag_price_family,econ,vernacular_focal,f2,0.5032855704649996,0.3216892494272655,0.716916571790461,400,205,59
+slug labels imputed,flag_baseline,econ,mode=live,precision,0.16311223330945956,0.11886889048954488,0.21587610070599536,560,297,63
+slug labels imputed,flag_baseline,econ,mode=live,recall,0.4305376174095303,0.23830777455072574,0.9358691348187439,560,297,63
+slug labels imputed,flag_baseline,econ,mode=live,f2,0.3242235661071862,0.2076954478689272,0.4848817424007606,560,297,63
+slug labels imputed,flag_price_family,econ,mode=live,precision,0.12160760095007324,0.08549670355049742,0.17107267768209306,560,307,63
+slug labels imputed,flag_price_family,econ,mode=live,recall,0.45856187627710615,0.2565756977237406,1.0,560,307,63
+slug labels imputed,flag_price_family,econ,mode=live,f2,0.29505325512635827,0.20107073361622693,0.43366171667985076,560,307,63
+slug labels imputed,flag_baseline,econ,mode=wayback,precision,0.1708812710246525,0.10610236672523886,0.24468663051783796,324,141,33
+slug labels imputed,flag_baseline,econ,mode=wayback,recall,0.24493410295001125,0.11972365598974018,0.5934210518760898,324,141,33
+slug labels imputed,flag_baseline,econ,mode=wayback,f2,0.22539844191982333,0.12221898075658225,0.4213482117140985,324,141,33
+slug labels imputed,flag_price_family,econ,mode=wayback,precision,0.12106008923992355,0.04373821191945612,0.26000956323200214,324,152,33
+slug labels imputed,flag_price_family,econ,mode=wayback,recall,0.43383899785218616,0.1790157577259497,0.8283405757256824,324,152,33
+slug labels imputed,flag_price_family,econ,mode=wayback,f2,0.28603512060515957,0.11975814847966629,0.49467989066110846,324,152,33
+slug labels imputed,flag_baseline,econ,mode=unretrieved,precision,0.11733264872843119,0.042019682458618195,0.2012317536975922,116,62,9
+slug labels imputed,flag_baseline,econ,mode=unretrieved,recall,1.0,1.0,1.0,116,62,9
+slug labels imputed,flag_baseline,econ,mode=unretrieved,f2,0.39927246167265934,0.18507225884800668,0.5574750132519308,116,62,9
+slug labels imputed,flag_price_family,econ,mode=unretrieved,precision,0.04986815406142119,0.016152005005916587,0.10709716003100726,116,67,9
+slug labels imputed,flag_price_family,econ,mode=unretrieved,recall,1.0,1.0,1.0,116,67,9
+slug labels imputed,flag_price_family,econ,mode=unretrieved,f2,0.20787533365083022,0.0774855825072607,0.3748936081034508,116,67,9
+slug labels imputed,flag_baseline,econ,stratum=econ_unflagged,precision,,,,300,0,8
+slug labels imputed,flag_baseline,econ,stratum=econ_unflagged,recall,0.0,0.0,0.0,300,0,8
+slug labels imputed,flag_baseline,econ,stratum=econ_unflagged,f2,,,,300,0,8
+slug labels imputed,flag_price_family,econ,stratum=econ_unflagged,precision,0.05663509399123941,0.0,0.18191483525485702,300,21,8
+slug labels imputed,flag_price_family,econ,stratum=econ_unflagged,recall,0.14291698449007267,0.0,0.45006595744145056,300,21,8
+slug labels imputed,flag_price_family,econ,stratum=econ_unflagged,f2,0.10954060895648297,0.0,0.310563325751368,300,21,8
+slug labels imputed,flag_baseline,econ,stratum=flagged,precision,0.13123844911859553,0.0913399664863562,0.17113693175083478,300,300,38
+slug labels imputed,flag_baseline,econ,stratum=flagged,recall,1.0,1.0,1.0,300,300,38
+slug labels imputed,flag_baseline,econ,stratum=flagged,f2,0.43030303417064947,0.3344904472794545,0.5079610657050863,300,300,38
+slug labels imputed,flag_price_family,econ,stratum=flagged,precision,0.13123844911859553,0.0913399664863562,0.17113693175083478,300,300,38
+slug labels imputed,flag_price_family,econ,stratum=flagged,recall,1.0,1.0,1.0,300,300,38
+slug labels imputed,flag_price_family,econ,stratum=flagged,f2,0.43030303417064947,0.3344904472794545,0.5079610657050863,300,300,38
+slug labels imputed,flag_baseline,econ,stratum=hin_econ_unflagged,precision,,,,100,0,0
+slug labels imputed,flag_baseline,econ,stratum=hin_econ_unflagged,recall,,,,100,0,0
+slug labels imputed,flag_baseline,econ,stratum=hin_econ_unflagged,f2,,,,100,0,0
+slug labels imputed,flag_price_family,econ,stratum=hin_econ_unflagged,precision,0.0,0.0,0.0,100,1,0
+slug labels imputed,flag_price_family,econ,stratum=hin_econ_unflagged,recall,,,,100,1,0
+slug labels imputed,flag_price_family,econ,stratum=hin_econ_unflagged,f2,,,,100,1,0
+slug labels imputed,flag_baseline,econ,stratum=hin_flagged,precision,0.2538575127437494,0.1716087466623513,0.35439252265555454,100,100,26
+slug labels imputed,flag_baseline,econ,stratum=hin_flagged,recall,1.0,1.0,1.0,100,100,26
+slug labels imputed,flag_baseline,econ,stratum=hin_flagged,f2,0.6297849747277054,0.5087914684553068,0.732951907691694,100,100,26
+slug labels imputed,flag_price_family,econ,stratum=hin_flagged,precision,0.2538575127437494,0.1716087466623513,0.35439252265555454,100,100,26
+slug labels imputed,flag_price_family,econ,stratum=hin_flagged,recall,1.0,1.0,1.0,100,100,26
+slug labels imputed,flag_price_family,econ,stratum=hin_flagged,f2,0.6297849747277054,0.5087914684553068,0.732951907691694,100,100,26
+slug labels imputed,flag_baseline,econ,stratum=nonecon_noslug,precision,,,,0,0,0
+slug labels imputed,flag_baseline,econ,stratum=nonecon_noslug,recall,,,,0,0,0
+slug labels imputed,flag_baseline,econ,stratum=nonecon_noslug,f2,,,,0,0,0
+slug labels imputed,flag_price_family,econ,stratum=nonecon_noslug,precision,,,,0,0,0
+slug labels imputed,flag_price_family,econ,stratum=nonecon_noslug,recall,,,,0,0,0
+slug labels imputed,flag_price_family,econ,stratum=nonecon_noslug,f2,,,,0,0,0
+slug labels imputed,flag_baseline,econ,stratum=nonecon_slug,precision,,,,0,0,0
+slug labels imputed,flag_baseline,econ,stratum=nonecon_slug,recall,,,,0,0,0
+slug labels imputed,flag_baseline,econ,stratum=nonecon_slug,f2,,,,0,0,0
+slug labels imputed,flag_price_family,econ,stratum=nonecon_slug,precision,,,,0,0,0
+slug labels imputed,flag_price_family,econ,stratum=nonecon_slug,recall,,,,0,0,0
+slug labels imputed,flag_price_family,econ,stratum=nonecon_slug,f2,,,,0,0,0
+slug labels imputed,flag_baseline,econ,stratum=oth_econ_unflagged,precision,,,,100,0,2
+slug labels imputed,flag_baseline,econ,stratum=oth_econ_unflagged,recall,0.0,0.0,0.0,100,0,2
+slug labels imputed,flag_baseline,econ,stratum=oth_econ_unflagged,f2,,,,100,0,2
+slug labels imputed,flag_price_family,econ,stratum=oth_econ_unflagged,precision,0.40085823811483573,0.0,1.0,100,4,2
+slug labels imputed,flag_price_family,econ,stratum=oth_econ_unflagged,recall,1.0,1.0,1.0,100,4,2
+slug labels imputed,flag_price_family,econ,stratum=oth_econ_unflagged,f2,0.7698647236837104,0.45543189126508704,1.0,100,4,2
+slug labels imputed,flag_baseline,econ,stratum=oth_flagged,precision,0.29357650127331736,0.21072035497954264,0.380406805021621,100,100,31
+slug labels imputed,flag_baseline,econ,stratum=oth_flagged,recall,1.0,1.0,1.0,100,100,31
+slug labels imputed,flag_baseline,econ,stratum=oth_flagged,f2,0.6751039195624262,0.5717143618195989,0.7542879802390094,100,100,31
+slug labels imputed,flag_price_family,econ,stratum=oth_flagged,precision,0.29357650127331736,0.21072035497954264,0.380406805021621,100,100,31
+slug labels imputed,flag_price_family,econ,stratum=oth_flagged,recall,1.0,1.0,1.0,100,100,31
+slug labels imputed,flag_price_family,econ,stratum=oth_flagged,f2,0.6751039195624262,0.5717143618195989,0.7542879802390094,100,100,31
+slug labels imputed,flag_baseline,gating,all,precision,0.1600801947603819,0.12579021096425538,0.19622753474406446,1150,500,129
+slug labels imputed,flag_baseline,gating,all,recall,0.31437415170950794,0.2120243627440096,0.4815374500614709,1150,500,129
+slug labels imputed,flag_baseline,gating,all,f2,0.26356626505651576,0.19210013677444493,0.3559152644854357,1150,500,129
+slug labels imputed,flag_price_family,gating,all,precision,0.11781129924030921,0.07924037746533961,0.17335304969344553,1150,532,129
+slug labels imputed,flag_price_family,gating,all,recall,0.4338327506275516,0.27838497754335967,0.6419517109377999,1150,532,129
+slug labels imputed,flag_price_family,gating,all,f2,0.28235358148207995,0.19788307743830394,0.3852324390146849,1150,532,129
+slug labels imputed,flag_baseline,gating,en,precision,0.1301529742604411,0.08931337121115246,0.17243386439365785,643,270,56
+slug labels imputed,flag_baseline,gating,en,recall,0.2967321275491816,0.17566863066882007,0.520696860905761,643,270,56
+slug labels imputed,flag_baseline,gating,en,f2,0.23625650764672124,0.15100973340902096,0.3483915381008079,643,270,56
+slug labels imputed,flag_price_family,gating,en,precision,0.10338798341556336,0.05563756809484045,0.17168816008437912,643,293,56
+slug labels imputed,flag_price_family,gating,en,recall,0.4575208125850557,0.2549845099920576,0.7320195705408199,643,293,56
+slug labels imputed,flag_price_family,gating,en,f2,0.27151666946074504,0.156880993734369,0.411805425943597,643,293,56
+slug labels imputed,flag_baseline,gating,hin,precision,0.2538575127437494,0.1716087466623513,0.35439252265555454,200,100,26
+slug labels imputed,flag_baseline,gating,hin,recall,1.0,1.0,1.0,200,100,26
+slug labels imputed,flag_baseline,gating,hin,f2,0.6297849747277054,0.5087914684553068,0.732951907691694,200,100,26
+slug labels imputed,flag_price_family,gating,hin,precision,0.1423618011364175,0.0657825804594006,0.3320474957520834,200,101,26
+slug labels imputed,flag_price_family,gating,hin,recall,1.0,1.0,1.0,200,101,26
+slug labels imputed,flag_price_family,gating,hin,f2,0.4535412236999364,0.2603950641570209,0.713102234300986,200,101,26
+slug labels imputed,flag_baseline,gating,oth,precision,0.29357650127331736,0.21072035497954264,0.380406805021621,200,100,33
+slug labels imputed,flag_baseline,gating,oth,recall,0.6529936155601661,0.41148534028622924,1.0,200,100,33
+slug labels imputed,flag_baseline,gating,oth,f2,0.5245543173193861,0.35914874153164017,0.7157226134880399,200,100,33
+slug labels imputed,flag_price_family,gating,oth,precision,0.32363199742102017,0.18694866139922373,0.4816184957561986,200,104,33
+slug labels imputed,flag_price_family,gating,oth,recall,1.0,1.0,1.0,200,104,33
+slug labels imputed,flag_price_family,gating,oth,f2,0.7052256474447693,0.5348130007892402,0.8228648169927584,200,104,33
+slug labels imputed,flag_baseline,gating,vernacular_focal,precision,0.26092029665802446,0.19026885620422251,0.34310442944420044,400,200,59
+slug labels imputed,flag_baseline,gating,vernacular_focal,recall,0.9038966608122924,0.7663920369962235,1.0,400,200,59
+slug labels imputed,flag_baseline,gating,vernacular_focal,f2,0.6054828185605433,0.4958918874547099,0.6959749696329016,400,200,59
+slug labels imputed,flag_price_family,gating,vernacular_focal,precision,0.16850001505207596,0.08663297306428815,0.3362122266759919,400,205,59
+slug labels imputed,flag_price_family,gating,vernacular_focal,recall,1.0,1.0,1.0,400,205,59
+slug labels imputed,flag_price_family,gating,vernacular_focal,f2,0.5032855704649996,0.3216892494272655,0.716916571790461,400,205,59
+slug labels imputed,flag_baseline,gating,mode=live,precision,0.16311223330945956,0.11886889048954488,0.21587610070599536,645,297,77
+slug labels imputed,flag_baseline,gating,mode=live,recall,0.3652421604346272,0.21292333663697124,0.6790882060576254,645,297,77
+slug labels imputed,flag_baseline,gating,mode=live,f2,0.29269915428009924,0.19074928648821918,0.43329539758355323,645,297,77
+slug labels imputed,flag_price_family,gating,mode=live,precision,0.12496467913090988,0.08699287038518917,0.17500705686345547,645,308,77
+slug labels imputed,flag_price_family,gating,mode=live,recall,0.40128903077402084,0.2350678625490546,0.7394135013210311,645,308,77
+slug labels imputed,flag_price_family,gating,mode=live,f2,0.27823936263397864,0.189823819046751,0.40182942399210203,645,308,77
+slug labels imputed,flag_baseline,gating,mode=wayback,precision,0.1708812710246525,0.10610236672523886,0.24468663051783796,381,141,41
+slug labels imputed,flag_baseline,gating,mode=wayback,recall,0.22342584232043333,0.11264399928074408,0.5071183343053635,381,141,41
+slug labels imputed,flag_baseline,gating,mode=wayback,f2,0.21048157515100802,0.11466430906246255,0.3916312398314378,381,141,41
+slug labels imputed,flag_price_family,gating,mode=wayback,precision,0.1321144796219286,0.053045571014465914,0.2709692661792182,381,156,41
+slug labels imputed,flag_price_family,gating,mode=wayback,recall,0.4373799855732568,0.19995161632839858,0.796822357539397,381,156,41
+slug labels imputed,flag_price_family,gating,mode=wayback,f2,0.29914040931763675,0.13654961623955073,0.4974893292449498,381,156,41
+slug labels imputed,flag_baseline,gating,mode=unretrieved,precision,0.11733264872843119,0.042019682458618195,0.2012317536975922,124,62,11
+slug labels imputed,flag_baseline,gating,mode=unretrieved,recall,0.7212445066103703,0.41645691442546523,1.0,124,62,11
+slug labels imputed,flag_baseline,gating,mode=unretrieved,f2,0.3553976907172562,0.15731735068414557,0.5193657398858198,124,62,11
+slug labels imputed,flag_price_family,gating,mode=unretrieved,precision,0.057168347353504644,0.020236887785700194,0.12082263783962424,124,68,11
+slug labels imputed,flag_price_family,gating,mode=unretrieved,recall,0.833229397461269,0.5128944370734091,1.0,124,68,11
+slug labels imputed,flag_price_family,gating,mode=unretrieved,f2,0.22428770414749608,0.09040941215243004,0.3914384162095787,124,68,11
+slug labels imputed,flag_baseline,gating,stratum=econ_unflagged,precision,,,,300,0,8
+slug labels imputed,flag_baseline,gating,stratum=econ_unflagged,recall,0.0,0.0,0.0,300,0,8
+slug labels imputed,flag_baseline,gating,stratum=econ_unflagged,f2,,,,300,0,8
+slug labels imputed,flag_price_family,gating,stratum=econ_unflagged,precision,0.05663509399123941,0.0,0.18191483525485702,300,21,8
+slug labels imputed,flag_price_family,gating,stratum=econ_unflagged,recall,0.14291698449007267,0.0,0.45006595744145056,300,21,8
+slug labels imputed,flag_price_family,gating,stratum=econ_unflagged,f2,0.10954060895648297,0.0,0.310563325751368,300,21,8
+slug labels imputed,flag_baseline,gating,stratum=flagged,precision,0.13123844911859553,0.0913399664863562,0.17113693175083478,300,300,38
+slug labels imputed,flag_baseline,gating,stratum=flagged,recall,1.0,1.0,1.0,300,300,38
+slug labels imputed,flag_baseline,gating,stratum=flagged,f2,0.43030303417064947,0.3344904472794545,0.5079610657050863,300,300,38
+slug labels imputed,flag_price_family,gating,stratum=flagged,precision,0.13123844911859553,0.0913399664863562,0.17113693175083478,300,300,38
+slug labels imputed,flag_price_family,gating,stratum=flagged,recall,1.0,1.0,1.0,300,300,38
+slug labels imputed,flag_price_family,gating,stratum=flagged,f2,0.43030303417064947,0.3344904472794545,0.5079610657050863,300,300,38
+slug labels imputed,flag_baseline,gating,stratum=hin_econ_unflagged,precision,,,,100,0,0
+slug labels imputed,flag_baseline,gating,stratum=hin_econ_unflagged,recall,,,,100,0,0
+slug labels imputed,flag_baseline,gating,stratum=hin_econ_unflagged,f2,,,,100,0,0
+slug labels imputed,flag_price_family,gating,stratum=hin_econ_unflagged,precision,0.0,0.0,0.0,100,1,0
+slug labels imputed,flag_price_family,gating,stratum=hin_econ_unflagged,recall,,,,100,1,0
+slug labels imputed,flag_price_family,gating,stratum=hin_econ_unflagged,f2,,,,100,1,0
+slug labels imputed,flag_baseline,gating,stratum=hin_flagged,precision,0.2538575127437494,0.1716087466623513,0.35439252265555454,100,100,26
+slug labels imputed,flag_baseline,gating,stratum=hin_flagged,recall,1.0,1.0,1.0,100,100,26
+slug labels imputed,flag_baseline,gating,stratum=hin_flagged,f2,0.6297849747277054,0.5087914684553068,0.732951907691694,100,100,26
+slug labels imputed,flag_price_family,gating,stratum=hin_flagged,precision,0.2538575127437494,0.1716087466623513,0.35439252265555454,100,100,26
+slug labels imputed,flag_price_family,gating,stratum=hin_flagged,recall,1.0,1.0,1.0,100,100,26
+slug labels imputed,flag_price_family,gating,stratum=hin_flagged,f2,0.6297849747277054,0.5087914684553068,0.732951907691694,100,100,26
+slug labels imputed,flag_baseline,gating,stratum=nonecon_noslug,precision,,,,0,0,0
+slug labels imputed,flag_baseline,gating,stratum=nonecon_noslug,recall,,,,0,0,0
+slug labels imputed,flag_baseline,gating,stratum=nonecon_noslug,f2,,,,0,0,0
+slug labels imputed,flag_price_family,gating,stratum=nonecon_noslug,precision,,,,0,0,0
+slug labels imputed,flag_price_family,gating,stratum=nonecon_noslug,recall,,,,0,0,0
+slug labels imputed,flag_price_family,gating,stratum=nonecon_noslug,f2,,,,0,0,0
+slug labels imputed,flag_baseline,gating,stratum=nonecon_slug,precision,,,,150,0,24
+slug labels imputed,flag_baseline,gating,stratum=nonecon_slug,recall,0.0,0.0,0.0,150,0,24
+slug labels imputed,flag_baseline,gating,stratum=nonecon_slug,f2,,,,150,0,24
+slug labels imputed,flag_price_family,gating,stratum=nonecon_slug,precision,1.0,1.0,1.0,150,6,24
+slug labels imputed,flag_price_family,gating,stratum=nonecon_slug,recall,0.22985731525519967,0.07140590904649723,0.405108884485301,150,6,24
+slug labels imputed,flag_price_family,gating,stratum=nonecon_slug,f2,0.2717081193568957,0.08968374739906568,0.4598414667624235,150,6,24
+slug labels imputed,flag_baseline,gating,stratum=oth_econ_unflagged,precision,,,,100,0,2
+slug labels imputed,flag_baseline,gating,stratum=oth_econ_unflagged,recall,0.0,0.0,0.0,100,0,2
+slug labels imputed,flag_baseline,gating,stratum=oth_econ_unflagged,f2,,,,100,0,2
+slug labels imputed,flag_price_family,gating,stratum=oth_econ_unflagged,precision,0.40085823811483573,0.0,1.0,100,4,2
+slug labels imputed,flag_price_family,gating,stratum=oth_econ_unflagged,recall,1.0,1.0,1.0,100,4,2
+slug labels imputed,flag_price_family,gating,stratum=oth_econ_unflagged,f2,0.7698647236837104,0.45543189126508704,1.0,100,4,2
+slug labels imputed,flag_baseline,gating,stratum=oth_flagged,precision,0.29357650127331736,0.21072035497954264,0.380406805021621,100,100,31
+slug labels imputed,flag_baseline,gating,stratum=oth_flagged,recall,1.0,1.0,1.0,100,100,31
+slug labels imputed,flag_baseline,gating,stratum=oth_flagged,f2,0.6751039195624262,0.5717143618195989,0.7542879802390094,100,100,31
+slug labels imputed,flag_price_family,gating,stratum=oth_flagged,precision,0.29357650127331736,0.21072035497954264,0.380406805021621,100,100,31
+slug labels imputed,flag_price_family,gating,stratum=oth_flagged,recall,1.0,1.0,1.0,100,100,31
+slug labels imputed,flag_price_family,gating,stratum=oth_flagged,f2,0.6751039195624262,0.5717143618195989,0.7542879802390094,100,100,31

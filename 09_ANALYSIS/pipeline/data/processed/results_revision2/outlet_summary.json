@@ -1,0 +1,9 @@
+{
+ "core_outlets": 104,
+ "valid_windows": 62,
+ "min": 84,
+ "median": 97.5,
+ "max": 103,
+ "balanced_outlets_every valid window": 37,
+ "balanced_outlets_every window in the regression sample": 44
+}

@@ -1,0 +1,33 @@
+{
+ "max_abs_diff_14d_rebuild_vs_published": 0.0,
+ "14d": {
+  "core_size": 104,
+  "valid_windows": 62,
+  "core_present_min": 84.0,
+  "core_present_median": 97.5
+ },
+ "10d": {
+  "core_size": 93,
+  "valid_windows": 62,
+  "core_present_min": 76.0,
+  "core_present_median": 88.0
+ },
+ "7d": {
+  "core_size": 87,
+  "valid_windows": 62,
+  "core_present_min": 71.0,
+  "core_present_median": 82.0
+ },
+ "matched_rows_by_type": {
+  "S": 425532,
+  "D": 172670
+ },
+ "matched_rows_missing_distinct_counts": 172670,
+ "matched_corr_with_paper_monthly": 0.7992575843347552,
+ "matched_months": 68,
+ "matched_outlets_per_month": {
+  "min": 52,
+  "median": 85.5,
+  "max": 97
+ }
+}

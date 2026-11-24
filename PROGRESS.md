@@ -1,0 +1,5 @@
+
+## 2026-11-24 11:05 UTC: revision round 2 (analyses only; paper not edited)
+- scripts/revision/r2_audit.py: retrieval bounds (137 unretrieved: all relevant / none relevant / slug labels imputed) and P/R/F2 with bootstrap CIs by language and retrieval route; reference case reproduces the published 42 gating-frame cells exactly. Output outputs/audit_revision2/.
+- scripts/revision/r2_index.py: expectation robustness (trend, post-2022 regime, subsamples, INR/USD, excl 2020-21 + regime), outlet composition (core per window, >= median, balanced 37/44 outlets), joint test of monthly LP responses h=0-12 (NW Wald, block bootstrap, Bonferroni, cumulative); --heavy: 7/10-day windows rebuilt from cache (14-day rebuild identical to published), matched monthly series (window construction; only grid days inside windows, 68 months, because D rows carry no distinct-URL counts) with Trends/episode validation. Output data/processed/results_revision2/. Every fit re-seeded with the paper's bootstrap seed.
+- Results written to 10_OUTPUTS/paper/REVISION_RESULTS.md. No estimate, flag or specification changed.
