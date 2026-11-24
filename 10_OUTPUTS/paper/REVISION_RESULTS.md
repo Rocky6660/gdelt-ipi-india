@@ -5,6 +5,7 @@
 Conventions:
 
 * **Flag and specification.** The flag is the final price-family flag. The expectation regressions use the paper's primary specification: one-year-ahead median expectation, change at h = 0, with the lagged level and lagged change of expectations, real-time CPI and food inflation, the repo-rate change and a phone-mode dummy. The sample is rounds with base-2012 CPI.
+* **Rounding.** Bootstrap p-values are multiples of 0.0005 and are rounded half up to three decimals, as for the paper's 0.058. Four values in the first version of this file had been rounded down at a tie (0.064, 0.266, 0.018, 0.008, now 0.065, 0.267, 0.019, 0.009), and the Bonferroni bound for Brent is 0.121, not 0.122.
 * **Inference.** Each regression row reports the coefficient (pp per SD of the index), a 95% EWC fixed-b CI and a restricted wild-bootstrap p (1,999 draws). Every row is re-seeded with the paper's bootstrap seed. The reference rows therefore reproduce the paper exactly: 0.251 [0.068, 0.434], p 0.058, N = 56.
 * **Audit metrics.** These use coder-A truth and the paper's weights, which are post-stratified within stratum × period cells (empty cells pooled). CIs are from a stratified bootstrap (1,000 draws, the paper's seed). The reference case reproduces all 42 published gating-frame cells exactly, estimates and CIs.
 * **Code and output.** The code is `09_ANALYSIS/pipeline/scripts/revision/r2_audit.py` and `r2_index.py`. Output files are in `outputs/audit_revision2/` and `data/processed/results_revision2/`.
@@ -108,9 +109,9 @@ Notes:
 | Post-2022 dummy + interaction: index × post-2022 | 56 | −0.273 | [−0.606, 0.059] | 0.052 |
 | Subsample: fieldwork before 2022 | 32 | 0.255 | [−0.166, 0.676] | 0.114 |
 | Subsample: fieldwork 2022 onward | 24 | 0.105 | [−0.302, 0.513] | 0.628 |
-| Add change in INR/USD | 56 | 0.235 | [0.019, 0.450] | 0.064 |
+| Add change in INR/USD | 56 | 0.235 | [0.019, 0.450] | 0.065 |
 | Excl. 2020–21 + post-2022 regime: index (slope before 2022) | 46 | 0.174 | [0.028, 0.320] | 0.130 |
-| Excl. 2020–21 + post-2022 regime: index × post-2022 | 46 | −0.183 | [−0.630, 0.264] | 0.266 |
+| Excl. 2020–21 + post-2022 regime: index × post-2022 | 46 | −0.183 | [−0.630, 0.264] | 0.267 |
 
 The phone-mode dummy is constant within two samples, so it drops out of: the 2022-onward subsample (all phone rounds) and the excl.-2020–21 rows.
 
@@ -159,9 +160,9 @@ Of the 104 core outlets, the number contributing to each valid window (62 window
 | Version | N | Coefficient | 95% EWC CI | p | Corr. with paper series |
 |---|---|---|---|---|---|
 | All valid windows (reference) | 56 | 0.251 | [0.068, 0.434] | 0.058 | 1.000 |
-| Windows with ≥ median (97.5) core outlets (31 windows) | 30 | 0.192 | [0.071, 0.314] | 0.018 | 1.000 |
+| Windows with ≥ median (97.5) core outlets (31 windows) | 30 | 0.192 | [0.071, 0.314] | 0.019 | 1.000 |
 | Balanced: 37 outlets present in every valid window | 56 | 0.352 | [0.143, 0.560] | 0.012 | 0.891 |
-| Balanced: 44 outlets present in every window of the regression sample | 56 | 0.346 | [0.157, 0.536] | 0.008 | 0.929 |
+| Balanced: 44 outlets present in every window of the regression sample | 56 | 0.346 | [0.157, 0.536] | 0.009 | 0.929 |
 
 In the ≥ median row, z-scores use the remaining windows only. Its correlation is 1.000 because the series is identical where it exists.
 
@@ -215,11 +216,11 @@ The regressions are the paper's monthly LPs: the price-family monthly index (z) 
 | Shock | N (common) | Newey–West Wald χ²(13) | p (asymptotic) | p (moving-block bootstrap, block 12, 4,999 draws) | Bonferroni p (13 paper horizons) | Cumulative response h = 0–12 [95% EWC CI], p |
 |---|---|---|---|---|---|---|
 | CPI surprise (1 pp) | 92 | 52.3 | < 0.001 | 0.926 | 1.000 | 0.641 [−2.584, 3.866], p 0.664 |
-| Brent (1%) | 103 | 198.6 | < 0.001 | 0.203 | 0.122 | 0.090 [−0.060, 0.239], p 0.208 |
+| Brent (1%) | 103 | 198.6 | < 0.001 | 0.203 | 0.121 | 0.090 [−0.060, 0.239], p 0.208 |
 
 The asymptotic Newey–West Wald test should not be relied on here. It estimates a 39 × 39 long-run covariance (13 horizons × 3 regressors) from about 100 overlapping monthly observations, a setting in which HAC Wald tests are known to over-reject severely.
 
 The block bootstrap of the same statistic, the Bonferroni bound and the fixed-b test on the cumulative response all fail to reject. The joint null that all responses are zero is not rejected at 5% for either shock:
 
 * CPI surprise: bootstrap p 0.926.
-* Brent: bootstrap p 0.203. The smallest single-horizon p is 0.009 (Bonferroni 0.122).
+* Brent: bootstrap p 0.203. The smallest single-horizon p is 0.009 (Bonferroni 0.121).

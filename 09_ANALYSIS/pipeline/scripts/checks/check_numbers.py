@@ -18,7 +18,8 @@ def values() -> set[float]:
     vals: list[float] = []
     files = list((PIPE / "data/processed/results_switched").glob("*.csv")) + list((PIPE / "data/processed/results").glob("*.csv")) \
         + [PIPE / "outputs/audit/metrics_prf.csv", PIPE / "outputs/audit/metrics_kappa.csv",
-           PIPE / "outputs/audit/retrieval_by_stratum.csv"]
+           PIPE / "outputs/audit/retrieval_by_stratum.csv"] \
+        + list((PIPE / "data/processed/results_revision2").glob("*.csv")) + list((PIPE / "outputs/audit_revision2").glob("*.csv"))
     for f in files:
         try:
             d = pd.read_csv(f)
@@ -27,7 +28,7 @@ def values() -> set[float]:
         for c in d.columns:
             v = pd.to_numeric(d[c], errors="coerce").dropna()
             vals += v.tolist()
-    for f in list((PIPE / "data/processed/results_switched").glob("*.json")) + [PIPE / "outputs/audit/gate_report.json",
+    for f in list((PIPE / "data/processed/results_switched").glob("*.json")) + list((PIPE / "data/processed/results_revision2").glob("*.json")) + [PIPE / "outputs/audit/gate_report.json",
                                                                                PIPE / "data/processed/results/d9_switch.json"]:
         txt = f.read_text()
         vals += [float(x) for x in re.findall(r"-?\d+\.\d+(?:e-?\d+)?", txt)]
@@ -46,7 +47,7 @@ def section(text: str, start: str, end: str) -> str:
 
 def main() -> int:
     t = PAPER.read_text(encoding="utf-8")
-    parts = {"abstract": section(t, "## Abstract", "## 1."), "results": section(t, "## 9. Results", "## 10.")}
+    parts = {"abstract": section(t, "## Abstract", "## 1."), "results": section(t, "## 9. Results", "## 10."), "audit+validation": section(t, "## 6.", "## 8.")}
     pool = sorted(values())
     import bisect
     bad = []

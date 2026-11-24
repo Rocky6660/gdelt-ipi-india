@@ -400,25 +400,35 @@ those of the baseline, so the choice is a rule-based one, not a clear statistica
 
 **By language and retrieval mode.** Table 8 splits the estimates.
 
-**Table 8. Precision, recall and F2 by group (gating frame)**
+**Table 8. Precision, recall and F2 by group (gating frame; 95% bootstrap CI)**
 
-| Group | Definition | Precision | Recall | F2 |
-|---|---|---|---|---|
-| English | Baseline | 0.14 | 0.29 | 0.24 |
-| English | Price family | 0.11 | 0.45 | 0.28 |
-| Hindi/Marathi | Baseline | 0.24 | 1.00 | 0.61 |
-| Hindi/Marathi | Price family | 0.13 | 1.00 | 0.43 |
-| Other vernacular | Baseline | 0.31 | 0.62 | 0.52 |
-| Other vernacular | Price family | 0.35 | 1.00 | 0.73 |
-| All vernacular | Baseline | 0.25 | 0.88 | 0.59 |
-| Retrieved live | Baseline | 0.16 | 0.37 | 0.29 |
-| Retrieved from archive | Baseline | 0.17 | 0.23 | 0.21 |
+| Group                  | Definition   | Coded / tagged / relevant   | Precision            | Recall               | F2                   |
+|:-----------------------|:-------------|:----------------------------|:---------------------|:---------------------|:---------------------|
+| All                    | Baseline     | 1,026 / 438 / 118           | 0.164 (0.128, 0.201) | 0.302 (0.202, 0.469) | 0.258 (0.188, 0.349) |
+| All                    | Price family | 1,026 / 464 / 118           | 0.128 (0.084, 0.194) | 0.420 (0.270, 0.636) | 0.288 (0.194, 0.405) |
+| English                | Baseline     | 566 / 231 / 51              | 0.136 (0.094, 0.179) | 0.291 (0.167, 0.543) | 0.237 (0.152, 0.357) |
+| English                | Price family | 566 / 249 / 51              | 0.114 (0.061, 0.195) | 0.447 (0.249, 0.742) | 0.282 (0.166, 0.425) |
+| Hindi/Marathi          | Baseline     | 181 / 91 / 22               | 0.240 (0.154, 0.331) | 1.000 (1.000, 1.000) | 0.612 (0.476, 0.712) |
+| Hindi/Marathi          | Price family | 181 / 92 / 22               | 0.131 (0.057, 0.301) | 1.000 (1.000, 1.000) | 0.430 (0.232, 0.683) |
+| Other Indian languages | Baseline     | 181 / 91 / 31               | 0.311 (0.223, 0.403) | 0.620 (0.379, 1.000) | 0.517 (0.352, 0.733) |
+| Other Indian languages | Price family | 181 / 95 / 31               | 0.350 (0.198, 0.494) | 1.000 (1.000, 1.000) | 0.729 (0.552, 0.830) |
+| All Indian languages   | Baseline     | 362 / 182 / 53              | 0.253 (0.184, 0.327) | 0.881 (0.732, 1.000) | 0.589 (0.477, 0.678) |
+| All Indian languages   | Price family | 362 / 187 / 53              | 0.163 (0.080, 0.328) | 1.000 (1.000, 1.000) | 0.493 (0.303, 0.709) |
+| Retrieved live         | Baseline     | 645 / 297 / 77              | 0.162 (0.120, 0.210) | 0.369 (0.223, 0.681) | 0.294 (0.198, 0.424) |
+| Retrieved live         | Price family | 645 / 308 / 77              | 0.125 (0.085, 0.174) | 0.408 (0.246, 0.745) | 0.280 (0.192, 0.395) |
+| Retrieved from archive | Baseline     | 381 / 141 / 41              | 0.167 (0.106, 0.233) | 0.229 (0.122, 0.490) | 0.213 (0.123, 0.367) |
+| Retrieved from archive | Price family | 381 / 156 / 41              | 0.131 (0.056, 0.260) | 0.434 (0.194, 0.789) | 0.296 (0.137, 0.502) |
+
+*Notes:* the "All" and "English" rows include the non-economic stratum with a price word in the address, whose
+articles are in English. Recall of 1.000 with a degenerate interval means that no relevant article was found in the
+sampled untagged strata of that language (90 articles each); it is not evidence of perfect recall.
 
 Recall is much higher in the vernacular strata (0.88) than in English (0.33 in the economic frame), a gap of 0.55
 (95% CI 0.20 to 0.76), far beyond the analysis plan's tolerance of 0.15. We describe this as differential theme
 recall, possibly related to the machine translation applied to vernacular text before tagging; we cannot test the
 mechanism. It means that comparisons of English and vernacular attention (Section 10.2) are measurement results.
-Recall is lower for archived texts, which are older.
+Recall is lower for archived texts, which are older, but the live and archive intervals overlap almost completely
+for both definitions.
 
 **By coding batch.** Because excerpt length changed between batches and the later batches were mostly vernacular,
 batch and language are confounded. In the economic frame, the early (long-excerpt, almost all English) batch gives
@@ -436,6 +446,13 @@ relevant articles the frame misses. One of 87 coded articles in that stratum was
 For the 137 articles with no retrievable text, coding from the web address alone gives precision 0.13 (0.03 to 0.26)
 and recall 0.56, with F2 0.34; only 7% of addresses were uninformative. Address coding is cruder than text coding and
 is not used in any decision.
+
+**Bounds for non-retrieval.** The estimates above assume that, within each stratum-by-period cell, retrieval is
+unrelated to relevance. Table D2 replaces that assumption with the extremes for the 124 unretrieved articles in the
+gating frame. If all of them were relevant, baseline precision would rise to 0.264 and recall fall to 0.094; if none
+were, precision would be 0.146 and recall 0.299. Imputing the address-based codes gives 0.160 and 0.314. Under every
+assumption precision stays far below 0.5 and recall below 0.6, for both definitions, and the price family keeps the
+higher F2. The audit result does not depend on how the unretrieved articles are treated.
 
 ### 6.7 What the tags pick up
 
@@ -497,6 +514,15 @@ those episodes were concentrated in a few items, while the index counts all pric
 articles against a 90th percentile of 2.03% in the surrounding 60 days, so it counts as a peak; the 2019 election and
 the 2023 cricket final do not. No survey-round window contains 4 June 2024, so this placebo peak does not enter the
 round-level index.
+
+**Matched construction.** The monthly series counts raw articles per outlet-day, while the round-level index uses
+day-level distinct web addresses per host and a presence rule on the window total. To check that this difference does
+not drive the validation result, we rebuilt a monthly series with the window construction (distinct addresses within
+the day, ten-address presence rule, equal-weight mean over the 104 core outlets). The extraction kept distinct-address
+counts only for survey-window days, so this series uses the grid days that fall inside windows: 68 months, 52 to 97
+outlets per month, correlation 0.80 with the monthly series. It gives the same result (Table D4): one of four episodes
+peaks (post-Ukraine), and the raw correlation with searches for "inflation" is 0.42, against 0.59 for the monthly
+series on the same 68 months. A match on all grid days would require a new extraction.
 
 **Conclusion of validation.** The episode test fails for every definition tested, so under the analysis plan the
 index is "audited, not externally validated" and the expectation results below are exploratory. The correlations
@@ -603,6 +629,15 @@ Five points stand out.
 * **Placebo outcome.** Attention before round $t$ is not associated with the previous change in expectations (0.09,
   −0.20 to 0.39), as expected if the association is not simply picking up trends in expectations. Adding next
   month's CPI leaves the coefficient at 0.23, so the association is not just anticipation of the next CPI print.
+* **Further checks (Appendix Tables E4 to E7).** Adding a linear trend, the change in the rupee–dollar rate, or a
+  post-2022 dummy with its interaction leaves the coefficient between 0.235 and 0.284. The interaction is −0.273
+  (p = 0.052), so the association before 2022 accounts for the estimate and the slope after 2022 is close to zero;
+  the subsamples before and after 2022 (N = 32 and 24) give 0.255 and 0.105, both imprecise. Windows of the last
+  ten or seven days before fieldwork give 0.293 and 0.260 (p = 0.058 and 0.059). Between 84 and 103 of the 104
+  core outlets contribute to each window (median 97.5); restricting to windows with at least the median gives 0.192
+  (p = 0.019, N = 30), and balanced panels of the 37 or 44 outlets present in every window give 0.352 and 0.346
+  (p = 0.012 and 0.009). None of these changes the reading: the estimate is positive and of similar size, and it
+  clears the 5% level only in subsets or alternative panels that were not specified in advance.
 
 ### 9.3 Horizons and outcomes
 
@@ -686,7 +721,9 @@ attention in the same and next two months (about 0.16 to 0.20 standard deviation
 excluding zero at several horizons up to nine months. A one-point surprise in CPI inflation, relative to a recursive
 autoregressive forecast, is followed by responses between −0.04 and 0.14 standard deviations, none distinguishable
 from zero (Appendix Table E3). News attention in India appears to follow visible fuel-price pressure more than
-surprises in the headline index.
+surprises in the headline index. Joint tests that all thirteen responses (h = 0 to 12) are zero do not reject for either shock:
+the block-bootstrap p-value is 0.926 for CPI surprises and 0.203 for Brent, and the Bonferroni bound on the smallest
+Brent p-value is 0.121 (Table E7). The individual Brent responses should therefore be read as suggestive.
 
 ### 9.9 Persistence
 
@@ -698,7 +735,7 @@ for this combination; the placebo-outcome test in Section 9.2 is a check against
 
 The paper reports 84 estimated coefficients or test statistics from the main analysis (42 local projections, 10
 state-dependence rows, 2 forecast comparisons, 26 monthly responses and 4 horse-race rows), plus the robustness and
-extension rows. They are not independent: they share the outcome, the sample and most regressors. Only one cell was
+extension rows, and 25 further robustness rows and joint tests in Appendix Tables E4 to E7. They are not independent: they share the outcome, the sample and most regressors. Only one cell was
 designated primary, and its bootstrap p-value is 0.058 under the definition the audit selected (0.036 under the
 rejected baseline). We do not apply a multiplicity correction to the secondary results, which should be read as
 descriptive; given the failed validation, the analysis plan treats all expectation results as exploratory.
@@ -857,15 +894,17 @@ precision and recall.
    of at least 100 articles is the most important missing check.
 2. **Imprecise measurement.** The inflation tag has precision 0.16 and recall 0.30; the price family is only slightly
    better. The index measures price-related themes as GDELT tags them, not household reading. Recall differs sharply
-   by language, and the recall figures are upper bounds for the whole news flow.
+   by language, and the recall figures are upper bounds for the whole news flow. Treating the unretrieved articles as all relevant or all
+   irrelevant does not change this.
 3. **Failed external validation.** The index peaks in one of four pre-specified episodes for every definition tested.
-   The Trends comparison uses one pull instead of three, and the Hindi-term correlations are weak.
+   The Trends comparison uses one pull instead of three, and the Hindi-term correlations are weak. Rebuilding the
+   monthly series with the round-level construction gives the same result.
 4. **Order of work.** The first outcome regressions used the baseline tag and were run before the audit selected the
    price family. The switch followed a rule fixed in advance, and both definitions are reported.
 5. **Small sample and low power.** 56 rounds, overlapping fieldwork, medians computed from grouped responses, and a
    minimum detectable effect equal to the estimate. The primary estimate does not clear the 5% level.
 6. **Specification dependence.** The estimate roughly halves with a minimal control set and shrinks when the
-   pandemic rounds are dropped.
+   pandemic rounds are dropped. The association is concentrated before 2022; the slope after 2022 is close to zero.
 7. **Coverage.** Urban households in large cities only; online outlets in GDELT only; one-in-four grid days for the
    monthly series; the July 2025 round lost to a GDELT outage; six telephone rounds in 2020–21; pre-2020 fieldwork
    dates set by rule for 26 rounds.
@@ -987,34 +1026,34 @@ The panel contains 714 Indian domains. The 104 core outlets present in at least 
 
 | Round   | Fieldwork start   | Date rule   | Mode       | Valid window   |
 |:--------|:------------------|:------------|:-----------|:---------------|
-| 2016-03 | 2016-03-01        | month rule  | nan        | yes            |
+| 2016-03 | 2016-03-01        | month rule  | not stated | yes            |
 | 2016-06 | 2016-06-01        | month rule  | not stated | yes            |
 | 2016-09 | 2016-09-01        | month rule  | not stated | yes            |
 | 2016-11 | 2016-11-01        | month rule  | not stated | yes            |
 | 2016-12 | 2016-12-01        | month rule  | not stated | yes            |
 | 2017-03 | 2017-03-01        | month rule  | not stated | yes            |
-| 2017-05 | 2017-05-01        | month rule  | nan        | yes            |
+| 2017-05 | 2017-05-01        | month rule  | not stated | yes            |
 | 2017-06 | 2017-06-01        | month rule  | not stated | yes            |
-| 2017-09 | 2017-09-01        | month rule  | nan        | yes            |
-| 2017-11 | 2017-11-01        | month rule  | nan        | yes            |
+| 2017-09 | 2017-09-01        | month rule  | not stated | yes            |
+| 2017-11 | 2017-11-01        | month rule  | not stated | yes            |
 | 2017-12 | 2017-12-01        | month rule  | not stated | yes            |
 | 2018-03 | 2018-03-01        | month rule  | not stated | yes            |
-| 2018-05 | 2018-05-01        | month rule  | nan        | yes            |
+| 2018-05 | 2018-05-01        | month rule  | not stated | yes            |
 | 2018-06 | 2018-06-01        | month rule  | not stated | yes            |
 | 2018-09 | 2018-09-01        | month rule  | not stated | yes            |
-| 2018-11 | 2018-11-01        | month rule  | nan        | yes            |
+| 2018-11 | 2018-11-01        | month rule  | not stated | yes            |
 | 2018-12 | 2018-12-01        | month rule  | not stated | yes            |
 | 2019-03 | 2019-03-01        | month rule  | not stated | yes            |
-| 2019-05 | 2019-05-01        | month rule  | nan        | yes            |
+| 2019-05 | 2019-05-01        | month rule  | not stated | yes            |
 | 2019-07 | 2019-07-01        | month rule  | not stated | yes            |
 | 2019-09 | 2019-09-01        | month rule  | not stated | yes            |
 | 2019-11 | 2019-11-01        | month rule  | not stated | yes            |
 | 2020-01 | 2020-01-01        | month rule  | not stated | yes            |
 | 2020-03 | 2020-02-27        | exact       | not stated | yes            |
 | 2020-05 | 2020-05-05        | exact       | telephone  | yes            |
-| 2020-07 | 2020-07-01        | month rule  | nan        | yes            |
-| 2020-09 | 2020-09-01        | month rule  | nan        | yes            |
-| 2020-11 | 2020-11-01        | month rule  | nan        | yes            |
+| 2020-07 | 2020-07-01        | month rule  | not stated | yes            |
+| 2020-09 | 2020-09-01        | month rule  | not stated | yes            |
+| 2020-11 | 2020-11-01        | month rule  | not stated | yes            |
 | 2021-01 | 2021-01-02        | exact       | telephone  | yes            |
 | 2021-03 | 2021-02-27        | exact       | not stated | yes            |
 | 2021-05 | 2021-04-29        | exact       | telephone  | yes            |
@@ -1090,6 +1129,46 @@ without an Indian angle are N). Direction: rising, falling, mixed, none. Cause: 
 primary and secondary. Uncertainty flag when the coder was unsure. The codebook text was fixed and hashed before
 coding began.
 
+**Table D2. Precision, recall and F2 under bounds for the unretrieved articles (gating frame; 95% bootstrap CI)**
+
+| Unretrieved articles         | Definition   | Precision            | Recall               | F2                   |
+|:-----------------------------|:-------------|:---------------------|:---------------------|:---------------------|
+| Missing at random (paper)    | Baseline     | 0.164 (0.128, 0.201) | 0.302 (0.202, 0.469) | 0.258 (0.188, 0.349) |
+| Missing at random (paper)    | Price family | 0.128 (0.084, 0.194) | 0.420 (0.270, 0.636) | 0.288 (0.194, 0.405) |
+| Address-coded labels imputed | Baseline     | 0.160 (0.126, 0.196) | 0.314 (0.212, 0.482) | 0.264 (0.192, 0.356) |
+| Address-coded labels imputed | Price family | 0.118 (0.079, 0.173) | 0.434 (0.278, 0.642) | 0.282 (0.198, 0.385) |
+| All unretrieved relevant     | Baseline     | 0.264 (0.222, 0.308) | 0.094 (0.069, 0.128) | 0.108 (0.081, 0.144) |
+| All unretrieved relevant     | Price family | 0.258 (0.182, 0.348) | 0.172 (0.113, 0.254) | 0.185 (0.122, 0.262) |
+| No unretrieved relevant      | Baseline     | 0.146 (0.112, 0.183) | 0.299 (0.199, 0.473) | 0.247 (0.176, 0.341) |
+| No unretrieved relevant      | Price family | 0.109 (0.072, 0.165) | 0.418 (0.267, 0.634) | 0.267 (0.183, 0.372) |
+
+*Notes:* 124 of the 137 unretrieved articles are in the gating frame. "Missing at random" is the estimate reported in
+Section 6.5. "Address-coded labels imputed" uses the relevance codes from the web address for the unretrieved
+articles (11 of 137 coded relevant).
+
+**Table D3. Baseline precision in the tagged strata under the same bounds**
+
+| Stratum (tagged)         | Coded / relevant / unretrieved (address-coded relevant)   | Paper                | Address codes        | All relevant         | None relevant        |
+|:-------------------------|:----------------------------------------------------------|:---------------------|:---------------------|:---------------------|:---------------------|
+| English, tagged          | 256 / 35 / 44 (3)                                         | 0.138 (0.097, 0.182) | 0.131 (0.091, 0.171) | 0.251 (0.202, 0.303) | 0.122 (0.084, 0.162) |
+| Hindi/Marathi, tagged    | 91 / 22 / 9 (4)                                           | 0.240 (0.154, 0.331) | 0.254 (0.172, 0.354) | 0.299 (0.213, 0.393) | 0.220 (0.145, 0.313) |
+| Other vernacular, tagged | 91 / 29 / 9 (2)                                           | 0.311 (0.223, 0.403) | 0.294 (0.211, 0.380) | 0.350 (0.260, 0.440) | 0.278 (0.196, 0.365) |
+
+*Note:* precision with 95% bootstrap CI; columns as in Table D2. Every article in these strata carries both tags, so the price-family values are identical; recall is 1 by
+construction within a tagged stratum.
+
+**Table D4. External validation of a monthly series built with the round-level construction**
+
+| Series                                                | r, inflation   | r, inflation, partial (95% CI)   | r, mehngai   | z, onion   | z, fuel   | z, post-Ukraine   | z, tomato   | Episodes peaking   |
+|:------------------------------------------------------|:---------------|:---------------------------------|:-------------|:-----------|:----------|:------------------|:------------|:-------------------|
+| Window construction, grid days in windows (68 months) | 0.416          | 0.330 (0.101, 0.617)             | 0.260        | -1.06      | 0.15      | 1.91 (peak)       | 0.98        | 1 of 4             |
+| Monthly series, same 68 months                        | 0.587          | 0.642 (0.405, 0.797)             | 0.169        | -0.81      | 0.05      | 2.47 (peak)       | 0.59        | 1 of 4             |
+| Monthly series, all 129 months                        | 0.542          | 0.546 (0.311, 0.753)             | 0.107        | -0.72      | -0.06     | 2.11 (peak)       | 0.22        | 1 of 4             |
+
+*Notes:* r is the correlation with Google searches; the partial correlation removes CPI and food inflation from both
+series, with a block-bootstrap interval. z is the episode mean relative to non-episode months; a peak is a mean above
+the 90th percentile of non-episode months. Episode lengths in the 68-month series are 2, 5, 3 and 2 months.
+
 ## Appendix E. Robustness tables
 
 **Table E1. Construction variants of the baseline index in the primary specification (one-year median, h = 0)**
@@ -1153,6 +1232,76 @@ coding began.
 
 *Note:* responses in standard deviations of the monthly index per one-point CPI surprise or per one per cent change in
 Brent; EWC standard errors.
+
+**Table E4. Expectation robustness (price family, primary specification, one-year median, h = 0)**
+
+| Specification                                                   |   N |   Coefficient | 95% CI          |     p |
+|:----------------------------------------------------------------|----:|--------------:|:----------------|------:|
+| Primary (reference)                                             |  56 |         0.251 | (0.068, 0.434)  | 0.058 |
+| Add linear time trend                                           |  56 |         0.237 | (0.043, 0.430)  | 0.068 |
+| Post-2022 dummy and interaction: index (slope before 2022)      |  56 |         0.284 | (0.016, 0.551)  | 0.085 |
+| Post-2022 dummy and interaction: index × post-2022              |  56 |        -0.273 | (-0.606, 0.059) | 0.052 |
+| Subsample: fieldwork before 2022                                |  32 |         0.255 | (-0.166, 0.676) | 0.114 |
+| Subsample: fieldwork 2022 onward                                |  24 |         0.105 | (-0.302, 0.513) | 0.628 |
+| Add change in INR/USD (two-month log change)                    |  56 |         0.235 | (0.019, 0.450)  | 0.065 |
+| Excluding 2020–21 + post-2022 regime: index (slope before 2022) |  46 |         0.174 | (0.028, 0.320)  | 0.13  |
+| Excluding 2020–21 + post-2022 regime: index × post-2022         |  46 |        -0.183 | (-0.630, 0.264) | 0.267 |
+
+*Notes:* EWC fixed-b intervals; restricted wild-bootstrap p-values (1,999 draws, same seed as the primary estimate).
+Post-2022 means fieldwork starting on or after 1 January 2022. The rupee–dollar change is the two-month log change of
+the monthly average ending in the month before fieldwork, the same timing as the Brent control. The survey-mode dummy
+is constant, and drops out, in the 2022-onward subsample and in the rows excluding 2020–21.
+
+**Table E5. Window length (price family, primary specification)**
+
+| Window          | Core outlets   | Core outlets per window (min / median)   | Correlation with 14-day series   | N   | Coefficient   | 95% CI         | p     |
+|:----------------|:---------------|:-----------------------------------------|:---------------------------------|:----|:--------------|:---------------|:------|
+| 14 days (paper) | 104            | 84 / 97.5                                | 1.000                            | 56  | 0.251         | (0.068, 0.434) | 0.058 |
+| 10 days         | 93             | 76 / 88                                  | 0.960                            | 56  | 0.293         | (0.046, 0.539) | 0.058 |
+| 7 days          | 87             | 71 / 82                                  | 0.943                            | 56  | 0.260         | (0.040, 0.480) | 0.059 |
+
+*Note:* shorter windows use the last ten or seven days before fieldwork, with every other rule unchanged and the core
+re-derived for each length; the 14-day rebuild reproduces the published series exactly.
+
+**Table E6. Outlet composition: core outlets contributing to each valid window, by year**
+
+|   Year |   Valid windows |   Min |   Median |   Max |
+|-------:|----------------:|------:|---------:|------:|
+|   2016 |               5 |    92 |     99   |   101 |
+|   2017 |               6 |    97 |     98   |   101 |
+|   2018 |               6 |    97 |     98   |   100 |
+|   2019 |               5 |   101 |    103   |   103 |
+|   2020 |               6 |    99 |    100   |   101 |
+|   2021 |               6 |    91 |     96   |   103 |
+|   2022 |               6 |    91 |     92   |    93 |
+|   2023 |               6 |    86 |    102.5 |   103 |
+|   2024 |               6 |    96 |     97.5 |   101 |
+|   2025 |               5 |    91 |     94   |    95 |
+|   2026 |               5 |    84 |     88   |    92 |
+
+**Table E6 (continued). Primary specification on restricted outlet samples**
+
+| Sample                                                                      |   N |   Coefficient | 95% CI         |     p |
+|:----------------------------------------------------------------------------|----:|--------------:|:---------------|------:|
+| All valid windows (reference)                                               |  56 |         0.251 | (0.068, 0.434) | 0.058 |
+| Windows with ≥ median (97.5) core outlets (31 windows)                      |  30 |         0.192 | (0.071, 0.314) | 0.019 |
+| Balanced panel: 37 outlets present in every valid window                    |  56 |         0.352 | (0.143, 0.560) | 0.012 |
+| Balanced panel: 44 outlets present in every window in the regression sample |  56 |         0.346 | (0.157, 0.536) | 0.009 |
+
+*Note:* in the median-restricted row the index is standardised over the remaining windows.
+
+**Table E7. Joint test that all monthly responses (h = 0 to 12) are zero (price family)**
+
+| Shock               | N (common sample)   | Wald χ²(13), Newey–West   | p, asymptotic   | p, block bootstrap   | p, Bonferroni   | Cumulative response h = 0–12 (95% CI)   | p, cumulative   |
+|:--------------------|:--------------------|:--------------------------|:----------------|:---------------------|:----------------|:----------------------------------------|:----------------|
+| CPI surprise (1 pp) | 92                  | 52.3                      | < 0.001         | 0.926                | 1.000           | 0.641 (-2.584, 3.866)                   | 0.664           |
+| Brent (1%)          | 103                 | 198.6                     | < 0.001         | 0.203                | 0.121           | 0.090 (-0.060, 0.239)                   | 0.208           |
+
+*Notes:* the regressions of Table E3, estimated on the common sample in which all horizons exist so that the stacked
+covariance is defined. The asymptotic Newey–West Wald test estimates a 39 × 39 long-run covariance from about 100
+overlapping observations and over-rejects severely in such settings; we report it for completeness and rely on the
+moving-block bootstrap of the same statistic (block 12, 4,999 draws), the Bonferroni bound on the per-horizon
+p-values, and the fixed-b test of the cumulative response.
 
 ## Appendix F. Extension tables
 

@@ -94,7 +94,8 @@ def convert(md: str, base: Path) -> str:
            "figure{margin:1em 0;text-align:center}img{max-width:100%}figcaption{font-size:9.5pt;color:#333}"
            "code{font-size:9pt}@page{size:A4;margin:22mm}.eq{text-align:center;font-size:11.5pt}"
            ".toc{page-break-after:always}.toc p{margin:2px 0}.toc .l4{margin-left:1.5em;font-size:10pt}.toc .l3{font-weight:bold;margin-top:4px}.toc a{color:inherit;text-decoration:none}"
-           "h2{page-break-after:avoid}table,figure{page-break-inside:avoid}")
+           "h2,h3,h4{page-break-after:avoid;break-after:avoid}table,figure{page-break-inside:avoid}"
+           "p:has(+ table){break-after:avoid;page-break-after:avoid}")
     head = f"<h1>{inline(title)}</h1><p class='date'>{inline(date)}</p>" if title else ""
     if WITH_TOC and toc:
         items = "".join(f"<p class='l{n + 1}'><a href='#{a}'>{inline(t)}</a></p>" for n, t, a in toc if n >= 2)
