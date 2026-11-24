@@ -1,0 +1,293 @@
+{
+  "mode": "A",
+  "primary_coder": "A",
+  "baseline": "flag_baseline",
+  "variants": [
+    "flag_baseline",
+    "flag_price_family",
+    "flag_wb442",
+    "flag_strict"
+  ],
+  "gates": {
+    "D15_relevance_kappa": {
+      "kappa": 1.0,
+      "ci": [
+        1.0,
+        1.0
+      ],
+      "n": 613,
+      "truth_source": "A",
+      "reading": "NO HUMAN CODING (user ruling): LLM coder A is the truth source; kappa shown is LLM A vs LLM B (reliability only, not validation)",
+      "status": "NOT_APPLICABLE (no human coding by ruling)"
+    },
+    "D15_direction_kappa": {
+      "kappa": 0.940634595701126,
+      "ci": [
+        0.8469914203202532,
+        1.0
+      ],
+      "n": 58,
+      "status": "PASS",
+      "reading": "usable in E3/E4 claims"
+    },
+    "D15_cause_kappa": {
+      "kappa": 0.8742774566473989,
+      "ci": [
+        0.7782790381505786,
+        0.9788442711507194
+      ],
+      "n": 58,
+      "status": "PASS",
+      "reading": "usable in E3/E4 claims"
+    },
+    "D15_precision_recall": {
+      "precision": NaN,
+      "precision_ci": [
+        NaN,
+        NaN
+      ],
+      "gating_recall": NaN,
+      "gating_recall_ci": [
+        NaN,
+        NaN
+      ],
+      "truth_source": "A",
+      "scope": "all sampled languages",
+      "status": "NOT_EVALUABLE",
+      "f2_by_variant": {
+        "flag_baseline": NaN,
+        "flag_price_family": NaN,
+        "flag_wb442": NaN,
+        "flag_strict": NaN
+      },
+      "best_f2_variant": null,
+      "action": "no decision (not evaluable)",
+      "unscreened_nonecon": {
+        "reading": "no coded articles in nonecon_noslug; bound not available"
+      }
+    },
+    "D29_vernacular_recall": {
+      "vernacular_recall_econ": NaN,
+      "vernacular_recall_ci": [
+        NaN,
+        NaN
+      ],
+      "english_recall_econ": 0.46085330011182196,
+      "english_recall_ci": [
+        0.2525523785317579,
+        1.0
+      ],
+      "english_recall_gating_frame": 0.3854342221439424,
+      "difference": NaN,
+      "difference_ci": [
+        NaN,
+        NaN
+      ],
+      "vernacular_uninformative_slug_share": 0.0925,
+      "vernacular_ngrams_text_coded": 0,
+      "scope": "all sampled languages",
+      "status": "NOT_EVALUABLE",
+      "reading": "vernacular or English recall missing (no coded relevant articles or strata); not filled"
+    },
+    "D25_international_kappa": {
+      "kappa_flag_vs_cause_binary": 0.22267206477732793,
+      "ci": [
+        -0.08102998696219035,
+        0.5110168642511268
+      ],
+      "n": 32,
+      "n_coded_international_by_cause": 7,
+      "n_flagged_international_by_theme": 15,
+      "kappa_general_flagged_stratum_only": 0.22267206477732793,
+      "d15_cause_kappa": 0.8742774566473989,
+      "truth_source": "A",
+      "status": "FAIL",
+      "reading": "descriptive only; no regression claims"
+    }
+  },
+  "notes": [],
+  "human_languages": [
+    "en",
+    "hin"
+  ],
+  "collapse_empty_cells": true,
+  "assumption": "non-response is treated as missing at random within stratum x period cells (2015-18 / 2019+)",
+  "coverage": [
+    {
+      "stratum": "econ_unflagged",
+      "period": "late",
+      "sampled": 143,
+      "retrieved": 132,
+      "llm_A": 121,
+      "llm_B": 132,
+      "human": 0,
+      "retrieval_rate": 0.923,
+      "llm_A_rate": 0.846
+    },
+    {
+      "stratum": "econ_unflagged",
+      "period": "old",
+      "sampled": 157,
+      "retrieved": 134,
+      "llm_A": 125,
+      "llm_B": 134,
+      "human": 0,
+      "retrieval_rate": 0.854,
+      "llm_A_rate": 0.796
+    },
+    {
+      "stratum": "flagged",
+      "period": "late",
+      "sampled": 177,
+      "retrieved": 165,
+      "llm_A": 153,
+      "llm_B": 165,
+      "human": 0,
+      "retrieval_rate": 0.932,
+      "llm_A_rate": 0.864
+    },
+    {
+      "stratum": "flagged",
+      "period": "old",
+      "sampled": 123,
+      "retrieved": 91,
+      "llm_A": 82,
+      "llm_B": 91,
+      "human": 0,
+      "retrieval_rate": 0.74,
+      "llm_A_rate": 0.667
+    },
+    {
+      "stratum": "hin_econ_unflagged",
+      "period": "late",
+      "sampled": 54,
+      "retrieved": 51,
+      "llm_A": 0,
+      "llm_B": 51,
+      "human": 0,
+      "retrieval_rate": 0.944,
+      "llm_A_rate": 0.0
+    },
+    {
+      "stratum": "hin_econ_unflagged",
+      "period": "old",
+      "sampled": 46,
+      "retrieved": 39,
+      "llm_A": 0,
+      "llm_B": 39,
+      "human": 0,
+      "retrieval_rate": 0.848,
+      "llm_A_rate": 0.0
+    },
+    {
+      "stratum": "hin_flagged",
+      "period": "late",
+      "sampled": 68,
+      "retrieved": 65,
+      "llm_A": 0,
+      "llm_B": 65,
+      "human": 0,
+      "retrieval_rate": 0.956,
+      "llm_A_rate": 0.0
+    },
+    {
+      "stratum": "hin_flagged",
+      "period": "old",
+      "sampled": 32,
+      "retrieved": 26,
+      "llm_A": 0,
+      "llm_B": 26,
+      "human": 0,
+      "retrieval_rate": 0.812,
+      "llm_A_rate": 0.0
+    },
+    {
+      "stratum": "nonecon_noslug",
+      "period": "late",
+      "sampled": 41,
+      "retrieved": 39,
+      "llm_A": 0,
+      "llm_B": 0,
+      "human": 0,
+      "retrieval_rate": 0.951,
+      "llm_A_rate": 0.0
+    },
+    {
+      "stratum": "nonecon_noslug",
+      "period": "old",
+      "sampled": 59,
+      "retrieved": 48,
+      "llm_A": 0,
+      "llm_B": 0,
+      "human": 0,
+      "retrieval_rate": 0.814,
+      "llm_A_rate": 0.0
+    },
+    {
+      "stratum": "nonecon_slug",
+      "period": "late",
+      "sampled": 80,
+      "retrieved": 76,
+      "llm_A": 70,
+      "llm_B": 76,
+      "human": 0,
+      "retrieval_rate": 0.95,
+      "llm_A_rate": 0.875
+    },
+    {
+      "stratum": "nonecon_slug",
+      "period": "old",
+      "sampled": 70,
+      "retrieved": 66,
+      "llm_A": 62,
+      "llm_B": 66,
+      "human": 0,
+      "retrieval_rate": 0.943,
+      "llm_A_rate": 0.886
+    },
+    {
+      "stratum": "oth_econ_unflagged",
+      "period": "late",
+      "sampled": 62,
+      "retrieved": 59,
+      "llm_A": 0,
+      "llm_B": 59,
+      "human": 0,
+      "retrieval_rate": 0.952,
+      "llm_A_rate": 0.0
+    },
+    {
+      "stratum": "oth_econ_unflagged",
+      "period": "old",
+      "sampled": 38,
+      "retrieved": 31,
+      "llm_A": 0,
+      "llm_B": 31,
+      "human": 0,
+      "retrieval_rate": 0.816,
+      "llm_A_rate": 0.0
+    },
+    {
+      "stratum": "oth_flagged",
+      "period": "late",
+      "sampled": 66,
+      "retrieved": 65,
+      "llm_A": 0,
+      "llm_B": 65,
+      "human": 0,
+      "retrieval_rate": 0.985,
+      "llm_A_rate": 0.0
+    },
+    {
+      "stratum": "oth_flagged",
+      "period": "old",
+      "sampled": 34,
+      "retrieved": 26,
+      "llm_A": 0,
+      "llm_B": 26,
+      "human": 0,
+      "retrieval_rate": 0.765,
+      "llm_A_rate": 0.0
+    }
+  ]
+}

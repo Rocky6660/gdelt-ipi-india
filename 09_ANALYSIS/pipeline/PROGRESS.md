@@ -222,3 +222,7 @@
 - Paper exported: 10_OUTPUTS/paper/paper.pdf and paper.html (scripts/checks/export_pdf.py, headless Chrome; no new packages).
 - Trends pull 2: tool call declined by the user at run time; not retried. Trends results remain 1 pull, provisional (stated in the paper).
 - Remaining for the user: read and approve the paper; check the reference titles marked "[title to be checked]".
+
+## 2026-11-24 00:02 UTC: FINAL_TOUCHES part 1 (extras and fixes prep)
+- paper_short.md/.pdf saved. Extensions E2-E5 re-run under price family (results_switched/, env-driven; E2 language split remains baseline tag; E3 independent of flag).
+- paper_extras.py: exclude-2024-election (0 windows contain 4 Jun 2024; estimate unchanged), placebo outcome 0.093 [-0.204,0.391] p 0.50, presence 60% 0.295 p 0.023 / 90% 0.278 p 0.031, volume-weighted 0.336 p 0.010; MDE 0.251 pp/SD; 84 estimates reported. Audit P/R early (long excerpt, en) vs late (short, mostly vernacular) batches in outputs/audit_early|late. New figures copied to 10_OUTPUTS/paper/figures/. Gate 3 extended to the switch and switched extensions (re-running).

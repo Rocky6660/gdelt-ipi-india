@@ -16,6 +16,7 @@ Outputs (data/processed/results/)
 from __future__ import annotations
 
 import argparse
+import os
 import sys
 from pathlib import Path
 
@@ -39,6 +40,7 @@ def spec(y: str = "y1_median") -> list[str]:
 def e5(root: Path, df: pd.DataFrame, out: Path) -> dict:
     mon = pd.read_csv(root / "data/processed/index/ipi_monthly.csv")
     mon = mon[mon.usable_d23].copy()
+    mon["ipi_monthly"] = mon[os.environ.get("MONTHLY_COL", "ipi_monthly")]  # switch-aware (env MONTHLY_COL)
     mon["m"] = pd.PeriodIndex(mon.month, freq="M")
     cpi = p1.load_cpi(root)
     m = mon.set_index("m")[["ipi_monthly"]].join(cpi[["cpi", "cpi_yoy"]], how="left")
@@ -176,14 +178,15 @@ def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--root", type=Path, default=Path(__file__).resolve().parents[2])
     a = ap.parse_args()
-    out = a.root / "data/processed/results"
+    p1.IPI_COL = os.environ.get("IPI_COL", "ipi_primary")  # switch-aware: final flag via env (d9_switch.json)
+    out = a.root / os.environ.get("EXT_OUT", "data/processed/results")
     out.mkdir(parents=True, exist_ok=True)
     df = p1.assemble(a.root)
     r5, r4, r2 = e5(a.root, df, out), e4(a.root, df, out), e2(a.root, df, out)
     figs = figures(out, r5, r4, r2)
     lines = ["# Extensions E2, E4, E5: descriptive versions (auto-generated; association language only)", "",
              f"Figures: {'written to ext_figures/' if figs else 'NOT produced (matplotlib missing)'}.",
-             f"E4/E2 gates: {PENDING}.", "",
+             f"Index column: {p1.IPI_COL}; E2 language splits use the baseline tag (no price-family language split built).", "",
              "## E5 ExcessAttention", pd.DataFrame(r5["excess"])[["model", "N", "beta", "ci_lo", "ci_hi", "p_wild"]].to_markdown(index=False),
              "", "## E5 peaks", r5["pk"].to_markdown(index=False),
              "", f"## E4 S^int (corr with IPI {r4['corr_sint_ipi']:.2f})", r4["t"][["model", "N", "beta", "ci_lo", "ci_hi", "p_wild"]].to_markdown(index=False),

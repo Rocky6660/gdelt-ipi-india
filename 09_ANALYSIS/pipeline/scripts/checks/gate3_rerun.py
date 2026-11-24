@@ -97,6 +97,23 @@ def main() -> int:
                                                          ROOT / f"data/processed/results/d17_validation{tag}.csv")
     rep["steps"].append("d17 re-run")
 
+
+    # switch decision and the switched-flag extensions / paper outputs (FINAL_TOUCHES Part 5 item 12)
+    sw_before = (ROOT / "data/processed/results/d9_switch.json").read_text()
+    run(["scripts/analysis/d9_switch.py"])
+    rep["files"]["switch/d9_switch.json"] = {"match": json.loads(sw_before)["final_flag"] == json.loads(
+        (ROOT / "data/processed/results/d9_switch.json").read_text())["final_flag"], "reason": "final flag unchanged"}
+    ext_dir = ROOT / "data/processed/gate3/ext"
+    ext_dir.mkdir(parents=True, exist_ok=True)
+    env = {**ENV, "IPI_COL": s["window_column"], "MONTHLY_COL": s["monthly_column"], "EXT_OUT": "data/processed/gate3/ext"}
+    r = subprocess.run([PY, "scripts/analysis/extensions_descriptive.py"], cwd=ROOT, env=env, capture_output=True, text=True,
+                       encoding="utf-8", errors="replace")
+    if r.returncode != 0:
+        raise RuntimeError(r.stderr[-2000:])
+    for f in ("e2_d19.csv", "e4_d19.csv", "e5_excess_attention.csv", "e5_peaks.csv", "e2_leadlag_monthly.csv"):
+        rep["files"][f"extensions/{f}"] = compare_csv(ext_dir / f, ROOT / cited / f)
+    rep["steps"].append("d9_switch and switched-flag extensions re-run")
+
     if (ROOT / "outputs/audit/gate_report.json").exists():
         run(["scripts/audit/audit_metrics.py", "--key", "data/interim/audit/private/audit_key.csv",
              "--manifest", "data/interim/audit/audit_manifest.csv", "--llm-a", "data/interim/audit/llm_codes_A.csv",

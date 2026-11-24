@@ -1,0 +1,13 @@
+{
+ "se_ewc": 0.07481356501547094,
+ "dof": 6,
+ "mde_pp_per_sd": 0.2508210904733405,
+ "estimates_reported": {
+  "d19_national_lp.csv": 42,
+  "d20_regime.csv": 10,
+  "d22_forecast_eval.csv": 2,
+  "d23_monthly_lp.csv": 26,
+  "paper_horse_race.csv": 4
+ },
+ "total": 84
+}

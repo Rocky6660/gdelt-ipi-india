@@ -1,0 +1,5 @@
+variant,f2,precision,recall,f2_lo,precision_lo,recall_lo,f2_hi,precision_hi,recall_hi
+flag_baseline,0.258,0.164,0.302,0.188,0.128,0.202,0.349,0.201,0.469
+flag_price_family,0.288,0.128,0.42,0.194,0.084,0.27,0.405,0.194,0.636
+flag_strict,0.25,0.161,0.29,0.178,0.125,0.191,0.337,0.198,0.454
+flag_wb442,0.25,0.161,0.29,0.178,0.125,0.191,0.337,0.198,0.454

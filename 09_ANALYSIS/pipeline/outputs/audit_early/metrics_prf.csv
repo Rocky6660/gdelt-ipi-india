@@ -1,0 +1,505 @@
+truth_source,variant,frame,group,metric,estimate,ci_lo,ci_hi,valid_boot_share,missing_reason,n_coded,scope
+A,flag_baseline,econ,all,precision,,,,1.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",481,all sampled languages
+A,flag_baseline,econ,all,recall,,,,1.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",481,all sampled languages
+A,flag_baseline,econ,all,f2,,,,1.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",481,all sampled languages
+A,flag_price_family,econ,all,precision,,,,1.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",481,all sampled languages
+A,flag_price_family,econ,all,recall,,,,1.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",481,all sampled languages
+A,flag_price_family,econ,all,f2,,,,1.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",481,all sampled languages
+A,flag_wb442,econ,all,precision,,,,1.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",481,all sampled languages
+A,flag_wb442,econ,all,recall,,,,1.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",481,all sampled languages
+A,flag_wb442,econ,all,f2,,,,1.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",481,all sampled languages
+A,flag_strict,econ,all,precision,,,,1.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",481,all sampled languages
+A,flag_strict,econ,all,recall,,,,1.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",481,all sampled languages
+A,flag_strict,econ,all,f2,,,,1.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",481,all sampled languages
+A,flag_baseline,econ,en,precision,0.13683207741226436,0.08953922205693417,0.1882297504338221,1.0,,420,all sampled languages
+A,flag_baseline,econ,en,recall,0.46085330011182196,0.2525523785317579,1.0,1.0,,420,all sampled languages
+A,flag_baseline,econ,en,f2,0.31273886483386054,0.21074581712772247,0.46769379915844234,1.0,,420,all sampled languages
+A,flag_price_family,econ,en,precision,0.11092962102082375,0.05825699605774859,0.18514045965581574,1.0,,420,all sampled languages
+A,flag_price_family,econ,en,recall,0.6841071676129142,0.4085098545817246,1.0,1.0,,420,all sampled languages
+A,flag_price_family,econ,en,f2,0.336433866027064,0.19407217959267356,0.5073763793318996,1.0,,420,all sampled languages
+A,flag_wb442,econ,en,precision,0.13515633367816185,0.08664158577603093,0.18433190727247845,1.0,,420,all sampled languages
+A,flag_wb442,econ,en,recall,0.44435796186763016,0.24471275717002927,1.0,1.0,,420,all sampled languages
+A,flag_wb442,econ,en,f2,0.3048670631027018,0.19581591804816362,0.4587821245184836,1.0,,420,all sampled languages
+A,flag_strict,econ,en,precision,0.13515633367816185,0.08664158577603093,0.18433190727247845,1.0,,420,all sampled languages
+A,flag_strict,econ,en,recall,0.44435796186763016,0.24471275717002927,1.0,1.0,,420,all sampled languages
+A,flag_strict,econ,en,f2,0.3048670631027018,0.19581591804816362,0.4587821245184836,1.0,,420,all sampled languages
+A,flag_baseline,econ,hin,precision,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old",0,all sampled languages
+A,flag_baseline,econ,hin,recall,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old",0,all sampled languages
+A,flag_baseline,econ,hin,f2,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old",0,all sampled languages
+A,flag_price_family,econ,hin,precision,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old",0,all sampled languages
+A,flag_price_family,econ,hin,recall,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old",0,all sampled languages
+A,flag_price_family,econ,hin,f2,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old",0,all sampled languages
+A,flag_wb442,econ,hin,precision,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old",0,all sampled languages
+A,flag_wb442,econ,hin,recall,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old",0,all sampled languages
+A,flag_wb442,econ,hin,f2,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old",0,all sampled languages
+A,flag_strict,econ,hin,precision,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old",0,all sampled languages
+A,flag_strict,econ,hin,recall,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old",0,all sampled languages
+A,flag_strict,econ,hin,f2,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old",0,all sampled languages
+A,flag_baseline,econ,oth,precision,,,,0.0,"no coded articles in strata: oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+A,flag_baseline,econ,oth,recall,,,,0.0,"no coded articles in strata: oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+A,flag_baseline,econ,oth,f2,,,,0.0,"no coded articles in strata: oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+A,flag_price_family,econ,oth,precision,,,,0.0,"no coded articles in strata: oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+A,flag_price_family,econ,oth,recall,,,,0.0,"no coded articles in strata: oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+A,flag_price_family,econ,oth,f2,,,,0.0,"no coded articles in strata: oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+A,flag_wb442,econ,oth,precision,,,,0.0,"no coded articles in strata: oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+A,flag_wb442,econ,oth,recall,,,,0.0,"no coded articles in strata: oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+A,flag_wb442,econ,oth,f2,,,,0.0,"no coded articles in strata: oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+A,flag_strict,econ,oth,precision,,,,0.0,"no coded articles in strata: oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+A,flag_strict,econ,oth,recall,,,,0.0,"no coded articles in strata: oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+A,flag_strict,econ,oth,f2,,,,0.0,"no coded articles in strata: oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+A,flag_baseline,econ,vernacular_focal,precision,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+A,flag_baseline,econ,vernacular_focal,recall,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+A,flag_baseline,econ,vernacular_focal,f2,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+A,flag_price_family,econ,vernacular_focal,precision,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+A,flag_price_family,econ,vernacular_focal,recall,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+A,flag_price_family,econ,vernacular_focal,f2,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+A,flag_wb442,econ,vernacular_focal,precision,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+A,flag_wb442,econ,vernacular_focal,recall,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+A,flag_wb442,econ,vernacular_focal,f2,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+A,flag_strict,econ,vernacular_focal,precision,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+A,flag_strict,econ,vernacular_focal,recall,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+A,flag_strict,econ,vernacular_focal,f2,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+A,flag_baseline,econ,mode=live,precision,0.1392631196237967,0.08793848460175625,0.1978485041297795,1.0,,259,all sampled languages
+A,flag_baseline,econ,mode=live,recall,0.40557842574873326,0.18356287762869317,1.0,1.0,,259,all sampled languages
+A,flag_baseline,econ,mode=live,f2,0.2933736937639654,0.14440890486535632,0.5022844331032692,1.0,,259,all sampled languages
+A,flag_price_family,econ,mode=live,precision,0.08969602903916994,0.052799109443073255,0.1380446174442658,1.0,,259,all sampled languages
+A,flag_price_family,econ,mode=live,recall,0.40557842574873326,0.18356287762869317,1.0,1.0,,259,all sampled languages
+A,flag_price_family,econ,mode=live,f2,0.23796806004473822,0.1229544456841457,0.39548570838762814,1.0,,259,all sampled languages
+A,flag_wb442,econ,mode=live,precision,0.13581929695299147,0.07969708133693772,0.19572238414288715,1.0,,259,all sampled languages
+A,flag_wb442,econ,mode=live,recall,0.3836187055506685,0.1656556058788371,0.9505283265189384,1.0,,259,all sampled languages
+A,flag_wb442,econ,mode=live,f2,0.2810608141594386,0.13821978455818076,0.4824267257578437,1.0,,259,all sampled languages
+A,flag_strict,econ,mode=live,precision,0.13581929695299147,0.07969708133693772,0.19572238414288715,1.0,,259,all sampled languages
+A,flag_strict,econ,mode=live,recall,0.3836187055506685,0.1656556058788371,0.9505283265189384,1.0,,259,all sampled languages
+A,flag_strict,econ,mode=live,f2,0.2810608141594386,0.13821978455818076,0.4824267257578437,1.0,,259,all sampled languages
+A,flag_baseline,econ,mode=wayback,precision,0.13627884826223688,0.0714278026284005,0.20891180390953523,1.0,,222,all sampled languages
+A,flag_baseline,econ,mode=wayback,recall,0.2761483131551379,0.12535265869913598,1.0,1.0,,222,all sampled languages
+A,flag_baseline,econ,mode=wayback,f2,0.22911747945299923,0.11814814184018226,0.4727760377762018,1.0,,222,all sampled languages
+A,flag_price_family,econ,mode=wayback,precision,0.13168336416061258,0.040185882736754275,0.2695864542094091,1.0,,222,all sampled languages
+A,flag_price_family,econ,mode=wayback,recall,0.5758861926948295,0.22871279677938766,1.0,1.0,,222,all sampled languages
+A,flag_price_family,econ,mode=wayback,f2,0.34388390989259854,0.12685288816152723,0.609083013354118,1.0,,222,all sampled languages
+A,flag_wb442,econ,mode=wayback,precision,0.13758298697039265,0.0714278026284005,0.20988479087543965,1.0,,222,all sampled languages
+A,flag_wb442,econ,mode=wayback,recall,0.2761483131551379,0.12535265869913598,1.0,1.0,,222,all sampled languages
+A,flag_wb442,econ,mode=wayback,f2,0.2298500736306862,0.11837365146203012,0.47473438400326196,1.0,,222,all sampled languages
+A,flag_strict,econ,mode=wayback,precision,0.13758298697039265,0.0714278026284005,0.20988479087543965,1.0,,222,all sampled languages
+A,flag_strict,econ,mode=wayback,recall,0.2761483131551379,0.12535265869913598,1.0,1.0,,222,all sampled languages
+A,flag_strict,econ,mode=wayback,f2,0.2298500736306862,0.11837365146203012,0.47473438400326196,1.0,,222,all sampled languages
+A,flag_baseline,gating,all,precision,,,,1.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",613,all sampled languages
+A,flag_baseline,gating,all,recall,,,,1.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",613,all sampled languages
+A,flag_baseline,gating,all,f2,,,,1.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",613,all sampled languages
+A,flag_price_family,gating,all,precision,,,,1.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",613,all sampled languages
+A,flag_price_family,gating,all,recall,,,,1.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",613,all sampled languages
+A,flag_price_family,gating,all,f2,,,,1.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",613,all sampled languages
+A,flag_wb442,gating,all,precision,,,,1.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",613,all sampled languages
+A,flag_wb442,gating,all,recall,,,,1.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",613,all sampled languages
+A,flag_wb442,gating,all,f2,,,,1.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",613,all sampled languages
+A,flag_strict,gating,all,precision,,,,1.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",613,all sampled languages
+A,flag_strict,gating,all,recall,,,,1.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",613,all sampled languages
+A,flag_strict,gating,all,f2,,,,1.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",613,all sampled languages
+A,flag_baseline,gating,en,precision,0.13683207741226436,0.08953922205693417,0.1882297504338221,1.0,,525,all sampled languages
+A,flag_baseline,gating,en,recall,0.3854342221439424,0.22755805616560232,0.7542199734642954,1.0,,525,all sampled languages
+A,flag_baseline,gating,en,f2,0.28270735328721325,0.195802452518036,0.4205830699832481,1.0,,525,all sampled languages
+A,flag_price_family,gating,en,precision,0.1150602023279651,0.06286149886317698,0.1906526871642861,1.0,,525,all sampled languages
+A,flag_price_family,gating,en,recall,0.5962271246942026,0.3495582580788666,0.8672409933075064,1.0,,525,all sampled languages
+A,flag_price_family,gating,en,f2,0.32467626982582,0.19091566037874633,0.49048023954316167,1.0,,525,all sampled languages
+A,flag_wb442,gating,en,precision,0.13515633367816185,0.08664158577603093,0.18433190727247845,1.0,,525,all sampled languages
+A,flag_wb442,gating,en,recall,0.3716383615878639,0.21822580215863752,0.7339127161443607,1.0,,525,all sampled languages
+A,flag_wb442,gating,en,f2,0.27530021533285115,0.17990706499109985,0.40553261874760865,1.0,,525,all sampled languages
+A,flag_strict,gating,en,precision,0.13515633367816185,0.08664158577603093,0.18433190727247845,1.0,,525,all sampled languages
+A,flag_strict,gating,en,recall,0.3716383615878639,0.21822580215863752,0.7339127161443607,1.0,,525,all sampled languages
+A,flag_strict,gating,en,f2,0.27530021533285115,0.17990706499109985,0.40553261874760865,1.0,,525,all sampled languages
+A,flag_baseline,gating,hin,precision,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old",0,all sampled languages
+A,flag_baseline,gating,hin,recall,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old",0,all sampled languages
+A,flag_baseline,gating,hin,f2,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old",0,all sampled languages
+A,flag_price_family,gating,hin,precision,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old",0,all sampled languages
+A,flag_price_family,gating,hin,recall,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old",0,all sampled languages
+A,flag_price_family,gating,hin,f2,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old",0,all sampled languages
+A,flag_wb442,gating,hin,precision,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old",0,all sampled languages
+A,flag_wb442,gating,hin,recall,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old",0,all sampled languages
+A,flag_wb442,gating,hin,f2,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old",0,all sampled languages
+A,flag_strict,gating,hin,precision,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old",0,all sampled languages
+A,flag_strict,gating,hin,recall,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old",0,all sampled languages
+A,flag_strict,gating,hin,f2,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old",0,all sampled languages
+A,flag_baseline,gating,oth,precision,,,,0.0,"no coded articles in strata: oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+A,flag_baseline,gating,oth,recall,,,,0.0,"no coded articles in strata: oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+A,flag_baseline,gating,oth,f2,,,,0.0,"no coded articles in strata: oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+A,flag_price_family,gating,oth,precision,,,,0.0,"no coded articles in strata: oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+A,flag_price_family,gating,oth,recall,,,,0.0,"no coded articles in strata: oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+A,flag_price_family,gating,oth,f2,,,,0.0,"no coded articles in strata: oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+A,flag_wb442,gating,oth,precision,,,,0.0,"no coded articles in strata: oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+A,flag_wb442,gating,oth,recall,,,,0.0,"no coded articles in strata: oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+A,flag_wb442,gating,oth,f2,,,,0.0,"no coded articles in strata: oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+A,flag_strict,gating,oth,precision,,,,0.0,"no coded articles in strata: oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+A,flag_strict,gating,oth,recall,,,,0.0,"no coded articles in strata: oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+A,flag_strict,gating,oth,f2,,,,0.0,"no coded articles in strata: oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+A,flag_baseline,gating,vernacular_focal,precision,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+A,flag_baseline,gating,vernacular_focal,recall,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+A,flag_baseline,gating,vernacular_focal,f2,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+A,flag_price_family,gating,vernacular_focal,precision,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+A,flag_price_family,gating,vernacular_focal,recall,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+A,flag_price_family,gating,vernacular_focal,f2,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+A,flag_wb442,gating,vernacular_focal,precision,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+A,flag_wb442,gating,vernacular_focal,recall,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+A,flag_wb442,gating,vernacular_focal,f2,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+A,flag_strict,gating,vernacular_focal,precision,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+A,flag_strict,gating,vernacular_focal,recall,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+A,flag_strict,gating,vernacular_focal,f2,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+A,flag_baseline,gating,mode=live,precision,0.1392631196237967,0.08793848460175625,0.1978485041297795,1.0,,336,all sampled languages
+A,flag_baseline,gating,mode=live,recall,0.3159301900973789,0.14644472142515644,0.6447563937895059,1.0,,336,all sampled languages
+A,flag_baseline,gating,mode=live,f2,0.2519948301335314,0.12928458716362384,0.41334300236759836,1.0,,336,all sampled languages
+A,flag_price_family,gating,mode=live,precision,0.09431057562737016,0.05830683954217219,0.14422451299854694,1.0,,336,all sampled languages
+A,flag_price_family,gating,mode=live,recall,0.3338761895642022,0.16643694357957306,0.6863819215062111,1.0,,336,all sampled languages
+A,flag_price_family,gating,mode=live,f2,0.2213980931240515,0.12387378345853749,0.3420579430425854,1.0,,336,all sampled languages
+A,flag_wb442,gating,mode=live,precision,0.13581929695299147,0.07969708133693772,0.19572238414288715,1.0,,336,all sampled languages
+A,flag_wb442,gating,mode=live,recall,0.298824402076598,0.13759647445408188,0.6048267864093266,1.0,,336,all sampled languages
+A,flag_wb442,gating,mode=live,f2,0.24098113986349548,0.11905168584102988,0.3991967949908506,1.0,,336,all sampled languages
+A,flag_strict,gating,mode=live,precision,0.13581929695299147,0.07969708133693772,0.19572238414288715,1.0,,336,all sampled languages
+A,flag_strict,gating,mode=live,recall,0.298824402076598,0.13759647445408188,0.6048267864093266,1.0,,336,all sampled languages
+A,flag_strict,gating,mode=live,f2,0.24098113986349548,0.11905168584102988,0.3991967949908506,1.0,,336,all sampled languages
+A,flag_baseline,gating,mode=wayback,precision,0.13627884826223688,0.0714278026284005,0.20891180390953523,1.0,,277,all sampled languages
+A,flag_baseline,gating,mode=wayback,recall,0.24408654755121906,0.10919152423683395,0.7583964022201836,1.0,,277,all sampled languages
+A,flag_baseline,gating,mode=wayback,f2,0.21074348569955118,0.10952148655743264,0.4248559613627499,1.0,,277,all sampled languages
+A,flag_price_family,gating,mode=wayback,precision,0.14228595987952072,0.0496091292719447,0.2807289632034089,1.0,,277,all sampled languages
+A,flag_price_family,gating,mode=wayback,recall,0.5568072140663395,0.2177119773983773,0.9552956517788345,1.0,,277,all sampled languages
+A,flag_price_family,gating,mode=wayback,f2,0.3518174643074333,0.14097869319373302,0.6035620009528906,1.0,,277,all sampled languages
+A,flag_wb442,gating,mode=wayback,precision,0.13758298697039265,0.0714278026284005,0.20988479087543965,1.0,,277,all sampled languages
+A,flag_wb442,gating,mode=wayback,recall,0.24408654755121906,0.10919152423683395,0.7583964022201836,1.0,,277,all sampled languages
+A,flag_wb442,gating,mode=wayback,f2,0.21136313218067979,0.10974072719082867,0.4290109991535959,1.0,,277,all sampled languages
+A,flag_strict,gating,mode=wayback,precision,0.13758298697039265,0.0714278026284005,0.20988479087543965,1.0,,277,all sampled languages
+A,flag_strict,gating,mode=wayback,recall,0.24408654755121906,0.10919152423683395,0.7583964022201836,1.0,,277,all sampled languages
+A,flag_strict,gating,mode=wayback,f2,0.21136313218067979,0.10974072719082867,0.4290109991535959,1.0,,277,all sampled languages
+AB,flag_baseline,econ,all,precision,,,,1.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",481,all sampled languages
+AB,flag_baseline,econ,all,recall,,,,1.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",481,all sampled languages
+AB,flag_baseline,econ,all,f2,,,,1.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",481,all sampled languages
+AB,flag_price_family,econ,all,precision,,,,1.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",481,all sampled languages
+AB,flag_price_family,econ,all,recall,,,,1.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",481,all sampled languages
+AB,flag_price_family,econ,all,f2,,,,1.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",481,all sampled languages
+AB,flag_wb442,econ,all,precision,,,,1.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",481,all sampled languages
+AB,flag_wb442,econ,all,recall,,,,1.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",481,all sampled languages
+AB,flag_wb442,econ,all,f2,,,,1.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",481,all sampled languages
+AB,flag_strict,econ,all,precision,,,,1.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",481,all sampled languages
+AB,flag_strict,econ,all,recall,,,,1.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",481,all sampled languages
+AB,flag_strict,econ,all,f2,,,,1.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",481,all sampled languages
+AB,flag_baseline,econ,en,precision,0.13683207741226436,0.08953922205693417,0.1882297504338221,1.0,,420,all sampled languages
+AB,flag_baseline,econ,en,recall,0.46085330011182196,0.2525523785317579,1.0,1.0,,420,all sampled languages
+AB,flag_baseline,econ,en,f2,0.31273886483386054,0.21074581712772247,0.46769379915844234,1.0,,420,all sampled languages
+AB,flag_price_family,econ,en,precision,0.11092962102082375,0.05825699605774859,0.18514045965581574,1.0,,420,all sampled languages
+AB,flag_price_family,econ,en,recall,0.6841071676129142,0.4085098545817246,1.0,1.0,,420,all sampled languages
+AB,flag_price_family,econ,en,f2,0.336433866027064,0.19407217959267356,0.5073763793318996,1.0,,420,all sampled languages
+AB,flag_wb442,econ,en,precision,0.13515633367816185,0.08664158577603093,0.18433190727247845,1.0,,420,all sampled languages
+AB,flag_wb442,econ,en,recall,0.44435796186763016,0.24471275717002927,1.0,1.0,,420,all sampled languages
+AB,flag_wb442,econ,en,f2,0.3048670631027018,0.19581591804816362,0.4587821245184836,1.0,,420,all sampled languages
+AB,flag_strict,econ,en,precision,0.13515633367816185,0.08664158577603093,0.18433190727247845,1.0,,420,all sampled languages
+AB,flag_strict,econ,en,recall,0.44435796186763016,0.24471275717002927,1.0,1.0,,420,all sampled languages
+AB,flag_strict,econ,en,f2,0.3048670631027018,0.19581591804816362,0.4587821245184836,1.0,,420,all sampled languages
+AB,flag_baseline,econ,hin,precision,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old",0,all sampled languages
+AB,flag_baseline,econ,hin,recall,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old",0,all sampled languages
+AB,flag_baseline,econ,hin,f2,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old",0,all sampled languages
+AB,flag_price_family,econ,hin,precision,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old",0,all sampled languages
+AB,flag_price_family,econ,hin,recall,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old",0,all sampled languages
+AB,flag_price_family,econ,hin,f2,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old",0,all sampled languages
+AB,flag_wb442,econ,hin,precision,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old",0,all sampled languages
+AB,flag_wb442,econ,hin,recall,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old",0,all sampled languages
+AB,flag_wb442,econ,hin,f2,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old",0,all sampled languages
+AB,flag_strict,econ,hin,precision,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old",0,all sampled languages
+AB,flag_strict,econ,hin,recall,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old",0,all sampled languages
+AB,flag_strict,econ,hin,f2,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old",0,all sampled languages
+AB,flag_baseline,econ,oth,precision,,,,0.0,"no coded articles in strata: oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+AB,flag_baseline,econ,oth,recall,,,,0.0,"no coded articles in strata: oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+AB,flag_baseline,econ,oth,f2,,,,0.0,"no coded articles in strata: oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+AB,flag_price_family,econ,oth,precision,,,,0.0,"no coded articles in strata: oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+AB,flag_price_family,econ,oth,recall,,,,0.0,"no coded articles in strata: oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+AB,flag_price_family,econ,oth,f2,,,,0.0,"no coded articles in strata: oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+AB,flag_wb442,econ,oth,precision,,,,0.0,"no coded articles in strata: oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+AB,flag_wb442,econ,oth,recall,,,,0.0,"no coded articles in strata: oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+AB,flag_wb442,econ,oth,f2,,,,0.0,"no coded articles in strata: oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+AB,flag_strict,econ,oth,precision,,,,0.0,"no coded articles in strata: oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+AB,flag_strict,econ,oth,recall,,,,0.0,"no coded articles in strata: oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+AB,flag_strict,econ,oth,f2,,,,0.0,"no coded articles in strata: oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+AB,flag_baseline,econ,vernacular_focal,precision,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+AB,flag_baseline,econ,vernacular_focal,recall,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+AB,flag_baseline,econ,vernacular_focal,f2,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+AB,flag_price_family,econ,vernacular_focal,precision,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+AB,flag_price_family,econ,vernacular_focal,recall,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+AB,flag_price_family,econ,vernacular_focal,f2,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+AB,flag_wb442,econ,vernacular_focal,precision,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+AB,flag_wb442,econ,vernacular_focal,recall,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+AB,flag_wb442,econ,vernacular_focal,f2,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+AB,flag_strict,econ,vernacular_focal,precision,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+AB,flag_strict,econ,vernacular_focal,recall,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+AB,flag_strict,econ,vernacular_focal,f2,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+AB,flag_baseline,econ,mode=live,precision,0.1392631196237967,0.08793848460175625,0.1978485041297795,1.0,,259,all sampled languages
+AB,flag_baseline,econ,mode=live,recall,0.40557842574873326,0.18356287762869317,1.0,1.0,,259,all sampled languages
+AB,flag_baseline,econ,mode=live,f2,0.2933736937639654,0.14440890486535632,0.5022844331032692,1.0,,259,all sampled languages
+AB,flag_price_family,econ,mode=live,precision,0.08969602903916994,0.052799109443073255,0.1380446174442658,1.0,,259,all sampled languages
+AB,flag_price_family,econ,mode=live,recall,0.40557842574873326,0.18356287762869317,1.0,1.0,,259,all sampled languages
+AB,flag_price_family,econ,mode=live,f2,0.23796806004473822,0.1229544456841457,0.39548570838762814,1.0,,259,all sampled languages
+AB,flag_wb442,econ,mode=live,precision,0.13581929695299147,0.07969708133693772,0.19572238414288715,1.0,,259,all sampled languages
+AB,flag_wb442,econ,mode=live,recall,0.3836187055506685,0.1656556058788371,0.9505283265189384,1.0,,259,all sampled languages
+AB,flag_wb442,econ,mode=live,f2,0.2810608141594386,0.13821978455818076,0.4824267257578437,1.0,,259,all sampled languages
+AB,flag_strict,econ,mode=live,precision,0.13581929695299147,0.07969708133693772,0.19572238414288715,1.0,,259,all sampled languages
+AB,flag_strict,econ,mode=live,recall,0.3836187055506685,0.1656556058788371,0.9505283265189384,1.0,,259,all sampled languages
+AB,flag_strict,econ,mode=live,f2,0.2810608141594386,0.13821978455818076,0.4824267257578437,1.0,,259,all sampled languages
+AB,flag_baseline,econ,mode=wayback,precision,0.13627884826223688,0.0714278026284005,0.20891180390953523,1.0,,222,all sampled languages
+AB,flag_baseline,econ,mode=wayback,recall,0.2761483131551379,0.12535265869913598,1.0,1.0,,222,all sampled languages
+AB,flag_baseline,econ,mode=wayback,f2,0.22911747945299923,0.11814814184018226,0.4727760377762018,1.0,,222,all sampled languages
+AB,flag_price_family,econ,mode=wayback,precision,0.13168336416061258,0.040185882736754275,0.2695864542094091,1.0,,222,all sampled languages
+AB,flag_price_family,econ,mode=wayback,recall,0.5758861926948295,0.22871279677938766,1.0,1.0,,222,all sampled languages
+AB,flag_price_family,econ,mode=wayback,f2,0.34388390989259854,0.12685288816152723,0.609083013354118,1.0,,222,all sampled languages
+AB,flag_wb442,econ,mode=wayback,precision,0.13758298697039265,0.0714278026284005,0.20988479087543965,1.0,,222,all sampled languages
+AB,flag_wb442,econ,mode=wayback,recall,0.2761483131551379,0.12535265869913598,1.0,1.0,,222,all sampled languages
+AB,flag_wb442,econ,mode=wayback,f2,0.2298500736306862,0.11837365146203012,0.47473438400326196,1.0,,222,all sampled languages
+AB,flag_strict,econ,mode=wayback,precision,0.13758298697039265,0.0714278026284005,0.20988479087543965,1.0,,222,all sampled languages
+AB,flag_strict,econ,mode=wayback,recall,0.2761483131551379,0.12535265869913598,1.0,1.0,,222,all sampled languages
+AB,flag_strict,econ,mode=wayback,f2,0.2298500736306862,0.11837365146203012,0.47473438400326196,1.0,,222,all sampled languages
+AB,flag_baseline,gating,all,precision,,,,1.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",613,all sampled languages
+AB,flag_baseline,gating,all,recall,,,,1.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",613,all sampled languages
+AB,flag_baseline,gating,all,f2,,,,1.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",613,all sampled languages
+AB,flag_price_family,gating,all,precision,,,,1.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",613,all sampled languages
+AB,flag_price_family,gating,all,recall,,,,1.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",613,all sampled languages
+AB,flag_price_family,gating,all,f2,,,,1.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",613,all sampled languages
+AB,flag_wb442,gating,all,precision,,,,1.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",613,all sampled languages
+AB,flag_wb442,gating,all,recall,,,,1.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",613,all sampled languages
+AB,flag_wb442,gating,all,f2,,,,1.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",613,all sampled languages
+AB,flag_strict,gating,all,precision,,,,1.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",613,all sampled languages
+AB,flag_strict,gating,all,recall,,,,1.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",613,all sampled languages
+AB,flag_strict,gating,all,f2,,,,1.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",613,all sampled languages
+AB,flag_baseline,gating,en,precision,0.13683207741226436,0.08953922205693417,0.1882297504338221,1.0,,525,all sampled languages
+AB,flag_baseline,gating,en,recall,0.3854342221439424,0.22755805616560232,0.7542199734642954,1.0,,525,all sampled languages
+AB,flag_baseline,gating,en,f2,0.28270735328721325,0.195802452518036,0.4205830699832481,1.0,,525,all sampled languages
+AB,flag_price_family,gating,en,precision,0.1150602023279651,0.06286149886317698,0.1906526871642861,1.0,,525,all sampled languages
+AB,flag_price_family,gating,en,recall,0.5962271246942026,0.3495582580788666,0.8672409933075064,1.0,,525,all sampled languages
+AB,flag_price_family,gating,en,f2,0.32467626982582,0.19091566037874633,0.49048023954316167,1.0,,525,all sampled languages
+AB,flag_wb442,gating,en,precision,0.13515633367816185,0.08664158577603093,0.18433190727247845,1.0,,525,all sampled languages
+AB,flag_wb442,gating,en,recall,0.3716383615878639,0.21822580215863752,0.7339127161443607,1.0,,525,all sampled languages
+AB,flag_wb442,gating,en,f2,0.27530021533285115,0.17990706499109985,0.40553261874760865,1.0,,525,all sampled languages
+AB,flag_strict,gating,en,precision,0.13515633367816185,0.08664158577603093,0.18433190727247845,1.0,,525,all sampled languages
+AB,flag_strict,gating,en,recall,0.3716383615878639,0.21822580215863752,0.7339127161443607,1.0,,525,all sampled languages
+AB,flag_strict,gating,en,f2,0.27530021533285115,0.17990706499109985,0.40553261874760865,1.0,,525,all sampled languages
+AB,flag_baseline,gating,hin,precision,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old",0,all sampled languages
+AB,flag_baseline,gating,hin,recall,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old",0,all sampled languages
+AB,flag_baseline,gating,hin,f2,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old",0,all sampled languages
+AB,flag_price_family,gating,hin,precision,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old",0,all sampled languages
+AB,flag_price_family,gating,hin,recall,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old",0,all sampled languages
+AB,flag_price_family,gating,hin,f2,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old",0,all sampled languages
+AB,flag_wb442,gating,hin,precision,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old",0,all sampled languages
+AB,flag_wb442,gating,hin,recall,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old",0,all sampled languages
+AB,flag_wb442,gating,hin,f2,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old",0,all sampled languages
+AB,flag_strict,gating,hin,precision,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old",0,all sampled languages
+AB,flag_strict,gating,hin,recall,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old",0,all sampled languages
+AB,flag_strict,gating,hin,f2,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old",0,all sampled languages
+AB,flag_baseline,gating,oth,precision,,,,0.0,"no coded articles in strata: oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+AB,flag_baseline,gating,oth,recall,,,,0.0,"no coded articles in strata: oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+AB,flag_baseline,gating,oth,f2,,,,0.0,"no coded articles in strata: oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+AB,flag_price_family,gating,oth,precision,,,,0.0,"no coded articles in strata: oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+AB,flag_price_family,gating,oth,recall,,,,0.0,"no coded articles in strata: oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+AB,flag_price_family,gating,oth,f2,,,,0.0,"no coded articles in strata: oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+AB,flag_wb442,gating,oth,precision,,,,0.0,"no coded articles in strata: oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+AB,flag_wb442,gating,oth,recall,,,,0.0,"no coded articles in strata: oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+AB,flag_wb442,gating,oth,f2,,,,0.0,"no coded articles in strata: oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+AB,flag_strict,gating,oth,precision,,,,0.0,"no coded articles in strata: oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+AB,flag_strict,gating,oth,recall,,,,0.0,"no coded articles in strata: oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+AB,flag_strict,gating,oth,f2,,,,0.0,"no coded articles in strata: oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+AB,flag_baseline,gating,vernacular_focal,precision,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+AB,flag_baseline,gating,vernacular_focal,recall,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+AB,flag_baseline,gating,vernacular_focal,f2,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+AB,flag_price_family,gating,vernacular_focal,precision,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+AB,flag_price_family,gating,vernacular_focal,recall,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+AB,flag_price_family,gating,vernacular_focal,f2,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+AB,flag_wb442,gating,vernacular_focal,precision,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+AB,flag_wb442,gating,vernacular_focal,recall,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+AB,flag_wb442,gating,vernacular_focal,f2,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+AB,flag_strict,gating,vernacular_focal,precision,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+AB,flag_strict,gating,vernacular_focal,recall,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+AB,flag_strict,gating,vernacular_focal,f2,,,,0.0,"no coded articles in strata: hin_econ_unflagged,hin_flagged,oth_econ_unflagged,oth_flagged; sampled cells with no coded articles (not imputed): hin_econ_unflagged|late,hin_econ_unflagged|old,hin_flagged|late,hin_flagged|old,oth_econ_unflagged|late,oth_econ_unflagged|old,oth_flagged|late,oth_flagged|old",0,all sampled languages
+AB,flag_baseline,gating,mode=live,precision,0.1392631196237967,0.08793848460175625,0.1978485041297795,1.0,,336,all sampled languages
+AB,flag_baseline,gating,mode=live,recall,0.3159301900973789,0.14644472142515644,0.6447563937895059,1.0,,336,all sampled languages
+AB,flag_baseline,gating,mode=live,f2,0.2519948301335314,0.12928458716362384,0.41334300236759836,1.0,,336,all sampled languages
+AB,flag_price_family,gating,mode=live,precision,0.09431057562737016,0.05830683954217219,0.14422451299854694,1.0,,336,all sampled languages
+AB,flag_price_family,gating,mode=live,recall,0.3338761895642022,0.16643694357957306,0.6863819215062111,1.0,,336,all sampled languages
+AB,flag_price_family,gating,mode=live,f2,0.2213980931240515,0.12387378345853749,0.3420579430425854,1.0,,336,all sampled languages
+AB,flag_wb442,gating,mode=live,precision,0.13581929695299147,0.07969708133693772,0.19572238414288715,1.0,,336,all sampled languages
+AB,flag_wb442,gating,mode=live,recall,0.298824402076598,0.13759647445408188,0.6048267864093266,1.0,,336,all sampled languages
+AB,flag_wb442,gating,mode=live,f2,0.24098113986349548,0.11905168584102988,0.3991967949908506,1.0,,336,all sampled languages
+AB,flag_strict,gating,mode=live,precision,0.13581929695299147,0.07969708133693772,0.19572238414288715,1.0,,336,all sampled languages
+AB,flag_strict,gating,mode=live,recall,0.298824402076598,0.13759647445408188,0.6048267864093266,1.0,,336,all sampled languages
+AB,flag_strict,gating,mode=live,f2,0.24098113986349548,0.11905168584102988,0.3991967949908506,1.0,,336,all sampled languages
+AB,flag_baseline,gating,mode=wayback,precision,0.13627884826223688,0.0714278026284005,0.20891180390953523,1.0,,277,all sampled languages
+AB,flag_baseline,gating,mode=wayback,recall,0.24408654755121906,0.10919152423683395,0.7583964022201836,1.0,,277,all sampled languages
+AB,flag_baseline,gating,mode=wayback,f2,0.21074348569955118,0.10952148655743264,0.4248559613627499,1.0,,277,all sampled languages
+AB,flag_price_family,gating,mode=wayback,precision,0.14228595987952072,0.0496091292719447,0.2807289632034089,1.0,,277,all sampled languages
+AB,flag_price_family,gating,mode=wayback,recall,0.5568072140663395,0.2177119773983773,0.9552956517788345,1.0,,277,all sampled languages
+AB,flag_price_family,gating,mode=wayback,f2,0.3518174643074333,0.14097869319373302,0.6035620009528906,1.0,,277,all sampled languages
+AB,flag_wb442,gating,mode=wayback,precision,0.13758298697039265,0.0714278026284005,0.20988479087543965,1.0,,277,all sampled languages
+AB,flag_wb442,gating,mode=wayback,recall,0.24408654755121906,0.10919152423683395,0.7583964022201836,1.0,,277,all sampled languages
+AB,flag_wb442,gating,mode=wayback,f2,0.21136313218067979,0.10974072719082867,0.4290109991535959,1.0,,277,all sampled languages
+AB,flag_strict,gating,mode=wayback,precision,0.13758298697039265,0.0714278026284005,0.20988479087543965,1.0,,277,all sampled languages
+AB,flag_strict,gating,mode=wayback,recall,0.24408654755121906,0.10919152423683395,0.7583964022201836,1.0,,277,all sampled languages
+AB,flag_strict,gating,mode=wayback,f2,0.21136313218067979,0.10974072719082867,0.4290109991535959,1.0,,277,all sampled languages
+B,flag_baseline,econ,all,precision,0.16375367063530452,0.128500761106526,0.20266642874985852,1.0,,884,all sampled languages
+B,flag_baseline,econ,all,recall,0.3414986783428286,0.229016345456552,0.5655532354345655,1.0,,884,all sampled languages
+B,flag_baseline,econ,all,f2,0.2805866147451,0.2039492668787318,0.39191089339357515,1.0,,884,all sampled languages
+B,flag_price_family,econ,all,precision,0.12088783549853532,0.07522337762213406,0.19200424259294332,1.0,,884,all sampled languages
+B,flag_price_family,econ,all,recall,0.4470391799802202,0.28046553928579415,0.7078151861605428,1.0,,884,all sampled languages
+B,flag_price_family,econ,all,f2,0.2903618593503033,0.1942142508222916,0.42840231253683464,1.0,,884,all sampled languages
+B,flag_wb442,econ,all,precision,0.16077739786864492,0.12713718677102184,0.19846600156562028,1.0,,884,all sampled languages
+B,flag_wb442,econ,all,recall,0.3280799388640289,0.22012667632427937,0.5490716069044506,1.0,,884,all sampled languages
+B,flag_wb442,econ,all,f2,0.27156305342929277,0.19732638321906287,0.3817297848402641,1.0,,884,all sampled languages
+B,flag_strict,econ,all,precision,0.16077739786864492,0.12713718677102184,0.19846600156562028,1.0,,884,all sampled languages
+B,flag_strict,econ,all,recall,0.3280799388640289,0.22012667632427937,0.5490716069044506,1.0,,884,all sampled languages
+B,flag_strict,econ,all,f2,0.27156305342929277,0.19732638321906287,0.3817297848402641,1.0,,884,all sampled languages
+B,flag_baseline,econ,en,precision,0.13564355059419544,0.0946106961098199,0.18238695548291525,1.0,,453,all sampled languages
+B,flag_baseline,econ,en,recall,0.3324596062965032,0.1952320990930945,0.7143375031915091,1.0,,453,all sampled languages
+B,flag_baseline,econ,en,f2,0.257681480305201,0.17215277728891004,0.4056453906147711,1.0,,453,all sampled languages
+B,flag_price_family,econ,en,precision,0.1084088308165366,0.05254797979190235,0.1935510310774342,1.0,,453,all sampled languages
+B,flag_price_family,econ,en,recall,0.4828096783144882,0.2535549777834897,0.8280527399178252,1.0,,453,all sampled languages
+B,flag_price_family,econ,en,f2,0.2855645054679069,0.15432363648729466,0.46606481589504767,1.0,,453,all sampled languages
+B,flag_wb442,econ,en,precision,0.13047323523883372,0.08767175437692237,0.17781659936916125,1.0,,453,all sampled languages
+B,flag_wb442,econ,en,recall,0.30998500904010934,0.18429237294443312,0.6463405055917175,1.0,,453,all sampled languages
+B,flag_wb442,econ,en,f2,0.24309303429201168,0.16113562381037458,0.39059308184587915,1.0,,453,all sampled languages
+B,flag_strict,econ,en,precision,0.13047323523883372,0.08767175437692237,0.17781659936916125,1.0,,453,all sampled languages
+B,flag_strict,econ,en,recall,0.30998500904010934,0.18429237294443312,0.6463405055917175,1.0,,453,all sampled languages
+B,flag_strict,econ,en,f2,0.24309303429201168,0.16113562381037458,0.39059308184587915,1.0,,453,all sampled languages
+B,flag_baseline,econ,hin,precision,0.24001692942545766,0.16053412337318798,0.3218156808803301,1.0,,181,all sampled languages
+B,flag_baseline,econ,hin,recall,1.0,1.0,1.0,1.0,,181,all sampled languages
+B,flag_baseline,econ,hin,f2,0.6122669315396825,0.4887697684620486,0.7034952250366842,1.0,,181,all sampled languages
+B,flag_price_family,econ,hin,precision,0.13121018429223716,0.05687917256577016,0.31334419638133515,1.0,,181,all sampled languages
+B,flag_price_family,econ,hin,recall,1.0,1.0,1.0,1.0,,181,all sampled languages
+B,flag_price_family,econ,hin,f2,0.43024225774504404,0.23168385477225337,0.695274378084219,1.0,,181,all sampled languages
+B,flag_wb442,econ,hin,precision,0.24001692942545766,0.16053412337318798,0.3218156808803301,1.0,,181,all sampled languages
+B,flag_wb442,econ,hin,recall,1.0,1.0,1.0,1.0,,181,all sampled languages
+B,flag_wb442,econ,hin,f2,0.6122669315396825,0.4887697684620486,0.7034952250366842,1.0,,181,all sampled languages
+B,flag_strict,econ,hin,precision,0.24001692942545766,0.16053412337318798,0.3218156808803301,1.0,,181,all sampled languages
+B,flag_strict,econ,hin,recall,1.0,1.0,1.0,1.0,,181,all sampled languages
+B,flag_strict,econ,hin,f2,0.6122669315396825,0.4887697684620486,0.7034952250366842,1.0,,181,all sampled languages
+B,flag_baseline,econ,oth,precision,0.3114854617504606,0.22466365519153297,0.40865568076189224,1.0,,181,all sampled languages
+B,flag_baseline,econ,oth,recall,0.61959737167538,0.3736723291588592,1.0,1.0,,181,all sampled languages
+B,flag_baseline,econ,oth,f2,0.517264851586778,0.339295263860861,0.7117237188165152,1.0,,181,all sampled languages
+B,flag_price_family,econ,oth,precision,0.35001891993812856,0.20463076058078908,0.49100884134751277,1.0,,181,all sampled languages
+B,flag_price_family,econ,oth,recall,1.0,1.0,1.0,1.0,,181,all sampled languages
+B,flag_price_family,econ,oth,f2,0.7291830897061985,0.5626265937648294,0.8282640674542547,1.0,,181,all sampled languages
+B,flag_wb442,econ,oth,precision,0.3114854617504606,0.22466365519153297,0.40865568076189224,1.0,,181,all sampled languages
+B,flag_wb442,econ,oth,recall,0.61959737167538,0.3736723291588592,1.0,1.0,,181,all sampled languages
+B,flag_wb442,econ,oth,f2,0.517264851586778,0.339295263860861,0.7117237188165152,1.0,,181,all sampled languages
+B,flag_strict,econ,oth,precision,0.3114854617504606,0.22466365519153297,0.40865568076189224,1.0,,181,all sampled languages
+B,flag_strict,econ,oth,recall,0.61959737167538,0.3736723291588592,1.0,1.0,,181,all sampled languages
+B,flag_strict,econ,oth,f2,0.517264851586778,0.339295263860861,0.7117237188165152,1.0,,181,all sampled languages
+B,flag_baseline,econ,vernacular_focal,precision,0.2527253799467016,0.18958703904004914,0.3235079063131613,1.0,,362,all sampled languages
+B,flag_baseline,econ,vernacular_focal,recall,0.8814026569860606,0.734445745790294,1.0,1.0,,362,all sampled languages
+B,flag_baseline,econ,vernacular_focal,f2,0.5885756214751817,0.48627337957963845,0.6836682844076843,1.0,,362,all sampled languages
+B,flag_price_family,econ,vernacular_focal,precision,0.1629731137427664,0.0803926054303971,0.3212641808778706,1.0,,362,all sampled languages
+B,flag_price_family,econ,vernacular_focal,recall,1.0,1.0,1.0,1.0,,362,all sampled languages
+B,flag_price_family,econ,vernacular_focal,f2,0.4932921427552044,0.30415548070938586,0.7029657186374912,1.0,,362,all sampled languages
+B,flag_wb442,econ,vernacular_focal,precision,0.2527253799467016,0.18958703904004914,0.3235079063131613,1.0,,362,all sampled languages
+B,flag_wb442,econ,vernacular_focal,recall,0.8814026569860606,0.734445745790294,1.0,1.0,,362,all sampled languages
+B,flag_wb442,econ,vernacular_focal,f2,0.5885756214751817,0.48627337957963845,0.6836682844076843,1.0,,362,all sampled languages
+B,flag_strict,econ,vernacular_focal,precision,0.2527253799467016,0.18958703904004914,0.3235079063131613,1.0,,362,all sampled languages
+B,flag_strict,econ,vernacular_focal,recall,0.8814026569860606,0.734445745790294,1.0,1.0,,362,all sampled languages
+B,flag_strict,econ,vernacular_focal,f2,0.5885756214751817,0.48627337957963845,0.6836682844076843,1.0,,362,all sampled languages
+B,flag_baseline,econ,mode=live,precision,0.16197682437561542,0.12102310794587591,0.2106096468125478,1.0,,560,all sampled languages
+B,flag_baseline,econ,mode=live,recall,0.432653274041126,0.2399745727290264,0.9372084846845858,1.0,,560,all sampled languages
+B,flag_baseline,econ,mode=live,f2,0.3242752198740003,0.2151151183008612,0.4872067802127752,1.0,,560,all sampled languages
+B,flag_price_family,econ,mode=live,precision,0.12137992779215039,0.08550949015906077,0.16091231102273815,1.0,,560,all sampled languages
+B,flag_price_family,econ,mode=live,recall,0.4640421481540289,0.2622690702136927,1.0,1.0,,560,all sampled languages
+B,flag_price_family,econ,mode=live,f2,0.29658627230262846,0.2093390331204999,0.4231666122915759,1.0,,560,all sampled languages
+B,flag_wb442,econ,mode=live,precision,0.15655145060228123,0.11850502639502666,0.20237106450638725,1.0,,560,all sampled languages
+B,flag_wb442,econ,mode=live,recall,0.40594796177673886,0.22833368622137745,0.8804955303154808,1.0,,560,all sampled languages
+B,flag_wb442,econ,mode=live,f2,0.3078598581448562,0.20462739092158258,0.4723598591163855,1.0,,560,all sampled languages
+B,flag_strict,econ,mode=live,precision,0.15655145060228123,0.11850502639502666,0.20237106450638725,1.0,,560,all sampled languages
+B,flag_strict,econ,mode=live,recall,0.40594796177673886,0.22833368622137745,0.8804955303154808,1.0,,560,all sampled languages
+B,flag_strict,econ,mode=live,f2,0.3078598581448562,0.20462739092158258,0.4723598591163855,1.0,,560,all sampled languages
+B,flag_baseline,econ,mode=wayback,precision,0.16696209758595087,0.11078149215942225,0.22699398485622302,1.0,,324,all sampled languages
+B,flag_baseline,econ,mode=wayback,recall,0.24943733252326591,0.12865740058764044,0.6005966697697798,1.0,,324,all sampled languages
+B,flag_baseline,econ,mode=wayback,f2,0.22700985754012498,0.1319785433073744,0.4112901215604195,1.0,,324,all sampled languages
+B,flag_price_family,econ,mode=wayback,precision,0.12035586329986796,0.04489168564254506,0.25836991418049476,1.0,,324,all sampled languages
+B,flag_price_family,econ,mode=wayback,recall,0.4298670766867244,0.1636397899703013,0.8184752188503818,1.0,,324,all sampled languages
+B,flag_price_family,econ,mode=wayback,f2,0.28386678793470116,0.11879256844545678,0.5120192167557394,1.0,,324,all sampled languages
+B,flag_wb442,econ,mode=wayback,precision,0.16824204311528881,0.11120736274959837,0.22930561637232558,1.0,,324,all sampled languages
+B,flag_wb442,econ,mode=wayback,recall,0.24943733252326591,0.12865740058764044,0.6005966697697798,1.0,,324,all sampled languages
+B,flag_wb442,econ,mode=wayback,f2,0.2274804639942533,0.13210723897747287,0.41236867444716585,1.0,,324,all sampled languages
+B,flag_strict,econ,mode=wayback,precision,0.16824204311528881,0.11120736274959837,0.22930561637232558,1.0,,324,all sampled languages
+B,flag_strict,econ,mode=wayback,recall,0.24943733252326591,0.12865740058764044,0.6005966697697798,1.0,,324,all sampled languages
+B,flag_strict,econ,mode=wayback,f2,0.2274804639942533,0.13210723897747287,0.41236867444716585,1.0,,324,all sampled languages
+B,flag_baseline,gating,all,precision,0.16375367063530452,0.128500761106526,0.20266642874985852,1.0,,1026,all sampled languages
+B,flag_baseline,gating,all,recall,0.3018893416436175,0.20338498786016745,0.4674037229478176,1.0,,1026,all sampled languages
+B,flag_baseline,gating,all,f2,0.25830954082323365,0.18876824046215,0.3553844935648026,1.0,,1026,all sampled languages
+B,flag_price_family,gating,all,precision,0.12753512329084996,0.08119352508193611,0.2002300377190705,1.0,,1026,all sampled languages
+B,flag_price_family,gating,all,recall,0.4200953581393,0.2667423929880243,0.6248053408188637,1.0,,1026,all sampled languages
+B,flag_price_family,gating,all,f2,0.28797488948195465,0.19978613894546915,0.41850787239487636,1.0,,1026,all sampled languages
+B,flag_wb442,gating,all,precision,0.16077739786864492,0.12713718677102184,0.19846600156562028,1.0,,1026,all sampled languages
+B,flag_wb442,gating,all,recall,0.2900269987303155,0.19619265436064923,0.4595859281567073,1.0,,1026,all sampled languages
+B,flag_wb442,gating,all,f2,0.24985509440410053,0.18284374479981114,0.34284108352904114,1.0,,1026,all sampled languages
+B,flag_strict,gating,all,precision,0.16077739786864492,0.12713718677102184,0.19846600156562028,1.0,,1026,all sampled languages
+B,flag_strict,gating,all,recall,0.2900269987303155,0.19619265436064923,0.4595859281567073,1.0,,1026,all sampled languages
+B,flag_strict,gating,all,f2,0.24985509440410053,0.18284374479981114,0.34284108352904114,1.0,,1026,all sampled languages
+B,flag_baseline,gating,en,precision,0.13564355059419544,0.0946106961098199,0.18238695548291525,1.0,,566,all sampled languages
+B,flag_baseline,gating,en,recall,0.2912310071110634,0.17718901153100544,0.5554238831396716,1.0,,566,all sampled languages
+B,flag_baseline,gating,en,f2,0.23688750920573304,0.16034467748479564,0.36638498363810784,1.0,,566,all sampled languages
+B,flag_price_family,gating,en,precision,0.11389146975671907,0.06058356130218211,0.19800550679837647,1.0,,566,all sampled languages
+B,flag_price_family,gating,en,recall,0.44707467651143035,0.24844510816763635,0.736069943962562,1.0,,566,all sampled languages
+B,flag_price_family,gating,en,f2,0.28205021193918456,0.16254275934455112,0.450219645861545,1.0,,566,all sampled languages
+B,flag_wb442,gating,en,precision,0.13047323523883372,0.08767175437692237,0.17781659936916125,1.0,,566,all sampled languages
+B,flag_wb442,gating,en,recall,0.27154350381913656,0.16839093462598986,0.5080171423012035,1.0,,566,all sampled languages
+B,flag_wb442,gating,en,f2,0.22326400359288906,0.14598109481236754,0.34480761721159475,1.0,,566,all sampled languages
+B,flag_strict,gating,en,precision,0.13047323523883372,0.08767175437692237,0.17781659936916125,1.0,,566,all sampled languages
+B,flag_strict,gating,en,recall,0.27154350381913656,0.16839093462598986,0.5080171423012035,1.0,,566,all sampled languages
+B,flag_strict,gating,en,f2,0.22326400359288906,0.14598109481236754,0.34480761721159475,1.0,,566,all sampled languages
+B,flag_baseline,gating,hin,precision,0.24001692942545766,0.16053412337318798,0.3218156808803301,1.0,,181,all sampled languages
+B,flag_baseline,gating,hin,recall,1.0,1.0,1.0,1.0,,181,all sampled languages
+B,flag_baseline,gating,hin,f2,0.6122669315396825,0.4887697684620486,0.7034952250366842,1.0,,181,all sampled languages
+B,flag_price_family,gating,hin,precision,0.13121018429223716,0.05687917256577016,0.31334419638133515,1.0,,181,all sampled languages
+B,flag_price_family,gating,hin,recall,1.0,1.0,1.0,1.0,,181,all sampled languages
+B,flag_price_family,gating,hin,f2,0.43024225774504404,0.23168385477225337,0.695274378084219,1.0,,181,all sampled languages
+B,flag_wb442,gating,hin,precision,0.24001692942545766,0.16053412337318798,0.3218156808803301,1.0,,181,all sampled languages
+B,flag_wb442,gating,hin,recall,1.0,1.0,1.0,1.0,,181,all sampled languages
+B,flag_wb442,gating,hin,f2,0.6122669315396825,0.4887697684620486,0.7034952250366842,1.0,,181,all sampled languages
+B,flag_strict,gating,hin,precision,0.24001692942545766,0.16053412337318798,0.3218156808803301,1.0,,181,all sampled languages
+B,flag_strict,gating,hin,recall,1.0,1.0,1.0,1.0,,181,all sampled languages
+B,flag_strict,gating,hin,f2,0.6122669315396825,0.4887697684620486,0.7034952250366842,1.0,,181,all sampled languages
+B,flag_baseline,gating,oth,precision,0.3114854617504606,0.22466365519153297,0.40865568076189224,1.0,,181,all sampled languages
+B,flag_baseline,gating,oth,recall,0.61959737167538,0.3736723291588592,1.0,1.0,,181,all sampled languages
+B,flag_baseline,gating,oth,f2,0.517264851586778,0.339295263860861,0.7117237188165152,1.0,,181,all sampled languages
+B,flag_price_family,gating,oth,precision,0.35001891993812856,0.20463076058078908,0.49100884134751277,1.0,,181,all sampled languages
+B,flag_price_family,gating,oth,recall,1.0,1.0,1.0,1.0,,181,all sampled languages
+B,flag_price_family,gating,oth,f2,0.7291830897061985,0.5626265937648294,0.8282640674542547,1.0,,181,all sampled languages
+B,flag_wb442,gating,oth,precision,0.3114854617504606,0.22466365519153297,0.40865568076189224,1.0,,181,all sampled languages
+B,flag_wb442,gating,oth,recall,0.61959737167538,0.3736723291588592,1.0,1.0,,181,all sampled languages
+B,flag_wb442,gating,oth,f2,0.517264851586778,0.339295263860861,0.7117237188165152,1.0,,181,all sampled languages
+B,flag_strict,gating,oth,precision,0.3114854617504606,0.22466365519153297,0.40865568076189224,1.0,,181,all sampled languages
+B,flag_strict,gating,oth,recall,0.61959737167538,0.3736723291588592,1.0,1.0,,181,all sampled languages
+B,flag_strict,gating,oth,f2,0.517264851586778,0.339295263860861,0.7117237188165152,1.0,,181,all sampled languages
+B,flag_baseline,gating,vernacular_focal,precision,0.2527253799467016,0.18958703904004914,0.3235079063131613,1.0,,362,all sampled languages
+B,flag_baseline,gating,vernacular_focal,recall,0.8814026569860606,0.734445745790294,1.0,1.0,,362,all sampled languages
+B,flag_baseline,gating,vernacular_focal,f2,0.5885756214751817,0.48627337957963845,0.6836682844076843,1.0,,362,all sampled languages
+B,flag_price_family,gating,vernacular_focal,precision,0.1629731137427664,0.0803926054303971,0.3212641808778706,1.0,,362,all sampled languages
+B,flag_price_family,gating,vernacular_focal,recall,1.0,1.0,1.0,1.0,,362,all sampled languages
+B,flag_price_family,gating,vernacular_focal,f2,0.4932921427552044,0.30415548070938586,0.7029657186374912,1.0,,362,all sampled languages
+B,flag_wb442,gating,vernacular_focal,precision,0.2527253799467016,0.18958703904004914,0.3235079063131613,1.0,,362,all sampled languages
+B,flag_wb442,gating,vernacular_focal,recall,0.8814026569860606,0.734445745790294,1.0,1.0,,362,all sampled languages
+B,flag_wb442,gating,vernacular_focal,f2,0.5885756214751817,0.48627337957963845,0.6836682844076843,1.0,,362,all sampled languages
+B,flag_strict,gating,vernacular_focal,precision,0.2527253799467016,0.18958703904004914,0.3235079063131613,1.0,,362,all sampled languages
+B,flag_strict,gating,vernacular_focal,recall,0.8814026569860606,0.734445745790294,1.0,1.0,,362,all sampled languages
+B,flag_strict,gating,vernacular_focal,f2,0.5885756214751817,0.48627337957963845,0.6836682844076843,1.0,,362,all sampled languages
+B,flag_baseline,gating,mode=live,precision,0.16197682437561542,0.12102310794587591,0.2106096468125478,1.0,,645,all sampled languages
+B,flag_baseline,gating,mode=live,recall,0.36906288081735455,0.21942588996900592,0.6521158143650299,1.0,,645,all sampled languages
+B,flag_baseline,gating,mode=live,f2,0.293910454328543,0.19943649244317743,0.4342209139813773,1.0,,645,all sampled languages
+B,flag_price_family,gating,mode=live,precision,0.12456619321551873,0.08942984578995342,0.16698569757128628,1.0,,645,all sampled languages
+B,flag_price_family,gating,mode=live,recall,0.40770771147575524,0.2463539682110426,0.7339314309006884,1.0,,645,all sampled languages
+B,flag_price_family,gating,mode=live,f2,0.280287748475416,0.19897509082457088,0.4032998844942797,1.0,,645,all sampled languages
+B,flag_wb442,gating,mode=live,precision,0.15655145060228123,0.11850502639502666,0.20237106450638725,1.0,,645,all sampled languages
+B,flag_wb442,gating,mode=live,recall,0.34628265455126395,0.20277175225798158,0.6180177500149825,1.0,,645,all sampled languages
+B,flag_wb442,gating,mode=live,f2,0.27872336941587533,0.19131606727535508,0.4178651555027932,1.0,,645,all sampled languages
+B,flag_strict,gating,mode=live,precision,0.15655145060228123,0.11850502639502666,0.20237106450638725,1.0,,645,all sampled languages
+B,flag_strict,gating,mode=live,recall,0.34628265455126395,0.20277175225798158,0.6180177500149825,1.0,,645,all sampled languages
+B,flag_strict,gating,mode=live,f2,0.27872336941587533,0.19131606727535508,0.4178651555027932,1.0,,645,all sampled languages
+B,flag_baseline,gating,mode=wayback,precision,0.16696209758595087,0.11078149215942225,0.22699398485622302,1.0,,381,all sampled languages
+B,flag_baseline,gating,mode=wayback,recall,0.22890490586692785,0.122221957766151,0.49526676544390763,1.0,,381,all sampled languages
+B,flag_baseline,gating,mode=wayback,f2,0.21309340814664715,0.12482377758368786,0.3809734441956962,1.0,,381,all sampled languages
+B,flag_price_family,gating,mode=wayback,precision,0.13071839438723978,0.055665407461560956,0.2714129132095685,1.0,,381,all sampled languages
+B,flag_price_family,gating,mode=wayback,recall,0.433554607323736,0.1884047408717347,0.7784378643455305,1.0,,381,all sampled languages
+B,flag_price_family,gating,mode=wayback,f2,0.296277143673325,0.1345825547544893,0.5062062029885275,1.0,,381,all sampled languages
+B,flag_wb442,gating,mode=wayback,precision,0.16824204311528881,0.11120736274959837,0.22930561637232558,1.0,,381,all sampled languages
+B,flag_wb442,gating,mode=wayback,recall,0.22890490586692785,0.122221957766151,0.49526676544390763,1.0,,381,all sampled languages
+B,flag_wb442,gating,mode=wayback,f2,0.21350803104999178,0.1250176967533456,0.38153010083607963,1.0,,381,all sampled languages
+B,flag_strict,gating,mode=wayback,precision,0.16824204311528881,0.11120736274959837,0.22930561637232558,1.0,,381,all sampled languages
+B,flag_strict,gating,mode=wayback,recall,0.22890490586692785,0.122221957766151,0.49526676544390763,1.0,,381,all sampled languages
+B,flag_strict,gating,mode=wayback,f2,0.21350803104999178,0.1250176967533456,0.38153010083607963,1.0,,381,all sampled languages
