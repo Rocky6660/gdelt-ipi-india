@@ -11,7 +11,7 @@ from pathlib import Path
 import pandas as pd
 
 PIPE = Path(__file__).resolve().parents[2]
-PAPER = PIPE.parents[1] / "10_OUTPUTS/paper/paper_full.md"
+PAPER = PIPE.parents[1] / "10_OUTPUTS/paper/archive/paper_full.md"
 
 
 def values() -> set[float]:

@@ -220,7 +220,8 @@ def main() -> int:
     left = re.findall(r"\{\{[A-Z0-9_]+\}\}", text)
     bad = [w for w in ("PROGRESS", "PENDING", "to be checked", "Gate ", "results_switched", ".csv", "D19", "D17", "D15",
                        "D9", "draft for review", "At the time of writing", "By the author's ruling") if w in text]
-    out = PAPER / "paper_full.md"
+    text = text.replace("](figures/", "](../figures/")  # the assembled draft lives in paper/archive/
+    out = PAPER / "archive" / "paper_full.md"
     out.write_text(text, encoding="utf-8")
     print("written", out, len(text.split()), "words; placeholders left:", left, "; forbidden:", bad)
     return 1 if left or bad else 0

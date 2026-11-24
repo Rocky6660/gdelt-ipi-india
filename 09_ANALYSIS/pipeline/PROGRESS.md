@@ -243,3 +243,8 @@
 - assemble_paper.py: revision_tables(); bootstrap p-values rounded half up (ties at multiples of 0.0005), matching the paper's 0.058; Table C1 mode "nan" shown as "not stated". check_numbers.py: pool includes revision-2 files and the check now also covers Sections 6-7 (526 numbers, 0 unmatched). export_pdf.py: captions kept with their tables.
 - REVISION_RESULTS.md: rounding corrected for four tie p-values (0.065, 0.267, 0.019, 0.009) and the Brent Bonferroni bound (0.121).
 - paper_full.pdf: 46 pages, TOC, 33 tables, 11 figures.
+
+## 2026-11-24 11:34 UTC: submission packaging
+- README findings table aligned with final/IPI_Paper_Final_v3.pdf (matched Trends r 0.42 < 0.5; oil and CPI-surprise responses not jointly significant, p = 0.20 / 0.93; "pre-specified"); v3 PDF is the only paper link; "How to reproduce" lists the script order.
+- paper_full.* and paper_short.* moved to 10_OUTPUTS/paper/archive/ (superseded drafts); assemble_paper.py, check_numbers.py and export_pdf.py point there (check: 526 numbers, 0 unmatched).
+- requirements.txt pinned from the project environment (pip freeze, Python 3.12.16); LICENSE (MIT for code; derived data CC BY 4.0; raw GDELT and article texts not redistributed).

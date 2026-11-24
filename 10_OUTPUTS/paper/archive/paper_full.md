@@ -309,9 +309,9 @@ leads and lags.
 *Note:* the regressions standardise the index over all rounds in the window file (SD 0.77 pp), not over this sample.
 Medians are interpolated within 1-pp response ranges, hence the non-integer values.
 
-![Figure 1. Window news index (price family, % of articles) and the survey's one-year median and mean expectations and real-time CPI inflation, by survey round, March 2016 to September 2026. Source: GDELT GKG, RBI IESH, CPI; authors' calculations.](figures/fig_index_expectations.png)
+![Figure 1. Window news index (price family, % of articles) and the survey's one-year median and mean expectations and real-time CPI inflation, by survey round, March 2016 to September 2026. Source: GDELT GKG, RBI IESH, CPI; authors' calculations.](../figures/fig_index_expectations.png)
 
-![Figure 2. Monthly news index, price family and baseline definitions (% of articles, one-in-four grid days), with the four pre-specified validation episodes shaded. Source: GDELT GKG; authors' calculations.](figures/fig_monthly_episodes.png)
+![Figure 2. Monthly news index, price family and baseline definitions (% of articles, one-in-four grid days), with the four pre-specified validation episodes shaded. Source: GDELT GKG; authors' calculations.](../figures/fig_monthly_episodes.png)
 
 Expectations sit well above CPI inflation throughout. The index rises sharply in 2022, when both CPI and
 expectations rose, and stays higher afterwards.
@@ -392,7 +392,7 @@ intervals from a stratified bootstrap. The analysis plan required precision of a
 | Strict | 0.16 (0.13, 0.20) | 0.29 (0.19, 0.45) | 0.25 (0.18, 0.34) |
 | World Bank | 0.16 (0.13, 0.20) | 0.29 (0.19, 0.45) | 0.25 (0.18, 0.34) |
 
-![Figure 11. Precision, recall and F2 of each theme definition with 95% bootstrap intervals; dotted lines mark the required precision (0.5) and recall (0.6). Source: audit sample of 1,250 articles; LLM coding.](figures/fig_audit_prf.png)
+![Figure 11. Precision, recall and F2 of each theme definition with 95% bootstrap intervals; dotted lines mark the required precision (0.5) and recall (0.6). Source: audit sample of 1,250 articles; LLM coding.](../figures/fig_audit_prf.png)
 
 No definition comes close to the precision bar. The price family has the highest F2, trading lower precision for
 higher recall, so under the analysis plan's switching rule it becomes the primary definition. Its intervals overlap
@@ -611,7 +611,7 @@ Table 10 reports the main variants for both definitions, and Figure 3 plots them
 *Notes:* EWC fixed-b 95% intervals in brackets; wild-bootstrap p-values. Controls as in Section 8 unless stated.
 Construction variants of the baseline index are in Appendix E.
 
-![Figure 3. Coefficient on the news index with 95% EWC intervals across horizons, construction variants and outcomes (price-family index, N = 56 unless stated). Source: authors' estimates.](figures/fig_coefficients.png)
+![Figure 3. Coefficient on the news index with 95% EWC intervals across horizons, construction variants and outcomes (price-family index, N = 56 unless stated). Source: authors' estimates.](../figures/fig_coefficients.png)
 
 Five points stand out.
 
@@ -654,7 +654,7 @@ Table 11 and Figure 4 report all four expectation measures at horizons of zero t
 
 *Note:* wild-bootstrap p-values at h = 0: 0.058, 0.054, 0.146 and 0.108.
 
-![Figure 4. Horizon profile: coefficient on the news index for each expectation measure at h = 0 to 3 rounds, with 95% EWC intervals (price family, N = 56). Source: authors' estimates.](figures/fig_horizons.png)
+![Figure 4. Horizon profile: coefficient on the news index for each expectation measure at h = 0 to 3 rounds, with 95% EWC intervals (price family, N = 56). Source: authors' estimates.](../figures/fig_horizons.png)
 
 Beyond h = 0 the estimates are smaller and imprecise at h = 1 and h = 3 and larger at h = 2; the profile is uneven
 rather than a smooth dynamic response, which is what noise in a short sample with overlapping changes would produce.
@@ -693,7 +693,7 @@ response is 0.09 percentage points on impact, falling to about zero by the fourt
 five. With expectations ordered first the impact response is zero by construction and later responses range from
 −0.06 to 0.02. The ordering drives the impact response, so the VAR adds little beyond the local projections.
 
-![Figure 5. Bayesian VAR: response of the one-year median expectation (pp) to a one-standard-deviation shock to the news index, under two orderings (58 rounds, two lags). Source: authors' estimates.](figures/fig_var_irf.png)
+![Figure 5. Bayesian VAR: response of the one-year median expectation (pp) to a one-standard-deviation shock to the news index, under two orderings (58 rounds, two lags). Source: authors' estimates.](../figures/fig_var_irf.png)
 
 ### 9.7 Out-of-sample forecasts
 
@@ -711,7 +711,7 @@ a pure AR(1), the model with the index (which also contains CPI and food inflati
 Clark–West test, which adjusts for estimation noise in nested models, rejects equal accuracy. We do not claim
 out-of-sample predictive content. Figure 6 shows the forecast errors.
 
-![Figure 6. Forecast errors (forecast minus outcome, pp) of the three models for the one-year median, recursive pseudo-real-time exercise, price-family index. Source: authors' estimates.](figures/fig_forecast_errors.png)
+![Figure 6. Forecast errors (forecast minus outcome, pp) of the three models for the one-year median, recursive pseudo-real-time exercise, price-family index. Source: authors' estimates.](../figures/fig_forecast_errors.png)
 
 ### 9.8 What moves the index
 
@@ -815,7 +815,7 @@ tag; no price-family language split was constructed.
 |              5 |         0.578 | 100 |
 |              6 |         0.499 |  99 |
 
-![Figure 7. Window news index for English and vernacular core outlets (2018 core, standardised). Source: GDELT GKG; authors' calculations.](figures/e2_eng_ver.png)
+![Figure 7. Window news index for English and vernacular core outlets (2018 core, standardised). Source: GDELT GKG; authors' calculations.](../figures/e2_eng_ver.png)
 
 ### 10.3 Salience basket
 
@@ -836,7 +836,7 @@ reported. This extension does not use the news index, so it is the same under bo
 | salience-weighted median alone [trends_search_implied]                |  54 |        -0.008 |   -0.014 |    -0.003 | 0.04  |
 | corr(salience-weighted median, published CPI) [trends_search_implied] |  55 |        -0.124 |          |           |       |
 
-![Figure 10. Search-implied salience-weighted inflation measures and published CPI inflation, monthly (%). Source: Google Trends (one pull), CPI; authors' calculations.](figures/fig_e3_series.png)
+![Figure 10. Search-implied salience-weighted inflation measures and published CPI inflation, monthly (%). Source: Google Trends (one pull), CPI; authors' calculations.](../figures/fig_e3_series.png)
 
 ### 10.4 International framing
 
@@ -847,7 +847,7 @@ differently. The analysis plan allowed regression claims only if the audit's agr
 baseline index (0.01) and weakly correlated with the price-family index (0.28) (Figure 8). We do not interpret the
 regressions computed for it, which are listed in Appendix F for completeness.
 
-![Figure 8. Share of inflation articles that co-occur with international themes, by survey window (%). Source: GDELT GKG; authors' calculations.](figures/e4_sint.png)
+![Figure 8. Share of inflation articles that co-occur with international themes, by survey window (%). Source: GDELT GKG; authors' calculations.](../figures/e4_sint.png)
 
 ### 10.5 The attention cycle
 
@@ -866,7 +866,7 @@ expectations (0.29, −0.03 to 0.61; p = 0.18). With only 56 rounds this null is
 | 2022-04      |                   4.97 |                       1.68 |                3 |                    7 |
 | 2026-04      |                   6.75 |                       1.78 |                3 |                    4 |
 
-![Figure 9. Monthly news index (price family, % of articles) and CPI inflation, with identified attention peaks (dotted). Source: GDELT GKG, CPI; authors' calculations.](figures/e5_ipi_cpi_peaks.png)
+![Figure 9. Monthly news index (price family, % of articles) and CPI inflation, with identified attention peaks (dotted). Source: GDELT GKG, CPI; authors' calculations.](../figures/e5_ipi_cpi_peaks.png)
 
 ## 11. Discussion
 

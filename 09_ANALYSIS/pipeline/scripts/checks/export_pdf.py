@@ -110,7 +110,7 @@ WITH_TOC = False
 def main() -> int:
     global SRC, WITH_TOC
     if len(sys.argv) > 1:
-        SRC = SRC.with_name(sys.argv[1]); WITH_TOC = "--toc" in sys.argv
+        SRC = SRC.parent / sys.argv[1]; WITH_TOC = "--toc" in sys.argv  # e.g. archive/paper_full.md
     page = convert(SRC.read_text(encoding="utf-8"), SRC.parent)
     stem = "paper" if SRC.name == "paper_draft.md" else SRC.stem
     out_html = SRC.with_name(stem + ".html"); out_pdf = SRC.with_name(stem + ".pdf")
