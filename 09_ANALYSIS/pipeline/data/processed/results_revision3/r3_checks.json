@@ -1,0 +1,209 @@
+{
+ "A1_table11": [
+  {
+   "model": "D19 primary-spec h=0",
+   "N": 56,
+   "beta": 0.2512,
+   "p_wild": 0.0575
+  },
+  {
+   "model": "D19 AR+CPI only",
+   "N": 56,
+   "beta": 0.1433,
+   "p_wild": 0.04
+  },
+  {
+   "model": "D19 full set (pump price unavailable)",
+   "N": 56,
+   "beta": 0.2435,
+   "p_wild": 0.062
+  },
+  {
+   "model": "D19 dIPI variant",
+   "N": 55,
+   "beta": 0.1145,
+   "p_wild": 0.2725
+  },
+  {
+   "model": "D19 future-CPI test",
+   "N": 55,
+   "beta": 0.2342,
+   "p_wild": 0.035
+  },
+  {
+   "model": "D19 drop 2020-21",
+   "N": 46,
+   "beta": 0.1691,
+   "p_wild": 0.115
+  },
+  {
+   "model": "D19 exact-fieldwork rounds only (ruling b check)",
+   "N": 32,
+   "beta": 0.3522,
+   "p_wild": 0.04
+  },
+  {
+   "model": "D11 robustness row_word_share",
+   "N": 56,
+   "beta": 0.2614,
+   "p_wild": 0.066
+  },
+  {
+   "model": "D11 robustness row_pooled_ratio",
+   "N": 56,
+   "beta": 0.3334,
+   "p_wild": 0.02
+  },
+  {
+   "model": "D11 robustness row_share_among_econ",
+   "N": 56,
+   "beta": 0.3276,
+   "p_wild": 0.029
+  },
+  {
+   "model": "D11 robustness row_wire_filter",
+   "N": 56,
+   "beta": 0.3251,
+   "p_wild": 0.0365
+  },
+  {
+   "model": "D11 robustness variant_strict",
+   "N": 56,
+   "beta": 0.3241,
+   "p_wild": 0.0335
+  },
+  {
+   "model": "D11 robustness variant_price_family",
+   "N": 56,
+   "beta": 0.2512,
+   "p_wild": 0.058
+  },
+  {
+   "model": "D11 robustness variant_wb442",
+   "N": 56,
+   "beta": 0.324,
+   "p_wild": 0.044
+  },
+  {
+   "model": "D11 robustness ipi_core2018_with_vernacular",
+   "N": 47,
+   "beta": 0.2819,
+   "p_wild": 0.0715
+  }
+ ],
+ "A2_price_family_raw_top5": {
+  "2026-03": 8.653,
+  "2026-05": 5.899,
+  "2026-04": 5.69,
+  "2026-06": 5.599,
+  "2022-04": 5.439
+ },
+ "A2_price_family_ma3_top5": {
+  "2026-04": 6.747,
+  "2026-05": 5.729,
+  "2026-03": 5.562,
+  "2026-06": 5.189,
+  "2022-04": 4.968
+ },
+ "A2_price_family_raw_2022_04": 5.439,
+ "A2_price_family_ma3_2022_04": 4.968,
+ "A2_price_family_ma3_2026_04": 6.747,
+ "A2_price_family_mean_2016_21": 2.096,
+ "A2_price_family_n_2016_21": 72,
+ "A2_price_family_mean_2022_23": 3.27,
+ "A2_price_family_n_2022_23": 24,
+ "A2_price_family_mean_2024_26": 2.921,
+ "A2_price_family_n_2024_26": 33,
+ "A2_baseline_raw_top5": {
+  "2022-07": 3.377,
+  "2022-05": 3.199,
+  "2022-04": 3.168,
+  "2026-05": 3.025,
+  "2022-09": 2.955
+ },
+ "A2_baseline_ma3_top5": {
+  "2022-06": 3.124,
+  "2022-05": 3.054,
+  "2022-08": 3.035,
+  "2022-07": 2.982,
+  "2022-04": 2.774
+ },
+ "A2_baseline_raw_2022_04": 3.168,
+ "A2_baseline_ma3_2022_04": 2.774,
+ "A2_baseline_ma3_2026_04": 2.763,
+ "A2_baseline_mean_2016_21": 0.915,
+ "A2_baseline_n_2016_21": 72,
+ "A2_baseline_mean_2022_23": 2.18,
+ "A2_baseline_n_2022_23": 24,
+ "A2_baseline_mean_2024_26": 1.702,
+ "A2_baseline_n_2024_26": 33,
+ "A2_e5_peaks_file": [
+  {
+   "peak_month": "2016-05",
+   "peak_value": 0.028,
+   "baseline_prior12": 0.024,
+   "rise_months_to_peak": 1,
+   "half_life_months": 1,
+   "note": "coarse: grid days only under L3"
+  },
+  {
+   "peak_month": "2018-10",
+   "peak_value": 0.035,
+   "baseline_prior12": 0.017,
+   "rise_months_to_peak": 3,
+   "half_life_months": 3,
+   "note": "coarse: grid days only under L3"
+  },
+  {
+   "peak_month": "2022-04",
+   "peak_value": 0.05,
+   "baseline_prior12": 0.017,
+   "rise_months_to_peak": 3,
+   "half_life_months": 7,
+   "note": "coarse: grid days only under L3"
+  },
+  {
+   "peak_month": "2026-04",
+   "peak_value": 0.067,
+   "baseline_prior12": 0.018,
+   "rise_months_to_peak": 3,
+   "half_life_months": 4,
+   "note": "coarse: grid days only under L3"
+  }
+ ],
+ "A2_months_usable": 129,
+ "A2_window_mean_2016_2021": 2.138,
+ "A2_window_mean_2022_2023": 2.767,
+ "A2_window_mean_2024_2026": 2.407,
+ "A4_bvar_rows_T": 58,
+ "A4_bvar_effective_obs_after_2_lags": 56,
+ "A4_rounds_with_cpi_base2012": 59,
+ "A4_bvar_round_range": [
+  "2016-03",
+  "2026-01"
+ ],
+ "A5_month_rule_total": 26,
+ "A5_month_rule_by_year": {
+  "2016": 5,
+  "2017": 6,
+  "2018": 6,
+  "2019": 5,
+  "2020": 4
+ },
+ "A5_month_rule_rounds_2020": [
+  "2020-01",
+  "2020-07",
+  "2020-09",
+  "2020-11"
+ ],
+ "A5_exact_total": 37,
+ "A7_leadlag_months": 105,
+ "A7_leadlag_first_last": [
+  "2018-01",
+  "2026-10"
+ ],
+ "E3_outcomes": [
+  "d_cur",
+  "nan"
+ ]
+}

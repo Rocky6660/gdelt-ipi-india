@@ -1,0 +1,1130 @@
+layer,where,number,matched,context
+table,Table 4.,0.93,True,Word share instead of article share | 0.93 | Pooled 
+table,Table 4.,0.94,True, | Pooled ratio instead of equal-weight average | 0.94 | Share a
+table,Table 4.,0.96,True,age | 0.94 | Share among economic articles only | 0.96 | Wire-co
+table,Table 4.,1.00,True,conomic articles only | 0.96 | Wire-copy filter | 1.00 | Strict 
+table,Table 4.,1.00,True,6 | Wire-copy filter | 1.00 | Strict definition | 1.00 | 2018 co
+table,Table 4.,0.99,True,18 core including additional vernacular outlets | 0.99 | Price f
+table,Table 4.,0.72,True,tional vernacular outlets | 0.99 | Price family | 0.72
+table,Table 5.,2.22,True,"News index, window article share (%) | 2.22 | 0.69 | "
+table,Table 5.,0.69,True,"News index, window article share (%) | 2.22 | 0.69 | 0.96 | "
+table,Table 5.,0.96,True,"s index, window article share (%) | 2.22 | 0.69 | 0.96 | 4.92 | "
+table,Table 5.,4.92,True,", window article share (%) | 2.22 | 0.69 | 0.96 | 4.92 | One-yea"
+table,Table 5.,9.75,True," 0.96 | 4.92 | One-year expectation, median (%) | 9.75 | 1.05 | "
+table,Table 5.,1.05,True," 4.92 | One-year expectation, median (%) | 9.75 | 1.05 | 7.90 | "
+table,Table 5.,7.90,True," One-year expectation, median (%) | 9.75 | 1.05 | 7.90 | 12.66 |"
+table,Table 5.,12.66,True,"ar expectation, median (%) | 9.75 | 1.05 | 7.90 | 12.66 | One-yea"
+table,Table 5.,9.70,True,"| 7.90 | 12.66 | One-year expectation, mean (%) | 9.70 | 0.85 | "
+table,Table 5.,0.85,True,"| 12.66 | One-year expectation, mean (%) | 9.70 | 0.85 | 8.12 | "
+table,Table 5.,8.12,True," | One-year expectation, mean (%) | 9.70 | 0.85 | 8.12 | 11.60 |"
+table,Table 5.,11.60,True,"year expectation, mean (%) | 9.70 | 0.85 | 8.12 | 11.60 | Current"
+table,Table 5.,8.21,True,"11.60 | Current perceived inflation, median (%) | 8.21 | 1.22 | "
+table,Table 5.,1.22,True," Current perceived inflation, median (%) | 8.21 | 1.22 | 6.30 | "
+table,Table 5.,6.30,True,"t perceived inflation, median (%) | 8.21 | 1.22 | 6.30 | 10.38 |"
+table,Table 5.,10.38,True,"ived inflation, median (%) | 8.21 | 1.22 | 6.30 | 10.38 | Real-ti"
+table,Table 5.,4.75,True,22 | 6.30 | 10.38 | Real-time CPI inflation (%) | 4.75 | 1.64 | 
+table,Table 5.,1.64,True,30 | 10.38 | Real-time CPI inflation (%) | 4.75 | 1.64 | 0.71 | 
+table,Table 5.,0.71,True,.38 | Real-time CPI inflation (%) | 4.75 | 1.64 | 0.71 | 7.59 | 
+table,Table 5.,7.59,True,eal-time CPI inflation (%) | 4.75 | 1.64 | 0.71 | 7.59 | Real-ti
+table,Table 5.,4.66,True, 0.71 | 7.59 | Real-time food CPI inflation (%) | 4.66 | 3.98 | 
+table,Table 5.,3.98,True, 7.59 | Real-time food CPI inflation (%) | 4.66 | 3.98 | −3.91 |
+table,Table 5.,−3.91,True, Real-time food CPI inflation (%) | 4.66 | 3.98 | −3.91 | 13.63 |
+table,Table 5.,13.63,True,me food CPI inflation (%) | 4.66 | 3.98 | −3.91 | 13.63 | Change 
+table,Table 5.,−0.01,True,3.98 | −3.91 | 13.63 | Change in repo rate (pp) | −0.01 | 0.24 | 
+table,Table 5.,0.24,True,3.91 | 13.63 | Change in repo rate (pp) | −0.01 | 0.24 | −0.75 |
+table,Table 5.,−0.75,True,13.63 | Change in repo rate (pp) | −0.01 | 0.24 | −0.75 | 0.90 | 
+table,Table 5.,0.90,True,Change in repo rate (pp) | −0.01 | 0.24 | −0.75 | 0.90 | Telepho
+table,Table 5.,0.11,True,.75 | 0.90 | Telephone survey (share of rounds) | 0.11 | 0.31 | 
+table,Table 5.,0.31,True,.90 | Telephone survey (share of rounds) | 0.11 | 0.31 | 0 | 1
+table,Table 6.,0.85,True,"English, tagged | 300 | 256 | 104 | 0.85 | English"
+table,Table 6.,0.89,True,"| English, economic, untagged | 300 | 266 | 133 | 0.89 | Hindi/M"
+table,Table 6.,0.91,True," | 0.89 | Hindi/Marathi, tagged | 100 | 91 | 23 | 0.91 | Hindi/M"
+table,Table 6.,0.90,True,"ndi/Marathi, economic, untagged | 100 | 90 | 31 | 0.90 | Other I"
+table,Table 6.,0.91,True," Other Indian languages, tagged | 100 | 91 | 14 | 0.91 | Other I"
+table,Table 6.,0.90,True,"n languages, economic, untagged | 100 | 90 | 19 | 0.90 | Non-eco"
+table,Table 6.,0.95,True,"conomic, price word in address | 150 | 142 | 57 | 0.95 | Non-eco"
+table,Table 6.,0.87,True,"57 | 0.95 | Non-economic, other | 100 | 87 | 36 | 0.87 | **Total"
+table,Table 6.,0.89,True,"| **Total** | **1,250** | **1,113** | **417** | **0.89**"
+table,Table 7.,0.16,True,"Baseline | 0.16 (0.13, 0."
+table,Table 7.,0.13,True,"Baseline | 0.16 (0.13, 0.20) | "
+table,Table 7.,0.20,True,"Baseline | 0.16 (0.13, 0.20) | 0.30 ("
+table,Table 7.,0.30,True,"Baseline | 0.16 (0.13, 0.20) | 0.30 (0.20, 0."
+table,Table 7.,0.20,True,"Baseline | 0.16 (0.13, 0.20) | 0.30 (0.20, 0.47) | "
+table,Table 7.,0.47,True,"Baseline | 0.16 (0.13, 0.20) | 0.30 (0.20, 0.47) | 0.26 ("
+table,Table 7.,0.26,True,"aseline | 0.16 (0.13, 0.20) | 0.30 (0.20, 0.47) | 0.26 (0.19, 0."
+table,Table 7.,0.19,True,"e | 0.16 (0.13, 0.20) | 0.30 (0.20, 0.47) | 0.26 (0.19, 0.35) | "
+table,Table 7.,0.35,True,"16 (0.13, 0.20) | 0.30 (0.20, 0.47) | 0.26 (0.19, 0.35) | Price "
+table,Table 7.,0.13,True,"(0.20, 0.47) | 0.26 (0.19, 0.35) | Price family | 0.13 (0.08, 0."
+table,Table 7.,0.08,True," 0.47) | 0.26 (0.19, 0.35) | Price family | 0.13 (0.08, 0.19) | "
+table,Table 7.,0.19,True," | 0.26 (0.19, 0.35) | Price family | 0.13 (0.08, 0.19) | 0.42 ("
+table,Table 7.,0.42,True,"(0.19, 0.35) | Price family | 0.13 (0.08, 0.19) | 0.42 (0.27, 0."
+table,Table 7.,0.27,True," 0.35) | Price family | 0.13 (0.08, 0.19) | 0.42 (0.27, 0.64) | "
+table,Table 7.,0.64,True," | Price family | 0.13 (0.08, 0.19) | 0.42 (0.27, 0.64) | 0.29 ("
+table,Table 7.,0.29,True," family | 0.13 (0.08, 0.19) | 0.42 (0.27, 0.64) | 0.29 (0.19, 0."
+table,Table 7.,0.19,True,"y | 0.13 (0.08, 0.19) | 0.42 (0.27, 0.64) | 0.29 (0.19, 0.41) | "
+table,Table 7.,0.41,True,"13 (0.08, 0.19) | 0.42 (0.27, 0.64) | 0.29 (0.19, 0.41) | Strict"
+table,Table 7.,0.16,True," 0.42 (0.27, 0.64) | 0.29 (0.19, 0.41) | Strict | 0.16 (0.13, 0."
+table,Table 7.,0.13,True,"(0.27, 0.64) | 0.29 (0.19, 0.41) | Strict | 0.16 (0.13, 0.20) | "
+table,Table 7.,0.20,True," 0.64) | 0.29 (0.19, 0.41) | Strict | 0.16 (0.13, 0.20) | 0.29 ("
+table,Table 7.,0.29,True," 0.29 (0.19, 0.41) | Strict | 0.16 (0.13, 0.20) | 0.29 (0.19, 0."
+table,Table 7.,0.19,True,"(0.19, 0.41) | Strict | 0.16 (0.13, 0.20) | 0.29 (0.19, 0.45) | "
+table,Table 7.,0.45,True," 0.41) | Strict | 0.16 (0.13, 0.20) | 0.29 (0.19, 0.45) | 0.25 ("
+table,Table 7.,0.25,True," Strict | 0.16 (0.13, 0.20) | 0.29 (0.19, 0.45) | 0.25 (0.18, 0."
+table,Table 7.,0.18,True,"t | 0.16 (0.13, 0.20) | 0.29 (0.19, 0.45) | 0.25 (0.18, 0.34) | "
+table,Table 7.,0.34,True,"16 (0.13, 0.20) | 0.29 (0.19, 0.45) | 0.25 (0.18, 0.34) | World "
+table,Table 7.,0.16,True,"9 (0.19, 0.45) | 0.25 (0.18, 0.34) | World Bank | 0.16 (0.13, 0."
+table,Table 7.,0.13,True,"9, 0.45) | 0.25 (0.18, 0.34) | World Bank | 0.16 (0.13, 0.20) | "
+table,Table 7.,0.20,True,"5) | 0.25 (0.18, 0.34) | World Bank | 0.16 (0.13, 0.20) | 0.29 ("
+table,Table 7.,0.29,True,"5 (0.18, 0.34) | World Bank | 0.16 (0.13, 0.20) | 0.29 (0.19, 0."
+table,Table 7.,0.19,True,"8, 0.34) | World Bank | 0.16 (0.13, 0.20) | 0.29 (0.19, 0.45) | "
+table,Table 7.,0.45,True,"4) | World Bank | 0.16 (0.13, 0.20) | 0.29 (0.19, 0.45) | 0.25 ("
+table,Table 7.,0.25,True,"ld Bank | 0.16 (0.13, 0.20) | 0.29 (0.19, 0.45) | 0.25 (0.18, 0."
+table,Table 7.,0.18,True,"k | 0.16 (0.13, 0.20) | 0.29 (0.19, 0.45) | 0.25 (0.18, 0.34)"
+table,Table 7.,0.34,True,"16 (0.13, 0.20) | 0.29 (0.19, 0.45) | 0.25 (0.18, 0.34)"
+table,Table 8.,0.14,True,"English | Baseline | 566 / 231 / 51 | 0.14 (0.09, 0."
+table,Table 8.,0.09,True,"English | Baseline | 566 / 231 / 51 | 0.14 (0.09, 0.18) | "
+table,Table 8.,0.18,True,"English | Baseline | 566 / 231 / 51 | 0.14 (0.09, 0.18) | 0.29 ("
+table,Table 8.,0.29,True,"| Baseline | 566 / 231 / 51 | 0.14 (0.09, 0.18) | 0.29 (0.17, 0."
+table,Table 8.,0.17,True,"line | 566 / 231 / 51 | 0.14 (0.09, 0.18) | 0.29 (0.17, 0.54) | "
+table,Table 8.,0.54,True," 566 / 231 / 51 | 0.14 (0.09, 0.18) | 0.29 (0.17, 0.54) | 0.24 ("
+table,Table 8.,0.24,True,"31 / 51 | 0.14 (0.09, 0.18) | 0.29 (0.17, 0.54) | 0.24 (0.15, 0."
+table,Table 8.,0.15,True,"1 | 0.14 (0.09, 0.18) | 0.29 (0.17, 0.54) | 0.24 (0.15, 0.36) | "
+table,Table 8.,0.36,True,"14 (0.09, 0.18) | 0.29 (0.17, 0.54) | 0.24 (0.15, 0.36) |  | Pri"
+table,Table 8.,0.11,True,"(0.15, 0.36) |  | Price family | 566 / 249 / 51 | 0.11 (0.06, 0."
+table,Table 8.,0.06,True," 0.36) |  | Price family | 566 / 249 / 51 | 0.11 (0.06, 0.20) | "
+table,Table 8.,0.20,True," |  | Price family | 566 / 249 / 51 | 0.11 (0.06, 0.20) | 0.45 ("
+table,Table 8.,0.45,True,"ice family | 566 / 249 / 51 | 0.11 (0.06, 0.20) | 0.45 (0.25, 0."
+table,Table 8.,0.25,True,"mily | 566 / 249 / 51 | 0.11 (0.06, 0.20) | 0.45 (0.25, 0.74) | "
+table,Table 8.,0.74,True," 566 / 249 / 51 | 0.11 (0.06, 0.20) | 0.45 (0.25, 0.74) | 0.28 ("
+table,Table 8.,0.28,True,"49 / 51 | 0.11 (0.06, 0.20) | 0.45 (0.25, 0.74) | 0.28 (0.17, 0."
+table,Table 8.,0.17,True,"1 | 0.11 (0.06, 0.20) | 0.45 (0.25, 0.74) | 0.28 (0.17, 0.43) | "
+table,Table 8.,0.43,True,"11 (0.06, 0.20) | 0.45 (0.25, 0.74) | 0.28 (0.17, 0.43) | Hindi/"
+table,Table 8.,0.24,True,".43) | Hindi/Marathi | Baseline | 181 / 91 / 22 | 0.24 (0.15, 0."
+table,Table 8.,0.15,True," Hindi/Marathi | Baseline | 181 / 91 / 22 | 0.24 (0.15, 0.33) | "
+table,Table 8.,0.33,True,"/Marathi | Baseline | 181 / 91 / 22 | 0.24 (0.15, 0.33) | 1.00 ("
+table,Table 8.,1.00,True," | Baseline | 181 / 91 / 22 | 0.24 (0.15, 0.33) | 1.00 (1.00, 1."
+table,Table 8.,1.00,True,"eline | 181 / 91 / 22 | 0.24 (0.15, 0.33) | 1.00 (1.00, 1.00) | "
+table,Table 8.,1.00,True,"| 181 / 91 / 22 | 0.24 (0.15, 0.33) | 1.00 (1.00, 1.00) | 0.61 ("
+table,Table 8.,0.61,True,"91 / 22 | 0.24 (0.15, 0.33) | 1.00 (1.00, 1.00) | 0.61 (0.48, 0."
+table,Table 8.,0.48,True,"2 | 0.24 (0.15, 0.33) | 1.00 (1.00, 1.00) | 0.61 (0.48, 0.71) | "
+table,Table 8.,0.71,True,"24 (0.15, 0.33) | 1.00 (1.00, 1.00) | 0.61 (0.48, 0.71) |  | Pri"
+table,Table 8.,0.13,True," (0.48, 0.71) |  | Price family | 181 / 92 / 22 | 0.13 (0.06, 0."
+table,Table 8.,0.06,True,", 0.71) |  | Price family | 181 / 92 / 22 | 0.13 (0.06, 0.30) | "
+table,Table 8.,0.30,True,") |  | Price family | 181 / 92 / 22 | 0.13 (0.06, 0.30) | 1.00 ("
+table,Table 8.,1.00,True,"rice family | 181 / 92 / 22 | 0.13 (0.06, 0.30) | 1.00 (1.00, 1."
+table,Table 8.,1.00,True,"amily | 181 / 92 / 22 | 0.13 (0.06, 0.30) | 1.00 (1.00, 1.00) | "
+table,Table 8.,1.00,True,"| 181 / 92 / 22 | 0.13 (0.06, 0.30) | 1.00 (1.00, 1.00) | 0.43 ("
+table,Table 8.,0.43,True,"92 / 22 | 0.13 (0.06, 0.30) | 1.00 (1.00, 1.00) | 0.43 (0.23, 0."
+table,Table 8.,0.23,True,"2 | 0.13 (0.06, 0.30) | 1.00 (1.00, 1.00) | 0.43 (0.23, 0.68) | "
+table,Table 8.,0.68,True,"13 (0.06, 0.30) | 1.00 (1.00, 1.00) | 0.43 (0.23, 0.68) | Other "
+table,Table 8.,0.31,True,"her Indian languages | Baseline | 181 / 91 / 31 | 0.31 (0.22, 0."
+table,Table 8.,0.22,True,"dian languages | Baseline | 181 / 91 / 31 | 0.31 (0.22, 0.40) | "
+table,Table 8.,0.40,True,"anguages | Baseline | 181 / 91 / 31 | 0.31 (0.22, 0.40) | 0.62 ("
+table,Table 8.,0.62,True," | Baseline | 181 / 91 / 31 | 0.31 (0.22, 0.40) | 0.62 (0.38, 1."
+table,Table 8.,0.38,True,"eline | 181 / 91 / 31 | 0.31 (0.22, 0.40) | 0.62 (0.38, 1.00) | "
+table,Table 8.,1.00,True,"| 181 / 91 / 31 | 0.31 (0.22, 0.40) | 0.62 (0.38, 1.00) | 0.52 ("
+table,Table 8.,0.52,True,"91 / 31 | 0.31 (0.22, 0.40) | 0.62 (0.38, 1.00) | 0.52 (0.35, 0."
+table,Table 8.,0.35,True,"1 | 0.31 (0.22, 0.40) | 0.62 (0.38, 1.00) | 0.52 (0.35, 0.73) | "
+table,Table 8.,0.73,True,"31 (0.22, 0.40) | 0.62 (0.38, 1.00) | 0.52 (0.35, 0.73) |  | Pri"
+table,Table 8.,0.35,True," (0.35, 0.73) |  | Price family | 181 / 95 / 31 | 0.35 (0.20, 0."
+table,Table 8.,0.20,True,", 0.73) |  | Price family | 181 / 95 / 31 | 0.35 (0.20, 0.49) | "
+table,Table 8.,0.49,True,") |  | Price family | 181 / 95 / 31 | 0.35 (0.20, 0.49) | 1.00 ("
+table,Table 8.,1.00,True,"rice family | 181 / 95 / 31 | 0.35 (0.20, 0.49) | 1.00 (1.00, 1."
+table,Table 8.,1.00,True,"amily | 181 / 95 / 31 | 0.35 (0.20, 0.49) | 1.00 (1.00, 1.00) | "
+table,Table 8.,1.00,True,"| 181 / 95 / 31 | 0.35 (0.20, 0.49) | 1.00 (1.00, 1.00) | 0.73 ("
+table,Table 8.,0.73,True,"95 / 31 | 0.35 (0.20, 0.49) | 1.00 (1.00, 1.00) | 0.73 (0.55, 0."
+table,Table 8.,0.55,True,"1 | 0.35 (0.20, 0.49) | 1.00 (1.00, 1.00) | 0.73 (0.55, 0.83) | "
+table,Table 8.,0.83,True,"35 (0.20, 0.49) | 1.00 (1.00, 1.00) | 0.73 (0.55, 0.83) | All In"
+table,Table 8.,0.25,True,"ll Indian languages | Baseline | 362 / 182 / 53 | 0.25 (0.18, 0."
+table,Table 8.,0.18,True,"ian languages | Baseline | 362 / 182 / 53 | 0.25 (0.18, 0.33) | "
+table,Table 8.,0.33,True,"nguages | Baseline | 362 / 182 / 53 | 0.25 (0.18, 0.33) | 0.88 ("
+table,Table 8.,0.88,True,"| Baseline | 362 / 182 / 53 | 0.25 (0.18, 0.33) | 0.88 (0.73, 1."
+table,Table 8.,0.73,True,"line | 362 / 182 / 53 | 0.25 (0.18, 0.33) | 0.88 (0.73, 1.00) | "
+table,Table 8.,1.00,True," 362 / 182 / 53 | 0.25 (0.18, 0.33) | 0.88 (0.73, 1.00) | 0.59 ("
+table,Table 8.,0.59,True,"82 / 53 | 0.25 (0.18, 0.33) | 0.88 (0.73, 1.00) | 0.59 (0.48, 0."
+table,Table 8.,0.48,True,"3 | 0.25 (0.18, 0.33) | 0.88 (0.73, 1.00) | 0.59 (0.48, 0.68) | "
+table,Table 8.,0.68,True,"25 (0.18, 0.33) | 0.88 (0.73, 1.00) | 0.59 (0.48, 0.68) |  | Pri"
+table,Table 8.,0.16,True,"(0.48, 0.68) |  | Price family | 362 / 187 / 53 | 0.16 (0.08, 0."
+table,Table 8.,0.08,True," 0.68) |  | Price family | 362 / 187 / 53 | 0.16 (0.08, 0.33) | "
+table,Table 8.,0.33,True," |  | Price family | 362 / 187 / 53 | 0.16 (0.08, 0.33) | 1.00 ("
+table,Table 8.,1.00,True,"ice family | 362 / 187 / 53 | 0.16 (0.08, 0.33) | 1.00 (1.00, 1."
+table,Table 8.,1.00,True,"mily | 362 / 187 / 53 | 0.16 (0.08, 0.33) | 1.00 (1.00, 1.00) | "
+table,Table 8.,1.00,True," 362 / 187 / 53 | 0.16 (0.08, 0.33) | 1.00 (1.00, 1.00) | 0.49 ("
+table,Table 8.,0.49,True,"87 / 53 | 0.16 (0.08, 0.33) | 1.00 (1.00, 1.00) | 0.49 (0.30, 0."
+table,Table 8.,0.30,True,"3 | 0.16 (0.08, 0.33) | 1.00 (1.00, 1.00) | 0.49 (0.30, 0.71) | "
+table,Table 8.,0.71,True,"16 (0.08, 0.33) | 1.00 (1.00, 1.00) | 0.49 (0.30, 0.71) | Retrie"
+table,Table 8.,0.16,True,"1) | Retrieved live | Baseline | 645 / 297 / 77 | 0.16 (0.12, 0."
+table,Table 8.,0.12,True,"etrieved live | Baseline | 645 / 297 / 77 | 0.16 (0.12, 0.21) | "
+table,Table 8.,0.21,True,"ed live | Baseline | 645 / 297 / 77 | 0.16 (0.12, 0.21) | 0.37 ("
+table,Table 8.,0.37,True,"| Baseline | 645 / 297 / 77 | 0.16 (0.12, 0.21) | 0.37 (0.22, 0."
+table,Table 8.,0.22,True,"line | 645 / 297 / 77 | 0.16 (0.12, 0.21) | 0.37 (0.22, 0.68) | "
+table,Table 8.,0.68,True," 645 / 297 / 77 | 0.16 (0.12, 0.21) | 0.37 (0.22, 0.68) | 0.29 ("
+table,Table 8.,0.29,True,"97 / 77 | 0.16 (0.12, 0.21) | 0.37 (0.22, 0.68) | 0.29 (0.20, 0."
+table,Table 8.,0.20,True,"7 | 0.16 (0.12, 0.21) | 0.37 (0.22, 0.68) | 0.29 (0.20, 0.42) | "
+table,Table 8.,0.42,True,"16 (0.12, 0.21) | 0.37 (0.22, 0.68) | 0.29 (0.20, 0.42) |  | Pri"
+table,Table 8.,0.13,True,"(0.20, 0.42) |  | Price family | 645 / 308 / 77 | 0.13 (0.09, 0."
+table,Table 8.,0.09,True," 0.42) |  | Price family | 645 / 308 / 77 | 0.13 (0.09, 0.17) | "
+table,Table 8.,0.17,True," |  | Price family | 645 / 308 / 77 | 0.13 (0.09, 0.17) | 0.41 ("
+table,Table 8.,0.41,True,"ice family | 645 / 308 / 77 | 0.13 (0.09, 0.17) | 0.41 (0.25, 0."
+table,Table 8.,0.25,True,"mily | 645 / 308 / 77 | 0.13 (0.09, 0.17) | 0.41 (0.25, 0.75) | "
+table,Table 8.,0.75,True," 645 / 308 / 77 | 0.13 (0.09, 0.17) | 0.41 (0.25, 0.75) | 0.28 ("
+table,Table 8.,0.28,True,"08 / 77 | 0.13 (0.09, 0.17) | 0.41 (0.25, 0.75) | 0.28 (0.19, 0."
+table,Table 8.,0.19,True,"7 | 0.13 (0.09, 0.17) | 0.41 (0.25, 0.75) | 0.28 (0.19, 0.40) | "
+table,Table 8.,0.40,True,"13 (0.09, 0.17) | 0.41 (0.25, 0.75) | 0.28 (0.19, 0.40) | Retrie"
+table,Table 8.,0.17,True,"rieved from archive | Baseline | 381 / 141 / 41 | 0.17 (0.11, 0."
+table,Table 8.,0.11,True," from archive | Baseline | 381 / 141 / 41 | 0.17 (0.11, 0.23) | "
+table,Table 8.,0.23,True,"archive | Baseline | 381 / 141 / 41 | 0.17 (0.11, 0.23) | 0.23 ("
+table,Table 8.,0.23,True,"| Baseline | 381 / 141 / 41 | 0.17 (0.11, 0.23) | 0.23 (0.12, 0."
+table,Table 8.,0.12,True,"line | 381 / 141 / 41 | 0.17 (0.11, 0.23) | 0.23 (0.12, 0.49) | "
+table,Table 8.,0.49,True," 381 / 141 / 41 | 0.17 (0.11, 0.23) | 0.23 (0.12, 0.49) | 0.21 ("
+table,Table 8.,0.21,True,"41 / 41 | 0.17 (0.11, 0.23) | 0.23 (0.12, 0.49) | 0.21 (0.12, 0."
+table,Table 8.,0.12,True,"1 | 0.17 (0.11, 0.23) | 0.23 (0.12, 0.49) | 0.21 (0.12, 0.37) | "
+table,Table 8.,0.37,True,"17 (0.11, 0.23) | 0.23 (0.12, 0.49) | 0.21 (0.12, 0.37) |  | Pri"
+table,Table 8.,0.13,True,"(0.12, 0.37) |  | Price family | 381 / 156 / 41 | 0.13 (0.06, 0."
+table,Table 8.,0.06,True," 0.37) |  | Price family | 381 / 156 / 41 | 0.13 (0.06, 0.26) | "
+table,Table 8.,0.26,True," |  | Price family | 381 / 156 / 41 | 0.13 (0.06, 0.26) | 0.43 ("
+table,Table 8.,0.43,True,"ice family | 381 / 156 / 41 | 0.13 (0.06, 0.26) | 0.43 (0.19, 0."
+table,Table 8.,0.19,True,"mily | 381 / 156 / 41 | 0.13 (0.06, 0.26) | 0.43 (0.19, 0.79) | "
+table,Table 8.,0.79,True," 381 / 156 / 41 | 0.13 (0.06, 0.26) | 0.43 (0.19, 0.79) | 0.30 ("
+table,Table 8.,0.30,True,"56 / 41 | 0.13 (0.06, 0.26) | 0.43 (0.19, 0.79) | 0.30 (0.14, 0."
+table,Table 8.,0.14,True,"1 | 0.13 (0.06, 0.26) | 0.43 (0.19, 0.79) | 0.30 (0.14, 0.50)"
+table,Table 8.,0.50,True,"13 (0.06, 0.26) | 0.43 (0.19, 0.79) | 0.30 (0.14, 0.50)"
+table,Table 9.,0.16,True,"Missing at random (reference) | Baseline | 0.16 (0.13, 0."
+table,Table 9.,0.13,True,"Missing at random (reference) | Baseline | 0.16 (0.13, 0.20) | "
+table,Table 9.,0.20,True,"ng at random (reference) | Baseline | 0.16 (0.13, 0.20) | 0.30 ("
+table,Table 9.,0.30,True,"ndom (reference) | Baseline | 0.16 (0.13, 0.20) | 0.30 (0.20, 0."
+table,Table 9.,0.20,True,"reference) | Baseline | 0.16 (0.13, 0.20) | 0.30 (0.20, 0.47) | "
+table,Table 9.,0.47,True,"nce) | Baseline | 0.16 (0.13, 0.20) | 0.30 (0.20, 0.47) | 0.26 ("
+table,Table 9.,0.26,True,"aseline | 0.16 (0.13, 0.20) | 0.30 (0.20, 0.47) | 0.26 (0.19, 0."
+table,Table 9.,0.19,True,"e | 0.16 (0.13, 0.20) | 0.30 (0.20, 0.47) | 0.26 (0.19, 0.35) | "
+table,Table 9.,0.35,True,"16 (0.13, 0.20) | 0.30 (0.20, 0.47) | 0.26 (0.19, 0.35) |  | Pri"
+table,Table 9.,0.13,True,"20, 0.47) | 0.26 (0.19, 0.35) |  | Price family | 0.13 (0.08, 0."
+table,Table 9.,0.08,True,"47) | 0.26 (0.19, 0.35) |  | Price family | 0.13 (0.08, 0.19) | "
+table,Table 9.,0.19,True,"0.26 (0.19, 0.35) |  | Price family | 0.13 (0.08, 0.19) | 0.42 ("
+table,Table 9.,0.42,True,"19, 0.35) |  | Price family | 0.13 (0.08, 0.19) | 0.42 (0.27, 0."
+table,Table 9.,0.27,True,"35) |  | Price family | 0.13 (0.08, 0.19) | 0.42 (0.27, 0.64) | "
+table,Table 9.,0.64,True," | Price family | 0.13 (0.08, 0.19) | 0.42 (0.27, 0.64) | 0.29 ("
+table,Table 9.,0.29,True," family | 0.13 (0.08, 0.19) | 0.42 (0.27, 0.64) | 0.29 (0.19, 0."
+table,Table 9.,0.19,True,"y | 0.13 (0.08, 0.19) | 0.42 (0.27, 0.64) | 0.29 (0.19, 0.41) | "
+table,Table 9.,0.41,True,"13 (0.08, 0.19) | 0.42 (0.27, 0.64) | 0.29 (0.19, 0.41) | Addres"
+table,Table 9.,0.16,True," 0.41) | Address-based codes imputed | Baseline | 0.16 (0.13, 0."
+table,Table 9.,0.13,True," | Address-based codes imputed | Baseline | 0.16 (0.13, 0.20) | "
+table,Table 9.,0.20,True,"ress-based codes imputed | Baseline | 0.16 (0.13, 0.20) | 0.31 ("
+table,Table 9.,0.31,True,"ed codes imputed | Baseline | 0.16 (0.13, 0.20) | 0.31 (0.21, 0."
+table,Table 9.,0.21,True,"es imputed | Baseline | 0.16 (0.13, 0.20) | 0.31 (0.21, 0.48) | "
+table,Table 9.,0.48,True,"uted | Baseline | 0.16 (0.13, 0.20) | 0.31 (0.21, 0.48) | 0.26 ("
+table,Table 9.,0.26,True,"aseline | 0.16 (0.13, 0.20) | 0.31 (0.21, 0.48) | 0.26 (0.19, 0."
+table,Table 9.,0.19,True,"e | 0.16 (0.13, 0.20) | 0.31 (0.21, 0.48) | 0.26 (0.19, 0.36) | "
+table,Table 9.,0.36,True,"16 (0.13, 0.20) | 0.31 (0.21, 0.48) | 0.26 (0.19, 0.36) |  | Pri"
+table,Table 9.,0.12,True,"21, 0.48) | 0.26 (0.19, 0.36) |  | Price family | 0.12 (0.08, 0."
+table,Table 9.,0.08,True,"48) | 0.26 (0.19, 0.36) |  | Price family | 0.12 (0.08, 0.17) | "
+table,Table 9.,0.17,True,"0.26 (0.19, 0.36) |  | Price family | 0.12 (0.08, 0.17) | 0.43 ("
+table,Table 9.,0.43,True,"19, 0.36) |  | Price family | 0.12 (0.08, 0.17) | 0.43 (0.28, 0."
+table,Table 9.,0.28,True,"36) |  | Price family | 0.12 (0.08, 0.17) | 0.43 (0.28, 0.64) | "
+table,Table 9.,0.64,True," | Price family | 0.12 (0.08, 0.17) | 0.43 (0.28, 0.64) | 0.28 ("
+table,Table 9.,0.28,True," family | 0.12 (0.08, 0.17) | 0.43 (0.28, 0.64) | 0.28 (0.20, 0."
+table,Table 9.,0.20,True,"y | 0.12 (0.08, 0.17) | 0.43 (0.28, 0.64) | 0.28 (0.20, 0.39) | "
+table,Table 9.,0.39,True,"12 (0.08, 0.17) | 0.43 (0.28, 0.64) | 0.28 (0.20, 0.39) | All re"
+table,Table 9.,0.26,True,") | 0.28 (0.20, 0.39) | All relevant | Baseline | 0.26 (0.22, 0."
+table,Table 9.,0.22,True,"28 (0.20, 0.39) | All relevant | Baseline | 0.26 (0.22, 0.31) | "
+table,Table 9.,0.31,True,"20, 0.39) | All relevant | Baseline | 0.26 (0.22, 0.31) | 0.09 ("
+table,Table 9.,0.09,True,") | All relevant | Baseline | 0.26 (0.22, 0.31) | 0.09 (0.07, 0."
+table,Table 9.,0.07,True,"l relevant | Baseline | 0.26 (0.22, 0.31) | 0.09 (0.07, 0.13) | "
+table,Table 9.,0.13,True,"vant | Baseline | 0.26 (0.22, 0.31) | 0.09 (0.07, 0.13) | 0.11 ("
+table,Table 9.,0.11,True,"aseline | 0.26 (0.22, 0.31) | 0.09 (0.07, 0.13) | 0.11 (0.08, 0."
+table,Table 9.,0.08,True,"e | 0.26 (0.22, 0.31) | 0.09 (0.07, 0.13) | 0.11 (0.08, 0.14) | "
+table,Table 9.,0.14,True,"26 (0.22, 0.31) | 0.09 (0.07, 0.13) | 0.11 (0.08, 0.14) |  | Pri"
+table,Table 9.,0.26,True,"07, 0.13) | 0.11 (0.08, 0.14) |  | Price family | 0.26 (0.18, 0."
+table,Table 9.,0.18,True,"13) | 0.11 (0.08, 0.14) |  | Price family | 0.26 (0.18, 0.35) | "
+table,Table 9.,0.35,True,"0.11 (0.08, 0.14) |  | Price family | 0.26 (0.18, 0.35) | 0.17 ("
+table,Table 9.,0.17,True,"08, 0.14) |  | Price family | 0.26 (0.18, 0.35) | 0.17 (0.11, 0."
+table,Table 9.,0.11,True,"14) |  | Price family | 0.26 (0.18, 0.35) | 0.17 (0.11, 0.25) | "
+table,Table 9.,0.25,True," | Price family | 0.26 (0.18, 0.35) | 0.17 (0.11, 0.25) | 0.19 ("
+table,Table 9.,0.19,True," family | 0.26 (0.18, 0.35) | 0.17 (0.11, 0.25) | 0.19 (0.12, 0."
+table,Table 9.,0.12,True,"y | 0.26 (0.18, 0.35) | 0.17 (0.11, 0.25) | 0.19 (0.12, 0.26) | "
+table,Table 9.,0.26,True,"26 (0.18, 0.35) | 0.17 (0.11, 0.25) | 0.19 (0.12, 0.26) | None r"
+table,Table 9.,0.15,True," | 0.19 (0.12, 0.26) | None relevant | Baseline | 0.15 (0.11, 0."
+table,Table 9.,0.11,True,"9 (0.12, 0.26) | None relevant | Baseline | 0.15 (0.11, 0.18) | "
+table,Table 9.,0.18,True,"2, 0.26) | None relevant | Baseline | 0.15 (0.11, 0.18) | 0.30 ("
+table,Table 9.,0.30,True," | None relevant | Baseline | 0.15 (0.11, 0.18) | 0.30 (0.20, 0."
+table,Table 9.,0.20,True,"e relevant | Baseline | 0.15 (0.11, 0.18) | 0.30 (0.20, 0.47) | "
+table,Table 9.,0.47,True,"vant | Baseline | 0.15 (0.11, 0.18) | 0.30 (0.20, 0.47) | 0.25 ("
+table,Table 9.,0.25,True,"aseline | 0.15 (0.11, 0.18) | 0.30 (0.20, 0.47) | 0.25 (0.18, 0."
+table,Table 9.,0.18,True,"e | 0.15 (0.11, 0.18) | 0.30 (0.20, 0.47) | 0.25 (0.18, 0.34) | "
+table,Table 9.,0.34,True,"15 (0.11, 0.18) | 0.30 (0.20, 0.47) | 0.25 (0.18, 0.34) |  | Pri"
+table,Table 9.,0.11,True,"20, 0.47) | 0.25 (0.18, 0.34) |  | Price family | 0.11 (0.07, 0."
+table,Table 9.,0.07,True,"47) | 0.25 (0.18, 0.34) |  | Price family | 0.11 (0.07, 0.17) | "
+table,Table 9.,0.17,True,"0.25 (0.18, 0.34) |  | Price family | 0.11 (0.07, 0.17) | 0.42 ("
+table,Table 9.,0.42,True,"18, 0.34) |  | Price family | 0.11 (0.07, 0.17) | 0.42 (0.27, 0."
+table,Table 9.,0.27,True,"34) |  | Price family | 0.11 (0.07, 0.17) | 0.42 (0.27, 0.63) | "
+table,Table 9.,0.63,True," | Price family | 0.11 (0.07, 0.17) | 0.42 (0.27, 0.63) | 0.27 ("
+table,Table 9.,0.27,True," family | 0.11 (0.07, 0.17) | 0.42 (0.27, 0.63) | 0.27 (0.18, 0."
+table,Table 9.,0.18,True,"y | 0.11 (0.07, 0.17) | 0.42 (0.27, 0.63) | 0.27 (0.18, 0.37)"
+table,Table 9.,0.37,True,"11 (0.07, 0.17) | 0.42 (0.27, 0.63) | 0.27 (0.18, 0.37)"
+table,Table 10.,0.78,True,"Correlation with ""inflation"" searches | 0.78 | 0.54 | "
+table,Table 10.,0.54,True,"Correlation with ""inflation"" searches | 0.78 | 0.54 | 0.78 | "
+table,Table 10.,0.78,True,"elation with ""inflation"" searches | 0.78 | 0.54 | 0.78 |    Part"
+table,Table 10.,0.78,True,"artial, CPI and food inflation removed (95% CI) | 0.78 (0.65, 0."
+table,Table 10.,0.65,True,", CPI and food inflation removed (95% CI) | 0.78 (0.65, 0.90) | "
+table,Table 10.,0.90,True,"and food inflation removed (95% CI) | 0.78 (0.65, 0.90) | 0.55 ("
+table,Table 10.,0.55,True," inflation removed (95% CI) | 0.78 (0.65, 0.90) | 0.55 (0.31, 0."
+table,Table 10.,0.31,True,"tion removed (95% CI) | 0.78 (0.65, 0.90) | 0.55 (0.31, 0.75) | "
+table,Table 10.,0.75,True,"emoved (95% CI) | 0.78 (0.65, 0.90) | 0.55 (0.31, 0.75) | — |   "
+table,Table 10.,0.67,True, |    After linear trend and log volume removed | 0.67 | 0.41 | 
+table,Table 10.,0.41,True,fter linear trend and log volume removed | 0.67 | 0.41 | — | Cor
+table,Table 10.,0.26,True," 0.41 | — | Correlation with ""mehngai"" searches | 0.26 | 0.11 | "
+table,Table 10.,0.11,True," — | Correlation with ""mehngai"" searches | 0.26 | 0.11 | 0.26 | "
+table,Table 10.,0.26,True,"rrelation with ""mehngai"" searches | 0.26 | 0.11 | 0.26 | Correla"
+table,Table 10.,0.30,True, 0.26 | Correlation with Devanagari search term | 0.30 | 0.36 | 
+table,Table 10.,0.36,True, Correlation with Devanagari search term | 0.30 | 0.36 | 0.30 | 
+table,Table 10.,0.30,True,ation with Devanagari search term | 0.30 | 0.36 | 0.30 | Correla
+table,Table 10.,0.78,True,| Correlation with GDELT DOC keyword series | — | 0.78 | — | Cor
+table,Table 10.,0.77,True,— | Correlation with GDELT DOC theme series | — | 0.77 | — | Oni
+table,Table 10.,−0.91,True,"eries | — | 0.77 | — | Onion 2019–20 (z; peak?) | −0.91, no | −0."
+table,Table 10.,−0.72,True,"0.77 | — | Onion 2019–20 (z; peak?) | −0.91, no | −0.72, no | −0."
+table,Table 10.,−0.89,True,"nion 2019–20 (z; peak?) | −0.91, no | −0.72, no | −0.89, no | Fue"
+table,Table 10.,−0.36,True," | −0.72, no | −0.89, no | Fuel 2021 (z; peak?) | −0.36, no | −0."
+table,Table 10.,−0.06,True," | −0.89, no | Fuel 2021 (z; peak?) | −0.36, no | −0.06, no | −0."
+table,Table 10.,−0.35,True," | Fuel 2021 (z; peak?) | −0.36, no | −0.06, no | −0.35, no | Pos"
+table,Table 10.,2.51,True,", no | −0.35, no | Post-Ukraine 2022 (z; peak?) | 2.51, yes | 2."
+table,Table 10.,2.11,True,", no | Post-Ukraine 2022 (z; peak?) | 2.51, yes | 2.11, yes | 2."
+table,Table 10.,2.52,True,"Ukraine 2022 (z; peak?) | 2.51, yes | 2.11, yes | 2.52, yes | To"
+table,Table 10.,0.93,True," 2.11, yes | 2.52, yes | Tomato 2023 (z; peak?) | 0.93, no | 0.2"
+table,Table 10.,0.22,True,"| 2.52, yes | Tomato 2023 (z; peak?) | 0.93, no | 0.22, no | 0.9"
+table,Table 10.,0.95,True," | Tomato 2023 (z; peak?) | 0.93, no | 0.22, no | 0.95, no | Epi"
+table,Table 11.,0.25,True,"Primary (specified in advance) | 56 | 0.25 [0.07, 0."
+table,Table 11.,0.07,True,"Primary (specified in advance) | 56 | 0.25 [0.07, 0.43] p "
+table,Table 11.,0.43,True,"Primary (specified in advance) | 56 | 0.25 [0.07, 0.43] p = 0.05"
+table,Table 11.,0.058,True,"pecified in advance) | 56 | 0.25 [0.07, 0.43] p = 0.058 | 0.33 [0"
+table,Table 11.,0.33,True," in advance) | 56 | 0.25 [0.07, 0.43] p = 0.058 | 0.33 [0.02, 0."
+table,Table 11.,0.02,True,"vance) | 56 | 0.25 [0.07, 0.43] p = 0.058 | 0.33 [0.02, 0.64] p "
+table,Table 11.,0.64,True," | 56 | 0.25 [0.07, 0.43] p = 0.058 | 0.33 [0.02, 0.64] p = 0.03"
+table,Table 11.,0.037,True,"25 [0.07, 0.43] p = 0.058 | 0.33 [0.02, 0.64] p = 0.037 | Lagged "
+table,Table 11.,0.14,True,"| Lagged expectation and headline CPI only | 56 | 0.14 [0.05, 0."
+table,Table 11.,0.05,True,"ed expectation and headline CPI only | 56 | 0.14 [0.05, 0.23] p "
+table,Table 11.,0.23,True,"ectation and headline CPI only | 56 | 0.14 [0.05, 0.23] p = 0.04"
+table,Table 11.,0.040,True,"nd headline CPI only | 56 | 0.14 [0.05, 0.23] p = 0.040 | 0.09 [−"
+table,Table 11.,0.09,True,"ine CPI only | 56 | 0.14 [0.05, 0.23] p = 0.040 | 0.09 [−0.16, 0"
+table,Table 11.,−0.16,True,"I only | 56 | 0.14 [0.05, 0.23] p = 0.040 | 0.09 [−0.16, 0.34] p "
+table,Table 11.,0.34,True,"| 56 | 0.14 [0.05, 0.23] p = 0.040 | 0.09 [−0.16, 0.34] p = 0.37"
+table,Table 11.,0.37,True,"4 [0.05, 0.23] p = 0.040 | 0.09 [−0.16, 0.34] p = 0.37 | Brent c"
+table,Table 11.,0.24,True,"[−0.16, 0.34] p = 0.37 | Brent crude added | 56 | 0.24 [0.07, 0."
+table,Table 11.,0.07,True,", 0.34] p = 0.37 | Brent crude added | 56 | 0.24 [0.07, 0.42] p "
+table,Table 11.,0.42,True,"] p = 0.37 | Brent crude added | 56 | 0.24 [0.07, 0.42] p = 0.06"
+table,Table 11.,0.062,True," | Brent crude added | 56 | 0.24 [0.07, 0.42] p = 0.062 | 0.35 [0"
+table,Table 11.,0.35,True," crude added | 56 | 0.24 [0.07, 0.42] p = 0.062 | 0.35 [0.02, 0."
+table,Table 11.,0.02,True," added | 56 | 0.24 [0.07, 0.42] p = 0.062 | 0.35 [0.02, 0.68] p "
+table,Table 11.,0.68,True," | 56 | 0.24 [0.07, 0.42] p = 0.062 | 0.35 [0.02, 0.68] p = 0.04"
+table,Table 11.,0.042,True,"24 [0.07, 0.42] p = 0.062 | 0.35 [0.02, 0.68] p = 0.042 | Excludi"
+table,Table 11.,0.17,True,"[0.02, 0.68] p = 0.042 | Excluding 2020–21 | 46 | 0.17 [0.01, 0."
+table,Table 11.,0.01,True," 0.68] p = 0.042 | Excluding 2020–21 | 46 | 0.17 [0.01, 0.33] p "
+table,Table 11.,0.33,True," p = 0.042 | Excluding 2020–21 | 46 | 0.17 [0.01, 0.33] p = 0.11"
+table,Table 11.,0.115,True," | Excluding 2020–21 | 46 | 0.17 [0.01, 0.33] p = 0.115 | 0.30 [−"
+table,Table 11.,0.30,True,"ding 2020–21 | 46 | 0.17 [0.01, 0.33] p = 0.115 | 0.30 [−0.09, 0"
+table,Table 11.,−0.09,True,"020–21 | 46 | 0.17 [0.01, 0.33] p = 0.115 | 0.30 [−0.09, 0.68] p "
+table,Table 11.,0.68,True,"| 46 | 0.17 [0.01, 0.33] p = 0.115 | 0.30 [−0.09, 0.68] p = 0.13"
+table,Table 11.,0.130,True,"7 [0.01, 0.33] p = 0.115 | 0.30 [−0.09, 0.68] p = 0.130 | Exact f"
+table,Table 11.,0.35,True,"68] p = 0.130 | Exact fieldwork dates only | 32 | 0.35 [0.13, 0."
+table,Table 11.,0.13,True,"= 0.130 | Exact fieldwork dates only | 32 | 0.35 [0.13, 0.58] p "
+table,Table 11.,0.58,True,"0 | Exact fieldwork dates only | 32 | 0.35 [0.13, 0.58] p = 0.04"
+table,Table 11.,0.040,True,"fieldwork dates only | 32 | 0.35 [0.13, 0.58] p = 0.040 | 0.47 [0"
+table,Table 11.,0.47,True,"k dates only | 32 | 0.35 [0.13, 0.58] p = 0.040 | 0.47 [0.12, 0."
+table,Table 11.,0.12,True,"s only | 32 | 0.35 [0.13, 0.58] p = 0.040 | 0.47 [0.12, 0.83] p "
+table,Table 11.,0.83,True," | 32 | 0.35 [0.13, 0.58] p = 0.040 | 0.47 [0.12, 0.83] p = 0.10"
+table,Table 11.,0.105,True,"35 [0.13, 0.58] p = 0.040 | 0.47 [0.12, 0.83] p = 0.105 | Next-mo"
+table,Table 11.,0.23,True,"12, 0.83] p = 0.105 | Next-month CPI added | 55 | 0.23 [0.07, 0."
+table,Table 11.,0.07,True,"83] p = 0.105 | Next-month CPI added | 55 | 0.23 [0.07, 0.40] p "
+table,Table 11.,0.40,True,"= 0.105 | Next-month CPI added | 55 | 0.23 [0.07, 0.40] p = 0.03"
+table,Table 11.,0.035,True,"Next-month CPI added | 55 | 0.23 [0.07, 0.40] p = 0.035 | 0.30 [−"
+table,Table 11.,0.30,True,"th CPI added | 55 | 0.23 [0.07, 0.40] p = 0.035 | 0.30 [−0.06, 0"
+table,Table 11.,−0.06,True," added | 55 | 0.23 [0.07, 0.40] p = 0.035 | 0.30 [−0.06, 0.66] p "
+table,Table 11.,0.66,True,"| 55 | 0.23 [0.07, 0.40] p = 0.035 | 0.30 [−0.06, 0.66] p = 0.05"
+table,Table 11.,0.054,True,"3 [0.07, 0.40] p = 0.035 | 0.30 [−0.06, 0.66] p = 0.054 | Change "
+table,Table 11.,0.11,True,"= 0.054 | Change in index instead of level | 55 | 0.11 [−0.06, 0"
+table,Table 11.,−0.06,True,"4 | Change in index instead of level | 55 | 0.11 [−0.06, 0.29] p "
+table,Table 11.,0.29,True,"nge in index instead of level | 55 | 0.11 [−0.06, 0.29] p = 0.27"
+table,Table 11.,0.273,True,"ex instead of level | 55 | 0.11 [−0.06, 0.29] p = 0.273 | 0.15 [−"
+table,Table 11.,0.15,True,"ad of level | 55 | 0.11 [−0.06, 0.29] p = 0.273 | 0.15 [−0.16, 0"
+table,Table 11.,−0.16,True,"level | 55 | 0.11 [−0.06, 0.29] p = 0.273 | 0.15 [−0.16, 0.45] p "
+table,Table 11.,0.45,True," 55 | 0.11 [−0.06, 0.29] p = 0.273 | 0.15 [−0.16, 0.45] p = 0.41"
+table,Table 11.,0.411,True," [−0.06, 0.29] p = 0.273 | 0.15 [−0.16, 0.45] p = 0.411 | Outcome"
+table,Table 11.,0.12,True,", 0.45] p = 0.411 | Outcome: one-year mean | 56 | 0.12 [−0.00, 0"
+table,Table 11.,−0.00,True,"] p = 0.411 | Outcome: one-year mean | 56 | 0.12 [−0.00, 0.24] p "
+table,Table 11.,0.24,True,".411 | Outcome: one-year mean | 56 | 0.12 [−0.00, 0.24] p = 0.05"
+table,Table 11.,0.054,True,"come: one-year mean | 56 | 0.12 [−0.00, 0.24] p = 0.054 | 0.25 [−"
+table,Table 11.,0.25,True,"e-year mean | 56 | 0.12 [−0.00, 0.24] p = 0.054 | 0.25 [−0.04, 0"
+table,Table 11.,−0.04,True," mean | 56 | 0.12 [−0.00, 0.24] p = 0.054 | 0.25 [−0.04, 0.54] p "
+table,Table 11.,0.54,True," 56 | 0.12 [−0.00, 0.24] p = 0.054 | 0.25 [−0.04, 0.54] p = 0.07"
+table,Table 11.,0.072,True," [−0.00, 0.24] p = 0.054 | 0.25 [−0.04, 0.54] p = 0.072 | Core at"
+table,Table 11.,0.30,True,"0.072 | Core at 60% presence (180 outlets) | 56 | 0.30 [0.09, 0."
+table,Table 11.,0.09,True,"| Core at 60% presence (180 outlets) | 56 | 0.30 [0.09, 0.50] p "
+table,Table 11.,0.50,True," at 60% presence (180 outlets) | 56 | 0.30 [0.09, 0.50] p = 0.02"
+table,Table 11.,0.023,True,"esence (180 outlets) | 56 | 0.30 [0.09, 0.50] p = 0.023 | — | Cor"
+table,Table 11.,0.28,True,"23 | — | Core at 90% presence (65 outlets) | 56 | 0.28 [0.10, 0."
+table,Table 11.,0.10,True," | Core at 90% presence (65 outlets) | 56 | 0.28 [0.10, 0.46] p "
+table,Table 11.,0.46,True,"e at 90% presence (65 outlets) | 56 | 0.28 [0.10, 0.46] p = 0.03"
+table,Table 11.,0.031,True,"resence (65 outlets) | 56 | 0.28 [0.10, 0.46] p = 0.031 | — | Vol"
+table,Table 11.,0.34,True," 0.031 | — | Volume-weighted outlets (104) | 56 | 0.34 [0.15, 0."
+table,Table 11.,0.15,True," | — | Volume-weighted outlets (104) | 56 | 0.34 [0.15, 0.53] p "
+table,Table 11.,0.53,True," Volume-weighted outlets (104) | 56 | 0.34 [0.15, 0.53] p = 0.01"
+table,Table 11.,0.011,True,"ighted outlets (104) | 56 | 0.34 [0.15, 0.53] p = 0.011 | — | Pla"
+table,Table 11.,0.09,True,"011 | — | Placebo outcome: previous change | 56 | 0.09 [−0.20, 0"
+table,Table 11.,−0.20,True,"— | Placebo outcome: previous change | 56 | 0.09 [−0.20, 0.39] p "
+table,Table 11.,0.39,True,"cebo outcome: previous change | 56 | 0.09 [−0.20, 0.39] p = 0.50"
+table,Table 11.,0.50,True,"me: previous change | 56 | 0.09 [−0.20, 0.39] p = 0.50 | —"
+table,Table 12.,0.251,True,"Primary (reference) | 56 | 0.251 | (0.068,"
+table,Table 12.,0.068,True,"Primary (reference) | 56 | 0.251 | (0.068, 0.434) |"
+table,Table 12.,0.434,True,"Primary (reference) | 56 | 0.251 | (0.068, 0.434) | 0.058 "
+table,Table 12.,0.058,True,"imary (reference) | 56 | 0.251 | (0.068, 0.434) | 0.058 | Linear "
+table,Table 12.,0.237,True,", 0.434) | 0.058 | Linear time trend added | 56 | 0.237 | (0.043,"
+table,Table 12.,0.043,True,"| 0.058 | Linear time trend added | 56 | 0.237 | (0.043, 0.430) |"
+table,Table 12.,0.430,True," | Linear time trend added | 56 | 0.237 | (0.043, 0.430) | 0.068 "
+table,Table 12.,0.068,True," time trend added | 56 | 0.237 | (0.043, 0.430) | 0.068 | Change "
+table,Table 12.,0.235,True,", 0.430) | 0.068 | Change in INR/USD added | 56 | 0.235 | (0.019,"
+table,Table 12.,0.019,True,"| 0.068 | Change in INR/USD added | 56 | 0.235 | (0.019, 0.450) |"
+table,Table 12.,0.450,True," | Change in INR/USD added | 56 | 0.235 | (0.019, 0.450) | 0.065 "
+table,Table 12.,0.065,True," in INR/USD added | 56 | 0.235 | (0.019, 0.450) | 0.065 | Post-20"
+table,Table 12.,0.284,True,"ost-2022 regime: index (slope before 2022) | 56 | 0.284 | (0.016,"
+table,Table 12.,0.016,True,"regime: index (slope before 2022) | 56 | 0.284 | (0.016, 0.551) |"
+table,Table 12.,0.551,True," index (slope before 2022) | 56 | 0.284 | (0.016, 0.551) | 0.085 "
+table,Table 12.,0.085,True,"lope before 2022) | 56 | 0.284 | (0.016, 0.551) | 0.085 | Post-20"
+table,Table 12.,−0.273,True,.085 | Post-2022 regime: index × post-2022 | 56 | −0.273 | (−0.606
+table,Table 12.,−0.606,True,"t-2022 regime: index × post-2022 | 56 | −0.273 | (−0.606, 0.059) |"
+table,Table 12.,0.059,True,"egime: index × post-2022 | 56 | −0.273 | (−0.606, 0.059) | 0.052 "
+table,Table 12.,0.052,True,"dex × post-2022 | 56 | −0.273 | (−0.606, 0.059) | 0.052 | Fieldwo"
+table,Table 12.,0.255,True,.059) | 0.052 | Fieldwork before 2022 only | 32 | 0.255 | (−0.166
+table,Table 12.,−0.166,True,".052 | Fieldwork before 2022 only | 32 | 0.255 | (−0.166, 0.676) |"
+table,Table 12.,0.676,True,"ieldwork before 2022 only | 32 | 0.255 | (−0.166, 0.676) | 0.114 "
+table,Table 12.,0.114,True,"before 2022 only | 32 | 0.255 | (−0.166, 0.676) | 0.114 | Fieldwo"
+table,Table 12.,0.105,True, 0.676) | 0.114 | Fieldwork from 2022 only | 24 | 0.105 | (−0.302
+table,Table 12.,−0.302,True," 0.114 | Fieldwork from 2022 only | 24 | 0.105 | (−0.302, 0.513) |"
+table,Table 12.,0.513,True," Fieldwork from 2022 only | 24 | 0.105 | (−0.302, 0.513) | 0.628 "
+table,Table 12.,0.628,True,"k from 2022 only | 24 | 0.105 | (−0.302, 0.513) | 0.628 | Excludi"
+table,Table 12.,0.174,True,"Excluding 2020–21, post-2022 regime: index | 46 | 0.174 | (0.028,"
+table,Table 12.,0.028,True," 2020–21, post-2022 regime: index | 46 | 0.174 | (0.028, 0.320) |"
+table,Table 12.,0.320,True,"1, post-2022 regime: index | 46 | 0.174 | (0.028, 0.320) | 0.130 "
+table,Table 12.,0.130,True,"022 regime: index | 46 | 0.174 | (0.028, 0.320) | 0.130 | Excludi"
+table,Table 12.,−0.183,True,"ing 2020–21, post-2022 regime: interaction | 46 | −0.183 | (−0.630"
+table,Table 12.,−0.630,True,"1, post-2022 regime: interaction | 46 | −0.183 | (−0.630, 0.264) |"
+table,Table 12.,0.264,True,"2022 regime: interaction | 46 | −0.183 | (−0.630, 0.264) | 0.266 "
+table,Table 12.,0.266,True,"me: interaction | 46 | −0.183 | (−0.630, 0.264) | 0.266 | 10-day "
+table,Table 12.,0.293,True," | 0.266 | 10-day window (93 core outlets) | 56 | 0.293 | (0.046,"
+table,Table 12.,0.046,True,"| 10-day window (93 core outlets) | 56 | 0.293 | (0.046, 0.539) |"
+table,Table 12.,0.539,True,"y window (93 core outlets) | 56 | 0.293 | (0.046, 0.539) | 0.058 "
+table,Table 12.,0.058,True,"(93 core outlets) | 56 | 0.293 | (0.046, 0.539) | 0.058 | 7-day w"
+table,Table 12.,0.260,True,") | 0.058 | 7-day window (87 core outlets) | 56 | 0.260 | (0.040,"
+table,Table 12.,0.040,True," | 7-day window (87 core outlets) | 56 | 0.260 | (0.040, 0.480) |"
+table,Table 12.,0.480,True,"y window (87 core outlets) | 56 | 0.260 | (0.040, 0.480) | 0.059 "
+table,Table 12.,0.059,True,"(87 core outlets) | 56 | 0.260 | (0.040, 0.480) | 0.059 | Windows"
+table,Table 12.,0.192,True,"with at least the median number of outlets | 30 | 0.192 | (0.071,"
+table,Table 12.,0.071,True,"east the median number of outlets | 30 | 0.192 | (0.071, 0.314) |"
+table,Table 12.,0.314,True,"e median number of outlets | 30 | 0.192 | (0.071, 0.314) | 0.018 "
+table,Table 12.,0.018,True,"number of outlets | 30 | 0.192 | (0.071, 0.314) | 0.018 | Balance"
+table,Table 12.,0.352,True,": 37 outlets present in every valid window | 56 | 0.352 | (0.143,"
+table,Table 12.,0.143,True,"ets present in every valid window | 56 | 0.352 | (0.143, 0.560) |"
+table,Table 12.,0.560,True,"sent in every valid window | 56 | 0.352 | (0.143, 0.560) | 0.012 "
+table,Table 12.,0.012,True,"very valid window | 56 | 0.352 | (0.143, 0.560) | 0.012 | Balance"
+table,Table 12.,0.346,True,"outlets present in every regression window | 56 | 0.346 | (0.157,"
+table,Table 12.,0.157,True,"resent in every regression window | 56 | 0.346 | (0.157, 0.536) |"
+table,Table 12.,0.536,True,"in every regression window | 56 | 0.346 | (0.157, 0.536) | 0.008 "
+table,Table 12.,0.008,True,"regression window | 56 | 0.346 | (0.157, 0.536) | 0.008 | Outlets"
+table,Table 12.,0.264,True,"ed, lifestyle domains dropped (89 outlets) | 56 | 0.264 | (0.053,"
+table,Table 12.,0.053,True,"tyle domains dropped (89 outlets) | 56 | 0.264 | (0.053, 0.474) |"
+table,Table 12.,0.474,True,"mains dropped (89 outlets) | 56 | 0.264 | (0.053, 0.474) | 0.090 "
+table,Table 12.,0.090,True,"pped (89 outlets) | 56 | 0.264 | (0.053, 0.474) | 0.090 | Non-ene"
+table,Table 12.,0.314,True,", 0.474) | 0.090 | Non-energy price family | 56 | 0.314 | (0.012,"
+table,Table 12.,0.012,True,"| 0.090 | Non-energy price family | 56 | 0.314 | (0.012, 0.616) |"
+table,Table 12.,0.616,True," | Non-energy price family | 56 | 0.314 | (0.012, 0.616) | 0.042 "
+table,Table 12.,0.042,True,"ergy price family | 56 | 0.314 | (0.012, 0.616) | 0.042 | No lagg"
+table,Table 12.,0.175,True,16) | 0.042 | No lagged dependent variable | 57 | 0.175 | (−0.122
+table,Table 12.,−0.122,True,"42 | No lagged dependent variable | 57 | 0.175 | (−0.122, 0.473) |"
+table,Table 12.,0.473,True,"lagged dependent variable | 57 | 0.175 | (−0.122, 0.473) | 0.233 "
+table,Table 12.,0.233,True,"pendent variable | 57 | 0.175 | (−0.122, 0.473) | 0.233 | Months "
+table,Table 12.,0.339,True,"473) | 0.233 | Months between rounds added | 56 | 0.339 | (0.125,"
+table,Table 12.,0.125,True,"233 | Months between rounds added | 56 | 0.339 | (0.125, 0.553) |"
+table,Table 12.,0.553,True,"onths between rounds added | 56 | 0.339 | (0.125, 0.553) | 0.031 "
+table,Table 12.,0.031,True,"ween rounds added | 56 | 0.339 | (0.125, 0.553) | 0.031 | Outcome"
+table,Table 12.,0.243,True,"ths (divided by the months between rounds) | 56 | 0.243 | (0.020,"
+table,Table 12.,0.020,True,"ded by the months between rounds) | 56 | 0.243 | (0.020, 0.466) |"
+table,Table 12.,0.466,True,"the months between rounds) | 56 | 0.243 | (0.020, 0.466) | 0.102 "
+table,Table 12.,0.102,True,"s between rounds) | 56 | 0.243 | (0.020, 0.466) | 0.102 | Intra-w"
+table,Table 12.,0.269,True,"tra-window Brent and INR/USD changes added | 56 | 0.269 | (0.104,"
+table,Table 12.,0.104,True,"w Brent and INR/USD changes added | 56 | 0.269 | (0.104, 0.435) |"
+table,Table 12.,0.435,True," and INR/USD changes added | 56 | 0.269 | (0.104, 0.435) | 0.045"
+table,Table 12.,0.045,True,"USD changes added | 56 | 0.269 | (0.104, 0.435) | 0.045"
+table,Table 13.,0.25,True,"One-year median | 0.25 (0.07, 0."
+table,Table 13.,0.07,True,"One-year median | 0.25 (0.07, 0.43) | "
+table,Table 13.,0.43,True,"One-year median | 0.25 (0.07, 0.43) | 0.08 ("
+table,Table 13.,0.08,True,"One-year median | 0.25 (0.07, 0.43) | 0.08 (−0.12, 0"
+table,Table 13.,−0.12,True,"One-year median | 0.25 (0.07, 0.43) | 0.08 (−0.12, 0.29) | "
+table,Table 13.,0.29,True,"ne-year median | 0.25 (0.07, 0.43) | 0.08 (−0.12, 0.29) | 0.26 ("
+table,Table 13.,0.26,True,"median | 0.25 (0.07, 0.43) | 0.08 (−0.12, 0.29) | 0.26 (0.05, 0."
+table,Table 13.,0.05,True," | 0.25 (0.07, 0.43) | 0.08 (−0.12, 0.29) | 0.26 (0.05, 0.46) | "
+table,Table 13.,0.46,True,"5 (0.07, 0.43) | 0.08 (−0.12, 0.29) | 0.26 (0.05, 0.46) | 0.00 ("
+table,Table 13.,0.00,True," 0.43) | 0.08 (−0.12, 0.29) | 0.26 (0.05, 0.46) | 0.00 (−0.22, 0"
+table,Table 13.,−0.22,True," | 0.08 (−0.12, 0.29) | 0.26 (0.05, 0.46) | 0.00 (−0.22, 0.23) | "
+table,Table 13.,0.23,True," (−0.12, 0.29) | 0.26 (0.05, 0.46) | 0.00 (−0.22, 0.23) | One-ye"
+table,Table 13.,0.12,True,".05, 0.46) | 0.00 (−0.22, 0.23) | One-year mean | 0.12 (−0.00, 0"
+table,Table 13.,−0.00,True,".46) | 0.00 (−0.22, 0.23) | One-year mean | 0.12 (−0.00, 0.24) | "
+table,Table 13.,0.24,True,"0.00 (−0.22, 0.23) | One-year mean | 0.12 (−0.00, 0.24) | 0.06 ("
+table,Table 13.,0.06,True,".22, 0.23) | One-year mean | 0.12 (−0.00, 0.24) | 0.06 (−0.13, 0"
+table,Table 13.,−0.13,True,".23) | One-year mean | 0.12 (−0.00, 0.24) | 0.06 (−0.13, 0.26) | "
+table,Table 13.,0.26,True,"One-year mean | 0.12 (−0.00, 0.24) | 0.06 (−0.13, 0.26) | 0.18 ("
+table,Table 13.,0.18,True," mean | 0.12 (−0.00, 0.24) | 0.06 (−0.13, 0.26) | 0.18 (0.03, 0."
+table,Table 13.,0.03,True,"| 0.12 (−0.00, 0.24) | 0.06 (−0.13, 0.26) | 0.18 (0.03, 0.34) | "
+table,Table 13.,0.34,True," (−0.00, 0.24) | 0.06 (−0.13, 0.26) | 0.18 (0.03, 0.34) | 0.02 ("
+table,Table 13.,0.02,True," 0.24) | 0.06 (−0.13, 0.26) | 0.18 (0.03, 0.34) | 0.02 (−0.22, 0"
+table,Table 13.,−0.22,True," | 0.06 (−0.13, 0.26) | 0.18 (0.03, 0.34) | 0.02 (−0.22, 0.26) | "
+table,Table 13.,0.26,True," (−0.13, 0.26) | 0.18 (0.03, 0.34) | 0.02 (−0.22, 0.26) | Three-"
+table,Table 13.,0.22,True,"0.34) | 0.02 (−0.22, 0.26) | Three-month median | 0.22 (−0.07, 0"
+table,Table 13.,−0.07,True,"| 0.02 (−0.22, 0.26) | Three-month median | 0.22 (−0.07, 0.50) | "
+table,Table 13.,0.50,True,"(−0.22, 0.26) | Three-month median | 0.22 (−0.07, 0.50) | 0.16 ("
+table,Table 13.,0.16,True,"0.26) | Three-month median | 0.22 (−0.07, 0.50) | 0.16 (−0.07, 0"
+table,Table 13.,−0.07,True,"| Three-month median | 0.22 (−0.07, 0.50) | 0.16 (−0.07, 0.39) | "
+table,Table 13.,0.39,True,"-month median | 0.22 (−0.07, 0.50) | 0.16 (−0.07, 0.39) | 0.23 ("
+table,Table 13.,0.23,True,"edian | 0.22 (−0.07, 0.50) | 0.16 (−0.07, 0.39) | 0.23 (−0.01, 0"
+table,Table 13.,−0.01,True,"| 0.22 (−0.07, 0.50) | 0.16 (−0.07, 0.39) | 0.23 (−0.01, 0.47) | "
+table,Table 13.,0.47,True,"(−0.07, 0.50) | 0.16 (−0.07, 0.39) | 0.23 (−0.01, 0.47) | −0.03 "
+table,Table 13.,−0.03,True,"0.50) | 0.16 (−0.07, 0.39) | 0.23 (−0.01, 0.47) | −0.03 (−0.22, 0"
+table,Table 13.,−0.22,True," 0.16 (−0.07, 0.39) | 0.23 (−0.01, 0.47) | −0.03 (−0.22, 0.15) | "
+table,Table 13.,0.15,True,"−0.07, 0.39) | 0.23 (−0.01, 0.47) | −0.03 (−0.22, 0.15) | Curren"
+table,Table 13.,0.15,True,"0.03 (−0.22, 0.15) | Current perception, median | 0.15 (−0.05, 0"
+table,Table 13.,−0.05,True,"−0.22, 0.15) | Current perception, median | 0.15 (−0.05, 0.35) | "
+table,Table 13.,0.35,True,"0.15) | Current perception, median | 0.15 (−0.05, 0.35) | 0.25 ("
+table,Table 13.,0.25,True,"Current perception, median | 0.15 (−0.05, 0.35) | 0.25 (−0.11, 0"
+table,Table 13.,−0.11,True,"t perception, median | 0.15 (−0.05, 0.35) | 0.25 (−0.11, 0.61) | "
+table,Table 13.,0.61,True,"ption, median | 0.15 (−0.05, 0.35) | 0.25 (−0.11, 0.61) | 0.26 ("
+table,Table 13.,0.26,True,"edian | 0.15 (−0.05, 0.35) | 0.25 (−0.11, 0.61) | 0.26 (0.03, 0."
+table,Table 13.,0.03,True,"| 0.15 (−0.05, 0.35) | 0.25 (−0.11, 0.61) | 0.26 (0.03, 0.50) | "
+table,Table 13.,0.50,True," (−0.05, 0.35) | 0.25 (−0.11, 0.61) | 0.26 (0.03, 0.50) | 0.01 ("
+table,Table 13.,0.01,True," 0.35) | 0.25 (−0.11, 0.61) | 0.26 (0.03, 0.50) | 0.01 (−0.31, 0"
+table,Table 13.,−0.31,True," | 0.25 (−0.11, 0.61) | 0.26 (0.03, 0.50) | 0.01 (−0.31, 0.32)"
+table,Table 13.,0.32,True," (−0.11, 0.61) | 0.26 (0.03, 0.50) | 0.01 (−0.31, 0.32)"
+table,Table 14.,0.25,True,"News index alone | 0.25 | (0.07, "
+table,Table 14.,0.07,True,"News index alone | 0.25 | (0.07, 0.43) | "
+table,Table 14.,0.43,True,"News index alone | 0.25 | (0.07, 0.43) | 0.058 "
+table,Table 14.,0.058,True,"News index alone | 0.25 | (0.07, 0.43) | 0.058 | Search "
+table,Table 14.,0.10,True,"ne | 0.25 | (0.07, 0.43) | 0.058 | Search alone | 0.10 | (−0.07,"
+table,Table 14.,−0.07,True,"5 | (0.07, 0.43) | 0.058 | Search alone | 0.10 | (−0.07, 0.28) | "
+table,Table 14.,0.28,True,"07, 0.43) | 0.058 | Search alone | 0.10 | (−0.07, 0.28) | 0.244 "
+table,Table 14.,0.244,True,") | 0.058 | Search alone | 0.10 | (−0.07, 0.28) | 0.244 | News in"
+table,Table 14.,0.24,True,"(−0.07, 0.28) | 0.244 | News index, with search | 0.24 | (0.04, "
+table,Table 14.,0.04,True,"0.28) | 0.244 | News index, with search | 0.24 | (0.04, 0.43) | "
+table,Table 14.,0.43,True,"| 0.244 | News index, with search | 0.24 | (0.04, 0.43) | 0.092 "
+table,Table 14.,0.092,True,"| News index, with search | 0.24 | (0.04, 0.43) | 0.092 | Search,"
+table,Table 14.,0.07,True," (0.04, 0.43) | 0.092 | Search, with news index | 0.07 | (−0.10,"
+table,Table 14.,−0.10,True,"0.43) | 0.092 | Search, with news index | 0.07 | (−0.10, 0.23) | "
+table,Table 14.,0.23,True," 0.092 | Search, with news index | 0.07 | (−0.10, 0.23) | 0.395 "
+table,Table 14.,0.395,True," Search, with news index | 0.07 | (−0.10, 0.23) | 0.395 | Index ×"
+table,Table 14.,0.18,True,"0.10, 0.23) | 0.395 | Index × (lagged CPI > 6%) | 0.18 | (0.06, "
+table,Table 14.,0.06,True,"23) | 0.395 | Index × (lagged CPI > 6%) | 0.18 | (0.06, 0.30) | "
+table,Table 14.,0.30,True,"0.395 | Index × (lagged CPI > 6%) | 0.18 | (0.06, 0.30) | 0.016 "
+table,Table 14.,0.016,True,"Index × (lagged CPI > 6%) | 0.18 | (0.06, 0.30) | 0.016 | Index ×"
+table,Table 14.,0.12,True,"(0.06, 0.30) | 0.016 | Index × (lagged CPI − 4) | 0.12 | (0.03, "
+table,Table 14.,0.03,True,".30) | 0.016 | Index × (lagged CPI − 4) | 0.12 | (0.03, 0.22) | "
+table,Table 14.,0.22,True," 0.016 | Index × (lagged CPI − 4) | 0.12 | (0.03, 0.22) | 0.062 "
+table,Table 14.,0.062,True," Index × (lagged CPI − 4) | 0.12 | (0.03, 0.22) | 0.062 | Index ×"
+table,Table 14.,0.04,True," | Index × (lagged CPI > 6%), excluding 2020–21 | 0.04 | (−0.26,"
+table,Table 14.,−0.26,True," × (lagged CPI > 6%), excluding 2020–21 | 0.04 | (−0.26, 0.33) | "
+table,Table 14.,0.33,True,"ged CPI > 6%), excluding 2020–21 | 0.04 | (−0.26, 0.33) | 0.776"
+table,Table 14.,0.776,True,"> 6%), excluding 2020–21 | 0.04 | (−0.26, 0.33) | 0.776"
+table,Table 15.,1.00,True,"AR(1) + CPI + food | Price family | 1.00 | (0.95, "
+table,Table 15.,0.95,True,"AR(1) + CPI + food | Price family | 1.00 | (0.95, 1.07) | "
+table,Table 15.,1.07,True,"AR(1) + CPI + food | Price family | 1.00 | (0.95, 1.07) | 0.100 "
+table,Table 15.,0.100,True,"CPI + food | Price family | 1.00 | (0.95, 1.07) | 0.100 | AR(1) |"
+table,Table 15.,1.12,True,"0 | (0.95, 1.07) | 0.100 | AR(1) | Price family | 1.12 | (0.87, "
+table,Table 15.,0.87,True,"5, 1.07) | 0.100 | AR(1) | Price family | 1.12 | (0.87, 1.55) | "
+table,Table 15.,1.55,True,"7) | 0.100 | AR(1) | Price family | 1.12 | (0.87, 1.55) | 0.036 "
+table,Table 15.,0.036,True,"00 | AR(1) | Price family | 1.12 | (0.87, 1.55) | 0.036 | AR(1) +"
+table,Table 15.,1.03,True,", 1.55) | 0.036 | AR(1) + CPI + food | Baseline | 1.03 | (0.98, "
+table,Table 15.,0.98,True,"| 0.036 | AR(1) + CPI + food | Baseline | 1.03 | (0.98, 1.12) | "
+table,Table 15.,1.12,True,"6 | AR(1) + CPI + food | Baseline | 1.03 | (0.98, 1.12) | 0.685 "
+table,Table 15.,0.685,True,") + CPI + food | Baseline | 1.03 | (0.98, 1.12) | 0.685 | AR(1) |"
+table,Table 15.,1.16,True," 1.03 | (0.98, 1.12) | 0.685 | AR(1) | Baseline | 1.16 | (0.92, "
+table,Table 15.,0.92,True,"(0.98, 1.12) | 0.685 | AR(1) | Baseline | 1.16 | (0.92, 1.60) | "
+table,Table 15.,1.60,True," 1.12) | 0.685 | AR(1) | Baseline | 1.16 | (0.92, 1.60) | 0.045"
+table,Table 15.,0.045,True," 0.685 | AR(1) | Baseline | 1.16 | (0.92, 1.60) | 0.045"
+table,Table 16.,8.0,True,"Mumbai | 1,947 | 8.0 | 14.5 | "
+table,Table 16.,14.5,True,"Mumbai | 1,947 | 8.0 | 14.5 | 5 | 0.5"
+table,Table 16.,0.52,True,"Mumbai | 1,947 | 8.0 | 14.5 | 5 | 0.52 | Delhi |"
+table,Table 16.,5.5,True,"| 1,947 | 8.0 | 14.5 | 5 | 0.52 | Delhi | 1,778 | 5.5 | 19.0 | "
+table,Table 16.,19.0,True,"7 | 8.0 | 14.5 | 5 | 0.52 | Delhi | 1,778 | 5.5 | 19.0 | 4 | 0.5"
+table,Table 16.,0.53,True,"4.5 | 5 | 0.52 | Delhi | 1,778 | 5.5 | 19.0 | 4 | 0.53 | Chandig"
+table,Table 16.,1.5,True,",778 | 5.5 | 19.0 | 4 | 0.53 | Chandigarh | 703 | 1.5 | 11.5 | "
+table,Table 16.,11.5,True, 5.5 | 19.0 | 4 | 0.53 | Chandigarh | 703 | 1.5 | 11.5 | 1 | 0.6
+table,Table 16.,0.64,True, | 4 | 0.53 | Chandigarh | 703 | 1.5 | 11.5 | 1 | 0.64 | Bengalu
+table,Table 16.,1.0,True,| 703 | 1.5 | 11.5 | 1 | 0.64 | Bengaluru | 538 | 1.0 | 2.5 | 0
+table,Table 16.,2.5,True,| 1.5 | 11.5 | 1 | 0.64 | Bengaluru | 538 | 1.0 | 2.5 | 0 | 0.2
+table,Table 16.,0.23,True,.5 | 1 | 0.64 | Bengaluru | 538 | 1.0 | 2.5 | 0 | 0.23 | Lucknow
+table,Table 16.,3.5,True,ru | 538 | 1.0 | 2.5 | 0 | 0.23 | Lucknow | 507 | 3.5 | 8.5 | 0
+table,Table 16.,8.5,True,38 | 1.0 | 2.5 | 0 | 0.23 | Lucknow | 507 | 3.5 | 8.5 | 0 | 0.8
+table,Table 16.,0.82,True, 2.5 | 0 | 0.23 | Lucknow | 507 | 3.5 | 8.5 | 0 | 0.82 | Kolkata
+table,Table 16.,0.0,True,ow | 507 | 3.5 | 8.5 | 0 | 0.82 | Kolkata | 495 | 0.0 | 2.0 | 0
+table,Table 16.,2.0,True,07 | 3.5 | 8.5 | 0 | 0.82 | Kolkata | 495 | 0.0 | 2.0 | 0 | 0.1
+table,Table 16.,0.16,True, 8.5 | 0 | 0.82 | Kolkata | 495 | 0.0 | 2.0 | 0 | 0.16 | Patna |
+table,Table 16.,2.5,True,kata | 495 | 0.0 | 2.0 | 0 | 0.16 | Patna | 369 | 2.5 | 4.5 | 0
+table,Table 16.,4.5,True, 495 | 0.0 | 2.0 | 0 | 0.16 | Patna | 369 | 2.5 | 4.5 | 0 | 0.7
+table,Table 16.,0.71,True, | 2.0 | 0 | 0.16 | Patna | 369 | 2.5 | 4.5 | 0 | 0.71 | Chennai
+table,Table 16.,0.0,True,na | 369 | 2.5 | 4.5 | 0 | 0.71 | Chennai | 323 | 0.0 | 1.0 | 0
+table,Table 16.,1.0,True,69 | 2.5 | 4.5 | 0 | 0.71 | Chennai | 323 | 0.0 | 1.0 | 0 | 0.1
+table,Table 16.,0.11,True, 4.5 | 0 | 0.71 | Chennai | 323 | 0.0 | 1.0 | 0 | 0.11 | Hyderab
+table,Table 16.,0.0,True, | 323 | 0.0 | 1.0 | 0 | 0.11 | Hyderabad | 312 | 0.0 | 0.5 | 0
+table,Table 16.,0.5,True, | 0.0 | 1.0 | 0 | 0.11 | Hyderabad | 312 | 0.0 | 0.5 | 0 | 0.1
+table,Table 16.,0.11,True,.0 | 0 | 0.11 | Hyderabad | 312 | 0.0 | 0.5 | 0 | 0.11 | Ranchi 
+table,Table 16.,1.0,True,bad | 312 | 0.0 | 0.5 | 0 | 0.11 | Ranchi | 282 | 1.0 | 7.0 | 0
+table,Table 16.,7.0,True,312 | 0.0 | 0.5 | 0 | 0.11 | Ranchi | 282 | 1.0 | 7.0 | 0 | 0.6
+table,Table 16.,0.64,True,| 0.5 | 0 | 0.11 | Ranchi | 282 | 1.0 | 7.0 | 0 | 0.64 | Ahmedab
+table,Table 16.,0.5,True, | 282 | 1.0 | 7.0 | 0 | 0.64 | Ahmedabad | 261 | 0.5 | 2.0 | 0
+table,Table 16.,2.0,True, | 1.0 | 7.0 | 0 | 0.64 | Ahmedabad | 261 | 0.5 | 2.0 | 0 | 0.4
+table,Table 16.,0.47,True,.0 | 0 | 0.64 | Ahmedabad | 261 | 0.5 | 2.0 | 0 | 0.47 | Jaipur 
+table,Table 16.,1.0,True,bad | 261 | 0.5 | 2.0 | 0 | 0.47 | Jaipur | 227 | 1.0 | 9.5 | 0
+table,Table 16.,9.5,True,261 | 0.5 | 2.0 | 0 | 0.47 | Jaipur | 227 | 1.0 | 9.5 | 0 | 0.8
+table,Table 16.,0.87,True,| 2.0 | 0 | 0.47 | Jaipur | 227 | 1.0 | 9.5 | 0 | 0.87 | Bhopal 
+table,Table 16.,1.0,True,pur | 227 | 1.0 | 9.5 | 0 | 0.87 | Bhopal | 224 | 1.0 | 3.5 | 0
+table,Table 16.,3.5,True,227 | 1.0 | 9.5 | 0 | 0.87 | Bhopal | 224 | 1.0 | 3.5 | 0 | 0.6
+table,Table 16.,0.60,True,| 9.5 | 0 | 0.87 | Bhopal | 224 | 1.0 | 3.5 | 0 | 0.60 | Bhubane
+table,Table 16.,0.0,True, 224 | 1.0 | 3.5 | 0 | 0.60 | Bhubaneswar | 206 | 0.0 | 0.0 | 0
+table,Table 16.,0.0,True, 1.0 | 3.5 | 0 | 0.60 | Bhubaneswar | 206 | 0.0 | 0.0 | 0 | 0.1
+table,Table 16.,0.13,True, | 0 | 0.60 | Bhubaneswar | 206 | 0.0 | 0.0 | 0 | 0.13 | Nagpur 
+table,Table 16.,1.0,True,war | 206 | 0.0 | 0.0 | 0 | 0.13 | Nagpur | 184 | 1.0 | 3.0 | 0
+table,Table 16.,3.0,True,206 | 0.0 | 0.0 | 0 | 0.13 | Nagpur | 184 | 1.0 | 3.0 | 0 | 0.6
+table,Table 16.,0.66,True,| 0.0 | 0 | 0.13 | Nagpur | 184 | 1.0 | 3.0 | 0 | 0.66 | Jammu |
+table,Table 16.,0.0,True,gpur | 184 | 1.0 | 3.0 | 0 | 0.66 | Jammu | 153 | 0.0 | 1.0 | 0
+table,Table 16.,1.0,True, 184 | 1.0 | 3.0 | 0 | 0.66 | Jammu | 153 | 0.0 | 1.0 | 0 | 0.3
+table,Table 16.,0.37,True, | 3.0 | 0 | 0.66 | Jammu | 153 | 0.0 | 1.0 | 0 | 0.37 | Guwahat
+table,Table 16.,0.0,True,u | 153 | 0.0 | 1.0 | 0 | 0.37 | Guwahati | 127 | 0.0 | 0.5 | 0
+table,Table 16.,0.5,True,3 | 0.0 | 1.0 | 0 | 0.37 | Guwahati | 127 | 0.0 | 0.5 | 0 | 0.2
+table,Table 16.,0.21,True,1.0 | 0 | 0.37 | Guwahati | 127 | 0.0 | 0.5 | 0 | 0.21 | Trivand
+table,Table 16.,0.0,True, | 127 | 0.0 | 0.5 | 0 | 0.21 | Trivandrum | 60 | 0.0 | 0.0 | 0
+table,Table 16.,0.0,True, | 0.0 | 0.5 | 0 | 0.21 | Trivandrum | 60 | 0.0 | 0.0 | 0 | 0.1
+table,Table 16.,0.11,True,.5 | 0 | 0.21 | Trivandrum | 60 | 0.0 | 0.0 | 0 | 0.11 | Raipur 
+table,Table 16.,0.0,True,ndrum | 60 | 0.0 | 0.0 | 0 | 0.11 | Raipur | 52 | 0.0 | 1.0 | 0
+table,Table 16.,1.0,True,| 60 | 0.0 | 0.0 | 0 | 0.11 | Raipur | 52 | 0.0 | 1.0 | 0 | 0.8
+table,Table 16.,0.86,True, | 0.0 | 0 | 0.11 | Raipur | 52 | 0.0 | 1.0 | 0 | 0.86
+table,Table 17.,2.78,True,May 2016 | 2.78 | 2.39 | 
+table,Table 17.,2.39,True,May 2016 | 2.78 | 2.39 | 1 | 1 |
+table,Table 17.,3.47,True,May 2016 | 2.78 | 2.39 | 1 | 1 | October 2018 | 3.47 | 1.67 | 
+table,Table 17.,1.67,True,016 | 2.78 | 2.39 | 1 | 1 | October 2018 | 3.47 | 1.67 | 3 | 3 |
+table,Table 17.,4.97,True,October 2018 | 3.47 | 1.67 | 3 | 3 | April 2022 | 4.97 | 1.68 | 
+table,Table 17.,1.68,True, 2018 | 3.47 | 1.67 | 3 | 3 | April 2022 | 4.97 | 1.68 | 3 | 7 |
+table,Table 17.,6.75,True,| April 2022 | 4.97 | 1.68 | 3 | 7 | April 2026 | 6.75 | 1.78 | 
+table,Table 17.,1.78,True, 2022 | 4.97 | 1.68 | 3 | 7 | April 2026 | 6.75 | 1.78 | 3 | 4
+table,Table D1.,0.92,True,", economic, untagged | 2019 onwards | 143 | 132 | 0.92 | English"
+table,Table D1.,0.85,True,"glish, economic, untagged | 2015–18 | 157 | 134 | 0.85 | English"
+table,Table D1.,0.93,True,"85 | English, tagged | 2019 onwards | 177 | 165 | 0.93 | English"
+table,Table D1.,0.74,True,"5 | 0.93 | English, tagged | 2015–18 | 123 | 91 | 0.74 | Hindi/M"
+table,Table D1.,0.94,True,"hi, economic, untagged | 2019 onwards | 54 | 51 | 0.94 | Hindi/M"
+table,Table D1.,0.85,True,"Marathi, economic, untagged | 2015–18 | 46 | 39 | 0.85 | Hindi/M"
+table,Table D1.,0.96,True," Hindi/Marathi, tagged | 2019 onwards | 68 | 65 | 0.96 | Hindi/M"
+table,Table D1.,0.81,True,".96 | Hindi/Marathi, tagged | 2015–18 | 32 | 26 | 0.81 | Non-eco"
+table,Table D1.,0.95,True," | Non-economic, other | 2019 onwards | 41 | 39 | 0.95 | Non-eco"
+table,Table D1.,0.81,True," 0.95 | Non-economic, other | 2015–18 | 59 | 48 | 0.81 | Non-eco"
+table,Table D1.,0.95,True, price word in address | 2019 onwards | 80 | 76 | 0.95 | Non-eco
+table,Table D1.,0.94,True,"omic, price word in address | 2015–18 | 70 | 66 | 0.94 | Other I"
+table,Table D1.,0.95,True,"es, economic, untagged | 2019 onwards | 62 | 59 | 0.95 | Other I"
+table,Table D1.,0.82,True,"nguages, economic, untagged | 2015–18 | 38 | 31 | 0.82 | Other I"
+table,Table D1.,0.99,True,"dian languages, tagged | 2019 onwards | 66 | 65 | 0.99 | Other I"
+table,Table D1.,0.76,True,"er Indian languages, tagged | 2015–18 | 34 | 26 | 0.76"
+table,Table E1.,0.261,True,Word share | 56 | 0.261 | (−0.014
+table,Table E1.,−0.014,True,"Word share | 56 | 0.261 | (−0.014, 0.537) |"
+table,Table E1.,0.537,True,"Word share | 56 | 0.261 | (−0.014, 0.537) | 0.066 "
+table,Table E1.,0.066,True,"Word share | 56 | 0.261 | (−0.014, 0.537) | 0.066 | Pooled "
+table,Table E1.,0.333,True,"1 | (−0.014, 0.537) | 0.066 | Pooled ratio | 56 | 0.333 | (0.113,"
+table,Table E1.,0.113,True,"14, 0.537) | 0.066 | Pooled ratio | 56 | 0.333 | (0.113, 0.554) |"
+table,Table E1.,0.554,True,"37) | 0.066 | Pooled ratio | 56 | 0.333 | (0.113, 0.554) | 0.020 "
+table,Table E1.,0.020,True,"66 | Pooled ratio | 56 | 0.333 | (0.113, 0.554) | 0.020 | Share a"
+table,Table E1.,0.328,True,"4) | 0.020 | Share among economic articles | 56 | 0.328 | (0.027,"
+table,Table E1.,0.027,True,"0 | Share among economic articles | 56 | 0.328 | (0.027, 0.628) |"
+table,Table E1.,0.628,True,"re among economic articles | 56 | 0.328 | (0.027, 0.628) | 0.029 "
+table,Table E1.,0.029,True,"economic articles | 56 | 0.328 | (0.027, 0.628) | 0.029 | Wire-co"
+table,Table E1.,0.325,True," (0.027, 0.628) | 0.029 | Wire-copy filter | 56 | 0.325 | (0.009,"
+table,Table E1.,0.009,True,"0.628) | 0.029 | Wire-copy filter | 56 | 0.325 | (0.009, 0.641) |"
+table,Table E1.,0.641,True,"| 0.029 | Wire-copy filter | 56 | 0.325 | (0.009, 0.641) | 0.037 "
+table,Table E1.,0.037,True," Wire-copy filter | 56 | 0.325 | (0.009, 0.641) | 0.037 | Strict "
+table,Table E1.,0.324,True,"(0.009, 0.641) | 0.037 | Strict definition | 56 | 0.324 | (0.015,"
+table,Table E1.,0.015,True,".641) | 0.037 | Strict definition | 56 | 0.324 | (0.015, 0.633) |"
+table,Table E1.,0.633,True," 0.037 | Strict definition | 56 | 0.324 | (0.015, 0.633) | 0.034 "
+table,Table E1.,0.034,True,"Strict definition | 56 | 0.324 | (0.015, 0.633) | 0.034 | Price f"
+table,Table E1.,0.251,True,"24 | (0.015, 0.633) | 0.034 | Price family | 56 | 0.251 | (0.068,"
+table,Table E1.,0.068,True,"15, 0.633) | 0.034 | Price family | 56 | 0.251 | (0.068, 0.434) |"
+table,Table E1.,0.434,True,"33) | 0.034 | Price family | 56 | 0.251 | (0.068, 0.434) | 0.058 "
+table,Table E1.,0.058,True,"34 | Price family | 56 | 0.251 | (0.068, 0.434) | 0.058 | World B"
+table,Table E1.,0.324,True," (0.068, 0.434) | 0.058 | World Bank theme | 56 | 0.324 | (0.015,"
+table,Table E1.,0.015,True,"0.434) | 0.058 | World Bank theme | 56 | 0.324 | (0.015, 0.633) |"
+table,Table E1.,0.633,True,"| 0.058 | World Bank theme | 56 | 0.324 | (0.015, 0.633) | 0.044 "
+table,Table E1.,0.044,True," World Bank theme | 56 | 0.324 | (0.015, 0.633) | 0.044 | 2018 co"
+table,Table E1.,0.282,True,re including additional vernacular outlets | 47 | 0.282 | (−0.015
+table,Table E1.,−0.015,True,"ing additional vernacular outlets | 47 | 0.282 | (−0.015, 0.579) |"
+table,Table E1.,0.579,True,"tional vernacular outlets | 47 | 0.282 | (−0.015, 0.579) | 0.072"
+table,Table E1.,0.072,True,"rnacular outlets | 47 | 0.282 | (−0.015, 0.579) | 0.072"
+table,Table E2.,0.179,True,"Index × High | 56 | 0.179 | (0.057,"
+table,Table E2.,0.057,True,"Index × High | 56 | 0.179 | (0.057, 0.301) |"
+table,Table E2.,0.301,True,"Index × High | 56 | 0.179 | (0.057, 0.301) | 0.016 "
+table,Table E2.,0.016,True,"Index × High | 56 | 0.179 | (0.057, 0.301) | 0.016 | Index ×"
+table,Table E2.,0.121,True,"(0.057, 0.301) | 0.016 | Index × (CPI − 4) | 56 | 0.121 | (0.025,"
+table,Table E2.,0.025,True,".301) | 0.016 | Index × (CPI − 4) | 56 | 0.121 | (0.025, 0.216) |"
+table,Table E2.,0.216,True," 0.016 | Index × (CPI − 4) | 56 | 0.121 | (0.025, 0.216) | 0.062 "
+table,Table E2.,0.062,True,"Index × (CPI − 4) | 56 | 0.121 | (0.025, 0.216) | 0.062 | Index ×"
+table,Table E2.,0.038,True," | 0.062 | Index × High, excluding 2020–21 | 46 | 0.038 | (−0.256"
+table,Table E2.,−0.256,True,"| Index × High, excluding 2020–21 | 46 | 0.038 | (−0.256, 0.332) |"
+table,Table E2.,0.332,True,"× High, excluding 2020–21 | 46 | 0.038 | (−0.256, 0.332) | 0.776 "
+table,Table E2.,0.776,True,"xcluding 2020–21 | 46 | 0.038 | (−0.256, 0.332) | 0.776 | Leave o"
+table,Table E2.,0.184,True,"0.776 | Leave out high-inflation episode 1 | 55 | 0.184 | (0.068,"
+table,Table E2.,0.068,True,"eave out high-inflation episode 1 | 55 | 0.184 | (0.068, 0.299) |"
+table,Table E2.,0.299,True,"t high-inflation episode 1 | 55 | 0.184 | (0.068, 0.299) | — | Le"
+table,Table E2.,0.180,True,") | — | Leave out high-inflation episode 2 | 55 | 0.180 | (0.060,"
+table,Table E2.,0.060,True,"eave out high-inflation episode 2 | 55 | 0.180 | (0.060, 0.299) |"
+table,Table E2.,0.299,True,"t high-inflation episode 2 | 55 | 0.180 | (0.060, 0.299) | — | Le"
+table,Table E2.,0.274,True,) | — | Leave out high-inflation episode 3 | 52 | 0.274 | (−0.246
+table,Table E2.,−0.246,True,"eave out high-inflation episode 3 | 52 | 0.274 | (−0.246, 0.793) |"
+table,Table E2.,0.793,True," high-inflation episode 3 | 52 | 0.274 | (−0.246, 0.793) | — | Le"
+table,Table E2.,0.157,True,) | — | Leave out high-inflation episode 4 | 55 | 0.157 | (−0.011
+table,Table E2.,−0.011,True,"eave out high-inflation episode 4 | 55 | 0.157 | (−0.011, 0.325) |"
+table,Table E2.,0.325,True," high-inflation episode 4 | 55 | 0.157 | (−0.011, 0.325) | — | Le"
+table,Table E2.,0.211,True,) | — | Leave out high-inflation episode 5 | 51 | 0.211 | (−0.063
+table,Table E2.,−0.063,True,"eave out high-inflation episode 5 | 51 | 0.211 | (−0.063, 0.484) |"
+table,Table E2.,0.484,True," high-inflation episode 5 | 51 | 0.211 | (−0.063, 0.484) | — | Le"
+table,Table E2.,0.180,True,") | — | Leave out high-inflation episode 6 | 55 | 0.180 | (0.059,"
+table,Table E2.,0.059,True,"eave out high-inflation episode 6 | 55 | 0.180 | (0.059, 0.300) |"
+table,Table E2.,0.300,True,"t high-inflation episode 6 | 55 | 0.180 | (0.059, 0.300) | — | Le"
+table,Table E2.,0.182,True,") | — | Leave out high-inflation episode 7 | 55 | 0.182 | (0.058,"
+table,Table E2.,0.058,True,"eave out high-inflation episode 7 | 55 | 0.182 | (0.058, 0.307) |"
+table,Table E2.,0.307,True,"t high-inflation episode 7 | 55 | 0.182 | (0.058, 0.307) | —"
+table,Table E3.,0.054,True,0 | 0.054 | 0.060 |
+table,Table E3.,0.060,True,0 | 0.054 | 0.060 | 0.016 |
+table,Table E3.,0.016,True,0 | 0.054 | 0.060 | 0.016 | 0.011 |
+table,Table E3.,0.011,True,0 | 0.054 | 0.060 | 0.016 | 0.011 | 1 | 0.1
+table,Table E3.,0.123,True,0 | 0.054 | 0.060 | 0.016 | 0.011 | 1 | 0.123 | 0.094 |
+table,Table E3.,0.094,True,0 | 0.054 | 0.060 | 0.016 | 0.011 | 1 | 0.123 | 0.094 | 0.020 |
+table,Table E3.,0.020,True,054 | 0.060 | 0.016 | 0.011 | 1 | 0.123 | 0.094 | 0.020 | 0.011 |
+table,Table E3.,0.011,True,060 | 0.016 | 0.011 | 1 | 0.123 | 0.094 | 0.020 | 0.011 | 2 | 0.0
+table,Table E3.,0.012,True,| 0.011 | 1 | 0.123 | 0.094 | 0.020 | 0.011 | 2 | 0.012 | 0.091 |
+table,Table E3.,0.091,True,| 1 | 0.123 | 0.094 | 0.020 | 0.011 | 2 | 0.012 | 0.091 | 0.020 |
+table,Table E3.,0.020,True,123 | 0.094 | 0.020 | 0.011 | 2 | 0.012 | 0.091 | 0.020 | 0.013 |
+table,Table E3.,0.013,True,094 | 0.020 | 0.011 | 2 | 0.012 | 0.091 | 0.020 | 0.013 | 3 | 0.0
+table,Table E3.,0.058,True,| 0.011 | 2 | 0.012 | 0.091 | 0.020 | 0.013 | 3 | 0.058 | 0.091 |
+table,Table E3.,0.091,True,| 2 | 0.012 | 0.091 | 0.020 | 0.013 | 3 | 0.058 | 0.091 | 0.013 |
+table,Table E3.,0.013,True,012 | 0.091 | 0.020 | 0.013 | 3 | 0.058 | 0.091 | 0.013 | 0.008 |
+table,Table E3.,0.008,True,091 | 0.020 | 0.013 | 3 | 0.058 | 0.091 | 0.013 | 0.008 | 4 | 0.1
+table,Table E3.,0.140,True,| 0.013 | 3 | 0.058 | 0.091 | 0.013 | 0.008 | 4 | 0.140 | 0.102 |
+table,Table E3.,0.102,True,| 3 | 0.058 | 0.091 | 0.013 | 0.008 | 4 | 0.140 | 0.102 | 0.009 |
+table,Table E3.,0.009,True,058 | 0.091 | 0.013 | 0.008 | 4 | 0.140 | 0.102 | 0.009 | 0.006 |
+table,Table E3.,0.006,True,091 | 0.013 | 0.008 | 4 | 0.140 | 0.102 | 0.009 | 0.006 | 5 | 0.0
+table,Table E3.,0.074,True,| 0.008 | 4 | 0.140 | 0.102 | 0.009 | 0.006 | 5 | 0.074 | 0.163 |
+table,Table E3.,0.163,True,| 4 | 0.140 | 0.102 | 0.009 | 0.006 | 5 | 0.074 | 0.163 | 0.006 |
+table,Table E3.,0.006,True,140 | 0.102 | 0.009 | 0.006 | 5 | 0.074 | 0.163 | 0.006 | 0.006 |
+table,Table E3.,0.006,True,102 | 0.009 | 0.006 | 5 | 0.074 | 0.163 | 0.006 | 0.006 | 6 | 0.0
+table,Table E3.,0.055,True,| 0.006 | 5 | 0.074 | 0.163 | 0.006 | 0.006 | 6 | 0.055 | 0.174 |
+table,Table E3.,0.174,True,| 5 | 0.074 | 0.163 | 0.006 | 0.006 | 6 | 0.055 | 0.174 | 0.011 |
+table,Table E3.,0.011,True,074 | 0.163 | 0.006 | 0.006 | 6 | 0.055 | 0.174 | 0.011 | 0.007 |
+table,Table E3.,0.007,True,163 | 0.006 | 0.006 | 6 | 0.055 | 0.174 | 0.011 | 0.007 | 7 | −0.
+table,Table E3.,−0.041,True,| 0.006 | 6 | 0.055 | 0.174 | 0.011 | 0.007 | 7 | −0.041 | 0.136 |
+table,Table E3.,0.136,True, 6 | 0.055 | 0.174 | 0.011 | 0.007 | 7 | −0.041 | 0.136 | 0.009 |
+table,Table E3.,0.009,True,55 | 0.174 | 0.011 | 0.007 | 7 | −0.041 | 0.136 | 0.009 | 0.004 |
+table,Table E3.,0.004,True,74 | 0.011 | 0.007 | 7 | −0.041 | 0.136 | 0.009 | 0.004 | 8 | 0.0
+table,Table E3.,0.015,True, 0.007 | 7 | −0.041 | 0.136 | 0.009 | 0.004 | 8 | 0.015 | 0.141 |
+table,Table E3.,0.141,True, 7 | −0.041 | 0.136 | 0.009 | 0.004 | 8 | 0.015 | 0.141 | 0.010 |
+table,Table E3.,0.010,True,041 | 0.136 | 0.009 | 0.004 | 8 | 0.015 | 0.141 | 0.010 | 0.004 |
+table,Table E3.,0.004,True,136 | 0.009 | 0.004 | 8 | 0.015 | 0.141 | 0.010 | 0.004 | 9 | −0.
+table,Table E3.,−0.002,True,| 0.004 | 8 | 0.015 | 0.141 | 0.010 | 0.004 | 9 | −0.002 | 0.131 |
+table,Table E3.,0.131,True, 8 | 0.015 | 0.141 | 0.010 | 0.004 | 9 | −0.002 | 0.131 | 0.013 |
+table,Table E3.,0.013,True,15 | 0.141 | 0.010 | 0.004 | 9 | −0.002 | 0.131 | 0.013 | 0.004 |
+table,Table E3.,0.004,True,41 | 0.010 | 0.004 | 9 | −0.002 | 0.131 | 0.013 | 0.004 | 10 | 0.
+table,Table E3.,0.111,True,0.004 | 9 | −0.002 | 0.131 | 0.013 | 0.004 | 10 | 0.111 | 0.108 |
+table,Table E3.,0.108,True,9 | −0.002 | 0.131 | 0.013 | 0.004 | 10 | 0.111 | 0.108 | −0.001 
+table,Table E3.,−0.001,True,02 | 0.131 | 0.013 | 0.004 | 10 | 0.111 | 0.108 | −0.001 | 0.006 |
+table,Table E3.,0.006,True,1 | 0.013 | 0.004 | 10 | 0.111 | 0.108 | −0.001 | 0.006 | 11 | 0.
+table,Table E3.,0.032,True,.004 | 10 | 0.111 | 0.108 | −0.001 | 0.006 | 11 | 0.032 | 0.144 |
+table,Table E3.,0.144,True,0 | 0.111 | 0.108 | −0.001 | 0.006 | 11 | 0.032 | 0.144 | −0.008 
+table,Table E3.,−0.008,True,1 | 0.108 | −0.001 | 0.006 | 11 | 0.032 | 0.144 | −0.008 | 0.008 |
+table,Table E3.,0.008,True, | −0.001 | 0.006 | 11 | 0.032 | 0.144 | −0.008 | 0.008 | 12 | −0
+table,Table E3.,−0.040,True,.006 | 11 | 0.032 | 0.144 | −0.008 | 0.008 | 12 | −0.040 | 0.215 |
+table,Table E3.,0.215,True, | 0.032 | 0.144 | −0.008 | 0.008 | 12 | −0.040 | 0.215 | −0.001 
+table,Table E3.,−0.001,True, | 0.144 | −0.008 | 0.008 | 12 | −0.040 | 0.215 | −0.001 | 0.007
+table,Table E3.,0.007,True,| −0.008 | 0.008 | 12 | −0.040 | 0.215 | −0.001 | 0.007
+table,Table E4.,102.5,True,| 103 | 2022 | 6 | 91 | 92 | 93 | 2023 | 6 | 86 | 102.5 | 103 | 2
+table,Table E4.,97.5,True,3 | 2023 | 6 | 86 | 102.5 | 103 | 2024 | 6 | 96 | 97.5 | 101 | 2
+table,Table E4.,97.5,True, | 95 | 2026 | 5 | 84 | 88 | 92 | All | 62 | 84 | 97.5 | 103
+table,Table F1.,0.259,True,"re | English index alone (one-year median) | 56 | 0.259 | (0.015,"
+table,Table F1.,0.015,True,"ish index alone (one-year median) | 56 | 0.259 | (0.015, 0.503) |"
+table,Table F1.,0.503,True,"ex alone (one-year median) | 56 | 0.259 | (0.015, 0.503) | 0.043 "
+table,Table F1.,0.043,True,"(one-year median) | 56 | 0.259 | (0.015, 0.503) | 0.043 | Baselin"
+table,Table F1.,0.264,True,"ian-language index alone (one-year median) | 56 | 0.264 | (0.027,"
+table,Table F1.,0.027,True,"age index alone (one-year median) | 56 | 0.264 | (0.027, 0.501) |"
+table,Table F1.,0.501,True,"ex alone (one-year median) | 56 | 0.264 | (0.027, 0.501) | 0.036 "
+table,Table F1.,0.036,True,"(one-year median) | 56 | 0.264 | (0.027, 0.501) | 0.036 | Baselin"
+table,Table F1.,0.206,True,Indian-language index with English control | 56 | 0.206 | (−0.048
+table,Table F1.,−0.048,True,"nguage index with English control | 56 | 0.206 | (−0.048, 0.460) |"
+table,Table F1.,0.460,True,"ndex with English control | 56 | 0.206 | (−0.048, 0.460) | 0.090 "
+table,Table F1.,0.090,True," English control | 56 | 0.206 | (−0.048, 0.460) | 0.090 | Baselin"
+table,Table F1.,0.157,True,"| English index alone (current perception) | 56 | 0.157 | (0.012,"
+table,Table F1.,0.012,True," index alone (current perception) | 56 | 0.157 | (0.012, 0.303) |"
+table,Table F1.,0.303,True,"alone (current perception) | 56 | 0.157 | (0.012, 0.303) | 0.108 "
+table,Table F1.,0.108,True,"rrent perception) | 56 | 0.157 | (0.012, 0.303) | 0.108 | Baselin"
+table,Table F1.,0.131,True,-language index alone (current perception) | 56 | 0.131 | (−0.041
+table,Table F1.,−0.041,True," index alone (current perception) | 56 | 0.131 | (−0.041, 0.302) |"
+table,Table F1.,0.302,True,"lone (current perception) | 56 | 0.131 | (−0.041, 0.302) | 0.133 "
+table,Table F1.,0.133,True,"rent perception) | 56 | 0.131 | (−0.041, 0.302) | 0.133 | Baselin"
+table,Table F1.,0.083,True, with English control (current perception) | 56 | 0.083 | (−0.086
+table,Table F1.,−0.086,True,"lish control (current perception) | 56 | 0.083 | (−0.086, 0.252) |"
+table,Table F1.,0.252,True,"trol (current perception) | 56 | 0.083 | (−0.086, 0.252) | 0.306 "
+table,Table F1.,0.306,True,"rent perception) | 56 | 0.083 | (−0.086, 0.252) | 0.306 | Price f"
+table,Table F1.,−0.053,True,mily | International share alongside index | 56 | −0.053 | (−0.285
+table,Table F1.,−0.285,True,"ernational share alongside index | 56 | −0.053 | (−0.285, 0.179) |"
+table,Table F1.,0.179,True,"al share alongside index | 56 | −0.053 | (−0.285, 0.179) | 0.670 "
+table,Table F1.,0.670,True,"alongside index | 56 | −0.053 | (−0.285, 0.179) | 0.670 | Price f"
+table,Table F1.,0.262,True,"y | Index with international-share control | 56 | 0.262 | (0.080,"
+table,Table F1.,0.080,True," with international-share control | 56 | 0.262 | (0.080, 0.443) |"
+table,Table F1.,0.443,True,"nternational-share control | 56 | 0.262 | (0.080, 0.443) | 0.033 "
+table,Table F1.,0.033,True,"nal-share control | 56 | 0.262 | (0.080, 0.443) | 0.033 | Price f"
+table,Table F1.,0.291,True,ily | Excess attention during disinflation | 56 | 0.291 | (−0.027
+table,Table F1.,−0.027,True,"ess attention during disinflation | 56 | 0.291 | (−0.027, 0.610) |"
+table,Table F1.,0.610,True,"ntion during disinflation | 56 | 0.291 | (−0.027, 0.610) | 0.185 "
+table,Table F1.,0.185,True,"ing disinflation | 56 | 0.291 | (−0.027, 0.610) | 0.185 | Price f"
+table,Table F1.,0.154,True,"mily | Index with excess-attention control | 56 | 0.154 | (0.040,"
+table,Table F1.,0.040,True,"dex with excess-attention control | 56 | 0.154 | (0.040, 0.268) |"
+table,Table F1.,0.268,True,"h excess-attention control | 56 | 0.154 | (0.040, 0.268) | 0.056 "
+table,Table F1.,0.056,True,"attention control | 56 | 0.154 | (0.040, 0.268) | 0.056 | Baselin"
+table,Table F1.,0.002,True,line | International share alongside index | 56 | 0.002 | (−0.208
+table,Table F1.,−0.208,True,"ternational share alongside index | 56 | 0.002 | (−0.208, 0.211) |"
+table,Table F1.,0.211,True,"nal share alongside index | 56 | 0.002 | (−0.208, 0.211) | 0.989 "
+table,Table F1.,0.989,True," alongside index | 56 | 0.002 | (−0.208, 0.211) | 0.989 | Baselin"
+table,Table F1.,0.328,True,"e | Index with international-share control | 56 | 0.328 | (0.014,"
+table,Table F1.,0.014,True," with international-share control | 56 | 0.328 | (0.014, 0.642) |"
+table,Table F1.,0.642,True,"nternational-share control | 56 | 0.328 | (0.014, 0.642) | 0.044 "
+table,Table F1.,0.044,True,"nal-share control | 56 | 0.328 | (0.014, 0.642) | 0.044 | Baselin"
+table,Table F1.,0.258,True,ine | Excess attention during disinflation | 56 | 0.258 | (−0.162
+table,Table F1.,−0.162,True,"ess attention during disinflation | 56 | 0.258 | (−0.162, 0.678) |"
+table,Table F1.,0.678,True,"ntion during disinflation | 56 | 0.258 | (−0.162, 0.678) | 0.247 "
+table,Table F1.,0.247,True,"ing disinflation | 56 | 0.258 | (−0.162, 0.678) | 0.247 | Baselin"
+table,Table F1.,0.213,True,line | Index with excess-attention control | 56 | 0.213 | (−0.129
+table,Table F1.,−0.129,True,"dex with excess-attention control | 56 | 0.213 | (−0.129, 0.556) |"
+table,Table F1.,0.556,True," excess-attention control | 56 | 0.213 | (−0.129, 0.556) | 0.117"
+table,Table F1.,0.117,True,"ttention control | 56 | 0.213 | (−0.129, 0.556) | 0.117"
+table,Table F2.,−0.006,True,"Salience-weighted median, horse race | 54 | −0.006 | (−0.019"
+table,Table F2.,−0.019,True,"ence-weighted median, horse race | 54 | −0.006 | (−0.019, 0.007) |"
+table,Table F2.,0.007,True,"ghted median, horse race | 54 | −0.006 | (−0.019, 0.007) | 0.429 "
+table,Table F2.,0.429,True,"ian, horse race | 54 | −0.006 | (−0.019, 0.007) | 0.429 | Publish"
+table,Table F2.,0.102,True,"0.007) | 0.429 | Published CPI, horse race | 54 | 0.102 | (−0.075"
+table,Table F2.,−0.075,True,"0.429 | Published CPI, horse race | 54 | 0.102 | (−0.075, 0.279) |"
+table,Table F2.,0.279,True,"Published CPI, horse race | 54 | 0.102 | (−0.075, 0.279) | 0.267 "
+table,Table F2.,0.267,True," CPI, horse race | 54 | 0.102 | (−0.075, 0.279) | 0.267 | Absolut"
+table,Table F2.,−0.002,True,"lute salience-weighted measure, horse race | 54 | −0.002 | (−0.008"
+table,Table F2.,−0.008,True,"nce-weighted measure, horse race | 54 | −0.002 | (−0.008, 0.005) |"
+table,Table F2.,0.005,True,"hted measure, horse race | 54 | −0.002 | (−0.008, 0.005) | 0.573 "
+table,Table F2.,0.573,True,"ure, horse race | 54 | −0.002 | (−0.008, 0.005) | 0.573 | Salienc"
+table,Table F2.,−0.008,True,) | 0.573 | Salience-weighted median alone | 54 | −0.008 | (−0.014
+table,Table F2.,−0.014,True,"| Salience-weighted median alone | 54 | −0.008 | (−0.014, −0.003) "
+table,Table F2.,−0.003,True,"ce-weighted median alone | 54 | −0.008 | (−0.014, −0.003) | 0.040"
+table,Table F2.,0.040,True,"d median alone | 54 | −0.008 | (−0.014, −0.003) | 0.040"
+table,Table F3.,0.632,True,−6 | 0.632 | 99 | 1 
+table,Table F3.,0.752,True,−6 | 0.632 | 99 | 1 | 0.752 | 104 | −
+table,Table F3.,0.677,True,−6 | 0.632 | 99 | 1 | 0.752 | 104 | −5 | 0.677 | 100 | 2
+table,Table F3.,0.716,True,2 | 99 | 1 | 0.752 | 104 | −5 | 0.677 | 100 | 2 | 0.716 | 103 | −
+table,Table F3.,0.700,True,| 104 | −5 | 0.677 | 100 | 2 | 0.716 | 103 | −4 | 0.700 | 101 | 3
+table,Table F3.,0.671,True, | 100 | 2 | 0.716 | 103 | −4 | 0.700 | 101 | 3 | 0.671 | 102 | −
+table,Table F3.,0.739,True,| 103 | −4 | 0.700 | 101 | 3 | 0.671 | 102 | −3 | 0.739 | 102 | 4
+table,Table F3.,0.633,True, | 101 | 3 | 0.671 | 102 | −3 | 0.739 | 102 | 4 | 0.633 | 101 | −
+table,Table F3.,0.780,True,| 102 | −3 | 0.739 | 102 | 4 | 0.633 | 101 | −2 | 0.780 | 103 | 5
+table,Table F3.,0.578,True, | 102 | 4 | 0.633 | 101 | −2 | 0.780 | 103 | 5 | 0.578 | 100 | −
+table,Table F3.,0.797,True,| 101 | −2 | 0.780 | 103 | 5 | 0.578 | 100 | −1 | 0.797 | 104 | 6
+table,Table F3.,0.499,True, | 103 | 5 | 0.578 | 100 | −1 | 0.797 | 104 | 6 | 0.499 | 99 | 0 
+table,Table F3.,0.905,True,8 | 100 | −1 | 0.797 | 104 | 6 | 0.499 | 99 | 0 | 0.905 | 105 |  
+table,Table F4.,3.12,True,Jun 2022 | 3.12 | 0.98 | 
+table,Table F4.,0.98,True,Jun 2022 | 3.12 | 0.98 | 4 | 9 |
+table,Table F4.,1.64,True,Jun 2022 | 3.12 | 0.98 | 4 | 9 | Mar 2025 | 1.64 | 1.31 | 
+table,Table F4.,1.31,True,un 2022 | 3.12 | 0.98 | 4 | 9 | Mar 2025 | 1.64 | 1.31 | 5 | 2 |
+table,Table F4.,2.76,True,| 9 | Mar 2025 | 1.64 | 1.31 | 5 | 2 | Apr 2026 | 2.76 | 1.06 | 
+table,Table F4.,1.06,True,ar 2025 | 1.64 | 1.31 | 5 | 2 | Apr 2026 | 2.76 | 1.06 | 3 | —
+claim,T12 dedup row,"[""Outlets de-duplicated, lifestyle domains dropped (89 outlets)"",""56"",""0.264"",""(0.053, 0.474)"",""0.090""]",True,
+claim,T12 non-energy row,"[""Non-energy price family"",""56"",""0.314"",""(0.012, 0.616)"",""0.042""]",True,
+claim,T12 no-LDV row,"[""No lagged dependent variable"",""57"",""0.175"",""(−0.122, 0.473)"",""0.233""]",True,
+claim,T12 gap row,"[""Months between rounds added"",""56"",""0.339"",""(0.125, 0.553)"",""0.031""]",True,
+claim,T12 per-2m row,"[""Outcome per two months (divided by the months between rounds)"",""56"",""0.243"",""(0.020, 0.466)"",""0.102""]",True,
+claim,T12 market row,"[""Intra-window Brent and INR/USD changes added"",""56"",""0.269"",""(0.104, 0.435)"",""0.045""]",True,
+claim,T12 INR p,"""(0.019, 0.450)"",""0.065""",True,
+claim,4.3.2 dedup,gives 0.26 (p = 0.090),True,
+claim,4.3.2 non-energy,gives 0.31 (p = 0.042),True,
+claim,4.3.2 no-LDV,"gives 0.18 (p = 0.233, N = 57)",True,
+claim,4.3.2 gap,gives 0.34 (p = 0.031),True,
+claim,4.3.2 per-2m,gives 0.24 (p = 0.102),True,
+claim,4.3.2 market,gives 0.27 (p = 0.045),True,
+claim,A1 variants,"p = 0.040; next-month CPI added, p = 0.035; intra-window Brent and INR/USD changes added, p = 0.045",True,
+claim,T11 change in index,"""0.11 [−0.06, 0.29] p = 0.273""",True,
+claim,Bonferroni,Bonferroni p = 0.121,True,
+claim,C14 share/CI,share 0.011; exact Clopper–Pearson 95% CI 0.0003 to 0.062,True,
+claim,C14 baseline,"0.29 at the lower limit of the interval, 0.14 at the point estimate and 0.04 at the upper limit",True,
+claim,C14 price family,"(price family: 0.41, 0.20 and 0.06)",True,
+claim,A6 other languages,98 coded articles (14 relevant),True,
+claim,A6 gating,"(1,026 coded, 118 relevant)",True,
+claim,A6 119,Among the 119 articles,True,
+claim,A5 month rule,26 rounds for which exact fieldwork dates are not published (22 rounds before 2020 and 4 in 2020,True,
+claim,A4 BVAR,"(58 rounds from March 2016 to January 2026 enter; with two lags, 56 observations",True,
+claim,A2 raw,reaches 5.4% in April 2022 and 8.7% in March 2026,True,
+claim,A2 raw baseline,peaks at 3.4% of articles in July 2022,True,
+claim,A2 MA,which peaks at 5.0% in April 2022 and 6.7% in April 2026,True,
+claim,A2 Table 17 note,reaches 8.65% in March 2026,True,
+claim,A2 means,"2.10% of articles in 2016–21, 3.27% in 2022–23 and 2.92% in 2024–26",True,
+claim,C13 mean/corr,(mean 1.21% of articles; correlation 0.72 with the price family),True,
+claim,C12 corr,the index correlates at 0.97 with the published one,True,
+claim,C13 32 articles,the 32 sampled articles tagged only by the price family,True,
+claim,C16 tone,(−2.42 against −1.17; Mann–Whitney p = 0.079),True,
+claim,C16 counts,"(79 rising, 26 falling)",True,
+claim,C15 gap,(median 2.0),True,
+claim,2018 core,the *2018 core* is the set of 99 outlets,True,
+claim,T11 baseline primary p,"p = 0.037""]",True,
+claim,T11 volume-weighted p,"p = 0.011""",True,
+claim,T13 note m3 p,"0.058, 0.054, 0.147 and",True,
+claim,T14/E2 High p,"""(0.06, 0.30)"",""0.016""",True,
+claim,E1 wire p,"""(0.009, 0.641)"",""0.037""",True,
+claim,E1 2018 core p,"""(−0.015, 0.579)"",""0.072""",True,
+claim,F1 ver|eng p,"""(−0.048, 0.460)"",""0.090""",True,
+claim,F1 eng cur p,"""(0.012, 0.303)"",""0.108""",True,
+claim,F1 S^int p,"""(−0.285, 0.179)"",""0.670""",True,
+claim,F1 excess p,"""(−0.027, 0.610)"",""0.185""",True,
+claim,F1 excess base p,"""(−0.162, 0.678)"",""0.247""",True,
+claim,T15 baseline AR1 ratio,"[""AR(1)"",""Baseline"",""1.16""",True,
+claim,T11 60% CI hi,"""0.30 [0.09, 0.50]",True,
+prose screen,prose,0.16,True,y. By that measure GDELT's inflation tag has low precision (0.16) and low recal
+prose screen,prose,0.30,True,"LT's inflation tag has low precision (0.16) and low recall (0.30), and the conc"
+prose screen,prose,0.25,True,ndard deviation of additional coverage is associated with a 0.25 percentage-poi
+prose screen,prose,0.058,True,", the policy rate and survey mode; the bootstrap p-value of 0.058 falls just sho"
+prose screen,prose,0.11,True,oss the reported specifications the coefficient ranges from 0.11–0.14 (index in
+prose screen,prose,0.14,True,he reported specifications the coefficient ranges from 0.11–0.14 (index in chan
+prose screen,prose,0.35,True,"no food-price, repo-rate and survey-mode controls) to about 0.35 (exact-date ro"
+prose screen,prose,0.16,True,es. It is a noisy proxy for attention to inflation (at most 0.16 of tagged arti
+prose screen,prose,5.2,True,e caveats are stated in full in the abstract and in Section 5.2; the paper is 
+prose screen,prose,3.1,True,bes the data and the methods used in the paper. Sub-section 3.1 describes the 
+prose screen,prose,3.2,True,"nel, the survey data and the control variables. Sub-section 3.2 explains how t"
+prose screen,prose,3.3,True,ion 3.2 explains how the index is constructed. Sub-sections 3.3 and 3.4 set ou
+prose screen,prose,3.4,True,explains how the index is constructed. Sub-sections 3.3 and 3.4 set out the de
+prose screen,prose,3.5,True,"f the audit and of the external validation, and sub-section 3.5 presents the e"
+prose screen,prose,2.1,True,al specification.   GDELT's Global Knowledge Graph (version 2.1; GDELT Project
+prose screen,prose,2.0,True,"e, so all Trends-based figures are provisional. GDELT's DOC 2.0 interface, whi"
+prose screen,prose,97.5,True,is test. Between 84 and 103 of the 104 core outlets (median 97.5) contribute to
+prose screen,prose,2.33,True,"the price-family definition, the window index has a mean of 2.33% of articles a"
+prose screen,prose,0.77,True,has a mean of 2.33% of articles and a standard deviation of 0.77 percentage poi
+prose screen,prose,4.92,True,"0.77 percentage points across all rounds, with a maximum of 4.92%. The regressi"
+prose screen,prose,1.14,True,"indow file. The baseline index is about half as large (mean 1.14%, standard dev"
+prose screen,prose,0.52,True,"ndex is about half as large (mean 1.14%, standard deviation 0.52 percentage poi"
+prose screen,prose,0.36,True,"%, standard deviation 0.52 percentage points), ranging from 0.36% in May 2021 t"
+prose screen,prose,2.16,True," 0.52 percentage points), ranging from 0.36% in May 2021 to 2.16% in September "
+prose screen,prose,0.89,True,ndices built separately from odd and even days correlate at 0.89 (Spearman–Brow
+prose screen,prose,0.94,True,and even days correlate at 0.89 (Spearman–Brown coefficient 0.94). This shows t
+prose screen,prose,0.3,True," addressed by the audit. Duplicates across days account for 0.3% of articles, "
+prose screen,prose,3.6,True,"ross days account for 0.3% of articles, and wire copies for 3.6% of inflation "
+prose screen,prose,3.4,True," itself. On scale, the raw monthly baseline series peaks at 3.4% of articles i"
+prose screen,prose,5.4,True,"icles in July 2022, and the raw price-family series reaches 5.4% in April 2022"
+prose screen,prose,8.7,True, the raw price-family series reaches 5.4% in April 2022 and 8.7% in March 2026
+prose screen,prose,5.0,True,"h centred moving average of the same series, which peaks at 5.0% in April 2022"
+prose screen,prose,6.7,True,"e of the same series, which peaks at 5.0% in April 2022 and 6.7% in April 2026"
+prose screen,prose,0.31,True,"thly series correlates only modestly with CPI inflation, at 0.31 contemporaneou"
+prose screen,prose,0.1,True," CPI inflation, at 0.31 contemporaneously, falling to about 0.1 at six-month l"
+prose screen,prose,1.5,True,onomic articles. The years  are over-sampled by a factor of 1.5 because older 
+prose screen,prose,0.74,True,er for older articles: by stratum and period it ranges from 0.74 for tagged Eng
+prose screen,prose,0.99,True,od it ranges from 0.74 for tagged English articles from  to 0.99 for tagged art
+prose screen,prose,0.5,True,otstrap. The analysis plan required a precision of at least 0.5 and a recall o
+prose screen,prose,3.4,True,"ith the highest F2 score, validating it externally (Section 3.4) and, if it fa"
+prose screen,prose,0.5,True,s plan required the monthly index (i) to correlate at least 0.5 with Google se
+prose screen,prose,0.88,True,r interval. Headline and food CPI inflation are correlated (0.88 across rounds)
+prose screen,prose,0.12,True,"annot reject a unit root in the median expectation (ADF p = 0.12, while the KPS"
+prose screen,prose,−5.95,True,"ty), whereas the index is clearly stationary (ADF statistic −5.95, p < 0.001; KP"
+prose screen,prose,0.001,True,"s the index is clearly stationary (ADF statistic −5.95, p < 0.001; KPSS 0.19).  "
+prose screen,prose,0.19,True,"is clearly stationary (ADF statistic −5.95, p < 0.001; KPSS 0.19).  Real-time C"
+prose screen,prose,0.4,True,s use the equal-weighted cosine (EWC) estimator with *B* = ⌈0.4*T*^{2/3}⌉ = 6 
+prose screen,prose,0.05,True,ich just excludes zero may appear alongside a p-value above 0.05; the analysis 
+prose screen,prose,1.00,True,"the two coding passes was very high: the relevance kappa is 1.00 on 1,026 artic"
+prose screen,prose,0.97,True,"0 on 1,026 articles, and the direction and cause kappas are 0.97 and 0.94 on th"
+prose screen,prose,0.94,True,"6 articles, and the direction and cause kappas are 0.97 and 0.94 on the 118 gat"
+prose screen,prose,0.16,True,"the sampled population, the baseline tag has a precision of 0.16 and a recall o"
+prose screen,prose,0.30,True,"n, the baseline tag has a precision of 0.16 and a recall of 0.30, far below the"
+prose screen,prose,0.5,True," and a recall of 0.30, far below the required thresholds of 0.5 and 0.6. No de"
+prose screen,prose,0.16,True,"es, so its audit precision and recall equal the baseline's (0.16 and 0.30).   T"
+prose screen,prose,0.30,True,s audit precision and recall equal the baseline's (0.16 and 0.30).   Table 8 sp
+prose screen,prose,0.88,True,"sh ones. In the gating frame of Table 8, baseline recall is 0.88 for Indian lan"
+prose screen,prose,0.29,True,"f Table 8, baseline recall is 0.88 for Indian languages and 0.29 for English. T"
+prose screen,prose,0.33,True,"ose language cannot be attributed), where English recall is 0.33 and the gap is"
+prose screen,prose,0.55,True,"be attributed), where English recall is 0.33 and the gap is 0.55 (95% CI 0.20 t"
+prose screen,prose,0.20,True,"), where English recall is 0.33 and the gap is 0.55 (95% CI 0.20 to 0.76), far "
+prose screen,prose,0.76,True," English recall is 0.33 and the gap is 0.55 (95% CI 0.20 to 0.76), far beyond t"
+prose screen,prose,0.14,True,"excerpts, almost all English) gives a baseline precision of 0.14 (0.09 to 0.19)"
+prose screen,prose,0.09,True,"ts, almost all English) gives a baseline precision of 0.14 (0.09 to 0.19) and a"
+prose screen,prose,0.19,True,st all English) gives a baseline precision of 0.14 (0.09 to 0.19) and a recall 
+prose screen,prose,0.46,True,a baseline precision of 0.14 (0.09 to 0.19) and a recall of 0.46 (0.25 to 1.00)
+prose screen,prose,0.25,True,line precision of 0.14 (0.09 to 0.19) and a recall of 0.46 (0.25 to 1.00) for E
+prose screen,prose,1.00,True,"cision of 0.14 (0.09 to 0.19) and a recall of 0.46 (0.25 to 1.00) for English, "
+prose screen,prose,0.16,True, while the late batch (short excerpts) gives a precision of 0.16 (0.07 to 0.27)
+prose screen,prose,0.07,True, the late batch (short excerpts) gives a precision of 0.16 (0.07 to 0.27) and a
+prose screen,prose,0.27,True,e batch (short excerpts) gives a precision of 0.16 (0.07 to 0.27) and a recall 
+prose screen,prose,0.09,True,s) gives a precision of 0.16 (0.07 to 0.27) and a recall of 0.09 (0.03 to 0.95)
+prose screen,prose,0.03,True,es a precision of 0.16 (0.07 to 0.27) and a recall of 0.09 (0.03 to 0.95) overa
+prose screen,prose,0.95,True,cision of 0.16 (0.07 to 0.27) and a recall of 0.09 (0.03 to 0.95) overall. The 
+prose screen,prose,0.011,True, 1 of 87 coded articles in that stratum was relevant (share 0.011; exact Clopper
+prose screen,prose,0.0003,True,tum was relevant (share 0.011; exact Clopper–Pearson 95% CI 0.0003 to 0.062). Bec
+prose screen,prose,0.062,True,levant (share 0.011; exact Clopper–Pearson 95% CI 0.0003 to 0.062). Because the 
+prose screen,prose,0.29,True,flow is sensitive to this share: for the baseline tag it is 0.29 at the lower l
+prose screen,prose,0.14,True,"baseline tag it is 0.29 at the lower limit of the interval, 0.14 at the point e"
+prose screen,prose,0.04,True,"lower limit of the interval, 0.14 at the point estimate and 0.04 at the upper l"
+prose screen,prose,0.41,True,"e point estimate and 0.04 at the upper limit (price family: 0.41, 0.20 and 0.06"
+prose screen,prose,0.20,True,"t estimate and 0.04 at the upper limit (price family: 0.41, 0.20 and 0.06). The"
+prose screen,prose,0.06,True,"e and 0.04 at the upper limit (price family: 0.41, 0.20 and 0.06). The recall f"
+prose screen,prose,0.74,True," within each stratum-by-period cell, and retrieval falls to 0.74–0.76 for tagge"
+prose screen,prose,0.76,True,"in each stratum-by-period cell, and retrieval falls to 0.74–0.76 for tagged art"
+prose screen,prose,0.27,True,cording to their address-based codes. Precision stays below 0.27 and recall bel
+prose screen,prose,0.44,True,ss-based codes. Precision stays below 0.27 and recall below 0.44 under every as
+prose screen,prose,0.13,True,"ext, coding from the web address alone gives a precision of 0.13 (0.03 to 0.26)"
+prose screen,prose,0.03,True,"oding from the web address alone gives a precision of 0.13 (0.03 to 0.26), a re"
+prose screen,prose,0.26,True,"om the web address alone gives a precision of 0.13 (0.03 to 0.26), a recall of "
+prose screen,prose,0.56,True,"alone gives a precision of 0.13 (0.03 to 0.26), a recall of 0.56 and an F2 scor"
+prose screen,prose,0.34,True,"of 0.13 (0.03 to 0.26), a recall of 0.56 and an F2 score of 0.34; only 7% of ad"
+prose screen,prose,0.33,True, passes on whether a cause was international was low (kappa 0.33 on 86 articles
+prose screen,prose,4.2,True," the price family had the highest F2 score, and, as Section 4.2 shows, both th"
+prose screen,prose,0.5,True,e correlation with searches for the English term passes the 0.5 threshold unde
+prose screen,prose,0.54,True,"ery definition, although for the price family it falls from 0.54 to 0.41 once a"
+prose screen,prose,0.41,True,"nition, although for the price family it falls from 0.54 to 0.41 once a linear "
+prose screen,prose,0.78,True,ate measurement. The price-family series also correlates at 0.78 with GDELT's k
+prose screen,prose,0.11,True,"ith the Hindi search terms are weak under every definition (0.11 to 0.36), whic"
+prose screen,prose,0.36,True,"Hindi search terms are weak under every definition (0.11 to 0.36), which may re"
+prose screen,prose,2.31,True,the window around the 2024 election results shows a mean of 2.31% of articles i
+prose screen,prose,2.03,True,es in the daily baseline index against a 90th percentile of 2.03% in the surrou
+prose screen,prose,0.42,True,"y windows. Its correlation with searches for ""inflation"" is 0.42 (0.27 after re"
+prose screen,prose,0.27,True,"ows. Its correlation with searches for ""inflation"" is 0.42 (0.27 after removing"
+prose screen,prose,0.33,True,"ion"" is 0.42 (0.27 after removing trend and volume; partial 0.33, 95% CI 0.10 t"
+prose screen,prose,0.10,True,"(0.27 after removing trend and volume; partial 0.33, 95% CI 0.10 to 0.62), belo"
+prose screen,prose,0.62,True,"ter removing trend and volume; partial 0.33, 95% CI 0.10 to 0.62), below the 0."
+prose screen,prose,0.5,True,"d and volume; partial 0.33, 95% CI 0.10 to 0.62), below the 0.5 threshold and "
+prose screen,prose,0.59,True,"95% CI 0.10 to 0.62), below the 0.5 threshold and below the 0.59 of the paper's"
+prose screen,prose,1.91,True,"me months, and it again peaks only in the 2022 episode (z = 1.91; onion −1.06, "
+prose screen,prose,−1.06,True,"nd it again peaks only in the 2022 episode (z = 1.91; onion −1.06, fuel 0.15, to"
+prose screen,prose,0.15,True,"peaks only in the 2022 episode (z = 1.91; onion −1.06, fuel 0.15, tomato 0.98)."
+prose screen,prose,0.98,True," the 2022 episode (z = 1.91; onion −1.06, fuel 0.15, tomato 0.98). The search-c"
+prose screen,prose,0.77,True, one standard deviation of additional price-theme coverage (0.77 percentage poi
+prose screen,prose,0.25,True,e (0.77 percentage points of articles) is associated with a 0.25 percentage-poi
+prose screen,prose,0.07,True,ger change in the median one-year-ahead expectation (95% CI 0.07 to 0.43; wild-
+prose screen,prose,0.43,True,ge in the median one-year-ahead expectation (95% CI 0.07 to 0.43; wild-bootstra
+prose screen,prose,0.058,True,-ahead expectation (95% CI 0.07 to 0.43; wild-bootstrap p = 0.058; N = 56). The 
+prose screen,prose,0.33,True,"baseline tag, which the audit rejected, the same cell gives 0.33 (0.02 to 0.64;"
+prose screen,prose,0.02,True,"ne tag, which the audit rejected, the same cell gives 0.33 (0.02 to 0.64; p = 0"
+prose screen,prose,0.64,True,"which the audit rejected, the same cell gives 0.33 (0.02 to 0.64; p = 0.037). ("
+prose screen,prose,0.037,True,"audit rejected, the same cell gives 0.33 (0.02 to 0.64; p = 0.037). (Section 3.5"
+prose screen,prose,0.72,True,hange in the median expectation has a standard deviation of 0.72 percentage poi
+prose screen,prose,0.25,True,minimum effect detectable with 80% power at the 5% level is 0.25 percentage poi
+prose screen,prose,0.14,True,"gged expectation and headline CPI, the coefficient falls to 0.14 under the pric"
+prose screen,prose,0.09,True,"I, the coefficient falls to 0.14 under the price family and 0.09 under the base"
+prose screen,prose,0.17,True,y falls out; under the price family the estimate shrinks to 0.17 and the interv
+prose screen,prose,0.30,True,ereas under the baseline the point estimate barely changes (0.30) and only the 
+prose screen,prose,0.35,True," with exact fieldwork dates (N = 32) give larger estimates, 0.35 and 0.47, with"
+prose screen,prose,0.47,True,"ct fieldwork dates (N = 32) give larger estimates, 0.35 and 0.47, with wide int"
+prose screen,prose,0.28,True," 90%, or weighting outlets by volume, gives coefficients of 0.28 to 0.34 with b"
+prose screen,prose,0.34,True," weighting outlets by volume, gives coefficients of 0.28 to 0.34 with bootstrap"
+prose screen,prose,0.011,True,oefficients of 0.28 to 0.34 with bootstrap p-values between 0.011 and 0.031. Fif
+prose screen,prose,0.09,True,"is not associated with the previous change in expectations (0.09, −0.20 to 0.39"
+prose screen,prose,−0.20,True," associated with the previous change in expectations (0.09, −0.20 to 0.39), as w"
+prose screen,prose,0.39,True,"ed with the previous change in expectations (0.09, −0.20 to 0.39), as would be "
+prose screen,prose,0.23,True,"ends; and adding next month's CPI leaves the coefficient at 0.23, so the associ"
+prose screen,prose,0.24,True,"her checks requested in review. Adding a linear time trend (0.24, p = 0.068) or"
+prose screen,prose,0.068,True," requested in review. Adding a linear time trend (0.24, p = 0.068) or the two-mo"
+prose screen,prose,0.24,True," = 0.068) or the two-month change in the rupee–dollar rate (0.24, p = 0.065) le"
+prose screen,prose,0.065,True,"or the two-month change in the rupee–dollar rate (0.24, p = 0.065) leaves the es"
+prose screen,prose,0.29,True,"te essentially unchanged in size, as do windows of 10 days (0.29, p = 0.058) an"
+prose screen,prose,0.058,True,"ally unchanged in size, as do windows of 10 days (0.29, p = 0.058) and 7 days (0"
+prose screen,prose,0.26,True,"ize, as do windows of 10 days (0.29, p = 0.058) and 7 days (0.26, p = 0.059). A"
+prose screen,prose,0.059,True," windows of 10 days (0.29, p = 0.058) and 7 days (0.26, p = 0.059). A post-2022 "
+prose screen,prose,0.28,True,"nd its interaction with the index, the slope before 2022 is 0.28 and the intera"
+prose screen,prose,−0.27,True,"index, the slope before 2022 is 0.28 and the interaction is −0.27 (p = 0.052), s"
+prose screen,prose,0.052,True,"slope before 2022 is 0.28 and the interaction is −0.27 (p = 0.052), so the assoc"
+prose screen,prose,0.01,True,"052), so the association after 2022 is close to zero (about 0.01); split sample"
+prose screen,prose,0.26,True,fter 2022 is close to zero (about 0.01); split samples give 0.26 before 2022 (N
+prose screen,prose,0.114,True,"out 0.01); split samples give 0.26 before 2022 (N = 32, p = 0.114) and 0.11 from"
+prose screen,prose,0.11,True,"split samples give 0.26 before 2022 (N = 32, p = 0.114) and 0.11 from 2022 onwa"
+prose screen,prose,0.628,True,"(N = 32, p = 0.114) and 0.11 from 2022 onwards (N = 24, p = 0.628). The associat"
+prose screen,prose,0.35,True,"nt in every window gives larger and more precise estimates (0.35, p = 0.008–0.0"
+prose screen,prose,0.008,True,"y window gives larger and more precise estimates (0.35, p = 0.008–0.012), and re"
+prose screen,prose,0.012,True,"ow gives larger and more precise estimates (0.35, p = 0.008–0.012), and restrict"
+prose screen,prose,0.19,True,"th at least the median number of contributing outlets gives 0.19 (p = 0.018), s"
+prose screen,prose,0.018,True,"t the median number of contributing outlets gives 0.19 (p = 0.018), so the prima"
+prose screen,prose,0.26,True,style and entertainment domains leaves 89 outlets and gives 0.26 (p = 0.090). A
+prose screen,prose,0.090,True,entertainment domains leaves 89 outlets and gives 0.26 (p = 0.090). An index tha
+prose screen,prose,0.31,True,. An index that keeps only the non-energy price codes gives 0.31 (p = 0.042). D
+prose screen,prose,0.042,True, that keeps only the non-energy price codes gives 0.31 (p = 0.042). Dropping the
+prose screen,prose,0.18,True,"1 (p = 0.042). Dropping the lagged dependent variable gives 0.18 (p = 0.233, N "
+prose screen,prose,0.233,True,"42). Dropping the lagged dependent variable gives 0.18 (p = 0.233, N = 57); cont"
+prose screen,prose,0.34,True,"3, N = 57); controlling for the months between rounds gives 0.34 (p = 0.031), a"
+prose screen,prose,0.031,True,"; controlling for the months between rounds gives 0.34 (p = 0.031), and dividing"
+prose screen,prose,0.24,True,".34 (p = 0.031), and dividing the outcome by that gap gives 0.24 (p = 0.102). A"
+prose screen,prose,0.102,True,".031), and dividing the outcome by that gap gives 0.24 (p = 0.102). Adding the c"
+prose screen,prose,0.27,True,nt and the rupee–dollar rate within the 14-day window gives 0.27 (p = 0.045). T
+prose screen,prose,0.045,True, rupee–dollar rate within the 14-day window gives 0.27 (p = 0.045). These compos
+prose screen,prose,0.040,True,"h the 5% level (headline CPI as the only price control, p = 0.040; next-month CP"
+prose screen,prose,0.035,True,"he only price control, p = 0.040; next-month CPI added, p = 0.035; intra-window "
+prose screen,prose,0.045,True," = 0.035; intra-window Brent and INR/USD changes added, p = 0.045), while none o"
+prose screen,prose,0.092,True,"the evidence is weak: the news index's bootstrap p-value is 0.092, and the Trend"
+prose screen,prose,0.18,True,"ion is met in 14 rounds, and the interaction coefficient is 0.18 (p = 0.016). L"
+prose screen,prose,0.016,True," in 14 rounds, and the interaction coefficient is 0.18 (p = 0.016). Leaving out "
+prose screen,prose,0.16,True," high-inflation episodes in turn gives interactions between 0.16 and 0.27, but "
+prose screen,prose,0.27,True,"lation episodes in turn gives interactions between 0.16 and 0.27, but the inter"
+prose screen,prose,0.04,True,"x Table E2). Excluding  removes the interaction altogether (0.04), so it rests "
+prose screen,prose,0.09,True,"With the index ordered before expectations, the response is 0.09 percentage poi"
+prose screen,prose,−0.06,True,onse is zero by construction and later responses range from −0.06 to 0.02. Since
+prose screen,prose,1.00,True, leaves the root mean squared error (RMSE) unchanged (ratio 1.00; Clark–West p 
+prose screen,prose,0.100,True, squared error (RMSE) unchanged (ratio 1.00; Clark–West p = 0.100). The second c
+prose screen,prose,0.036,True,"on and the index together, so its Clark–West rejection (p = 0.036) says nothing "
+prose screen,prose,0.016,True,"nts are positive at every horizon from zero to nine months (0.016, 0.020 and 0.0"
+prose screen,prose,0.020,True," positive at every horizon from zero to nine months (0.016, 0.020 and 0.020 stan"
+prose screen,prose,0.020,True,"at every horizon from zero to nine months (0.016, 0.020 and 0.020 standard devia"
+prose screen,prose,1.4,True,are not individually distinguishable from zero (*t* between 1.4 and 1.8); only
+prose screen,prose,1.8,True,individually distinguishable from zero (*t* between 1.4 and 1.8); only at seve
+prose screen,prose,0.203,True,ponses are zero does not reject (moving-block bootstrap p = 0.203; Bonferroni p 
+prose screen,prose,0.121,True,"ot reject (moving-block bootstrap p = 0.203; Bonferroni p = 0.121), and the cumu"
+prose screen,prose,0.09,True,"p = 0.121), and the cumulative response over 0–12 months is 0.09 (95% CI −0.06 "
+prose screen,prose,−0.06,True,nd the cumulative response over 0–12 months is 0.09 (95% CI −0.06 to 0.24). Resp
+prose screen,prose,0.24,True,mulative response over 0–12 months is 0.09 (95% CI −0.06 to 0.24). Responses to
+prose screen,prose,−0.04,True,"relative to a recursive autoregressive forecast, range from −0.04 to 0.14 standa"
+prose screen,prose,0.14,True,"to a recursive autoregressive forecast, range from −0.04 to 0.14 standard devia"
+prose screen,prose,0.926,True,"ble from zero, and neither is the joint test (bootstrap p = 0.926). The monthly "
+prose screen,prose,0.058,True,"e cell was designated primary, and its bootstrap p-value is 0.058 under the defi"
+prose screen,prose,0.037,True,-value is 0.058 under the definition selected by the audit (0.037 under the reje
+prose screen,prose,0.1,True,one meets the inferential one. Tagged articles make up only 0.1% to 0.9% of lo
+prose screen,prose,0.9,True,s the inferential one. Tagged articles make up only 0.1% to 0.9% of local arti
+prose screen,prose,0.91,True, monthly series move closely together. Their correlation is 0.91 at lag zero an
+prose screen,prose,0.5,True,Their correlation is 0.91 at lag zero and declines to about 0.5–0.6 at six-mon
+prose screen,prose,0.6,True,r correlation is 0.91 at lag zero and declines to about 0.5–0.6 at six-month l
+prose screen,prose,0.66,True,he 2018 core starts); at the window level they correlate at 0.66 (Figure 8). In
+prose screen,prose,0.26,True,"cation, each series on its own gives a coefficient of about 0.26 (English 0.26,"
+prose screen,prose,0.26,True,"eries on its own gives a coefficient of about 0.26 (English 0.26, 0.01 to 0.50;"
+prose screen,prose,0.01,True,"on its own gives a coefficient of about 0.26 (English 0.26, 0.01 to 0.50; India"
+prose screen,prose,0.50,True,"wn gives a coefficient of about 0.26 (English 0.26, 0.01 to 0.50; Indian-langua"
+prose screen,prose,0.26,True," of about 0.26 (English 0.26, 0.01 to 0.50; Indian-language 0.26, 0.03 to 0.50)"
+prose screen,prose,0.03,True,"out 0.26 (English 0.26, 0.01 to 0.50; Indian-language 0.26, 0.03 to 0.50), and "
+prose screen,prose,0.50,True," (English 0.26, 0.01 to 0.50; Indian-language 0.26, 0.03 to 0.50), and the Indi"
+prose screen,prose,0.21,True,and the Indian-language index controlling for English gives 0.21 (−0.05 to 0.46
+prose screen,prose,−0.05,True,e Indian-language index controlling for English gives 0.21 (−0.05 to 0.46; p = 0
+prose screen,prose,0.46,True,language index controlling for English gives 0.21 (−0.05 to 0.46; p = 0.090). T
+prose screen,prose,0.090,True,ndex controlling for English gives 0.21 (−0.05 to 0.46; p = 0.090). The analysis
+prose screen,prose,0.15,True,n required English and Indian-language recall to lie within 0.15 of each other 
+prose screen,prose,0.55,True,"on could be treated as evidence about audiences. The gap is 0.55, so the compar"
+prose screen,prose,−0.006,True,"with the change in current perceived inflation (coefficient −0.006, 95% CI −0.019"
+prose screen,prose,−0.019,True," in current perceived inflation (coefficient −0.006, 95% CI −0.019 to 0.007, p = "
+prose screen,prose,0.007,True,"t perceived inflation (coefficient −0.006, 95% CI −0.019 to 0.007, p = 0.43, N ="
+prose screen,prose,0.43,True," inflation (coefficient −0.006, 95% CI −0.019 to 0.007, p = 0.43, N = 54; Appen"
+prose screen,prose,0.6,True,ly if the audit's agreement on international causes reached 0.6; it is 0.33. T
+prose screen,prose,0.01,True,nternational share is uncorrelated with the baseline index (0.01) and weakly co
+prose screen,prose,0.28,True,x (0.01) and weakly correlated with the price-family index (0.28) (Figure 9). T
+prose screen,prose,0.29,True,"ed in equation (1), it is not associated with expectations (0.29, −0.03 to 0.61"
+prose screen,prose,−0.03,True,"equation (1), it is not associated with expectations (0.29, −0.03 to 0.61; p = 0"
+prose screen,prose,0.61,True,"(1), it is not associated with expectations (0.29, −0.03 to 0.61; p = 0.18). Wi"
+prose screen,prose,0.18,True," not associated with expectations (0.29, −0.03 to 0.61; p = 0.18). With only 56"
+prose screen,prose,2.10,True,rises in 2022 but only partly persists: its monthly mean is 2.10% of articles i
+prose screen,prose,3.27,True,"partly persists: its monthly mean is 2.10% of articles in , 3.27% in  and 2.92%"
+prose screen,prose,2.92,True,"s: its monthly mean is 2.10% of articles in , 3.27% in  and 2.92% in , and the "
+prose screen,prose,0.16,True,surement is imprecise: the inflation tag has a precision of 0.16 and a recall o
+prose screen,prose,0.30,True,": the inflation tag has a precision of 0.16 and a recall of 0.30, the price fam"
+prose screen,prose,0.25,True,"pooling and dropping them changes the primary estimate from 0.25 to 0.26, p = 0"
+prose screen,prose,0.26,True,"and dropping them changes the primary estimate from 0.25 to 0.26, p = 0.090; Ta"
+prose screen,prose,0.090,True,"ng them changes the primary estimate from 0.25 to 0.26, p = 0.090; Table 12); th"
+prose screen,prose,−2.42,True,ded falling have a lower mean tone than those coded rising (−2.42 against −1.17;
+prose screen,prose,−1.17,True,ve a lower mean tone than those coded rising (−2.42 against −1.17; Mann–Whitney 
+prose screen,prose,0.079,True,n those coded rising (−2.42 against −1.17; Mann–Whitney p = 0.079); and a fully 
+prose screen,prose,5.2,True,"oncentrated before 2022, for the reasons set out in Section 5.2; the evidence "
+prose screen,prose,2.1,True,nderlying data are public: the GDELT Global Knowledge Graph 2.1 (via Google Bi
+prose screen,prose,2.0,True,Knowledge Graph 2.1 (via Google BigQuery) and the GDELT DOC 2.0 API; the RBI I

@@ -1,0 +1,102 @@
+{
+ "Table 4.": {
+  "chance_2dp": 0.124,
+  "unmatched": 0
+ },
+ "Table 5.": {
+  "chance_2dp": 0.1,
+  "unmatched": 0
+ },
+ "Table 6.": {
+  "chance_2dp": 0.515,
+  "unmatched": 0
+ },
+ "Table 7.": {
+  "chance_2dp": 0.873,
+  "unmatched": 0
+ },
+ "Table 8.": {
+  "chance_2dp": 0.898,
+  "unmatched": 0
+ },
+ "Table 9.": {
+  "chance_2dp": 0.898,
+  "unmatched": 0
+ },
+ "Table 10.": {
+  "chance_2dp": 0.568,
+  "unmatched": 0
+ },
+ "Table 11.": {
+  "chance_2dp": 0.778,
+  "unmatched": 0
+ },
+ "Table 12.": {
+  "chance_2dp": 0.563,
+  "unmatched": 0
+ },
+ "Table 13.": {
+  "chance_2dp": 0.647,
+  "unmatched": 0
+ },
+ "Table 14.": {
+  "chance_2dp": 0.423,
+  "unmatched": 0
+ },
+ "Table 15.": {
+  "chance_2dp": 0.094,
+  "unmatched": 0
+ },
+ "Table 16.": {
+  "chance_2dp": 0.189,
+  "unmatched": 0
+ },
+ "Table 17.": {
+  "chance_2dp": 0.052,
+  "unmatched": 0
+ },
+ "Table D1.": {
+  "chance_2dp": 0.494,
+  "unmatched": 0
+ },
+ "Table E1.": {
+  "chance_2dp": 0.722,
+  "unmatched": 0
+ },
+ "Table E2.": {
+  "chance_2dp": 0.31,
+  "unmatched": 0
+ },
+ "Table E3.": {
+  "chance_2dp": 0.311,
+  "unmatched": 0
+ },
+ "Table E4.": {
+  "chance_2dp": 0.0,
+  "unmatched": 0
+ },
+ "Table F1.": {
+  "chance_2dp": 0.434,
+  "unmatched": 0
+ },
+ "Table F2.": {
+  "chance_2dp": 0.242,
+  "unmatched": 0
+ },
+ "Table F3.": {
+  "chance_2dp": 0.137,
+  "unmatched": 0
+ },
+ "Table F4.": {
+  "chance_2dp": 0.043,
+  "unmatched": 0
+ },
+ "prose_pool_chance_2dp": 1.0,
+ "prose_pool_chance_3dp": 0.943,
+ "claim: checked": 49,
+ "claim: unmatched": 0,
+ "prose screen: checked": 243,
+ "prose screen: unmatched": 0,
+ "table: checked": 837,
+ "table: unmatched": 0
+}

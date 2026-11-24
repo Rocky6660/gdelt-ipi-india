@@ -248,3 +248,8 @@
 - README findings table aligned with final/IPI_Paper_Final_v3.pdf (matched Trends r 0.42 < 0.5; oil and CPI-surprise responses not jointly significant, p = 0.20 / 0.93; "pre-specified"); v3 PDF is the only paper link; "How to reproduce" lists the script order.
 - paper_full.* and paper_short.* moved to 10_OUTPUTS/paper/archive/ (superseded drafts); assemble_paper.py, check_numbers.py and export_pdf.py point there (check: 526 numbers, 0 unmatched).
 - requirements.txt pinned from the project environment (pip freeze, Python 3.12.16); LICENSE (MIT for code; derived data CC BY 4.0; raw GDELT and article texts not redistributed).
+
+## 2026-11-24 18:40 UTC: revision round 3
+- Source edited: 10_OUTPUTS/paper/final/source/content.js, appendix.js; figures e5_ipi_cpi_peaks_c.png, e2_eng_ver_c.png regenerated (r3_figs.py). build.js untouched.
+- New scripts r3_checks/r3_audit/r3_lp/r3_index/r3_figs/r3_numcheck.py; outputs data/processed/results_revision3/. Full log: 10_OUTPUTS/paper/REVISION3_RESULTS.md.
+- Number check: tables 837/0, claims 49/0, prose screen 243/0.

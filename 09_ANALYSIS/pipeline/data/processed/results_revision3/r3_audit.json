@@ -1,0 +1,137 @@
+{
+ "coded_all": 1113,
+ "relevant_all_first_pass": 119,
+ "relevant_by_stratum": {
+  "flagged": 35,
+  "oth_flagged": 29,
+  "hin_flagged": 22,
+  "nonecon_slug": 22,
+  "econ_unflagged": 8,
+  "oth_econ_unflagged": 2,
+  "nonecon_noslug": 1
+ },
+ "gating_coded": 1026,
+ "gating_relevant": 118,
+ "gating_by_lang_group": {
+  "en": {
+   "coded": 566,
+   "relevant": 51
+  },
+  "hin": {
+   "coded": 181,
+   "relevant": 22
+  },
+  "oth": {
+   "coded": 181,
+   "relevant": 31
+  },
+  "other_nonfocal": {
+   "coded": 98,
+   "relevant": 14
+  }
+ },
+ "other_nonfocal_by_stratum_language": [
+  {
+   "stratum": "econ_unflagged",
+   "language": "ben",
+   "n": 4
+  },
+  {
+   "stratum": "econ_unflagged",
+   "language": "guj",
+   "n": 5
+  },
+  {
+   "stratum": "econ_unflagged",
+   "language": "kan",
+   "n": 10
+  },
+  {
+   "stratum": "econ_unflagged",
+   "language": "mal",
+   "n": 13
+  },
+  {
+   "stratum": "econ_unflagged",
+   "language": "pan",
+   "n": 1
+  },
+  {
+   "stratum": "econ_unflagged",
+   "language": "tam",
+   "n": 4
+  },
+  {
+   "stratum": "econ_unflagged",
+   "language": "tel",
+   "n": 7
+  },
+  {
+   "stratum": "flagged",
+   "language": "ben",
+   "n": 1
+  },
+  {
+   "stratum": "flagged",
+   "language": "guj",
+   "n": 6
+  },
+  {
+   "stratum": "flagged",
+   "language": "mal",
+   "n": 10
+  },
+  {
+   "stratum": "flagged",
+   "language": "pan",
+   "n": 2
+  },
+  {
+   "stratum": "flagged",
+   "language": "tel",
+   "n": 6
+  },
+  {
+   "stratum": "nonecon_slug",
+   "language": "kan",
+   "n": 1
+  },
+  {
+   "stratum": "nonecon_slug",
+   "language": "mal",
+   "n": 18
+  },
+  {
+   "stratum": "nonecon_slug",
+   "language": "pan",
+   "n": 2
+  },
+  {
+   "stratum": "nonecon_slug",
+   "language": "tam",
+   "n": 2
+  },
+  {
+   "stratum": "nonecon_slug",
+   "language": "tel",
+   "n": 6
+  }
+ ],
+ "other_nonfocal_flagged_baseline": 25,
+ "other_nonfocal_flagged_price_family": 28,
+ "C14_unscreened_bound": {
+  "relevant": 1,
+  "n": 87,
+  "share": 0.011494252873563218,
+  "exact_ci_lo": 0.00029096694808022905,
+  "exact_ci_hi": 0.062384320254167236,
+  "flag_baseline_recall_whole_flow_at_ci_lo": 0.2933665353754485,
+  "flag_baseline_recall_whole_flow_at_point": 0.14056734728089854,
+  "flag_baseline_recall_whole_flow_at_ci_hi": 0.041762072953071515,
+  "flag_baseline_recall_gating": 0.3018893416436175,
+  "flag_price_family_recall_whole_flow_at_ci_lo": 0.40823541193488905,
+  "flag_price_family_recall_whole_flow_at_point": 0.1956070717076569,
+  "flag_price_family_recall_whole_flow_at_ci_hi": 0.05811418481468295,
+  "flag_price_family_recall_gating": 0.4200953581393
+ }
+}

@@ -1,0 +1,60 @@
+{
+ "identity": {
+  "outlets": 104,
+  "per_window_min": 84,
+  "per_window_median": 97.5
+ },
+ "identity_max_abs_diff_vs_published": 0.0,
+ "dedup": {
+  "outlets": 89,
+  "per_window_min": 71,
+  "per_window_median": 83.0
+ },
+ "dedup_dropped": [
+  "bollywoodhungama.com",
+  "bollywoodtadka.in",
+  "cinema.dinamalar.com",
+  "cinema.vikatan.com",
+  "desimartini.com",
+  "femina.in",
+  "food.ndtv.com",
+  "temple.dinamalar.com",
+  "vogue.in"
+ ],
+ "dedup_pooled": [
+  "auto.economictimes.indiatimes.com",
+  "energy.economictimes.indiatimes.com",
+  "haryana.punjabkesari.in",
+  "realty.economictimes.indiatimes.com",
+  "retail.economictimes.indiatimes.com",
+  "telecom.economictimes.indiatimes.com"
+ ],
+ "nonenergy": {
+  "outlets": 104,
+  "per_window_min": 84,
+  "per_window_median": 97.5
+ },
+ "nonenergy_mean_pct": 1.2084179558527064,
+ "pricefamily_mean_pct": 2.32940022521845,
+ "corr_nonenergy_pricefamily": 0.7235116079566686,
+ "corr_dedup_pricefamily": 0.9724038779864319,
+ "audit_price_family_tagged": 532,
+ "audit_price_family_matched_to_rows": 531,
+ "audit_nonenergy_tagged": 500,
+ "tone_direction_counts": {
+  "rising": 79,
+  "falling": 26,
+  "none": 8,
+  "mixed": 6
+ },
+ "tone_n_with_tone": {
+  "rising": 69,
+  "falling": 20
+ },
+ "tone_mean": {
+  "rising": -1.1710673542832069,
+  "falling": -2.4224634774530474
+ },
+ "tone_auc_falling_more_positive": 0.37028985507246376,
+ "tone_mannwhitney_p": 0.07932193910622776
+}
